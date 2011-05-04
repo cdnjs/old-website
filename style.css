@@ -1,0 +1,208 @@
+/*	Less Framework 4
+	http://lessframework.com
+	by Joni Korpi
+	License: http://creativecommons.org/licenses/MIT/	*/
+
+
+/*	Resets
+	------	*/
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, 
+p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, 
+img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr, 
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figure, figcaption, hgroup, 
+menu, footer, header, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, canvas, figure, figure img, figcaption, hgroup,
+footer, header, nav, section, audio, video {
+	display: block;
+}
+
+a img {border: 0;}
+
+
+
+/*	Typography presets
+	------------------	*/
+
+.gigantic {
+	font-size: 110px;
+	line-height: 120px;
+	letter-spacing: -2px;
+}
+
+
+.large, h2 {
+	font-size: 42px;
+	line-height: 48px;
+}
+
+
+
+.big, h4 {
+	font-size: 22px;
+	line-height: 30px;
+}
+
+
+
+.small, small {
+	font-size: 13px;
+	line-height: 18px;
+}
+
+/* Selection colours (easy to forget) */
+
+::selection 	 	{background: rgb(255,255,158);}
+::-moz-selection 	{background: rgb(255,255,158);}
+img::selection 		{background: transparent;}
+img::-moz-selection	{background: transparent;}
+body {-webkit-tap-highlight-color: rgb(255,255,158);}
+
+
+
+/*		Default Layout: 992px. 
+		Gutters: 24px.
+		Outer margins: 48px.
+		Leftover space for scrollbars @1024px: 32px.
+-------------------------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8      9      10
+px      68    160    252    344    436    528    620    712    804    896    */
+
+body {
+    background: #ebebeb;
+    color: #444;
+    font-family: 'Ubuntu';
+}
+
+#container {
+    width: 960px;
+    margin: auto;
+    min-height: 1000px;
+}
+.menu{
+    list-style: none;
+    padding: none;
+    margin: none;
+    height: 20px;
+}
+.menu li{
+    float: left;
+    margin-left: 10px;
+}   
+.menu li {
+
+}
+.menu li a.active {
+    color: #000;
+    text-decoration: none;
+}
+.menu li a:visited{
+    color: #444;
+}
+.menu li a:active{
+    color: #444;
+}
+.menu li a:link{
+    color: #444;
+}
+.menu li a:hover{
+    color: #ccc;
+}
+#search {
+padding-top: 120px;
+}
+
+.column{
+  
+margin-left: 20px;
+width: 460px;
+float: left;
+}
+.column_container {
+padding: 20px;
+border: 1px solid #ccc;
+background: #fff;
+}
+
+#search_form_container {
+float: right;
+margin-right: 10px;
+width: 450px;
+}
+#search_form_container #searchinput {
+    margin-top: 10px;
+    width: 430px;
+    height: 30px;
+    font-size: 1.6em;
+    padding: 8px;
+    
+}
+#search_results ul {
+    padding-top: 10px;
+    list-style: none;
+}
+#search_results li {
+padding-left: 15px;
+margin-bottom: 10px;
+}
+#search_results .cdnlink{
+    width: 410px;
+    overflow: hidden;
+    height: 20px;
+    cursor: pointer;
+    border: none;
+    margin: none;
+    padding: none;
+}
+#search_results h3{
+    font-size: 1em;
+    padding: none;
+    margin: none;
+}
+#search_results p{
+    margin: none;
+    padding: none;
+    font-size: 0.8em;
+}
+
+.sticky #info_column_container {
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+}
+
+.sticky #main-nav ul {
+	margin:0 auto;
+}
+.waypoint{
+    margin-bottom: 100px;
+    float: left;
+}
+.info p {
+font-size: 14px;
+	margin-left: 14px; 
+    margin-top: 15px; 
+    margin-bottom: 15px;
+}
+.ribbon {
+  background-color: #a00;
+  overflow: hidden;
+}
+.ribbon a {
+  border: 1px solid #faa;
+  color: #fff;
+  display: block;
+  font: bold 81.25% 'Helvetiva Neue', Helvetica, Arial, sans-serif;
+  margin: 0.05em 0;
+  padding: 0.5em 3.5em;
+  text-align: center;
+  text-decoration: none;
+}
