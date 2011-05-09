@@ -1,369 +1,5 @@
 { "packages": [
 {
-    "name": "js-signals",
-    "filename": "js-signals.min.js",
-    "version": "0.6",
-    "description": "Custom Event/Messaging system for JavaScript.",
-    "homepage": "http://millermedeiros.github.com/js-signals/",
-    "keywords": [
-       "event",
-       "messaging",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "Miller Medeiros",
-           "web": "http://www.millermedeiros.com/" 
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/millermedeiros/js-signals" 
-       } 
-   ]
-
-}
-,
-{
-    "name": "scriptaculous",
-    "filename": "https://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js",
-    "version": "1.8.3",
-    "description": "script.aculo.us provides you with easy-to-use, cross-browser user interface JavaScript libraries to make your web sites and web applications fly.",
-    "homepage": "http://script.aculo.us/",
-    "keywords": [
-       "ui",
-       "toolkit",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "Thomas Fuchs",
-           "web": "http://mir.aculo.us/"
-       } 
-   ]
-}
-,
-{
-    "name": "ext-core",
-    "filename": "https://ajax.googleapis.com/ajax/libs/ext-core/3.1.0/ext-core.js",
-    "version": "3.1.0",
-    "description": "Ext JS is the developer's choice for building powerful desktop web applications using JavaScript and web standards.",
-    "homepage": "http://www.sencha.com/products/extjs/",
-    "keywords": [
-       "framework",
-       "toolkit",
-       "desktop",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "Sencha"
-       } 
-   ]
-}
-,
-{
-    "name": "jquery",
-    "filename": "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js",
-    "version": "1.5.2",
-    "description": "jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.",
-    "homepage": "http://jquery.com/",
-    "keywords": [
-       "framework",
-       "toolkit",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "The jQuery Project"
-       } 
-   ]
-}
-,
-{
-    "name": "css3finalize",
-    "filename": "jquery.css3finalize.min.js",
-    "version": "1.39",
-    "description": "Skip vendor prefixes",
-    "homepage": "https://github.com/codler/jQuery-Css3-Finalize",
-    "keywords": [
-       "css",
-       "css3"
-   ],
-   "maintainers": [
-       {
-           "name": "Han Lin Yap",
-           "web": "http://zencodez.net/" 
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/codler/jQuery-Css3-Finalize" 
-       } 
-   ]
-
-}
-,
-{
-    "name": "sammy.js",
-    "filename": "sammy.min.js",
-    "version": "0.6.3",
-    "description": "A small web framework with class.",
-    "homepage": "http://sammyjs.org/",
-    "keywords": [
-       "framework",
-       "restful",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "Aaron Quint"
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/quirkey/sammy" 
-       } 
-   ]
-
-}
-,
-{
-    "name": "modernizr",
-    "filename": "modernizr-1.7.min.js",
-    "version": "1.7",
-    "description": "Modernizr adds classes to the element which allow you to target specific browser functionality in your stylesheet. You don't actually need to write any Javascript to use it.",
-    "homepage": "http://www.modernizr.com/",
-    "keywords": [
-       "css",
-       "css3",
-       "html",
-       "html5",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "Faruk Ates"
-       },
-       {
-           "name": "Alex Sexton"
-       },
-       {
-           "name": "Paul Irish"
-       }
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/Modernizr/Modernizr" 
-       } 
-   ]
-
-}
-,
-{
-    "name": "graphael",
-    "filename": "g.raphael-min.js",
-    "version": "0.4.1",
-    "description": "gRaphael's goal is to help you create stunning charts on your website. It is based on Raphaël graphics library.",
-    "homepage": "http://g.raphaeljs.com/",
-    "keywords": [
-       "chart",
-       "charts",
-       "charting",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "Dmitry Baranovskiy",
-           "web": "http://dmitry.baranovskiy.com/" 
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/DmitryBaranovskiy/g.raphael/" 
-       } 
-   ]
-
-}
-,
-{
-    "name": "backbone.js",
-    "filename": "backbone-min.js",
-    "version": "0.3.3",
-    "description": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.",
-    "homepage": "http://documentcloud.github.com/backbone/",
-    "keywords": [
-       "collections",
-       "models",
-       "controllers",
-       "events",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "Jeremy Ashkenas",
-           "email": "jashkenas@gmail.com",
-           "web": "http://ashkenas.com/" 
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/documentcloud/backbone" 
-       } 
-   ]
-
-}
-,
-{
-    "name": "prototype",
-    "filename": "https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js",
-    "version": "1.7.0.0",
-    "description": "Prototype is a JavaScript Framework that aims to ease development of dynamic web applications.",
-    "homepage": "http://prototypejs.org/",
-    "keywords": [
-       "framework",
-       "toolkit",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "Prototype Core Team"
-       } 
-   ]
-}
-,
-{
-    "name": "underscore.string",
-    "filename": "underscore.string.min.js",
-    "version": "1.1.3",
-    "description": "Underscore.string is JavaScript library for comfortable manipulation with strings, extension for Underscore.js inspired by Prototype.js, Right.js, Underscore and beautiful Ruby language.",
-    "homepage": "http://edtsech.github.com/underscore.string/",
-    "keywords": [
-       "utility",
-       "string",
-       "underscore"
-   ],
-   "maintainers": [
-       {
-           "name": "Esa-Matti Suuronen",
-           "email": "esa-matti@suuronen.org",
-           "web": "http://esa-matti.suuronen.org"
-
-       },
-       {
-           "name": "Edward Tsech",
-           "email": "edtsech@gmail.com" 
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/edtsech/underscore.string/" 
-       } 
-   ]
-}
-,
-{
-    "name": "headjs",
-    "filename": "head.min.js",
-    "version": "0.9",
-    "description": "Load scripts like images. Use HTML5 and CSS3 safely. Target CSS for different screens, paths, states and browsers. Make it the only script in your HEAD. A concise solution to universal issues.",
-    "homepage": "http://headjs.com/",
-    "keywords": [
-       "loader"
-   ],
-   "maintainers": [
-       {
-           "name": "Tero Piirainen",
-           "web": "http://cloudpanic.com/about.html" 
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/headjs/headjs" 
-       } 
-   ]
-
-}
-,
-{
-    "name": "ocanvas",
-    "filename": "ocanvas.min.js",
-    "version": "1.0",
-    "description": "oCanvas is a JavaScript library that makes development with HTML5 canvas easy, by using an object-based approach.",
-    "homepage": "http://ocanvas.org/",
-    "keywords": [
-       "html5",
-       "canvas"
-   ],
-   "maintainers": [
-       {
-           "name": "Johannes Koggdal",
-           "twitter": "JohannesKoggdal",
-           "web": "http://koggdal.com/" 
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/ocanvas/ocanvas" 
-       } 
-   ]
-
-}
-,
-{
-    "name": "underscore.js",
-    "filename": "underscore-min.js",
-    "version": "1.1.5",
-    "description": "Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go along with jQuery's tux.",
-    "homepage": "http://documentcloud.github.com/underscore/",
-    "keywords": [
-       "utility",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "Jeremy Ashkenas",
-           "email": "jashkenas@gmail.com",
-           "web": "http://ashkenas.com/" 
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/documentcloud/underscore/" 
-       } 
-   ]
-}
-,
-{
-    "name": "chrome-frame",
-    "filename": "https://ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js",
-    "version": "1.0.2",
-    "description": "Google Chrome Frame is an open source plug-in that seamlessly brings Google Chrome's open web technologies and speedy JavaScript engine to Internet Explorer.",
-    "homepage": "http://code.google.com/chrome/chromeframe/",
-    "keywords": [
-       "plugin",
-       "plug-in",
-       "chrome",
-       "frame"
-   ],
-   "maintainers": [
-       {
-           "name": "Google"
-       } 
-   ]
-}
-,
-{
     "name": "script.js",
     "filename": "script.min.js",
     "version": "1.1",
@@ -390,11 +26,30 @@
 }
 ,
 {
-    "name": "mootools",
-    "filename": "https://ajax.googleapis.com/ajax/libs/mootools/1.3.1/mootools-yui-compressed.js",
-    "version": "1.3.1",
-    "description": "MooTools is a compact, modular, Object-Oriented JavaScript framework designed for the intermediate to advanced JavaScript developer. It allows you to write powerful, flexible, and cross-browser code with its elegant, well documented, and coherent API.",
-    "homepage": "http://mootools.net/",
+    "name": "yui",
+    "filename": "https://ajax.googleapis.com/ajax/libs/yui/3.3.0/build/yui/yui-min.js",
+    "version": "3.3.0",
+    "description": "The YUI Library is a set of utilities and controls, written with JavaScript and CSS, for building richly interactive web applications using techniques such as DOM scripting, DHTML and AJAX.",
+    "homepage": "http://developer.yahoo.com/yui/",
+    "keywords": [
+       "ui",
+       "framework",
+       "toolkit",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Yahoo! Inc."
+       } 
+   ]
+}
+,
+{
+    "name": "dojo",
+    "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.6.0/dojo/dojo.xd.js",
+    "version": "1.6.0",
+    "description": "Dojo saves you time, delivers powerful performance, and scales with your development process. It’s the toolkit experienced developers turn to for building superior desktop and mobile web experiences.",
+    "homepage": "http://dojotoolkit.org/",
     "keywords": [
        "framework",
        "toolkit",
@@ -402,11 +57,7 @@
    ],
    "maintainers": [
        {
-           "name": "Valerio Proietti",
-           "web": "http://mad4milk.net/"
-       },
-       {
-           "name": "Mootools Dev Team"
+           "name": "The Dojo Foundation"
        } 
    ]
 }
@@ -469,71 +120,29 @@
 }
 ,
 {
-    "name": "raphael",
-    "filename": "raphael-min.js",
-    "version": "1.5.2",
-    "description": "Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.",
-    "homepage": "http://raphaeljs.com/",
+    "name": "backbone.js",
+    "filename": "backbone-min.js",
+    "version": "0.3.3",
+    "description": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.",
+    "homepage": "http://documentcloud.github.com/backbone/",
     "keywords": [
-       "vector",
-       "graphics",
+       "collections",
+       "models",
+       "controllers",
+       "events",
        "popular"
    ],
    "maintainers": [
        {
-           "name": "Dmitry Baranovskiy",
-           "web": "http://dmitry.baranovskiy.com/" 
+           "name": "Jeremy Ashkenas",
+           "email": "jashkenas@gmail.com",
+           "web": "http://ashkenas.com/" 
        } 
    ],
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/DmitryBaranovskiy/raphael/" 
-       } 
-   ]
-
-}
-,
-{
-    "name": "dojo",
-    "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.6.0/dojo/dojo.xd.js",
-    "version": "1.6.0",
-    "description": "Dojo saves you time, delivers powerful performance, and scales with your development process. It’s the toolkit experienced developers turn to for building superior desktop and mobile web experiences.",
-    "homepage": "http://dojotoolkit.org/",
-    "keywords": [
-       "framework",
-       "toolkit",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "The Dojo Foundation"
-       } 
-   ]
-}
-,
-{
-    "name": "require.js",
-    "filename": "require.min.js",
-    "version": "0.24.0",
-    "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node",
-    "homepage": "http://requirejs.org/",
-    "keywords": [
-       "loader",
-       "modules",
-       "asynchronous",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "James Burke",
-           "web": "http://tagneto.blogspot.com" 
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/jrburke/requirejs" 
+           "url": "https://github.com/documentcloud/backbone" 
        } 
    ]
 
@@ -566,78 +175,46 @@
 }
 ,
 {
-    "name": "flexie",
-    "filename": "flexie.min.js",
-    "version": "1.0.0",
-    "description": "Cross-browser support for the CSS3 Flexible Box Model.",
-    "homepage": "http://flexiejs.com/",
+    "name": "jquery",
+    "filename": "https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js",
+    "version": "1.6.0",
+    "description": "jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.",
+    "homepage": "http://jquery.com/",
     "keywords": [
-       "css",
-       "css3",
-       "flexible",
-       "box",
-       "model",
-       "polyfill",
-       "flexbox"
-   ],
-   "maintainers": [
-       {
-           "name": "Richard Herrera"
-       }
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/doctyper/flexie"
-       }
-   ]
-
-}
-,
-{
-    "name": "yui",
-    "filename": "https://ajax.googleapis.com/ajax/libs/yui/3.3.0/build/yui/yui-min.js",
-    "version": "3.3.0",
-    "description": "The YUI Library is a set of utilities and controls, written with JavaScript and CSS, for building richly interactive web applications using techniques such as DOM scripting, DHTML and AJAX.",
-    "homepage": "http://developer.yahoo.com/yui/",
-    "keywords": [
-       "ui",
        "framework",
        "toolkit",
        "popular"
    ],
    "maintainers": [
        {
-           "name": "Yahoo! Inc."
+           "name": "The jQuery Project"
        } 
    ]
 }
 ,
 {
-    "name": "xuijs",
-    "filename": "xui.min.js",
-    "version": "2.0.0",
-    "description": "a super micro tiny dom library for authoring html5 mobile web applications.",
-    "homepage": "http://xuijs.com/",
+    "name": "underscore.js",
+    "filename": "underscore-min.js",
+    "version": "1.1.5",
+    "description": "Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go along with jQuery's tux.",
+    "homepage": "http://documentcloud.github.com/underscore/",
     "keywords": [
-       "mobile",
-       "html",
-       "dom",
+       "utility",
        "popular"
    ],
    "maintainers": [
        {
-           "name": "Brian LeRoux",
-           "web": "http://westcoastlogic.com" 
+           "name": "Jeremy Ashkenas",
+           "email": "jashkenas@gmail.com",
+           "web": "http://ashkenas.com/" 
        } 
    ],
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/xui/xui" 
+           "url": "https://github.com/documentcloud/underscore/" 
        } 
    ]
-
 }
 ,
 {
@@ -664,6 +241,91 @@
        } 
    ]
 
+}
+,
+{
+    "name": "mootools",
+    "filename": "https://ajax.googleapis.com/ajax/libs/mootools/1.3.1/mootools-yui-compressed.js",
+    "version": "1.3.1",
+    "description": "MooTools is a compact, modular, Object-Oriented JavaScript framework designed for the intermediate to advanced JavaScript developer. It allows you to write powerful, flexible, and cross-browser code with its elegant, well documented, and coherent API.",
+    "homepage": "http://mootools.net/",
+    "keywords": [
+       "framework",
+       "toolkit",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Valerio Proietti",
+           "web": "http://mad4milk.net/"
+       },
+       {
+           "name": "Mootools Dev Team"
+       } 
+   ]
+}
+,
+{
+    "name": "raphael",
+    "filename": "raphael-min.js",
+    "version": "1.5.2",
+    "description": "Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.",
+    "homepage": "http://raphaeljs.com/",
+    "keywords": [
+       "vector",
+       "graphics",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Dmitry Baranovskiy",
+           "web": "http://dmitry.baranovskiy.com/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/DmitryBaranovskiy/raphael/" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "prototype",
+    "filename": "https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js",
+    "version": "1.7.0.0",
+    "description": "Prototype is a JavaScript Framework that aims to ease development of dynamic web applications.",
+    "homepage": "http://prototypejs.org/",
+    "keywords": [
+       "framework",
+       "toolkit",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Prototype Core Team"
+       } 
+   ]
+}
+,
+{
+    "name": "ext-core",
+    "filename": "https://ajax.googleapis.com/ajax/libs/ext-core/3.1.0/ext-core.js",
+    "version": "3.1.0",
+    "description": "Ext JS is the developer's choice for building powerful desktop web applications using JavaScript and web standards.",
+    "homepage": "http://www.sencha.com/products/extjs/",
+    "keywords": [
+       "framework",
+       "toolkit",
+       "desktop",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Sencha"
+       } 
+   ]
 }
 ,
 {
@@ -709,6 +371,179 @@
 }
 ,
 {
+    "name": "scriptaculous",
+    "filename": "https://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js",
+    "version": "1.8.3",
+    "description": "script.aculo.us provides you with easy-to-use, cross-browser user interface JavaScript libraries to make your web sites and web applications fly.",
+    "homepage": "http://script.aculo.us/",
+    "keywords": [
+       "ui",
+       "toolkit",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Thomas Fuchs",
+           "web": "http://mir.aculo.us/"
+       } 
+   ]
+}
+,
+{
+    "name": "underscore.string",
+    "filename": "underscore.string.min.js",
+    "version": "1.1.3",
+    "description": "Underscore.string is JavaScript library for comfortable manipulation with strings, extension for Underscore.js inspired by Prototype.js, Right.js, Underscore and beautiful Ruby language.",
+    "homepage": "http://edtsech.github.com/underscore.string/",
+    "keywords": [
+       "utility",
+       "string",
+       "underscore",
+   ],
+   "maintainers": [
+       {
+           "name": "Esa-Matti Suuronen",
+           "email": "esa-matti@suuronen.org",
+           "web": "http://esa-matti.suuronen.org"
+
+       },
+       {
+           "name": "Edward Tsech",
+           "email": "edtsech@gmail.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/edtsech/underscore.string/" 
+       } 
+   ]
+}
+,
+{
+    "name": "graphael",
+    "filename": "g.raphael-min.js",
+    "version": "0.4.1",
+    "description": "gRaphael's goal is to help you create stunning charts on your website. It is based on Raphaël graphics library.",
+    "homepage": "http://g.raphaeljs.com/",
+    "keywords": [
+       "chart",
+       "charts",
+       "charting",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Dmitry Baranovskiy",
+           "web": "http://dmitry.baranovskiy.com/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/DmitryBaranovskiy/g.raphael/" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "ocanvas",
+    "filename": "ocanvas.min.js",
+    "version": "1.0",
+    "description": "oCanvas is a JavaScript library that makes development with HTML5 canvas easy, by using an object-based approach.",
+    "homepage": "http://ocanvas.org/",
+    "keywords": [
+       "html5",
+       "canvas"
+   ],
+   "maintainers": [
+       {
+           "name": "Johannes Koggdal",
+           "twitter": "JohannesKoggdal",
+           "web": "http://koggdal.com/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/ocanvas/ocanvas" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "chrome-frame",
+    "filename": "https://ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js",
+    "version": "1.0.2",
+    "description": "Google Chrome Frame is an open source plug-in that seamlessly brings Google Chrome's open web technologies and speedy JavaScript engine to Internet Explorer.",
+    "homepage": "http://code.google.com/chrome/chromeframe/",
+    "keywords": [
+       "plugin",
+       "plug-in",
+       "chrome",
+       "frame"
+   ],
+   "maintainers": [
+       {
+           "name": "Google"
+       } 
+   ]
+}
+,
+{
+    "name": "headjs",
+    "filename": "head.min.js",
+    "version": "0.9",
+    "description": "Load scripts like images. Use HTML5 and CSS3 safely. Target CSS for different screens, paths, states and browsers. Make it the only script in your HEAD. A concise solution to universal issues.",
+    "homepage": "http://headjs.com/",
+    "keywords": [
+       "loader"
+   ],
+   "maintainers": [
+       {
+           "name": "Tero Piirainen",
+           "web": "http://cloudpanic.com/about.html" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/headjs/headjs" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "xuijs",
+    "filename": "xui.min.js",
+    "version": "2.0.0",
+    "description": "a super micro tiny dom library for authoring html5 mobile web applications.",
+    "homepage": "http://xuijs.com/",
+    "keywords": [
+       "mobile",
+       "html",
+       "dom",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Brian LeRoux",
+           "web": "http://westcoastlogic.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/xui/xui" 
+       } 
+   ]
+
+}
+,
+{
     "name": "labjs",
     "filename": "LAB.min.js",
     "version": "1.2.0",
@@ -734,24 +569,6 @@
 }
 ,
 {
-    "name": "jqueryui",
-    "filename": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js",
-    "version": "1.8.11",
-    "description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
-    "homepage": "http://jqueryui.com/",
-    "keywords": [
-       "ui",
-       "themeing",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "JQuery UI Team"
-       } 
-   ]
-}
-,
-{
     "name": "waypoints",
     "filename": "waypoints.min.js",
     "version": "1.0.2",
@@ -771,6 +588,245 @@
        {
            "type": "git",
            "url": "https://github.com/imakewebthings/jquery-waypoints" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "require.js",
+    "filename": "require.min.js",
+    "version": "0.24.0",
+    "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node",
+    "homepage": "http://requirejs.org/",
+    "keywords": [
+       "loader",
+       "modules",
+       "asynchronous",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "James Burke",
+           "web": "http://tagneto.blogspot.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/jrburke/requirejs" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "sammy.js",
+    "filename": "sammy.min.js",
+    "version": "0.6.3",
+    "description": "A small web framework with class.",
+    "homepage": "http://sammyjs.org/",
+    "keywords": [
+       "framework",
+       "restful",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Aaron Quint"
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/quirkey/sammy" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "jqueryui",
+    "filename": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js",
+    "version": "1.8.12",
+    "description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+    "homepage": "http://jqueryui.com/",
+    "keywords": [
+       "ui",
+       "themeing",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "JQuery UI Team"
+       } 
+   ]
+}
+,
+{
+    "name": "css3finalize",
+    "filename": "jquery.css3finalize.min.js",
+    "version": "1.39",
+    "description": "Skip vendor prefixes",
+    "homepage": "https://github.com/codler/jQuery-Css3-Finalize",
+    "keywords": [
+       "css",
+       "css3"
+   ],
+   "maintainers": [
+       {
+           "name": "Han Lin Yap",
+           "web": "http://zencodez.net/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/codler/jQuery-Css3-Finalize" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "flexie",
+    "filename": "flexie.min.js",
+    "version": "1.0.0",
+    "description": "Cross-browser support for the CSS3 Flexible Box Model.",
+    "homepage": "http://flexiejs.com/",
+    "keywords": [
+       "css",
+       "css3",
+       "flexible",
+       "box",
+       "model",
+       "polyfill",
+       "flexbox"
+   ],
+   "maintainers": [
+       {
+           "name": "Richard Herrera"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/doctyper/flexie"
+       }
+   ]
+
+}
+,
+{
+    "name": "js-signals",
+    "filename": "js-signals.min.js",
+    "version": "0.6",
+    "description": "Custom Event/Messaging system for JavaScript.",
+    "homepage": "http://millermedeiros.github.com/js-signals/",
+    "keywords": [
+       "event",
+       "messaging",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Miller Medeiros",
+           "web": "http://www.millermedeiros.com/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/millermedeiros/js-signals" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "es5-shim",
+    "filename": "es5-shim.min.js",
+    "version": "0.0.4",
+    "description": "Provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.",
+    "homepage": "https://github.com/kriskowal/es5-shim",
+    "keywords": [
+       "es5",
+       "ECMAScript 5",
+       "shim",
+       "compatibility",
+       "modernization"
+   ],
+   "maintainers": [
+       {
+           "name": "Kristopher Michael Kowal",
+           "email": "rfobic@gmail.com",
+           "web": "http://jeditoolkit.com/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/kriskowal/es5-shim"
+       }
+   ]
+
+}
+,
+{
+    "name": "mustache.js",
+    "filename": "mustache.min.js",
+    "version": "0.3.0",
+    "description": "mustache.js — Logic-less templates with JavaScript",
+    "homepage": "https://github.com/janl/mustache.js",
+    "keywords": [
+       "templates",
+       "templating"
+   ],
+   "maintainers": [
+       {
+           "name": "Jan Lehnardt",
+           "email": "jan@apache.org",
+           "web": "http://jan.prima.de/plok/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/janl/mustache.js" 
+       } 
+   ]
+
+}
+
+,
+{
+    "name": "modernizr",
+    "filename": "modernizr-1.7.min.js",
+    "version": "1.7",
+    "description": "Modernizr adds classes to the element which allow you to target specific browser functionality in your stylesheet. You don't actually need to write any Javascript to use it.",
+    "homepage": "http://www.modernizr.com/",
+    "keywords": [
+       "css",
+       "css3",
+       "html",
+       "html5",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Faruk Ates"
+       },
+       {
+           "name": "Alex Sexton"
+       },
+       {
+           "name": "Paul Irish"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/Modernizr/Modernizr" 
        } 
    ]
 
