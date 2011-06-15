@@ -2,7 +2,7 @@
 {
     "name": "es5-shim",
     "filename": "es5-shim.min.js",
-    "version": "0.0.4",
+    "version": "1.2.4",
     "description": "Provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.",
     "homepage": "https://github.com/kriskowal/es5-shim",
     "keywords": [
@@ -540,6 +540,32 @@
 }
 ,
 {
+    "name": "cufon",
+    "filename": "cufon-yui.js",
+    "version": "1.09i",
+    "description": "Fast text replacement with canvas and VML - no Flash or images required.",
+    "homepage": "http://cufon.shoqolate.com/",
+    "keywords": [
+       "font",
+       "canvas",
+       "vml",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Simo Kinnunen",
+           "web": "https://twitter.com/sorccu"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/sorccu/cufon/"
+       }
+   ]
+}
+,
+{
     "name": "underscore.js",
     "filename": "underscore-min.js",
     "version": "1.1.6",
@@ -649,7 +675,7 @@
 {
     "name": "socket.io",
     "filename": "socket.io.min.js",
-    "version": "0.6.2",
+    "version": "0.7.0",
     "description": "Browser-side code for Socket.IO. Socket.IO aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms.",
     "homepage": "http://socket.io",
     "keywords": [
@@ -671,7 +697,7 @@
 }
 ,
 {
-    "name": "spine.js",
+    "name": "spinejs",
     "filename": "spine.min.js",
     "version": "0.0.4",
     "description": "Spine is a lightweight framework for building JavaScript web applications",
