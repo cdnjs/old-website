@@ -392,7 +392,7 @@
 {
     "name": "waypoints",
     "filename": "waypoints.min.js",
-    "version": "1.0.2",
+    "version": "1.1",
     "description": "Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.",
     "homepage": "http://imakewebthings.github.com/jquery-waypoints",
     "keywords": [
@@ -779,7 +779,7 @@
 {
     "name": "backbone.js",
     "filename": "backbone-min.js",
-    "version": "0.3.3",
+    "version": "0.5",
     "description": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.",
     "homepage": "http://documentcloud.github.com/backbone/",
     "keywords": [
@@ -808,7 +808,7 @@
 {
     "name": "labjs",
     "filename": "LAB.min.js",
-    "version": "1.2.0",
+    "version": "2.0",
     "description": "LABjs (Loading And Blocking JavaScript) is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time. Loading your scripts with LABjs reduces resource blocking during page-load, which is an easy and effective way to optimize your site's performance.",
     "homepage": "http://labjs.com/",
     "keywords": [
