@@ -77,6 +77,36 @@
 }
 ,
 {
+    "name": "coffee-script",
+    "filename": "coffee-script.min.js",
+    "version": "1.1.2",
+    "description": "CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.",
+    "homepage": "http://jashkenas.github.com/coffee-script/",
+    "keywords": [
+       "coffeescript",
+       "compiler",
+       "language",
+       "coffee",
+       "script",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Jeremy Ashkenas",
+           "email": "jashkenas@gmail.com",
+           "web": "http://ashkenas.com/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/jashkenas/coffee-script.git" 
+       } 
+   ]
+
+}
+,
+{
     "name": "css3finalize",
     "filename": "jquery.css3finalize.min.js",
     "version": "1.45",
@@ -127,6 +157,37 @@
    ]
 }
 ,
+{
+    "name": "datejs",
+    "filename": "date.min.js",
+    "version": "1.0",
+    "description": "Datejs is an open source JavaScript Date library for parsing, formatting and processing.",
+    "homepage": "http://www.datejs.com",
+    "keywords": [
+       "date",
+       "datetime",
+       "time",
+       "parser"
+   ],
+   "maintainers": [
+       {
+           "name": "Geoffrey Mcgill",
+           "email":"geoff@geoff.ca",
+           "twitter":"datejs"
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "Google SVN",
+           "url": "http://code.google.com/p/datejs/source" 
+       },
+       {
+		   "type": "git",
+		   "url": "https://github.com/datejs/Datejs"
+       }
+   ]
+
+},
 {
     "name": "dojo",
     "filename": "dojo.xd.js",
@@ -344,21 +405,20 @@
 {
     "name": "jquery",
     "filename": "jquery.min.js",
-    "version": "1.6.2",
+    "version": "1.6.4",
     "description": "jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.",
     "homepage": "http://jquery.com/",
     "keywords": [
-       "framework",
-       "toolkit",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "The jQuery Project"
-       } 
-   ]
-}
-,
+        "framework",
+        "toolkit",
+        "popular"
+    ],
+    "maintainers": [
+        {
+            "name": "The jQuery Project"
+        }
+    ]
+},
 {
     "name": "jqueryui",
     "filename": "jquery-ui.min.js",
@@ -426,6 +486,30 @@
        } 
    ]
 
+}
+,
+{
+    "name": "jsxgraph",
+    "filename": "jsxgraphcore.js",
+    "version": "0.92",
+    "description": "JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.",
+    "homepage": "http://jsxgraph.org/",
+    "keywords": [
+       "dynamic geometry",
+       "function plotting",
+       "mathematics education"
+   ],
+   "maintainers": [
+       {
+           "name": "JSXGraph group at University of Bayreuth, Germany"
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "svn",
+           "url": "https://jsxgraph.svn.sourceforge.net/svnroot/jsxgraph" 
+       } 
+   ]
 }
 ,
 {
@@ -742,7 +826,35 @@
 {
     "name": "require.js",
     "filename": "require.min.js",
-    "version": "0.24.0",
+    "version": "0.26.0",
+    "description": "Require.js merged with jQuery for loader goodness!",
+    "homepage": "https://github.com/jrburke/require-jquery",
+    "keywords": [
+       "loader",
+       "modules",
+       "asynchronous",
+       "popular",
+       "jquery"
+   ],
+   "maintainers": [
+       {
+           "name": "James Burke",
+           "web": "http://tagneto.blogspot.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/jrburke/require-jquery" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "require.js",
+    "filename": "require.min.js",
+    "version": "0.26.0",
     "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node",
     "homepage": "http://requirejs.org/",
     "keywords": [
@@ -890,7 +1002,7 @@
 {
     "name": "socket.io",
     "filename": "socket.io.min.js",
-    "version": "0.7.0",
+    "version": "0.8.4",
     "description": "Browser-side code for Socket.IO. Socket.IO aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms.",
     "homepage": "http://socket.io",
     "keywords": [
@@ -941,6 +1053,57 @@
    ]
 }
 ,
+{
+  "name": "store",
+  "filename": "store.min.js",
+  "keywords": [
+    "storage"
+  ],
+  "description": "A localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood",
+  "version": "1.1.1",
+  "homepage": "https://github.com/marcuswestin/store.js",
+  "author": "Marcus Westin <narcvs@gmail.com> (http://marcuswest.in)",
+  "maintainers": [
+    {
+      "name": "Marcus Westin",
+      "email": "narcvs@gmail.com",
+      "web": "http://marcuswest.in"
+    }
+  ],
+  "contributors": [
+    "Matt Pizzimenti <mjpizz+github@gmail.com> (http://mjpizz.com)",
+    "Long Ouyang (https://github.com/longouyang)",
+    "Paul Irish (http://paulirish.com)",
+    "Guillermo Rauch <rauchg@gmail.com> (https://github.com/guille)",
+    "whitmer (https://github.com/whitmer)",
+    "Steven Black <steveb@stevenblack.com> (https://github.com/StevenBlack)",
+    "Marcus Tucker <info@marcustucker.com> (https://github.com/MarcusJT)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marcuswestin/store.js.git"
+  },
+  "bugs": {
+    "url": "http://github.com/marcuswestin/store.js/issues"
+  },
+  "engines": {
+    "browser": "*",
+    "node": "*"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/marcuswestin/store.js/raw/master/LICENSE"
+    }
+  ],
+  "main": "store",
+  "directories": {
+    "lib": "."
+  },
+  "files": [
+    ""
+  ]
+},
 {
     "name": "string_score",
     "filename": "string_score.min.js",
@@ -1019,7 +1182,7 @@
 {
     "name": "underscore.string",
     "filename": "underscore.string.min.js",
-    "version": "1.1.4",
+    "version": "1.1.6",
     "description": "Underscore.string is JavaScript library for comfortable manipulation with strings, extension for Underscore.js inspired by Prototype.js, Right.js, Underscore and beautiful Ruby language.",
     "homepage": "http://edtsech.github.com/underscore.string/",
     "keywords": [
@@ -1164,7 +1327,7 @@
 {
     "name": "zepto",
     "filename": "zepto.min.js",
-    "version": "0.6",
+    "version": "0.7",
     "description": "Zepto.js is a minimalist framework for mobile WebKit browsers, with a jQuery-compatible chaining syntax.",
     "homepage": "http://zeptojs.org/",
     "keywords": [
@@ -1178,5 +1341,6 @@
            "name": "Thomas Fuchs"
        } 
    ]
-},
+}
+,
 {}] }
