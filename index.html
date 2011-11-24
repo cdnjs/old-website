@@ -155,6 +155,7 @@
             $.ajax({ //Start loading packages for search
                 url: "packages.backup.json",
                 success: function(data ) {
+                    console.log($.parseJSON(data));
                     packages.refresh($.parseJSON(data).packages);
                      appview = new AppView;
                 }   
