@@ -152,7 +152,7 @@
                 
             })
             var appview = {};
-            $.get({ //Start loading packages for search
+            $.ajax({ //Start loading packages for search
                 url: "something.json",
                 success: function(data ) {
                     console.log($.parseJSON(data));
