@@ -154,6 +154,8 @@
             var appview = {};
             $.ajax({ //Start loading packages for search
                 url: "http://thomasdavis.github.com/packages.json",
+                dataType: 'jsonp',
+                jsonp: 'jsonp_callback',
                 success: function(data ) {
                     console.log($.parseJSON(data));
                     packages.refresh($.parseJSON(data).packages);
