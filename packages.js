@@ -1,6 +1,3 @@
-{ "packages": [
-{
-    "name": "xuijs"
-   }
-
-]}
+{ 
+  packages: [{}]
+}
