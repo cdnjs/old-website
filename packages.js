@@ -1,0 +1,6 @@
+{ "packages": [
+{
+    "name": "xuijs"
+   }
+
+]}
