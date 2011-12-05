@@ -1,7 +1,7 @@
 var mypackages = { "packages": [
 {
-    "name": "backbone.localStorage-min.js",
-    "filename": "backbone-localstorage-min.js",
+    "name": "backbone-localStorage.js",
+    "filename": "backbone.localStorage-min.js",
     "version": "1.0",
     "description": "A simple module to replace Backbone.sync with localStorage-based persistence. Models are given GUIDS, and saved into a JSON object. Simple as that.",
     "homepage": "https://github.com/jeromegn/Backbone.localStorage",
