@@ -1,4 +1,27 @@
-var mypackages = { "packages": [
+var mypackages ={ "packages": [
+{
+    "name": "ace",
+    "filename": "ace.js",
+    "version": "0.2.0",
+    "description": "Ace is a standalone code editor written in JavaScript.",
+    "homepage": "http://ace.ajax.org/",
+    "keywords": [
+       "code",
+       "editor"
+   ],
+   "maintainers": [
+       {
+           "name": "The Ace Project"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/ajaxorg/ace/"
+       }
+   ]
+}
+,
 {
     "name": "backbone-localstorage.js",
     "filename": "backbone.localStorage-min.js",
@@ -158,6 +181,43 @@ var mypackages = { "packages": [
 }
 ,
 {
+    "name": "css3pie",
+    "version": "1.0beta5",
+    "homepage": "http://css3pie.com",
+    "description": "CSS3 PIE JavaScript edition. Enables rendering of common CSS3 decoration properties in Internet Explorer 6-9.",
+    "keywords": [
+        "polyfill",
+        "css3",
+        "ie"
+    ],
+    "maintainers": [
+        {
+            "name": "Jason Johnston",
+            "email": "jason@css3pie.com",
+            "web": "http://lojjic.com"
+        }
+    ],
+    "bugs": {
+        "web": "https://github.com/lojjic/PIE/issues/"
+    },
+    "licenses": [
+        {
+            "type": "Apache-2.0",
+            "url": "https://github.com/lojjic/PIE/blob/master/LICENSE-APACHE2.txt"
+        },
+        {
+            "type": "GPL-2.0",
+            "url": "https://github.com/lojjic/PIE/blob/master/LICENSE-GPL2.txt"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:lojjic/PIE.git"
+        }
+    ]
+},
+{
     "name": "cufon",
     "filename": "cufon-yui.js",
     "version": "1.09i",
@@ -217,7 +277,7 @@ var mypackages = { "packages": [
 {
     "name": "davis.js",
     "filename": "davis.min.js",
-    "version": "0.5.1",
+    "version": "0.7.0",
     "description": "Davis.js is a small JavaScript library using HTML5 history.pushState that allows simple Sinatra style routing for your JavaScript apps.",
     "homepage": "http://davisjs.com",
     "keywords": [
@@ -499,6 +559,31 @@ var mypackages = { "packages": [
        {
            "name": "Torstein Hønsi (Highslide Software)",
            "web": "http://highsoft.com/"
+       }
+   ]
+}
+,
+{
+    "name": "html5shiv",
+    "filename": "html5.js",
+    "version": "r23",
+    "description": "html5shiv is an HTML5 JavaScript shim for IE to recognise and style the HTML5 elements",
+    "homepage": "http://code.google.com/p/html5shiv/",
+    "keywords": [
+       "shim",
+       "ie",
+       "html5"
+   ],
+   "maintainers": [
+       {
+           "name": "Remy Sharp",
+           "email": "remysharp@gmail.com"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "svn",
+           "url": "http://html5shiv.googlecode.com/svn/trunk/"
        }
    ]
 }
