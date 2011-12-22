@@ -1,4 +1,4 @@
-var mypackages ={ "packages": [
+var mypackages  = { "packages": [
 {
     "name": "ace",
     "filename": "ace.js",
@@ -447,7 +447,7 @@ var mypackages ={ "packages": [
 {
     "name": "galleria",
     "filename": "galleria.min.js",
-    "version": "1.2.3",
+    "version": "1.2.6",
     "description": "The JavaScript Image Gallery.",
     "homepage": "http://galleria.aino.se",
     "keywords": [
@@ -469,7 +469,8 @@ var mypackages ={ "packages": [
            "url": "https://github.com/aino/galleria" 
        } 
    ]
-},
+}
+,
 {
     "name": "graphael",
     "filename": "g.raphael-min.js",
@@ -564,6 +565,33 @@ var mypackages ={ "packages": [
 }
 ,
 {
+    "name": "History.js",
+    "filename": "native.history.js",
+    "version": "1.7.1",
+    "description": "Provides a cross-compatible experience for the History API on all HTML5 Browsers and backwards-compatible one on older ones using a hash-fallback.",
+    "homepage": "https://github.com/balupton/History.js/",
+    "keywords": [
+       "history",
+       "state",
+       "html5",
+       "onhashchange"
+   ],
+   "maintainers": [
+       {
+           "name": "Benjamin Arthur Lupton",
+           "web": "http://lupton.cc"
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/balupton/history.js.git" 
+       } 
+   ]
+
+}
+,
+{
     "name": "html5shiv",
     "filename": "html5.js",
     "version": "r23",
@@ -608,7 +636,7 @@ var mypackages ={ "packages": [
 {
     "name": "jquery",
     "filename": "jquery.min.js",
-    "version": "1.7",
+    "version": "1.7.1",
     "description": "jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.",
     "homepage": "http://jquery.com/",
     "keywords": [
@@ -624,9 +652,60 @@ var mypackages ={ "packages": [
 }
 ,
 {
+    "name": "jquery-easing",
+    "filename": "jquery.easing.min.js",
+    "version": "1.3",
+    "description": "Additional easings for jQuery.",
+    "homepage": "http://gsgd.co.uk/sandbox/jquery/easing/",
+    "keywords": [
+       "jquery",
+       "easing"
+   ],
+   "maintainers": [
+       {
+           "name": "George Smith",
+           "web": "http://gsgd.co.uk"
+       } 
+   ],
+   "repositories": [
+       { 
+           "type": "plain file",
+           "url": "http://gsgd.co.uk/sandbox/jquery/easing/jquery.easing.1.3.js" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "jQuery throttle / debounce",
+    "filename": "jquery.ba-throttle-debounce.min.js",
+    "version": "1.1",
+    "description": "jQuery throttle / debounce allows you to rate-limit your functions in multiple useful ways.",
+    "homepage": "https://github.com/cowboy/jquery-throttle-debounce",
+    "keywords": [
+       "jquery",
+       "throttle",
+       "debounce",
+       "ratelimit"
+   ],
+   "maintainers": [
+       {
+           "name": "Ben Alman",
+           "web": "http://benalman.com"
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/cowboy/jquery-throttle-debounce.git" 
+       } 
+   ]
+}
+,
+{
     "name": "jqueryui",
     "filename": "jquery-ui.min.js",
-    "version": "1.8.13",
+    "version": "1.8.16",
     "description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
     "homepage": "http://jqueryui.com/",
     "keywords": [
@@ -638,7 +717,14 @@ var mypackages ={ "packages": [
        {
            "name": "JQuery UI Team"
        } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/jquery/jquery-ui" 
+       } 
    ]
+
 }
 ,
 {
@@ -790,6 +876,32 @@ var mypackages ={ "packages": [
        {
            "type": "git",
            "url": "https://github.com/cloudhead/less.js" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "masonry",
+    "filename": "jquery.masonry.min.js",
+    "version": "2.1.0",
+    "description": "A dynamic layout plugin for jQuery.",
+    "homepage": "http://masonry.desandro.com/",
+    "keywords": [
+       "jquery",
+       "layout",
+       "float"
+   ],
+   "maintainers": [
+       {
+           "name": "David DeSandro",
+           "web": "http://desandro.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/desandro/masonry" 
        } 
    ]
 
@@ -954,9 +1066,27 @@ var mypackages ={ "packages": [
 }
 ,
 {
+    "name": "prettify",
+    "filename": "prettify.js",
+    "version": "188.0.0",
+    "description": "A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.",
+    "homepage": "http://code.google.com/p/google-code-prettify/",
+    "keywords": [
+       "code syntax highlighting"
+   ],
+   "repositories": [
+       {
+           "type": "svn",
+           "url": "http://google-code-prettify.googlecode.com/svn/trunk/" 
+       } 
+   ]
+
+}
+,
+{
     "name": "processing.js",
     "filename": "processing-api.min.js",
-    "version": "1.2.3",
+    "version": "1.3.6",
     "description": "A port of the Processing visualization language to JavaScript.",
     "homepage": "http://processingjs.org",
     "keywords": [
@@ -1359,6 +1489,57 @@ var mypackages ={ "packages": [
 
 }
 
+,
+{
+    "name": "swfobject",
+    "filename": "swfobject.js",
+    "version": "2.2",
+    "description": "SWFObject is an easy-to-use and standards-friendly method to embed Flash content, which utilizes one small JavaScript file",
+    "homepage": "http://code.google.com/p/swfobject/",
+    "keywords": [
+       "swf",
+       "flash"
+   ],
+   "maintainers": [
+       {
+           "name": "bobbyvandersluis"
+       },
+       {
+           "name": "aran.rhee"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "svn",
+           "url": "http://swfobject.googlecode.com/svn/trunk/"
+       }
+   ]
+}
+,
+{
+    "name": "tinyscrollbar",
+    "filename": "jquery.tinyscrollbar.min.js",
+    "version": "1.66",
+    "description": "A lightweight jQuery plugin to scroll content.",
+    "homepage": "http://baijs.nl/tinyscrollbar/",
+    "keywords": [
+       "scrollbar",
+       "jquery"
+   ],
+   "maintainers": [
+       {
+           "name": "Maarten Baijs",
+           "web": "http://baijs.nl" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "plain file",
+           "url": "http://baijs.nl/tinyscrollbar/js/jquery.tinyscrollbar.min.js" 
+       } 
+   ]
+
+}
 ,
 {
     "name": "twitterlib.js",
