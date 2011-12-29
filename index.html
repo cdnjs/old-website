@@ -14,7 +14,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <!-- Adding "maximum-scale=1" fixes the Mobile Safari auto-zoom bug: http://filamentgroup.com/examples/iosScaleBug/ -->
        
-        <script src="packages.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
         <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.1.4/underscore-min.js"></script>
         <script src="http://cdnjs.cloudflare.com/ajax/libs/backbone.js/0.3.3/backbone-min.js"></script>
@@ -153,21 +152,16 @@
                 
             })
             var appview = {};
-            /*
-            $.ajax({ //Start loading packages for search
-                url: "http://thomasdavis.github.com/packages.json",
-                dataType: 'jsonp',
-                jsonp: 'jsonp_callback',
-                success: function(data ) {
-                    console.log($.parseJSON(data));
-                    packages.refresh($.parseJSON(data).packages);
-                     appview = new AppView;
-                }   
-            });
-            */
-           
-                    packages.refresh(mypackages.packages);
-                     appview = new AppView;
+
+            $(function() {
+
+              $("#search_results").html('Loading ...');
+              $.getJSON('/packages.json', function(data) {
+                packages.refresh(data.packages);
+                appview = new AppView;
+              }); 
+            })
+
             $(".cdnlink").live("click", function(){
                 $(this).select();
             });
