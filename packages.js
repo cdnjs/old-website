@@ -1,4 +1,4 @@
-var mypackages  = { "packages": [
+var packages = { "packages": [
 {
     "name": "ace",
     "filename": "ace.js",
@@ -51,7 +51,7 @@ var mypackages  = { "packages": [
 {
     "name": "backbone.js",
     "filename": "backbone-min.js",
-    "version": "0.5.3",
+    "version": "0.9.0",
     "description": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.",
     "homepage": "http://documentcloud.github.com/backbone/",
     "keywords": [
@@ -80,7 +80,7 @@ var mypackages  = { "packages": [
 {
     "name": "camanjs",
     "filename": "caman.full.min.js",
-    "version": "2.2",
+    "version": "3.1.0",
     "description": "Pure Javascript (Ca)nvas (Man)ipulation.",
     "homepage": "http://camanjs.com/",
     "keywords": [
@@ -158,7 +158,7 @@ var mypackages  = { "packages": [
 {
     "name": "css3finalize",
     "filename": "jquery.css3finalize.min.js",
-    "version": "2.0",
+    "version": "2.1",
     "description": "Skip vendor prefixes",
     "homepage": "https://github.com/codler/jQuery-Css3-Finalize",
     "keywords": [
@@ -320,6 +320,31 @@ var mypackages  = { "packages": [
 }
 ,
 {
+  "author": "Jerome Gravel-Niquet <jeromegn@gmail.com> (http://jgn.me)",
+  "name": "DocumentUp",
+  "description": "Pretty documentation generator for Github projects with proper Readme.",
+  "version": "0.1.1",
+  "homepage": "http://documentup.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeromegn/documentup.git"
+  },
+  "engines": {
+    "node": "~0.6.1"
+  },
+  "filename": "documentup.min.js",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "~1.1.0",
+    "stylus":        "0.22.6",
+    "nib":           "0.3.2",
+    "uglify-js":     "1.2.5",
+    "ender":         "0.8.3",
+    "async":         "0.1.15"
+  }
+}
+,
+{
     "name": "dojo",
     "filename": "dojo.xd.js",
     "version": "1.6.0",
@@ -381,6 +406,34 @@ var mypackages  = { "packages": [
    "maintainers": [
        {
            "name": "Sencha"
+       } 
+   ]
+}
+,
+{
+    "name": "fancybox",
+    "filename": "jquery.fancybox.pack.js",
+    "version": "2.0.4",
+    "description": "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. It is built at the top of the popular JavaScript framework jQuery and is both easy to implement and a snap to customize.",
+    "homepage": "http://fancyapps.com/fancybox/",
+    "keywords": [
+       "fancybox",
+       "jquery",
+       "images",
+       "image",
+       "zoom",
+	   "zooming"
+   ],
+   "maintainers": [
+       {
+           "name": "Janis Skarnelis",
+           "web": "http://fancyapps.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/fancyapps/fancyBox" 
        } 
    ]
 }
@@ -703,6 +756,33 @@ var mypackages  = { "packages": [
 }
 ,
 {
+    "name": "jquery.cycle",
+    "filename": "jquery.cycle.all.min.js",
+    "version": "2.99",
+    "description": "Cycle is an easy-to-use slideshow plugin that provides many options and effects for creating beautiful slideshows.",
+    "homepage": "http://jquery.malsup.com/cycle/",
+    "keywords": [
+       "jquery",
+       "slideshow",
+       "cycle"
+   ],
+   "maintainers": [
+       {
+           "name": "Mike Alsup",
+           "email": "malsup@gmail.com",
+           "web": "http://jquery.malsup.com/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/malsup/cycle" 
+       } 
+   ]
+
+}
+,
+{
     "name": "jqueryui",
     "filename": "jquery-ui.min.js",
     "version": "1.8.16",
@@ -781,7 +861,7 @@ var mypackages  = { "packages": [
 {
     "name": "jsxgraph",
     "filename": "jsxgraphcore.js",
-    "version": "0.92",
+    "version": "0.93",
     "description": "JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.",
     "homepage": "http://jsxgraph.org/",
     "keywords": [
@@ -805,7 +885,7 @@ var mypackages  = { "packages": [
 {
     "name": "knockout",
     "filename": "knockout-min.js",
-    "version": "1.2.1",
+    "version": "2.0.0",
     "description": "Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM)",
     "homepage": "http://knockoutjs.com/",
     "keywords": [
@@ -855,8 +935,8 @@ var mypackages  = { "packages": [
 ,
 {
     "name": "less.js",
-    "filename": "less-1.1.3.min.js",
-    "version": "1.1.3",
+    "filename": "less-1.1.5.min.js",
+    "version": "1.1.5",
     "description": "LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. LESS runs on both the client-side (IE 6+, Webkit, Firefox) and server-side, with Node.js.",
     "homepage": "http://lesscss.org/",
     "keywords": [
@@ -990,6 +1070,36 @@ var mypackages  = { "packages": [
 
 ,
 {
+    "name": "Ninja UI",
+    "filename": "jquery.ninjaui.js",
+    "version": "1.0.1",
+    "description": "The jQuery plugin for lethal interaction",
+    "homepage": "http://ninjaui.com/",
+    "keywords": [
+       "ninjaui"
+       "ui",
+       "jquery"
+   ],
+   "maintainers": [
+       {
+           "name": "Jamie R. Hoover and Faisal N. Jawdat",
+           "web": "http://ninjaui.com/" 
+       } 
+   ],
+       "bugs": {
+        "web": "https://github.com/ninja/ui/issues/"
+    },
+
+   "repositories": [
+       {
+           "type": "plain file",
+           "url": "https://github.com/ninja/ui/" 
+       } 
+   ]
+
+}
+,
+{
     "name": "noisy",
     "filename": "jquery.noisy.min.js",
     "version": "1.1",
@@ -1060,6 +1170,35 @@ var mypackages  = { "packages": [
        {
            "type": "hg",
            "url": "https://code.google.com/p/pagedown/" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "pie",
+    "filename": "PIE.js",
+    "version": "1.0beta5",
+    "description": "A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.",
+    "homepage": "http://css3pie.com/",
+    "keywords": [
+       "ie",
+       "internet",
+       "explorer",
+       "css3",
+       "pie"
+   ],
+   "maintainers": [
+       {
+           "name": "Jason Johnston",
+           "email": "jason@css3pie.com",
+           "web": "https://github.com/lojjic" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/lojjic/PIE" 
        } 
    ]
 
@@ -1159,7 +1298,7 @@ var mypackages  = { "packages": [
 {
     "name": "raphael",
     "filename": "raphael-min.js",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.",
     "homepage": "http://raphaeljs.com/",
     "keywords": [
@@ -1239,8 +1378,8 @@ var mypackages  = { "packages": [
 {
     "name": "sammy.js",
     "filename": "sammy.min.js",
-    "version": "0.6.3",
-    "description": "A small web framework with class.",
+    "version": "0.7.0",
+    "description": "Sammy is a tiny javascript framework built on top of jQuery, It's RESTful Evented Javascript.",
     "homepage": "http://sammyjs.org/",
     "keywords": [
        "framework",
@@ -1250,13 +1389,13 @@ var mypackages  = { "packages": [
    "maintainers": [
        {
            "name": "Aaron Quint"
-       } 
+       }
    ],
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/quirkey/sammy" 
-       } 
+           "url": "https://github.com/quirkey/sammy"
+       }
    ]
 
 }
@@ -1379,6 +1518,29 @@ var mypackages  = { "packages": [
             "url": "git://github.com/LearnBoost/Socket.IO.git"
         }
     ]
+}
+,
+{
+    "name": "stopcensorship.js",
+    "filename": "stopcensorship.js",
+    "version": "1.0",
+    "description": "Use this script on your site to protest censorship of the Internet.",
+    "homepage": "https://github.com/dougmartin/Stop-Censorship",
+    "keywords": [
+       "sopa"
+   ],
+   "maintainers": [
+       {
+           "name": "Doug Martin"
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/dougmartin/Stop-Censorship" 
+       } 
+   ]
+
 }
 ,
 {
@@ -1566,7 +1728,7 @@ var mypackages  = { "packages": [
 {
     "name": "underscore.js",
     "filename": "underscore-min.js",
-    "version": "1.2.2",
+    "version": "1.3.1",
     "description": "Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go along with jQuery's tux.",
     "homepage": "http://documentcloud.github.com/underscore/",
     "keywords": [
@@ -1736,9 +1898,9 @@ var mypackages  = { "packages": [
 {
     "name": "zepto",
     "filename": "zepto.min.js",
-    "version": "0.7",
-    "description": "Zepto.js is a minimalist framework for mobile WebKit browsers, with a jQuery-compatible chaining syntax.",
-    "homepage": "http://zeptojs.org/",
+    "version": "0.8",
+    "description": "Zepto.js is a minimalist JavaScript framework for modern web browsers, with a jQuery-compatible syntax.",
+    "homepage": "http://zeptojs.com/",
     "keywords": [
        "framework",
        "toolkit",
