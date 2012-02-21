@@ -51,7 +51,7 @@
 {
     "name": "backbone.js",
     "filename": "backbone-min.js",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.",
     "homepage": "http://documentcloud.github.com/backbone/",
     "keywords": [
@@ -65,14 +65,14 @@
        {
            "name": "Jeremy Ashkenas",
            "email": "jashkenas@gmail.com",
-           "web": "http://ashkenas.com/" 
-       } 
+           "web": "http://ashkenas.com/"
+       }
    ],
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/documentcloud/backbone" 
-       } 
+           "url": "https://github.com/documentcloud/backbone"
+       }
    ]
 
 }
@@ -80,16 +80,17 @@
 {
     "name": "camanjs",
     "filename": "caman.full.min.js",
-    "version": "3.1.0",
+    "version": "3.1.1",
     "description": "Pure Javascript (Ca)nvas (Man)ipulation.",
     "homepage": "http://camanjs.com/",
     "keywords": [
-       "css",
-       "css3",
-       "dom",
-       "html",
        "html5",
-       "popular"
+       "canvas",
+       "image",
+       "filter",
+       "manipulate",
+       "pixel",
+       "effects"
    ],
    "maintainers": [
        {
@@ -128,7 +129,7 @@
 {
     "name": "coffee-script",
     "filename": "coffee-script.min.js",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "description": "CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.",
     "homepage": "http://jashkenas.github.com/coffee-script/",
     "keywords": [
@@ -143,14 +144,14 @@
        {
            "name": "Jeremy Ashkenas",
            "email": "jashkenas@gmail.com",
-           "web": "http://ashkenas.com/" 
-       } 
+           "web": "http://ashkenas.com/"
+       }
    ],
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/jashkenas/coffee-script.git" 
-       } 
+           "url": "https://github.com/jashkenas/coffee-script.git"
+       }
    ]
 
 }
@@ -244,6 +245,30 @@
 }
 ,
 {
+    "name": "d3",
+    "version": "2.7.4",
+    "description": "A small, free JavaScript library for manipulating documents based on data.",
+    "keywords": [
+        "dom",
+        "w3c",
+        "visualization",
+        "svg",
+        "animation",
+        "canvas"
+    ],
+    "homepage": "http://mbostock.github.com/d3/",
+    "author": {
+        "name": "Mike Bostock",
+        "email": "mbostock@gmail.com",
+        "url": "http://bost.ocks.org/mike"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/mbostock/d3.git"
+    }
+}
+,
+{
     "name": "datejs",
     "filename": "date.min.js",
     "version": "1.0",
@@ -321,7 +346,7 @@
 ,
 {
   "author": "Jerome Gravel-Niquet <jeromegn@gmail.com> (http://jgn.me)",
-  "name": "DocumentUp",
+  "name": "documentup",
   "description": "Pretty documentation generator for Github projects with proper Readme.",
   "version": "0.1.1",
   "homepage": "http://documentup.com",
@@ -360,6 +385,31 @@
            "name": "The Dojo Foundation"
        } 
    ]
+}
+,
+{
+    "name": "ember.js",
+    "filename": "ember-0.9.4.min.js",
+    "version": "0.9.4",
+    "description": "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
+    "homepage": "http://emberjs.com/",
+    "keywords": [
+       "ember",
+       "ember.js"
+   ],
+   "maintainers": [
+       {
+           "name": "Ember.js",
+           "web": "http://emberjs.com"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/emberjs/ember.js"
+       }
+   ]
+
 }
 ,
 {
@@ -670,6 +720,33 @@
 }
 ,
 {
+    "name": "ICanHaz.js",
+    "filename": "ICanHaz.min.js",
+    "version": "0.9",
+    "description": "A clean solution for templating with Mustache.js and jQuery or Zepto",
+    "homepage": "http://icanhazjs.com",
+    "keywords": [
+       "templating",
+       "mustache",
+       "jquery",
+       "zepto"
+   ],
+   "maintainers": [
+       {
+           "name": "&yet",
+           "email": "contact@andyet.net",
+           "web": "http://andyet.net"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/andyet/ICanHaz.js"
+       }
+   ]
+}
+,
+{
     "name": "javascript-state-machine",
     "filename": "state-machine.min.js",
     "version": "2.0.0",
@@ -730,7 +807,7 @@
 }
 ,
 {
-    "name": "jQuery throttle / debounce",
+    "name": "jquery-throttle-debounce",
     "filename": "jquery.ba-throttle-debounce.min.js",
     "version": "1.1",
     "description": "jQuery throttle / debounce allows you to rate-limit your functions in multiple useful ways.",
@@ -1070,7 +1147,7 @@
 
 ,
 {
-    "name": "Ninja UI",
+    "name": "ninjaui",
     "filename": "jquery.ninjaui.js",
     "version": "1.0.1",
     "description": "The jQuery plugin for lethal interaction",
@@ -1351,7 +1428,7 @@
 {
     "name": "require.js",
     "filename": "require.min.js",
-    "version": "1.0.1",
+    "version": "1.0.5",
     "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node",
     "homepage": "http://requirejs.org/",
     "keywords": [
@@ -1701,6 +1778,29 @@
        } 
    ]
 
+}
+,
+{
+    "name": "twitter-bootstrap",
+    "filename": "bootstrap.min.js",
+    "version": "2.0.0",
+    "description": "Javascript plugins for the Twitter Bootstrap toolkit",
+    "homepage": "http://twitter.github.com/bootstrap/",
+    "keywords": [
+       "twitter",
+       "bootstrap"
+   ],
+   "maintainers": [
+       {
+           "name": "Twitter, Inc."
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/twitter/bootstrap"
+       }
+   ]
 }
 ,
 {
