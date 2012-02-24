@@ -698,7 +698,7 @@
 {
     "name": "html5shiv",
     "filename": "html5.js",
-    "version": "r23",
+    "version": "r29",
     "description": "html5shiv is an HTML5 JavaScript shim for IE to recognise and style the HTML5 elements",
     "homepage": "http://code.google.com/p/html5shiv/",
     "keywords": [
@@ -1068,7 +1068,7 @@
 {
     "name": "modernizr",
     "filename": "modernizr.min.js",
-    "version": "2.0.6",
+    "version": "2.5.3",
     "description": "Modernizr adds classes to the element which allow you to target specific browser functionality in your stylesheet. You don't actually need to write any Javascript to use it.",
     "homepage": "http://www.modernizr.com/",
     "keywords": [
@@ -1149,7 +1149,7 @@
 ,
 {
     "name": "ninjaui",
-    "filename": "jquery.ninjaui.js",
+    "filename": "jquery.ninjaui.min.js",
     "version": "1.0.1",
     "description": "The jQuery plugin for lethal interaction",
     "homepage": "http://ninjaui.com/",
@@ -1206,7 +1206,7 @@
 {
     "name": "ocanvas",
     "filename": "ocanvas.min.js",
-    "version": "1.0",
+    "version": "2.0.0",
     "description": "oCanvas is a JavaScript library that makes development with HTML5 canvas easy, by using an object-based approach.",
     "homepage": "http://ocanvas.org/",
     "keywords": [
@@ -1223,7 +1223,7 @@
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/ocanvas/ocanvas" 
+           "url": "https://github.com/koggdal/ocanvas"
        } 
    ]
 
@@ -1784,7 +1784,7 @@
 {
     "name": "twitter-bootstrap",
     "filename": "bootstrap.min.js",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Javascript plugins for the Twitter Bootstrap toolkit",
     "homepage": "http://twitter.github.com/bootstrap/",
     "keywords": [
