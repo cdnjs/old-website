@@ -1,5 +1,32 @@
 { "packages": [
 {
+    "name": "ICanHaz.js",
+    "filename": "ICanHaz.min.js",
+    "version": "0.9",
+    "description": "A clean solution for templating with Mustache.js and jQuery or Zepto",
+    "homepage": "http://icanhazjs.com",
+    "keywords": [
+       "templating",
+       "mustache",
+       "jquery",
+       "zepto"
+   ],
+   "maintainers": [
+       {
+           "name": "&yet",
+           "email": "contact@andyet.net",
+           "web": "http://andyet.net"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/andyet/ICanHaz.js"
+       }
+   ]
+}
+,
+{
     "name": "ace",
     "filename": "ace.js",
     "version": "0.2.0",
@@ -18,6 +45,33 @@
        {
            "type": "git",
            "url": "https://github.com/ajaxorg/ace/"
+       }
+   ]
+}
+,
+{
+    "name": "augment.js",
+    "filename": "augment.min.js",
+    "version": "0.4.0",
+    "description": "Enables use of modern JavaScript by augmenting built in objects with the latest JavaScript methods.",
+    "homepage": "http://augmentjs.com",
+    "keywords": [
+       "es5",
+       "ECMAScript 5",
+       "shim",
+       "compatibility",
+       "modernization"
+   ],
+   "maintainers": [
+       {
+           "name": "Oliver Nightingale",
+           "email": "oliver.nightingale1@gmail.com"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/olivernn/augment.js"
        }
    ]
 }
@@ -247,8 +301,8 @@
 ,
 {
     "name": "d3",
-    "filename": "d3.min.js",
-    "version": "2.7.4",
+    "filename": "d3.v2.min.js",
+    "version": "2.8.1",
     "description": "A small, free JavaScript library for manipulating documents based on data.",
     "keywords": [
         "dom",
@@ -628,6 +682,33 @@
 
 },
 {
+    "name": "hashgrid",
+    "filename": "hashgrid.js",
+    "version": "6",
+    "description": "A little tool that inserts a layout grid in web pages, allows you to hold it in place, and toggle between displaying it in the foreground or background.",
+    "homepage": "http://hashgrid.com/",
+    "keywords": [
+        "grid",
+        "layout",
+        "design",
+        "columns"
+    ],
+    "maintainers": [
+        {
+            "name": "Analog Coop",
+            "email": "hello@analog.coop",
+            "web": "http://analog.coop/"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/dotjay/hashgrid"
+        }
+    ]
+}
+,
+{
     "name": "headjs",
     "filename": "head.min.js",
     "version": "0.96",
@@ -654,7 +735,7 @@
 {
     "name": "highcharts",
     "filename": "highcharts.js",
-    "version": "2.1.6",
+    "version": "2.2.1",
     "description": "Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. Highcharts is NOT free for commercial use.  See the license here: http://highcharts.com/license",
     "homepage": "http://highcharts.com/",
     "keywords": [
@@ -697,6 +778,21 @@
 }
 ,
 {
+    "name": "hogan.js",
+    "filename": "hogan.js",
+    "version": "2.0.0",
+    "description": "A mustache compiler.",
+    "homepage": "http://twitter.github.com/hogan.js/",
+    "keywords": ["mustache", "template"],
+    "author": "Twitter Inc.",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/twitter/hogan.js.git"
+        }
+    ]
+},
+{
     "name": "html5shiv",
     "filename": "html5.js",
     "version": "r29",
@@ -722,33 +818,6 @@
 }
 ,
 {
-    "name": "ICanHaz.js",
-    "filename": "ICanHaz.min.js",
-    "version": "0.9",
-    "description": "A clean solution for templating with Mustache.js and jQuery or Zepto",
-    "homepage": "http://icanhazjs.com",
-    "keywords": [
-       "templating",
-       "mustache",
-       "jquery",
-       "zepto"
-   ],
-   "maintainers": [
-       {
-           "name": "&yet",
-           "email": "contact@andyet.net",
-           "web": "http://andyet.net"
-       }
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/andyet/ICanHaz.js"
-       }
-   ]
-}
-,
-{
     "name": "javascript-state-machine",
     "filename": "state-machine.min.js",
     "version": "2.0.0",
@@ -768,7 +837,7 @@
 {
     "name": "jquery",
     "filename": "jquery.min.js",
-    "version": "1.7.1",
+    "version": "1.7.2",
     "description": "jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.",
     "homepage": "http://jquery.com/",
     "keywords": [
@@ -809,6 +878,32 @@
 }
 ,
 {
+    "name": "jquery-infinitescroll",
+    "filename": "jquery.infinitescroll.min.js",
+    "version": "2.0b2.110713",
+    "description": "This plugin aims to progressively enhance your page, providing a more rich browsing experience when scrolling big amount of data.",
+    "homepage": "http://www.infinite-scroll.com/infinite-scroll-jquery-plugin/",
+    "keywords": [
+       "jquery",
+       "scroll",
+       "infinite",
+       "masonry"
+   ],
+   "maintainers": [
+       {
+           "name": "Luke Shumard",
+           "web": "http://www.lukeshumard.com"
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/paulirish/infinitescroll.git" 
+       } 
+   ]
+}
+,
+{
     "name": "jquery-throttle-debounce",
     "filename": "jquery.ba-throttle-debounce.min.js",
     "version": "1.1",
@@ -832,6 +927,34 @@
            "url": "https://github.com/cowboy/jquery-throttle-debounce.git" 
        } 
    ]
+}
+,
+{
+    "name": "jquery-timeago.js",
+    "filename": "jquery-timeago.js",
+    "version": "0.9.3",
+    "description": "Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. '4 minutes ago' or 'about 1 day ago') from ISO 8601 formatted dates and times embedded in your HTML (à la microformats).",
+    "homepage": "http://timeago.yarp.com/",
+    "keywords": [
+       "time",
+       "jquery",
+       "dateformat",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Ryan McGeary",
+           "email": "ryan@mcgeary.org",
+           "web": "http://ryan.mcgeary.org/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/rmm5t/jquery-timeago" 
+       } 
+   ]
+
 }
 ,
 {
@@ -889,9 +1012,35 @@
 }
 ,
 {
+    "name": "jquery.transit",
+    "filename": "jquery.transit.min.js",
+    "version": "0.1.3",
+    "description": "Super-smooth CSS3 transformations and transitions for jQuery.",
+    "homepage": "http://ricostacruz.com/jquery.transit/",
+    "keywords": [
+        "css3",
+        "transitions",
+        "transformations",
+        "jquery"
+    ],
+    "maintainers": [
+        {
+            "name": "Rico Sta. Cruz",
+            "web": "http://ricostacruz.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/rstacruz/jquery.transit"
+        }
+    ]
+}
+,
+{
     "name": "jqueryui",
     "filename": "jquery-ui.min.js",
-    "version": "1.8.16",
+    "version": "1.8.17",
     "description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
     "homepage": "http://jqueryui.com/",
     "keywords": [
@@ -989,6 +1138,35 @@
 }
 ,
 {
+    "name": "kerning.js",
+    "filename": "kerning.min.js",
+    "version": "0.2",
+    "description": "Take control of your web typography.",
+    "homepage": "http://kerningjs.com/",
+    "keywords": [
+        "design",
+        "typography",
+        "kerning",
+        "font",
+        "fonts",
+        "letters",
+        "words"
+    ],
+    "maintainers": [
+        {
+            "name": "Joshua Gross",
+            "web": "http://unwieldy.net"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/endtwist/kerning.js"
+        }
+    ]
+}
+,
+{
     "name": "knockout",
     "filename": "knockout-min.js",
     "version": "2.0.0",
@@ -1041,8 +1219,8 @@
 ,
 {
     "name": "less.js",
-    "filename": "less-1.1.5.min.js",
-    "version": "1.1.5",
+    "filename": "less-1.3.0.min.js",
+    "version": "1.3.0",
     "description": "LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. LESS runs on both the client-side (IE 6+, Webkit, Firefox) and server-side, with Node.js.",
     "homepage": "http://lesscss.org/",
     "keywords": [
@@ -1061,8 +1239,8 @@
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/cloudhead/less.js" 
-       } 
+           "url": "https://github.com/cloudhead/less.js"
+       }
    ]
 
 }
@@ -1151,7 +1329,7 @@
 {
     "name": "mustache.js",
     "filename": "mustache.min.js",
-    "version": "0.3.0",
+    "version": "0.4.2",
     "description": "mustache.js — Logic-less templates with JavaScript",
     "homepage": "https://github.com/janl/mustache.js",
     "keywords": [
@@ -1253,6 +1431,56 @@
            "type": "git",
            "url": "https://github.com/koggdal/ocanvas"
        } 
+   ]
+
+}
+,
+{
+    "name": "openajax-hub",
+    "filename": "OpenAjaxUnmanagedHub.min.js",
+    "version": "2.0.7",
+    "description": "The central feature of the OpenAjax Hub is its publish/subscribe event manager (the \"pub/sub manager\"), which enables loose assembly and integration of Ajax components. With the pub/sub manager, one Ajax component can publish (i.e., broadcast) an event to which other Ajax components can subscribe, thereby allowing these components to communicate with each other through the Hub, which acts as an intermediary message bus.",
+    "homepage": "http://www.openajax.org/member/wiki/OpenAjax_Hub_1.0_Specification",
+    "keywords": [
+       "publish",
+       "subscribe",
+	   "pub/sub",
+	   "hub",
+	   "messaging",
+	   "broadcast",
+	   "decoupling"
+   ],
+   "maintainers": [
+       {
+           "name": "OpenAjax Alliance",
+           "web": "http://www.openajax.org/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "svn",
+           "url": "https://openajaxallianc.svn.sourceforge.net/svnroot/openajaxallianc",
+		   "path": "hub20/trunk/src/OpenAjax.js"
+       }
+   ]
+}
+,
+{
+    "name": "openlayers",
+    "filename": "OpenLayers.js",
+    "version": "2.11",
+    "description": "OpenLayers is a JavaScript library for building map applications on the web. OpenLayers is made available under a BSD-license. Please see license.txt in this distribution for more details.",
+    "homepage": "http://openlayers.org/",
+    "keywords": [
+       "map",
+       "openlayers",
+       "maps"
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/openlayers/openlayers"
+       }
    ]
 
 }
@@ -1404,7 +1632,7 @@
 {
     "name": "raphael",
     "filename": "raphael-min.js",
-    "version": "2.0.1",
+    "version": "2.1.0",
     "description": "Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.",
     "homepage": "http://raphaeljs.com/",
     "keywords": [
@@ -1457,7 +1685,7 @@
 {
     "name": "require.js",
     "filename": "require.min.js",
-    "version": "1.0.5",
+    "version": "1.0.7",
     "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node",
     "homepage": "http://requirejs.org/",
     "keywords": [
@@ -1482,9 +1710,37 @@
 }
 ,
 {
+    "name": "respond.js",
+    "filename": "respond.min.js",
+    "version": "1.1.0",
+    "description": "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more).",
+    "homepage": "https://github.com/scottjehl/Respond",
+    "keywords": [
+       "polyfill",
+       "queries",
+       "responsive",
+       "max-width",
+       "min-width"
+   ],
+   "maintainers": [
+       {
+           "name": "Scott Jehl",
+           "email": "scott@scottjehl.com",
+           "web": "http://scottjehl.com/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/scottjehl/Respond"
+       }
+   ]
+
+},
+{
     "name": "sammy.js",
     "filename": "sammy.min.js",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "description": "Sammy is a tiny javascript framework built on top of jQuery, It's RESTful Evented Javascript.",
     "homepage": "http://sammyjs.org/",
     "keywords": [
@@ -1577,6 +1833,32 @@
 }
 ,
 {
+    "name": "shred",
+    "filename": "shred.bundle.min.js",
+    "version": "0.7.12",
+    "description": "Shred is an HTTP client library for browsers and node.js. Shred supports gzip, cookies, https, proxies, and redirects.",
+    "homepage": "https://github.com/spire-io/shred",
+    "keywords": [
+       "http",
+       "xhr",
+       "ajax",
+       "browserify"
+   ],
+   "maintainers": [
+       {
+           "name": "Spire.io",
+           "email": "contact@spire.io",
+           "web": "http://spire.io"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/spire-io/shred"
+       }
+   ]
+},
+{
     "name": "sizzle",
     "filename": "sizzle.min.js",
     "version": "1.4.4",
@@ -1627,6 +1909,29 @@
 }
 ,
 {
+    "name": "sockjs-client",
+    "filename": "sockjs-min.js",
+    "version": "0.2.1",
+    "description": "SockJS is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.",
+    "homepage": "https://github.com/sockjs/sockjs-client",
+    "keywords": [
+      "websockets",
+      "node"
+   ],
+   "maintainers": [
+       {
+           "name": "Marek Majkowski"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url":  "https://github.com/sockjs/sockjs-client"
+       }
+   ]
+}
+,
+{
     "name": "stopcensorship.js",
     "filename": "stopcensorship.js",
     "version": "1.0",
@@ -1647,6 +1952,32 @@
        } 
    ]
 
+}
+,
+{
+  "name": "spin.js",
+  "filename": "spin.min.js",
+  "keywords": [
+    "spinner",
+    "utility"
+  ],
+  "description": "An animated CSS3 loading spinner with VML fallback for IE.",
+  "version": "1.2.4",
+  "homepage": "http://fgnass.github.com/spin.js/",
+  "author": "Felix Gnass (http://fgnass.github.com/)",
+  "maintainers": [
+    {
+      "name": "Felix Gnass",
+      "web": "http://fgnass.github.com/"
+    }
+  ],
+  "contributors": [
+    "Felix Gnass (http://fgnass.github.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fgnass/spin.js.git"
+  }
 }
 ,
 {
@@ -1812,7 +2143,7 @@
 {
     "name": "twitter-bootstrap",
     "filename": "bootstrap.min.js",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "Javascript plugins for the Twitter Bootstrap toolkit",
     "homepage": "http://twitter.github.com/bootstrap/",
     "keywords": [
@@ -1882,7 +2213,7 @@
 {
     "name": "underscore.string",
     "filename": "underscore.string.min.js",
-    "version": "1.1.6",
+    "version": "2.0.0",
     "description": "Underscore.string is JavaScript library for comfortable manipulation with strings, extension for Underscore.js inspired by Prototype.js, Right.js, Underscore and beautiful Ruby language.",
     "homepage": "http://edtsech.github.com/underscore.string/",
     "keywords": [
@@ -1906,6 +2237,30 @@
        {
            "type": "git",
            "url": "https://github.com/edtsech/underscore.string/" 
+       } 
+   ]
+}
+,
+{
+    "name": "visibility.js",
+    "filename": "visibility.min.js",
+    "version": "0.2",
+    "description": "A wrapper for the Page Visibility API",
+    "homepage": "https://github.com/evilmartians/visibility.js",
+    "keywords": [
+		"compatibility"
+   ],
+   "maintainers": [
+       {
+           "name": "Evil Martians",
+           "email": "surrender@evilmartians.com",
+           "web": "http://evilmartians.com/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/evilmartians/visibility.js" 
        } 
    ]
 }
