@@ -211,7 +211,7 @@
 {
     "name": "coffee-script",
     "filename": "coffee-script.min.js",
-    "version": "1.2.0",
+    "version": "1.3.1",
     "description": "CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.",
     "homepage": "http://jashkenas.github.com/coffee-script/",
     "keywords": [
@@ -472,6 +472,24 @@
 }
 ,
 {
+    "name": "dygraphs",
+    "filename": "dygraph-combined.js",
+    "version": "1.2",
+    "description": "dygraphs is an open source JavaScript library that produces produces interactive, zoomable charts of time series. It is designed to display dense data sets and enable users to explore and interpret them.",
+    "homepage": "http://dygraphs.com/",
+    "keywords": [
+        "graphs",
+        "charts",
+        "interactive"
+    ],
+    "maintainers": [
+        {
+            "name": "Dan Vanderkam"
+        }
+    ]
+}
+,
+{
     "name": "ember.js",
     "filename": "ember-0.9.4.min.js",
     "version": "0.9.4",
@@ -547,7 +565,7 @@
 {
     "name": "fancybox",
     "filename": "jquery.fancybox.pack.js",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "description": "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. It is built at the top of the popular JavaScript framework jQuery and is both easy to implement and a snap to customize.",
     "homepage": "http://fancyapps.com/fancybox/",
     "keywords": [
@@ -985,8 +1003,8 @@
 }
 ,
 {
-    "name": "jquery-timeago.js",
-    "filename": "jquery-timeago.js",
+    "name": "jquery-timeago",
+    "filename": "jquery.timeago.js",
     "version": "0.9.3",
     "description": "Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. '4 minutes ago' or 'about 1 day ago') from ISO 8601 formatted dates and times embedded in your HTML (à la microformats).",
     "homepage": "http://timeago.yarp.com/",
@@ -1189,6 +1207,46 @@
 
 }
 ,
+{
+    "name": "json3",
+    "version": "3.1.0",
+    "filename": "json3.min.js",
+    "description": "A modern JSON implementation compatible with nearly all JavaScript platforms.",
+    "homepage": "http://bestiejs.github.com/json3",
+    "main": "json3",
+    "keywords": [
+        "json",
+        "spec",
+        "ecma",
+        "es5",
+        "lexer",
+        "parser",
+        "stringify"
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://kit.mit-license.org/"
+        }
+    ],
+    "author": {
+        "name": "Kit Cambridge",
+        "web": "http://kitcambridge.github.com"
+    },
+    "maintainers": [
+        {
+            "name": "Kit Cambridge",
+            "web": "http://kitcambridge.github.com"
+        }
+    ],
+    "bugs": {
+        "url": "http://github.com/bestiejs/json3/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/bestiejs/json3.git"
+    }
+},
 {
     "name": "jsxgraph",
     "filename": "jsxgraphcore.js",
@@ -1488,7 +1546,7 @@
 {
     "name": "ocanvas",
     "filename": "ocanvas.min.js",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "oCanvas is a JavaScript library that makes development with HTML5 canvas easy, by using an object-based approach.",
     "homepage": "http://ocanvas.org/",
     "keywords": [
@@ -2068,7 +2126,7 @@
 {
     "name": "socket.io",
     "filename": "socket.io.min.js",
-    "version": "0.8.4",
+    "version": "0.9.5",
     "description": "Browser-side code for Socket.IO. Socket.IO aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms.",
     "homepage": "http://socket.io",
     "keywords": [
@@ -2192,7 +2250,7 @@
 }
 ,
 {
-  "name": "store",
+  "name": "store.js",
   "filename": "store.min.js",
   "keywords": [
     "storage"
@@ -2241,7 +2299,8 @@
   "files": [
     ""
   ]
-},
+}
+,
 {
     "name": "string_score",
     "filename": "string_score.min.js",
@@ -2369,7 +2428,7 @@
 {
     "name": "underscore.js",
     "filename": "underscore-min.js",
-    "version": "1.3.1",
+    "version": "1.3.3",
     "description": "Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go along with jQuery's tux.",
     "homepage": "http://documentcloud.github.com/underscore/",
     "keywords": [
@@ -2380,14 +2439,14 @@
        {
            "name": "Jeremy Ashkenas",
            "email": "jashkenas@gmail.com",
-           "web": "http://ashkenas.com/" 
-       } 
+           "web": "http://ashkenas.com/"
+       }
    ],
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/documentcloud/underscore/" 
-       } 
+           "url": "https://github.com/documentcloud/underscore/"
+       }
    ]
 }
 ,
@@ -2420,6 +2479,22 @@
            "url": "https://github.com/edtsech/underscore.string/" 
        } 
    ]
+}
+,
+{
+    "name": "use.js",
+    "filename": "use.js",
+    "version": "0.2.0",
+    "description": "RequireJS plugin for loading incompatible code.",
+    "homepage": "https://github.com/tbranyen/use.js",
+    "keywords": ["requirejs", "amd"],
+    "author": "Tim Branyen",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/tbranyen/use.js.git"
+        }
+    ]
 }
 ,
 {
