@@ -23,6 +23,48 @@
 }
 ,
 {
+  "name": "angular.js",
+  "filename": "angular-1.0.0rc6.min.js",
+  "description": "AngularJS is an open-source JavaScript framework. Its goal is to augment browser-based applications with Model–View–Controller (MVC) capability, reduce the amount of JavaScript needed to make web applications functional.",
+  "version": "1.0.0rc6",
+  "homepage": "http://angularjs.org",
+  "keywords": [
+    "framework",
+    "mvc"
+  ],
+  "maintainers": [
+    {
+      "name": "Miško Hevery"
+    },
+    {
+      "name": "Igor Minár"
+    },
+    {
+      "name": "Vojta Jína"
+    },
+    {
+      "name": "Adam Abrons"
+    },
+    {
+      "name": "Brad Green"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angular/angular.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular.js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/angular/angular.js/blob/master/LICENSE"
+    }
+  ]
+}
+,
+{
     "name": "augment.js",
     "filename": "augment.min.js",
     "version": "0.4.0",
@@ -491,8 +533,8 @@
 ,
 {
     "name": "ember.js",
-    "filename": "ember-0.9.4.min.js",
-    "version": "0.9.4",
+    "filename": "ember-0.9.7.1.min.js",
+    "version": "0.9.7.1",
     "description": "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
     "homepage": "http://emberjs.com/",
     "keywords": [
@@ -565,7 +607,7 @@
 {
     "name": "fancybox",
     "filename": "jquery.fancybox.pack.js",
-    "version": "2.0.5",
+    "version": "2.0.6",
     "description": "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. It is built at the top of the popular JavaScript framework jQuery and is both easy to implement and a snap to customize.",
     "homepage": "http://fancyapps.com/fancybox/",
     "keywords": [
@@ -574,7 +616,7 @@
        "images",
        "image",
        "zoom",
-	   "zooming"
+       "zooming"
    ],
    "maintainers": [
        {
@@ -679,7 +721,7 @@
 {
     "name": "graphael",
     "filename": "g.raphael-min.js",
-    "version": "0.4.1",
+    "version": "0.5.0",
     "description": "gRaphael's goal is to help you create stunning charts on your website. It is based on Raphaël graphics library.",
     "homepage": "http://g.raphaeljs.com/",
     "keywords": [
@@ -951,6 +993,31 @@
 }
 ,
 {
+    "name": "jquery.history",
+    "filename": "jquery.history.js",
+    "version": "1.9",
+    "description": "jQuery history plugin helps you to support back/forward buttons and bookmarks in your javascript applications.",
+    "homepage": "https://github.com/tkyk/jquery-history-plugin",
+    "keywords": [
+       "jquery",
+       "history"
+   ],
+   "maintainers": [
+       {
+           "name": "Takayuki Miwa",
+           "web": "http://github.com/tkyk/"
+       } 
+   ],
+   "repositories": [
+       { 
+           "type": "plain file",
+           "url": "https://raw.github.com/tkyk/jquery-history-plugin/master/jquery.history.js" 
+       } 
+   ]
+
+}
+,
+{
     "name": "jquery-infinitescroll",
     "filename": "jquery.infinitescroll.min.js",
     "version": "2.0b2.110713",
@@ -973,6 +1040,55 @@
            "type": "git",
            "url": "https://github.com/paulirish/infinitescroll.git" 
        } 
+   ]
+}
+,
+{
+    "name": "jquery-mousewheel",
+    "filename": "jquery.mousewheel.min.js",
+    "version": "3.0.6",
+    "description": "A jQuery plugin that adds cross-browser mouse wheel support.",
+    "homepage": "http://brandonaaron.net/code/mousewheel/docs",
+    "keywords": [
+       "mouse",
+       "cross-browser",
+       "jquery"
+   ],
+   "maintainers": [
+       {
+           "name": "Brandon Aaron",
+           "web": "http://brandonaaron.net" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/brandonaaron/jquery-mousewheel"
+       } 
+   ]
+}
+,
+{
+    "name": "jquery-scrollTo",
+    "filename": "jquery.scrollTo.min.js",
+    "version": "1.4.2",
+    "description": "Easy element scrolling using jQuery..",
+    "homepage": "http://flesler.blogspot.com/2007/10/jqueryscrollto.html",
+    "keywords": [
+       "scroll",
+       "jquery"
+   ],
+   "maintainers": [
+       {
+           "name": "Ariel Flesler",
+           "web": "http://flesler.blogspot.com"
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "svn",
+           "url": "http://code.google.com/p/flesler-plugins/"
+       }
    ]
 }
 ,
@@ -1084,6 +1200,35 @@
 
 }
 ,
+{
+    "name": "jquery.formalize.js",
+    "filename": "jquery.formalize.min.js",
+    "version": "1.2",
+    "description": "teach your forms some manners",
+    "homepage": "http://formalize.me/",
+    "keywords": [
+        "forms",
+        "formalize",
+        "form",
+        "jquery"
+    ],
+    "maintainers": [
+        {
+            "name": "Nathan Smith (Author)",
+            "web": "https://plus.google.com/115310247179926591656/about"
+        },
+        {
+            "name": "Markus Reiter",
+            "web": "http://reitermark.us/"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/nathansmith/formalize"
+        }
+    ]
+},
 {
     "name": "jquery.SPServices",
     "filename": "jquery.SPServices-0.7.1a.min.js",
@@ -1209,7 +1354,7 @@
 ,
 {
     "name": "json3",
-    "version": "3.1.0",
+    "version": "3.2.0",
     "filename": "json3.min.js",
     "description": "A modern JSON implementation compatible with nearly all JavaScript platforms.",
     "homepage": "http://bestiejs.github.com/json3",
@@ -1250,7 +1395,7 @@
 {
     "name": "jsxgraph",
     "filename": "jsxgraphcore.js",
-    "version": "0.93",
+    "version": "0.94",
     "description": "JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.",
     "homepage": "http://jsxgraph.org/",
     "keywords": [
@@ -1382,7 +1527,7 @@
 {
     "name": "masonry",
     "filename": "jquery.masonry.min.js",
-    "version": "2.1.0",
+    "version": "2.1.04",
     "description": "A dynamic layout plugin for jQuery.",
     "homepage": "http://masonry.desandro.com/",
     "keywords": [
@@ -1639,6 +1784,25 @@
            "type": "hg",
            "url": "https://code.google.com/p/pagedown/" 
        } 
+   ]
+
+}
+,
+{
+    "name": "paper.js",
+    "filename": "paper.js",
+    "version": "0.22",
+    "description": "Paper.js is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas.",
+    "homepage": "http://paperjs.org/",
+    "keywords": [
+       "paper",
+       "paper.js"
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/paperjs/paper.js.git"
+       }
    ]
 
 }
@@ -2406,7 +2570,7 @@
 {
     "name": "twitterlib.js",
     "filename": "twitterlib.min.js",
-    "version": "0.9.0",
+    "version": "1.0.8",
     "description": "Library for doing all things Twitter API related, with added sauce for filtering, paging and paging",
     "homepage": "https://github.com/remy/twitterlib/",
     "keywords": [
@@ -2415,13 +2579,13 @@
    "maintainers": [
        {
            "name": "Remy Sharp"
-       } 
+       }
    ],
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/remy/twitterlib/" 
-       } 
+           "url": "https://github.com/remy/twitterlib/"
+       }
    ]
 
 },
@@ -2654,4 +2818,38 @@
    ]
 }
 ,
+{
+    "name": "zxcvbn",
+    "version": "1.0",
+    "filename": "zscvbn-async.js",
+    "homepage": "http://tech.dropbox.com/?p=165",
+    "description": "Realistic password strength estimation, based on common words, patterns, and keyboard adjacency.",
+    "keywords": [
+        "passwords",
+        "forms",
+        "security"
+    ],
+    "maintainers": [
+        {
+            "name": "Dan Wheeler",
+            "email": "dan@dropbox.com",
+            "web": "https://github.com/lowe"
+        }
+    ],
+    "bugs": {
+        "web": "https://github.com/lowe/zxcvbn/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/lowe/zxcvbn/blob/master/LICENSE.txt"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:lowe/zxcvbn.git"
+        }
+    ]
+},
 {}] }
