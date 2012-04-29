@@ -993,6 +993,33 @@
 }
 ,
 {
+    "name": "gameQuery",
+    "filename": "jquery.gamequery.min.js",
+    "version": "0.6.2",
+    "description": "gameQuery is a jQuery plug-in to help make javascript game development easier by adding some simple game-related classes",
+    "homepage": "http://gamequeryjs.com",
+    "keywords": [
+    	"jquery",
+        "game",
+        "sprite",
+        "animation",
+        "collision",
+        "tile map"
+    ],
+   "maintainers": [
+       {
+           "name": "Selim Arsever",
+           "web": "https://github.com/onaluf"
+       } 
+   ],
+   "repositories": [
+       { 
+           "type": "git",
+           "url": "git://github.com/onaluf/gameQuery.git" 
+       } 
+   ]
+},
+{
     "name": "jquery.history",
     "filename": "jquery.history.js",
     "version": "1.9",
@@ -1691,7 +1718,7 @@
 {
     "name": "ocanvas",
     "filename": "ocanvas.min.js",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "description": "oCanvas is a JavaScript library that makes development with HTML5 canvas easy, by using an object-based approach.",
     "homepage": "http://ocanvas.org/",
     "keywords": [
