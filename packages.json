@@ -283,7 +283,7 @@
 {
     "name": "css3finalize",
     "filename": "jquery.css3finalize.min.js",
-    "version": "2.1",
+    "version": "2.4",
     "description": "Skip vendor prefixes",
     "homepage": "https://github.com/codler/jQuery-Css3-Finalize",
     "keywords": [
@@ -339,10 +339,11 @@
     "repositories": [
         {
             "type": "git",
-            "url": "git@github.com:lojjic/PIE.git"
+            "url": "https://github.com/lojjic/PIE.git"
         }
     ]
-},
+}
+,
 {
     "name": "cufon",
     "filename": "cufon-yui.js",
@@ -510,6 +511,12 @@
        {
            "name": "The Dojo Foundation"
        } 
+   ],
+   "repositories": [
+       {
+           "type": "svn",
+           "url": "http://svn.dojotoolkit.org/src/view/anon/all/trunk"
+       }
    ]
 }
 ,
@@ -527,6 +534,12 @@
     "maintainers": [
         {
             "name": "Dan Vanderkam"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/danvk/dygraphs.git"
         }
     ]
 }
@@ -748,7 +761,7 @@
 {
     "name": "handlebars.js",
     "filename": "handlebars.min.js",
-    "version": "1.0.0.beta2",
+    "version": "1.0.0.beta6",
     "description": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.",
     "homepage": "http://www.handlebarsjs.com",
     "keywords": [
@@ -823,7 +836,7 @@
 {
     "name": "highcharts",
     "filename": "highcharts.js",
-    "version": "2.2.1",
+    "version": "2.2.2",
     "description": "Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. Highcharts is NOT free for commercial use.  See the license here: http://highcharts.com/license",
     "homepage": "http://highcharts.com/",
     "keywords": [
@@ -908,7 +921,7 @@
 {
     "name": "ICanHaz.js",
     "filename": "ICanHaz.min.js",
-    "version": "0.9",
+    "version": "0.10",
     "description": "A clean solution for templating with Mustache.js and jQuery or Zepto",
     "homepage": "http://icanhazjs.com",
     "keywords": [
@@ -946,6 +959,12 @@
        {
            "name": "Jake S. Gordon"
        } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/jakesgordon/javascript-state-machine.git"
+       }
    ]
 }
 ,
@@ -964,7 +983,13 @@
         {
             "name": "The jQuery Project"
         }
-    ]
+    ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/jquery/jquery.git"
+       }
+   ]
 }
 ,
 {
@@ -1037,8 +1062,8 @@
    ],
    "repositories": [
        { 
-           "type": "plain file",
-           "url": "https://raw.github.com/tkyk/jquery-history-plugin/master/jquery.history.js" 
+           "type": "git",
+           "url": "https://github.com/tkyk/jquery-history-plugin.git" 
        } 
    ]
 
@@ -1306,7 +1331,7 @@
 {
     "name": "jqueryui",
     "filename": "jquery-ui.min.js",
-    "version": "1.8.17",
+    "version": "1.8.19",
     "description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
     "homepage": "http://jqueryui.com/",
     "keywords": [
@@ -1381,7 +1406,7 @@
 ,
 {
     "name": "json3",
-    "version": "3.2.0",
+    "version": "3.2.2",
     "filename": "json3.min.js",
     "description": "A modern JSON implementation compatible with nearly all JavaScript platforms.",
     "homepage": "http://bestiejs.github.com/json3",
@@ -1398,7 +1423,7 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "http://kit.mit-license.org/"
+            "url": "http://kit.mit-license.org"
         }
     ],
     "author": {
@@ -1629,6 +1654,12 @@
        {
            "name": "Mootools Dev Team"
        } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/mootools/mootools-core.git"
+       }
    ]
 }
 ,
@@ -1974,6 +2005,12 @@
        {
            "name": "Prototype Core Team"
        } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/sstephenson/prototype.git"
+       }
    ]
 }
 ,
@@ -2003,6 +2040,12 @@
        {
            "name": "PubNub + TopMambo INC"
        } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/pubnub/pubnub-api.git"
+       }
    ]
 }
 ,
@@ -2168,6 +2211,31 @@
 
 },
 {
+    "name": "retina.js",
+    "filename": "retina.js",
+    "version": "1.0.1",
+    "description": "retina.js makes it easy to serve high-resolution images to devices with retina displays.",
+    "homepage": "http://retinajs.com/",
+    "keywords": [
+       "apple",
+       "retina",
+       "image"
+   ],
+   "maintainers": [
+       {
+           "name": "Imulus",
+           "web": "http://imulus.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/imulus/retinajs.git" 
+       } 
+   ]
+}
+,
+{
     "name": "sammy.js",
     "filename": "sammy.min.js",
     "version": "0.7.1",
@@ -2234,6 +2302,12 @@
            "name": "Thomas Fuchs",
            "web": "http://mir.aculo.us/"
        } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/madrobby/scriptaculous.git"
+       }
    ]
 }
 ,
@@ -2547,6 +2621,30 @@
 }
 ,
 {
+    "name": "three.js",
+    "filename": "Three.js",
+    "version": "r49",
+    "description": "three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.",
+    "homepage": "http://mrdoob.github.com/three.js/",
+    "keywords": [
+       "3d",
+       "WebGL"
+   ],
+   "maintainers": [
+       {
+           "name": "Mr.doob",
+           "web": "http://mrdoob.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/mrdoob/three.js.git"
+       } 
+   ]
+}
+,
+{
     "name": "tinyscrollbar",
     "filename": "jquery.tinyscrollbar.min.js",
     "version": "1.66",
@@ -2574,7 +2672,7 @@
 {
     "name": "twitter-bootstrap",
     "filename": "bootstrap.min.js",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "description": "Javascript plugins for the Twitter Bootstrap toolkit",
     "homepage": "http://twitter.github.com/bootstrap/",
     "keywords": [
@@ -2750,7 +2848,16 @@
    "maintainers": [
        {
            "name": "Google"
+       }, 
+       {
+           "name": "Typekit"
        } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/typekit/webfontloader.git"
+       }
    ]
 }
 ,
@@ -2823,6 +2930,12 @@
        {
            "name": "Yahoo! Inc."
        } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/yui/yui3.git"
+       }
    ]
 }
 ,
@@ -2842,6 +2955,12 @@
        {
            "name": "Thomas Fuchs"
        } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/madrobby/zepto.git"
+       }
    ]
 }
 ,
@@ -2875,8 +2994,9 @@
     "repositories": [
         {
             "type": "git",
-            "url": "git@github.com:lowe/zxcvbn.git"
+            "url": "git://github.com/lowe/zxcvbn.git"
         }
     ]
-},
+}
+,
 {}] }
