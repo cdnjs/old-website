@@ -969,6 +969,35 @@
 }
 ,
 {
+  "name": "jo",
+  "filename": "jo.min.js",
+  "description": "Jo is a thin (~12K) candy shell for PhoneGap apps. It's an HTML5 mobile app framework which provides UI widgets, a flexible event model, a wrapper for sound, and a light data layer.",
+  "version": "0.4.1",
+  "homepage": "http://joapp.com",
+  "keywords": [
+    "mobile",
+    "framework"
+  ],
+  "maintainers": [
+    {
+      "name": "David Balmer"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davebalmer/jo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davebalmer/jo/issues"
+  },
+  "licenses": [
+    {
+      "type": "Redistribution",
+      "url": "http://joapp.com/docs/#License"
+    }
+  ]
+},
+{
     "name": "jquery",
     "filename": "jquery.min.js",
     "version": "1.7.2",
@@ -1602,6 +1631,36 @@
 
 }
 ,
+{
+  "name": "mobilizejs",
+  "filename": "mobilize.min.js",
+  "description": "A HTML5 and Javascript framework to transform websites to mobile sites.",
+  "version": "0.9",
+  "homepage": "http://mobilizejs.com",
+  "keywords": [
+    "mobile",
+    "framework"
+  ],
+  "maintainers": [
+    {
+      "name": "Mikko Ohtamaa",
+      "name": "Jussi Toivola"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobilizejs/mobilize.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mobilizejs/mobilize.js/issues"
+  },
+  "licenses": [
+    {
+      "type": "Creative Commons",
+      "url": "http://mobilizejs.com/documentation/"
+    }
+  ]
+},
 {
     "name": "modernizr",
     "filename": "modernizr.min.js",
@@ -2862,32 +2921,34 @@
 }
 ,
 {
-    "name": "xuijs",
-    "filename": "xui.min.js",
-    "version": "2.0.0",
-    "description": "a super micro tiny dom library for authoring html5 mobile web applications.",
-    "homepage": "http://xuijs.com/",
-    "keywords": [
-       "mobile",
-       "html",
-       "dom",
-       "popular"
-   ],
-   "maintainers": [
-       {
-           "name": "Brian LeRoux",
-           "web": "http://westcoastlogic.com" 
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/xui/xui" 
-       } 
-   ]
-
-}
-,
+  "name": "xuijs",
+  "filename": "xui.min.js",
+  "description": "A lightweight, dead simple, micro-tiny, super modular JavaScript framework for building mobile web applications. Its true: the minified code is super tiny.",
+  "version": "2.3.2",
+  "homepage": "http://xuijs.com",
+  "keywords": [
+    "mobile",
+    "framework"
+  ],
+  "maintainers": [
+    {
+      "name": "Brian Leroux"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xui/xui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xui/xui/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://xuijs.com/license"
+    }
+  ]
+},
 {
     "name": "yepnope",
     "filename": "yepnope.min.js",
@@ -2940,30 +3001,34 @@
 }
 ,
 {
-    "name": "zepto",
-    "filename": "zepto.min.js",
-    "version": "0.8",
-    "description": "Zepto.js is a minimalist JavaScript framework for modern web browsers, with a jQuery-compatible syntax.",
-    "homepage": "http://zeptojs.com/",
-    "keywords": [
-       "framework",
-       "toolkit",
-       "mobile",
-       "webkit"
-   ],
-   "maintainers": [
-       {
-           "name": "Thomas Fuchs"
-       } 
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/madrobby/zepto.git"
-       }
-   ]
-}
-,
+  "name": "zepto",
+  "filename": "zepto.min.js",
+  "description": "Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API",
+  "version": "1.0rc1",
+  "homepage": "http://zeptojs.com",
+  "keywords": [
+    "mobile",
+    "framework"
+  ],
+  "maintainers": [
+    {
+      "name": "Thomas Fuchs"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madrobby/zepto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/madrobby/zepto/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/madrobby/zepto/master/MIT-LICENSE"
+    }
+  ]
+},
 {
     "name": "zxcvbn",
     "version": "1.0",
