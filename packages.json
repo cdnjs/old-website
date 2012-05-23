@@ -147,6 +147,33 @@
 }
 ,
 {
+    "name": "backbone.modelbinder",
+    "filename": "Backbone.ModelBinder-min.js",
+    "version": "0.1.3",
+    "description": "Simple, flexible and powerful Model-View binding for Backbone.",
+    "homepage": "https://github.com/theironcook/Backbone.ModelBinder#prerequisites",
+    "keywords": [
+       "modelbinding",
+       "models",
+       "events"
+   ],
+   "maintainers": [
+       {
+           "name": "Bart Wood",
+           "email": "bartwood@gmail.com",
+           "web": "https://github.com/theironcook"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/theironcook/Backbone.ModelBinder"
+       }
+   ]
+
+}
+,
+{
   "name": "benchmark",
   "version": "0.3.0",
   "filename": "benchmark.min.js",
@@ -546,8 +573,8 @@
 ,
 {
     "name": "ember.js",
-    "filename": "ember-0.9.7.1.min.js",
-    "version": "0.9.7.1",
+    "filename": "ember-0.9.8.min.js",
+    "version": "0.9.8",
     "description": "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
     "homepage": "http://emberjs.com/",
     "keywords": [
@@ -836,7 +863,7 @@
 {
     "name": "highcharts",
     "filename": "highcharts.js",
-    "version": "2.2.2",
+    "version": "2.2.3",
     "description": "Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. Highcharts is NOT free for commercial use.  See the license here: http://highcharts.com/license",
     "homepage": "http://highcharts.com/",
     "keywords": [
@@ -1925,6 +1952,31 @@
 }
 ,
 {
+    "name": "path.js",
+    "filename": "path.min.js",
+    "version": "0.8.4",
+    "description": "PathJS is a lightweight, client-side routing library that allows you to create 'single page' applications using Hashbangs and/or HTML5 pushState.",
+    "homepage": "https://github.com/mtrpcic/pathjs",
+    "keywords": [
+        "path",
+        "routing",
+        "fragment",
+        "hash",
+        "push-state"
+    ],
+    "maintainers": [
+        {
+            "name": "mtrpcic"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/mtrpcic/pathjs"
+        }
+    ]
+},
+{
     "name": "pie",
     "filename": "PIE.js",
     "version": "1.0beta5",
@@ -2217,7 +2269,7 @@
 {
     "name": "require.js",
     "filename": "require.min.js",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node",
     "homepage": "http://requirejs.org/",
     "keywords": [
@@ -2872,7 +2924,7 @@
 {
     "name": "waypoints",
     "filename": "waypoints.min.js",
-    "version": "1.1",
+    "version": "1.1.6",
     "description": "Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.",
     "homepage": "http://imakewebthings.github.com/jquery-waypoints",
     "keywords": [
