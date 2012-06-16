@@ -1,0 +1,42 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>cdnjs - local loader</title>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.1.4/underscore-min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/backbone.js/0.3.3/backbone-min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/coffee-script/1.3.1/coffee-script.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/require.js/0.26.0/require.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/1.0.2/waypoints.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/socket.io/0.9.5/socket.io.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/spinejs/0.0.4/spine.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.8.19/jquery-ui.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/js-signals/0.6.1/js-signals.min.js"></script>
+</head>
+<body>
+
+	<h1>cdnjs - local loader - beta</h1>
+	<p>cdnjs local loader is an experimetal idea implemented with a chrome extension</p>
+	<p>cdnjs.com currently host a lot of javascript libraries and their entire version history.</p>
+	<p>We have simply downloaded the entire repository into a chrome extension. When your browser sends off a request for a javascript file, the extension quickly checks to see if the file is hosted on cdnjs.</p>
+	<p>If the file is hosted, instead of sending off a network request, we simply include the file from your chrome extension store.</p>
+	<p>So instead of waiting for an external server to respond, the file gets served locally as fast as your computer can physically.</p>
+	<p>Not only do we check for cdnjs.com request but we also check for Google CDN's because they share the same file structure as us</p>
+	<h3>Try it</h3>
+	<p>Reload this page and check out the network request speed without the extension.</p>
+	<p>Now download the extension <a href="cdnjs-local-loader.crx">cdnjs-local-loader</a></p>
+	<p>Refresh the browser and see super fast page load speeds.  All web pages using google and cdnjs CDNs will load faster and if you develop using cdn links, you can also have localhost development speeds still</p>
+
+	<h3>Discuss</h3>
+	<p>If you want to talk about this beta project, leave a comment on <a href="https://github.com/cdnjs/cdnjs/issues/309">github</a></p>
+
+        
+</body>
+</html> 
