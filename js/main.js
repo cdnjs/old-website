@@ -7,6 +7,7 @@ require.config({
     underscore: 'libs/underscore/underscore-min', // https://github.com/amdjs
     backbone: 'libs/backbone/backbone-min', // https://github.com/amdjs
     sinon: 'libs/sinon/sinon.js',
+    datatables: 'libs/datatables/jquery.dataTables',
 
     // Require.js plugins
     text: 'libs/require/text',

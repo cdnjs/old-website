@@ -29,9 +29,9 @@ define([
 			});
 		});
 		router.on('route:defaultAction', function (actions) {
-			require(['views/dashboard/page'], function (DashboardPage) {
-        var dashboardPage = Vm.create(appView, 'DashboardPage', DashboardPage);
-        dashboardPage.render();
+			require(['views/search/page'], function (SearchPage) {
+        var searchPage = Vm.create(appView, 'SearchPage', SearchPage);
+        searchPage.render();
       });
 		});
 		router.on('route:modules', function () {

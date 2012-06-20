@@ -1,0 +1,18 @@
+<% console.log(packages); %>
+<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example">
+  <thead>
+    <tr>
+      <th>Library</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+  	<% _.each(packages, function(package){ %>
+
+    <tr class="odd gradeX">
+      <td><a href="<%= package.get('homepage') %>"><%= package.get('name') %></a></td>
+      <td>http://cdnjs.cloudflare.com/ajax/libs/<%= package.get('name') %>/<%= package.get('version') %>/<%= package.get('filename') %></td>
+    </tr>
+  	<% }); %>
+  </tbody>
+</table>
