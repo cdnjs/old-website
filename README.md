@@ -1,28 +1,23 @@
-# Backbone boilerplate 
-[http://backboneboilerplate.com](http://backboneboilerplate.com) is a community driven effort to help developers learn and rapidly deploy single page web applications.
+<a href="http://travis-ci.org/cdnjs/cdnjs"><img src="https://secure.travis-ci.org/cdnjs/cdnjs.png" alt="Build Status" style="max-width:100%;"></a>
 
-## Philosophy
-Coming soon
 
-## Other resources
+# cdnJS Script Repository
 
-[http://backbonetutorials.com](http://backbonetutorials.com) - As single page apps and large scale javascript applications become more prominent on the web, useful resources for those developers who are jumping the ship are crucial.
+The repository mirroring all scripts on cdnjs.cloudflare.com
 
-## About the author
+Want your script included? Easy.
 
-**Contact:**
+1. Fork this repository
+2. Add your library (following the conventions of this repository)
+  * 1 library per pull request
+  * include a package.json in the node.js, CommonJS or jQuery format, as appropriate
+3. Run your package.json through a [JSON Validator](http://jsonlint.com/)
+  * Bonus points: set up a [Travis CI hook](http://about.travis-ci.org/docs/user/getting-started/) (we already made the `.travis.yml`) for your fork!
+4. Send us a pull request.
+  * Make sure you include in the pull description:
+      1. Where you downloaded the script
+      2. If it isn't clear, how you found the version of the script
+  * e.g. https://github.com/cdnjs/cdnjs/pull/229
+  * If you set up Travis CI, include your badge for super-readability!
 
-*   [@neutralthoughts](http://twitter.com/neutralthoughts) on twitter
-*   Github - https://github.com/thomasdavis
-*   thomasalwyndavis@gmail.com
-
-**Projects:**
-
-*   Javascript Library CDN - http://cdnjs.com
-*   Backbone.js Tutorials - http://backbonetutorials.com
-*   Proposal Generation Start up - http://protosal.com
-*   Technical Blog - http://thomasdavis.github.com
-*   Quora - http://www.quora.com/Thomas-Davis
-*   StackOverflow - http://stackoverflow.com/users/580675/thomas-davis
-
-Love you mum!
+<img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66606907ns.gif" />
