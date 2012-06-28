@@ -17,6 +17,43 @@
 	
   <!-- Initially populated by templates/layout.html -->
   <div class="container">
+<div class="header">
+</div>
+<div class="clear"></div>
+
+<div class="main-menu-container"><div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <button type="button"class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="brand" href="./index.html">cdnjs</a>
+      <div class="nav-collapse collapse">
+        <ul class="nav">
+          <li class="active">
+            <a href="./index.html">Search</a>
+          </li>
+          <li class="">
+            <a href="http://github.com/cdnjs/cdnjs">Add a library</a>
+          </li>
+          <li class="">
+            <a href="https://github.com/cdnjs/cdnjs/issues?direction=desc&sort=created&state=open">Feedback</a>
+          </li>
+               <li class="">
+            <a href="https://cdnjs.com/test.html">Browser Extension - Beta</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+<div class="clear"></div>
+
+<div class="page">
 
 
 <div class="row">
@@ -75,6 +112,13 @@ We host the other stuff.</p>
 </div>
 </div>
 <div style="clear: both;"></div>
+</div>
+
+<div class="clear"></div>
+
+
+
+
 
 
 
@@ -82,7 +126,7 @@ We host the other stuff.</p>
 
   </div>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-  <script src="js/libs/datatables/jquerydataTables.js" type="text/javascript"></script>
+  <script src="js/libs/datatables/jquery.dataTables.js" type="text/javascript"></script>
   <script src="js/libs/datatables/DT_bootstrap.js" type="text/javascript"></script>
 
   <script>
