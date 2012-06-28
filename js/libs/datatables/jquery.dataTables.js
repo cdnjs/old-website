@@ -1,4 +1,4 @@
-define(['jquery'], function($) {
+
 
 
 /**
@@ -11937,5 +11937,3 @@ $.extend( $.fn.dataTableExt.oPagination, {
 
 /* Table initialisation */
 
-return $.dataTable
-});
