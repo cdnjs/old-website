@@ -24,13 +24,16 @@
 ,
 {
   "name": "angular.js",
-  "filename": "angular-1.0.0rc6.min.js",
-  "description": "AngularJS is an open-source JavaScript framework. Its goal is to augment browser-based applications with Model–View–Controller (MVC) capability, reduce the amount of JavaScript needed to make web applications functional.",
-  "version": "1.0.0rc6",
+  "filename": "angular.min.js",
+  "description": "AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.",
+  "version": "1.0.1",
   "homepage": "http://angularjs.org",
   "keywords": [
     "framework",
-    "mvc"
+    "mvc",
+    "AngularJS",
+    "angular",
+    "angular.js"
   ],
   "contributors": [
     {
@@ -714,7 +717,7 @@
 {
     "name": "galleria",
     "filename": "galleria.min.js",
-    "version": "1.2.6",
+    "version": "1.2.7",
     "description": "The JavaScript Image Gallery.",
     "homepage": "http://galleria.aino.se",
     "keywords": [
@@ -843,7 +846,7 @@
 {
     "name": "highcharts",
     "filename": "highcharts.js",
-    "version": "2.2.4",
+    "version": "2.2.5",
     "description": "Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. Highcharts is NOT free for commercial use.  See the license here: http://highcharts.com/license",
     "homepage": "http://highcharts.com/",
     "keywords": [
@@ -1079,6 +1082,31 @@
    ]
 },
 {
+    "name": "jquery-hashchange",
+    "filename": "jquery.ba-hashchange.min.js",
+    "version": "v1.3",
+    "description": "This jQuery plugin enables very basic bookmarkable #hash history via a cross-browser window.onhashchange event.",
+    "homepage": "http://benalman.com/projects/jquery-hashchange-plugin/",
+    "keywords": [
+       "jquery",
+       "history"
+   ],
+   "maintainers": [
+       {
+           "name": "Ben Alman",
+           "email": "cowboy@rj3.net",
+           "web": "http://benalman.com/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/cowboy/jquery-hashchange"
+       }
+   ]
+}
+,
+{
     "name": "jquery.history",
     "filename": "jquery.history.js",
     "version": "1.9",
@@ -1312,6 +1340,36 @@
         {
             "type": "git",
             "url": "https://github.com/nathansmith/formalize"
+        }
+    ]
+}
+,
+{
+    "name": "jquery.nanoscroller",
+    "filename": "jquery.nanoscroller.min.js",
+    "version": "0.6.8",
+    "description": "A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars",
+    "homepage": "http://jamesflorentino.github.com/nanoScrollerJS/",
+    "keywords": [
+        "scrollbar",
+        "custom",
+        "lion",
+        "jquery"
+    ],
+    "maintainers": [
+        {
+            "name": "James Florentino",
+            "web": "http://jamesflorentino.com"
+        },{
+            "name": "Krister Kari",
+            "web": "http://krister.fi/"
+        }
+        
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/jamesflorentino/nanoScrollerJS"
         }
     ]
 }
@@ -1656,6 +1714,12 @@
             "url": "http://lodash.com/license"
         }
     ],
+    "maintainers": [
+        {
+            "name": "John-David Dalton",
+            "web": "http://allyoucanleet.com/"
+        }
+    ],
     "author": {
         "name": "John-David Dalton",
         "email": "john@fusejs.com",
@@ -1760,6 +1824,30 @@
        } 
    ]
 
+}
+,
+{
+    "name": "moment.js",
+    "filename": "moment.min.js",
+    "version": "1.6.2",
+    "description": "A lightweight (4.3k) javascript date library for parsing, manipulating, and formatting dates.",
+    "homepage": "http://momentjs.com/",
+    "keywords": [
+        "date",
+        "moment",
+        "time"
+    ],
+    "maintainers": [
+        {
+            "name": "Tim Wood"
+        }
+    ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/timrwood/moment"
+       }
+   ]
 }
 ,
 {
@@ -2121,6 +2209,28 @@
     "doc": "docs",
     "test": "tests"
   }
+},
+{
+    "name": "prefixfree.js",
+    "filename": "prefixfree.min.js",
+    "version": "1.0.6",
+    "description": "A script that lets you use only unprefixed CSS properties everywhere. It works behind the scenes, adding the current browser’s prefix to any CSS code, only when it’s needed.",
+    "homepage": "http://leaverou.github.com/prefixfree/",
+    "keywords": [
+       "css"
+   ],
+   "maintainers": [
+       {
+           "name": "Lea Verou"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/leaverou/prefixfree/"
+       }
+   ]
+
 },
 {
     "name": "prettify",
@@ -2537,6 +2647,33 @@
    ]
 },
 {
+    "name": "simplecartjs",
+    "filename": "simplecart.min.js",
+    "version": "3.0.5",
+    "description": "A simple javascript shopping cart that easily integrates with your current website.",
+    "homepage": "http://simplecartjs.org",
+    "keywords": [
+       "cart",
+       "shopping",
+       "simple",
+       "paypal"
+   ],
+   "maintainers": [
+       {
+           "name": "Brett Wejrowski",
+           "web": "http://wojodesign.com"
+       } 
+   ],
+   "repositories": [
+       { 
+           "type": "git",
+           "url": "https://github.com/wojodesign/simplecart-js" 
+       } 
+   ]
+
+}
+,
+{
     "name": "sizzle",
     "filename": "sizzle.min.js",
     "version": "1.4.4",
@@ -2565,7 +2702,7 @@
 {
     "name": "socket.io",
     "filename": "socket.io.min.js",
-    "version": "0.9.5",
+    "version": "0.9.6",
     "description": "Browser-side code for Socket.IO. Socket.IO aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms.",
     "homepage": "http://socket.io",
     "keywords": [
@@ -2871,7 +3008,7 @@
 {
     "name": "twitter-bootstrap",
     "filename": "bootstrap.min.js",
-    "version": "2.0.3",
+    "version": "2.0.4",
     "description": "Javascript plugins for the Twitter Bootstrap toolkit",
     "homepage": "http://twitter.github.com/bootstrap/",
     "keywords": [
@@ -3221,6 +3358,34 @@
             "url": "git://github.com/lowe/zxcvbn.git"
         }
     ]
+}
+,
+{
+  "author": "Ryan Kirkman (http://ryankirkman.com)",
+  "name": "cdnjs",
+  "description": "Our goal is to operate this CDN in a peer reviewed fashion.",
+  "version": "0.0.1",
+  "homepage": "http://www.cdnjs.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cdnjs/cdnjs.git"
+  },
+
+  "scripts": {
+    "build": "./build/build.js",
+    "test": "./node_modules/vows/bin/vows"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "glob":         "3.1.9",
+    "jslint":       "0.1.8",
+    "vows":         "0.6.2",
+    "JSV":          "4.0.1"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
 }
 ,
 {}] }
