@@ -1176,9 +1176,7 @@
   "url": "http://code.appendto.com/plugins/jquery-mockjax/",
   "keywords": [ "ajax", "mock", "unit" ],
   "author": "Jonathan Sharp (http://jdsharp.com/)",
-  "bugs": {
-     "web": "http://github.com/appendto/jquery-mockjax/issues"
-  },
+  "bugs": "http://github.com/appendto/jquery-mockjax/issues",
   "licenses": [
      {
          "type": "MIT",
@@ -1755,7 +1753,7 @@
 ,
 {
     "name": "lodash.js",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "filename": "lodash.min.js",
     "description": "A drop-in replacement for Underscore.js that delivers performance improvements, bug fixes, and additional features.",
     "homepage": "http://lodash.com",
