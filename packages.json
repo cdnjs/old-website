@@ -1173,7 +1173,7 @@
   "filename": "jquery.mockjax.js",
   "version": "1.5.1",
   "description": "Mockjax. The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.",
-  "url": "http://code.appendto.com/plugins/jquery-mockjax/",
+  "homepage": "http://code.appendto.com/plugins/jquery-mockjax/",
   "keywords": [ "ajax", "mock", "unit" ],
   "author": "Jonathan Sharp (http://jdsharp.com/)",
   "bugs": "http://github.com/appendto/jquery-mockjax/issues",
@@ -1583,7 +1583,7 @@
 ,
 {
     "name": "json3",
-    "version": "3.2.2",
+    "version": "3.2.3",
     "filename": "json3.min.js",
     "description": "A modern JSON implementation compatible with nearly all JavaScript platforms.",
     "homepage": "http://bestiejs.github.com/json3",
@@ -1675,7 +1675,7 @@
 {
     "name": "knockout",
     "filename": "knockout-min.js",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM)",
     "homepage": "http://knockoutjs.com/",
     "keywords": [
@@ -1753,7 +1753,7 @@
 ,
 {
     "name": "lodash.js",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "filename": "lodash.min.js",
     "description": "A drop-in replacement for Underscore.js that delivers performance improvements, bug fixes, and additional features.",
     "homepage": "http://lodash.com",
