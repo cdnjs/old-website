@@ -406,6 +406,42 @@
 }
 ,
 {
+    "name": "datatables",
+    "version": "1.9.2",
+    "filename": "jquery.dataTables.min.js",
+    "description": "DataTables enhances HTML tables with the ability to sort, filter and page the data in the table very easily. It provides a comprehensive API and set of configuration options, allowing you to consume data from virtually any data source.",
+    "homepage": "http://datatables.net",
+    "maintainers": [
+        {
+            "name": "Allan Jardine",
+            "url": "http://sprymedia.co.uk"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "http://datatables.net/license_bsd"
+        },
+        {
+            "type": "GPLv2",
+            "url": "http://datatables.net/license_gpl2"
+        }
+    ],
+    "dependencies": {
+        "jquery": "1.3 - 1.7"
+    },
+    "keywords": [
+        "DataTables",
+        "DataTable",
+        "table",
+        "grid",
+        "filter",
+        "sort",
+        "page",
+        "internationalisable"
+    ]
+},
+{
     "name": "datejs",
     "filename": "date.min.js",
     "version": "1.0",
@@ -664,6 +700,15 @@
            "url": "https://github.com/fancyapps/fancyBox" 
        } 
    ]
+}
+,
+{
+	"name": "Firebug Lite",
+	"filename": "firebug-lite.js",
+	"version": "1.4.0",
+	"description": "Firebug Lite is a powerful console logging, modifying and inspecting tool.",
+	"homepage": "https://getfirebug.com/firebuglite/",
+	"keywords": ["firebug", "development","debug"]
 }
 ,
 {
@@ -2049,7 +2094,7 @@
 {
     "name": "ocanvas",
     "filename": "ocanvas.min.js",
-    "version": "2.1.1",
+    "version": "2.2.0",
     "description": "oCanvas is a JavaScript library that makes development with HTML5 canvas easy, by using an object-based approach.",
     "homepage": "http://ocanvas.org/",
     "keywords": [
@@ -2891,7 +2936,7 @@
     "homepage" : "http://hay.github.com/stapes",
     "description": "A (really) tiny Javascript MVC microframework.",
     "keywords": ["mvc", "framework", "lightweight"],
-    "version": "0.5",
+    "version": "0.5.1",
     "repository" : {
         "type" : "git",
         "url" : "http://github.com/hay/stapes.git"
