@@ -95,7 +95,7 @@ We host the other stuff.</p>
   <tbody>
   	<% _.each(packages, function(package){ if(typeof package.name !== 'undefined') { %>
 
-    <tr class="odd gradeX">
+    <tr id="<%= package.name %>" class="odd gradeX">
       <td><a href="<%= package.homepage %>"><%= package.name %></a></td>
       <td>http://cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %></td>
     </tr>
