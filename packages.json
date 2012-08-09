@@ -23,6 +23,30 @@
 }
 ,
 {
+    "name": "alloy-ui",
+    "filename": "aui-min.js",
+    "version": "1.0.1",
+    "description": "Alloy is a UI metaframework that provides a consistent and simple API for building web applications across allthree levels of the browser: structure, style and behavior.",
+    "homepage": "https://github.com/liferay/alloy-ui",
+    "keywords": [
+       "ui",
+       "themeing",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Liferay",
+           "web": "http://www.liferay.com/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/liferay/alloy-ui"
+       }
+   ]
+},
+{
   "name": "angular.js",
   "filename": "angular.min.js",
   "description": "AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.",
@@ -290,6 +314,39 @@
        }
    ]
 
+}
+,
+{
+    "name": "crafty",
+    "filename": "crafty-min.js",
+    "version": "0.4.9",
+    "homepage": "http://craftyjs.com/",
+    "title": "Crafty game framework",
+    "author": {
+        "name": "Louis Stowasser",
+        "url": "http://craftyjs.com/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        },
+		{
+            "type": "GPL",
+            "url": "http://www.opensource.org/licenses/gpl-license.php"
+        }
+    ],
+    "description": "Crafty is a modern component and event based framework for javascript games that targets DOM and canvas. Check out the DEV version if you want to play with the latest and greatest.",
+    "keywords": [
+        "framework",
+        "javascript"
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/craftyjs/Crafty.git"
+        }
+    ]
 }
 ,
 {
@@ -603,8 +660,8 @@
 ,
 {
     "name": "ember.js",
-    "filename": "ember-0.9.8.1.min.js",
-    "version": "0.9.8.1",
+    "filename": "ember-1.0.pre.min.js",
+    "version": "1.0.pre",
     "description": "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
     "homepage": "http://emberjs.com/",
     "keywords": [
@@ -1528,7 +1585,7 @@
 {
     "name": "jqueryui",
     "filename": "jquery-ui.min.js",
-    "version": "1.8.19",
+    "version": "1.8.21",
     "description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
     "homepage": "http://jqueryui.com/",
     "keywords": [
@@ -1900,7 +1957,7 @@
 {
     "name": "modernizr",
     "filename": "modernizr.min.js",
-    "version": "2.5.3",
+    "version": "2.6.1",
     "description": "Modernizr adds classes to the element which allow you to target specific browser functionality in your stylesheet. You don't actually need to write any Javascript to use it.",
     "homepage": "http://www.modernizr.com/",
     "keywords": [
@@ -1924,8 +1981,8 @@
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/Modernizr/Modernizr" 
-       } 
+           "url": "https://github.com/Modernizr/Modernizr"
+       }
    ]
 
 }
