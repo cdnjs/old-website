@@ -173,7 +173,7 @@
 ,
 {
     "name": "backbone.modelbinder",
-    "filename": "Backbone.ModelBinder-min.js",
+    "filename": "Backbone.ModelBinder.min.js",
     "version": "0.1.5",
     "description": "Simple, flexible and powerful Model-View binding for Backbone.",
     "homepage": "https://github.com/theironcook/Backbone.ModelBinder#prerequisites",
@@ -1909,9 +1909,9 @@
 ,
 {
     "name": "lodash.js",
-    "version": "0.4.2",
+    "version": "0.5.0",
     "filename": "lodash.min.js",
-    "description": "A drop-in replacement for Underscore.js that delivers performance improvements, bug fixes, and additional features.",
+    "description": "A drop-in replacement for Underscore.js delivering performance, bug fixes, and additional features.",
     "homepage": "http://lodash.com",
     "main": "lodash",
     "keywords": [
@@ -2044,7 +2044,7 @@
 {
     "name": "moment.js",
     "filename": "moment.min.js",
-    "version": "1.6.2",
+    "version": "1.7.0",
     "description": "A lightweight (4.3k) javascript date library for parsing, manipulating, and formatting dates.",
     "homepage": "http://momentjs.com/",
     "keywords": [
@@ -2970,7 +2970,7 @@
 {
     "name": "sockjs-client",
     "filename": "sockjs-min.js",
-    "version": "0.2.1",
+    "version": "0.3.2",
     "description": "SockJS is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.",
     "homepage": "https://github.com/sockjs/sockjs-client",
     "keywords": [
@@ -3237,8 +3237,8 @@
 ,
 {
     "name": "three.js",
-    "filename": "Three.js",
-    "version": "r49",
+    "filename": "three.min.js",
+    "version": "r50",
     "description": "three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.",
     "homepage": "http://mrdoob.github.com/three.js/",
     "keywords": [
