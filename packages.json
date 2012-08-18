@@ -760,7 +760,7 @@
 }
 ,
 {
-	"name": "Firebug Lite",
+	"name": "firebug-lite",
 	"filename": "firebug-lite.js",
 	"version": "1.4.0",
 	"description": "Firebug Lite is a powerful console logging, modifying and inspecting tool.",
@@ -975,7 +975,7 @@
 }
 ,
 {
-    "name": "History.js",
+    "name": "history.js",
     "filename": "native.history.js",
     "version": "1.7.1",
     "description": "Provides a cross-compatible experience for the History API on all HTML5 Browsers and backwards-compatible one on older ones using a hash-fallback.",
@@ -1220,7 +1220,7 @@
 }
 ,
 {
-    "name": "jquery.history",
+    "name": "jquery-history",
     "filename": "jquery.history.js",
     "version": "1.9",
     "description": "jQuery history plugin helps you to support back/forward buttons and bookmarks in your javascript applications.",
@@ -1750,7 +1750,7 @@
 },
 {
     "name": "jStorage",
-    "filename": "jStorage.min.js",
+    "filename": "jstorage.min.js",
     "version": "0.1.6.1",
     "description": "Simple wrapper plugin for Prototype, MooTools, and jQuery to store data on browser side.",
     "homepage": "http://jstorage.info/",
@@ -2991,7 +2991,7 @@
 }
 ,
 {
-    "name": "stopcensorship.js",
+    "name": "sopa",
     "filename": "stopcensorship.js",
     "version": "1.0",
     "description": "Use this script on your site to protest censorship of the Internet.",
