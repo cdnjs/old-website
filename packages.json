@@ -352,7 +352,7 @@
 {
     "name": "css3finalize",
     "filename": "jquery.css3finalize.min.js",
-    "version": "2.4",
+    "version": "2.5",
     "description": "Skip vendor prefixes",
     "homepage": "https://github.com/codler/jQuery-Css3-Finalize",
     "keywords": [
@@ -1829,6 +1829,34 @@
 }
 ,
 {
+  "name": "kiwi",
+  "description": "Simple, modular, fast and lightweight template engine, based on jQuery templates syntax.",
+  "version": "0.2.1",
+  "author": "Pierre Matri <pierre.matri@coolony.com>",
+  "filename": "kiwi.min.js",
+  "contributors": [
+    { "name": "Pierre Matri", "email": "pierre.matri@coolony.com" }
+  ],
+  "dependencies": {
+    "frame": "*",
+    "underscore": "*",
+    "moment": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "uglify-js": "*",
+    "jshint": "*"
+  },
+  "keywords": ["kiwi", "asynchronous", "template", "web", "express", "engine", "html"],
+    "repository": "git://github.com/coolony/kiwi",
+    "main": "index",
+  "scripts": {
+    "test": "make test"
+    },
+  "engines": { "node":">= 0.6.0" }
+},
+{
     "name": "knockout",
     "filename": "knockout-min.js",
     "version": "2.1.0",
@@ -2739,6 +2767,31 @@
 
 },
 {
+    "name": "ResponsiveSlides.js",
+    "filename": "responsiveslides.min.js",
+    "version": "1.32",
+    "description": "Simple & lightweight responsive slider plugin",
+    "homepage": "http://responsive-slides.viljamis.com/",
+    "keywords": [
+        "ResponsiveSlides",
+        "responsive slider",
+        "jquery"
+    ],
+    "maintainers": [
+        {
+            "name": "Viljami Salminen (Author)",
+            "web": "http://viljamis.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/viljamis/ResponsiveSlides.js"
+        }
+    ]
+}
+,
+{
     "name": "retina.js",
     "filename": "retina.js",
     "version": "1.0.1",
@@ -2946,7 +2999,7 @@
 {
     "name": "socket.io",
     "filename": "socket.io.min.js",
-    "version": "0.9.6",
+    "version": "0.9.10",
     "description": "Browser-side code for Socket.IO. Socket.IO aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms.",
     "homepage": "http://socket.io",
     "keywords": [
