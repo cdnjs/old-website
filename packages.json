@@ -1937,7 +1937,7 @@
 ,
 {
     "name": "lodash.js",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "filename": "lodash.min.js",
     "description": "A drop-in replacement for Underscore.js delivering performance, bug fixes, and additional features.",
     "homepage": "http://lodash.com",
