@@ -1361,7 +1361,7 @@
 {
     "name": "jquery-scrollTo",
     "filename": "jquery.scrollTo.min.js",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "description": "Easy element scrolling using jQuery..",
     "homepage": "http://flesler.blogspot.com/2007/10/jqueryscrollto.html",
     "keywords": [
@@ -1475,6 +1475,19 @@
 
 }
 ,
+{
+    "name": "jquery-validate",
+    "filename": "jquery.validate.min.js",
+    "version": "1.9.0",
+    "description": "Form Validation plugin for jQuery",
+    "homepage": "http://bassistance.de/jquery-plugins/jquery-plugin-validation//",
+    "keywords": [
+        "jQuery",
+        "forms",
+        "validate",
+        "validation"
+    ]
+},
 {
     "name": "jquery.cycle",
     "filename": "jquery.cycle.all.min.js",
@@ -1612,7 +1625,7 @@
 {
     "name": "jqueryui",
     "filename": "jquery-ui.min.js",
-    "version": "1.8.21",
+    "version": "1.8.23",
     "description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
     "homepage": "http://jqueryui.com/",
     "keywords": [
@@ -2841,6 +2854,33 @@
            "url": "https://github.com/imulus/retinajs.git" 
        } 
    ]
+}
+,
+{
+    "name": "rickshaw",
+    "filename": "rickshaw.min.js",
+    "version": "1.1.0",
+    "description": "JavaScript toolkit for creating interactive real-time graphs",
+    "keywords": [
+        "graphs",
+        "charts",
+        "interactive",
+        "time-series",
+        "svg",
+        "d3",
+        "bars",
+        "lines",
+        "scatterplot"
+    ],
+    "homepage": "http://code.shutterstock.com/rickshaw/",
+    "author": {
+        "name": "David Chester",
+        "email": "david@shutterstock.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shutterstock/rickshaw.git"
+    }
 }
 ,
 {
