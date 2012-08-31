@@ -959,7 +959,7 @@
 {
     "name": "highcharts",
     "filename": "highcharts.js",
-    "version": "2.2.5",
+    "version": "2.3.1",
     "description": "Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. Highcharts is NOT free for commercial use.  See the license here: http://highcharts.com/license",
     "homepage": "http://highcharts.com/",
     "keywords": [
@@ -1120,7 +1120,7 @@
 },
 {
     "name": "jquery",
-    "filename": "jquery-1.8.0.min.js",
+    "filename": "jquery.min.js",
     "version": "1.8.0",
     "description": "jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.",
     "homepage": "http://jquery.com/",
@@ -1937,7 +1937,7 @@
 ,
 {
     "name": "lodash.js",
-    "version": "0.5.2",
+    "version": "0.6.1",
     "filename": "lodash.min.js",
     "description": "A drop-in replacement for Underscore.js delivering performance, bug fixes, and additional features.",
     "homepage": "http://lodash.com",
@@ -2522,7 +2522,7 @@
 {
     "name": "prototype",
     "filename": "prototype.js",
-    "version": "1.7.0.0",
+    "version": "1.7.1.0",
     "description": "Prototype is a JavaScript Framework that aims to ease development of dynamic web applications.",
     "homepage": "http://prototypejs.org/",
     "keywords": [
@@ -2741,7 +2741,7 @@
 {
     "name": "require.js",
     "filename": "require.min.js",
-    "version": "2.0.5",
+    "version": "2.0.6",
     "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node",
     "homepage": "http://requirejs.org/",
     "keywords": [
@@ -2753,14 +2753,14 @@
    "maintainers": [
        {
            "name": "James Burke",
-           "web": "http://tagneto.blogspot.com" 
-       } 
+           "web": "http://tagneto.blogspot.com"
+       }
    ],
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/jrburke/requirejs" 
-       } 
+           "url": "https://github.com/jrburke/requirejs"
+       }
    ]
 
 }
@@ -3367,7 +3367,7 @@
 {
     "name": "twitter-bootstrap",
     "filename": "bootstrap.min.js",
-    "version": "2.0.4",
+    "version": "2.1.0",
     "description": "Javascript plugins for the Twitter Bootstrap toolkit",
     "homepage": "http://twitter.github.com/bootstrap/",
     "keywords": [
