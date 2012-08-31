@@ -635,6 +635,32 @@
 }
 ,
 {
+    "name": "dropbox.js",
+    "filename": "dropbox.min.js",
+    "version": "0.5.0",
+    "description": "Client library for the Dropbox API",
+    "homepage": "https://dropbox.com/developers",
+    "keywords": [
+        "dropbox",
+        "filesystem",
+        "storage"
+    ],
+    "maintainers": [
+        {
+            "name": "Victor Costan",
+            "email": "victor@costan.us",
+            "web": "http://www.costan.us"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/dropbox/dropbox-js"
+        }
+    ]
+}
+,
+{
     "name": "dygraph",
     "filename": "dygraph-combined.js",
     "version": "1.2",
