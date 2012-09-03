@@ -2748,6 +2748,29 @@
 }
 ,
 {
+    "name": "raven.js",
+    "filename": "raven.min.js",
+    "version": "0.5.3",
+    "description": "JavaScript client for the Sentry realtime event logging and aggregation platform.",
+    "homepage": "https://github.com/lincolnloop/raven-js",
+    "keywords": [
+       "raven",
+       "sentry"
+   ],
+   "maintainers": [
+       {
+           "name": "Lincoln Loop"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/lincolnloop/raven-js"
+       }
+   ]
+}
+,
+{
 	"name": "remoteStorage",
 	"version": "0.6.9",
 	"filename": "remoteStorage.min.js",
