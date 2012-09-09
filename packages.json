@@ -240,7 +240,7 @@
 {
     "name": "camanjs",
     "filename": "caman.full.min.js",
-    "version": "3.1.1",
+    "version": "3.2",
     "description": "Pure Javascript (Ca)nvas (Man)ipulation.",
     "homepage": "http://camanjs.com/",
     "keywords": [
@@ -352,7 +352,7 @@
 {
     "name": "css3finalize",
     "filename": "jquery.css3finalize.min.js",
-    "version": "3.0",
+    "version": "3.1",
     "description": "Skip vendor prefixes",
     "homepage": "https://github.com/codler/jQuery-Css3-Finalize",
     "keywords": [
