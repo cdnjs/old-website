@@ -464,7 +464,7 @@
 ,
 {
     "name": "datatables",
-    "version": "1.9.2",
+    "version": "1.9.3",
     "filename": "jquery.dataTables.min.js",
     "description": "DataTables enhances HTML tables with the ability to sort, filter and page the data in the table very easily. It provides a comprehensive API and set of configuration options, allowing you to consume data from virtually any data source.",
     "homepage": "http://datatables.net",
@@ -637,7 +637,7 @@
 {
     "name": "dropbox.js",
     "filename": "dropbox.min.js",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "description": "Client library for the Dropbox API",
     "homepage": "https://dropbox.com/developers",
     "keywords": [
@@ -2003,7 +2003,7 @@
 ,
 {
     "name": "lodash.js",
-    "version": "0.6.1",
+    "version": "0.7.0",
     "filename": "lodash.min.js",
     "description": "A drop-in replacement for Underscore.js delivering performance, bug fixes, and additional features.",
     "homepage": "http://lodash.com",
@@ -2031,7 +2031,7 @@
     ],
     "author": {
         "name": "John-David Dalton",
-        "email": "john@fusejs.com",
+        "email": "john.david.dalton@gmail.com",
         "web": "http://allyoucanleet.com/"
     },
     "bugs": "https://github.com/bestiejs/lodash/issues",
