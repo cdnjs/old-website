@@ -268,6 +268,19 @@
 }
 ,
 {
+    "name": "chosen",
+    "filename": "chosen.jquery.min.js",
+    "version": "0.9.8",
+    "description": "Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly. It is currently available in both jQuery and Prototype flavors.",
+    "homepage": "http://harvesthq.github.com/chosen",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/harvesthq/chosen.git"
+        }
+    ]
+},
+{
     "name": "chrome-frame",
     "filename": "CFInstall.min.js",
     "version": "1.0.2",
@@ -1204,6 +1217,23 @@
    ]
 }
 ,
+{
+  "name": "jquery-cookie",
+  "filename": "jquery.cookie.js",
+  "version": "1.2",
+  "description": "A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",
+  "homepage": "https://github.com/carhartl/jquery-cookie",
+  "keywords": [
+    "jquery",
+    "cookie"
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url" : "https://github.com/carhartl/jquery-cookie"
+    }
+  ]
+},
 {
     "name": "jquery-easing",
     "filename": "jquery.easing.min.js",
@@ -3333,6 +3363,29 @@
        }
    ]
 },
+{
+  "name": "stats.js",
+  "filename": "Stats.js",
+  "version": "r11",
+  "description": "JavaScript Performance Monitor.",
+  "homepage": "https://github.com/mrdoob/stats.js/",
+  "keywords": [
+     "fps",
+     "framerate"
+ ],
+ "maintainers": [
+     {
+         "name": "Mr. Doob"
+     }
+ ],
+ "repositories": [
+     {
+         "type": "git",
+         "url": "https://github.com/mrdoob/stats.js/"
+     }
+ ]
+}
+,
 {
   "name": "store.js",
   "filename": "store.min.js",
