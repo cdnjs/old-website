@@ -1245,7 +1245,7 @@
 {
     "name": "jquery",
     "filename": "jquery.min.js",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "description": "jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.",
     "homepage": "http://jquery.com/",
     "keywords": [
@@ -1519,6 +1519,29 @@
        {
            "type": "svn",
            "url": "http://code.google.com/p/flesler-plugins/"
+       }
+   ]
+}
+,
+{
+    "name": "jquery-sparklines",
+    "filename": "jquery.sparkline.min.js",
+    "version": "2.0.0",
+    "description": "This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript",
+    "homepage": "http://omnipotent.net/jquery.sparkline",
+    "keywords": [
+        "jquery",
+        "sparkline"
+    ],
+    "maintainers": [
+        {
+            "name": "Splunk"
+        }
+    ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/gwatts/jquery.sparkline.git"
        }
    ]
 }
@@ -2344,7 +2367,7 @@
 {
     "name": "morris.js",
     "filename": "morris.min.js",
-    "version": "0.2.9",
+    "version": "0.3.0",
     "description": "Pretty time-series line graphs. requires raphael >= v2.0.",
     "homepage": "http://oesmith.github.com/morris.js/",
     "keywords": [
