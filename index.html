@@ -98,7 +98,7 @@ Usage stats are available over a CORS enabled <a href="https://github.com/cdnjs/
     <tr>
       <th>Library</th>
       <th>Link</th>
-      <th>Yesterday's hits</th>
+      <th>Wendnesday's hits</th>
     </tr>
   </thead>
   <tbody>
@@ -1258,7 +1258,7 @@ $.fn.dataTableExt.afnSortData['dom-text'] = function  ( oSettings, iColumn )
               { "sSortDataType": "dom-text" },
             ]
           });
-        $.ajax('http://stats.cdnjs.com/?from=-2days&to=-2days', {
+        $.ajax('http://stats.cdnjs.com/?from=last wednesday&to= last wednesday', {
           success: function(res) {
             var libraries = res.libraries;
             for(library in libraries) {
