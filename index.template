@@ -150,6 +150,14 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
   }
   return x1 + x2;
 }
+        $('#example').dataTable({
+            "sDom": "<'row'<'span12'f>r>t<'row'<'span6'i><'span6'p>>",
+            "sPaginationType": "bootstrap",
+             "bPaginate": false,
+            "oLanguage": {
+              "sLengthMenu": "_MENU_ records per page"
+            }
+          });
 /*
 $.fn.dataTableExt.afnSortData['dom-text'] = function  ( oSettings, iColumn )
 {
