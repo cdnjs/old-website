@@ -975,7 +975,7 @@
 {
     "name": "fancybox",
     "filename": "jquery.fancybox.pack.js",
-    "version": "2.0.6",
+    "version": "2.1.1",
     "description": "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. It is built at the top of the popular JavaScript framework jQuery and is both easy to implement and a snap to customize.",
     "homepage": "http://fancyapps.com/fancybox/",
     "keywords": [
@@ -1778,7 +1778,7 @@
 {
     "name": "jquery-validate",
     "filename": "jquery.validate.min.js",
-    "version": "1.9.0",
+    "version": "1.10.0",
     "description": "Form Validation plugin for jQuery",
     "homepage": "http://bassistance.de/jquery-plugins/jquery-plugin-validation//",
     "keywords": [
@@ -2018,7 +2018,7 @@
 {
     "name": "jqueryui",
     "filename": "jquery-ui.min.js",
-    "version": "1.8.24",
+    "version": "1.9.0",
     "description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
     "homepage": "http://jqueryui.com/",
     "keywords": [
@@ -2068,7 +2068,7 @@
 {
     "name": "js-signals",
     "filename": "js-signals.min.js",
-    "version": "0.6.1",
+    "version": "0.8.1",
     "description": "Custom Event/Messaging system for JavaScript.",
     "homepage": "http://millermedeiros.github.com/js-signals/",
     "keywords": [
@@ -2145,7 +2145,7 @@
 ,
 {
     "name": "json3",
-    "version": "3.2.3",
+    "version": "3.2.4",
     "filename": "json3.min.js",
     "description": "A modern JSON implementation compatible with nearly all JavaScript platforms.",
     "homepage": "http://bestiejs.github.com/json3",
@@ -3116,6 +3116,32 @@
 		"test": "tests"
 	}
 },
+{
+    "name": "qunit",
+    "filename": "qunit-1.10.0.js",
+    "version": "1.10.0",
+    "description": "An easy-to-use JavaScript Unit Testing framework.",
+    "homepage": "http://qunitjs.com/",
+    "keywords": [
+       "framework",
+       "toolkit",
+       "popular",
+	   "unit tests"
+   ],
+   "maintainers": [
+       {
+           "name": "The jQuery Foundation.",
+           "web": "http://jquery.org/team/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/jquery/qunit.git"
+       }
+   ]
+}
+,
 {
     "name": "raphael",
     "filename": "raphael-min.js",
@@ -4093,6 +4119,33 @@
             "url": "https://github.com/tbranyen/use.js.git"
         }
     ]
+}
+,
+{
+    "name": "vertx",
+    "filename": "vertxbus.min.js",
+    "version": "1.2.3",
+    "description": "Effortless asynchronous application development for the modern web and enterprise. This library internally uses SockJS to send and receive data to a SockJS vert.x server called the SockJS bridge. http://vertx.io/core_manual_js.html#sockjs-eventbus-bridge",
+    "homepage": "http://vertx.io/",
+    "keywords": [
+       "vertx",
+       "vert.x",
+       "vertxbus",
+       "eventbus",
+       "SockJS"
+   ],
+   "maintainers": [
+       {
+           "name": "Tim Fox",
+           "web": "http://vertx.io/community.html"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/vert-x/vert.x"
+       }
+   ]
 }
 ,
 {
