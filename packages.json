@@ -1772,7 +1772,7 @@
 {
     "name": "jquery-timeago",
     "filename": "jquery.timeago.js",
-    "version": "0.9.3",
+    "version": "0.11.4",
     "description": "Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. '4 minutes ago' or 'about 1 day ago') from ISO 8601 formatted dates and times embedded in your HTML (à la microformats).",
     "homepage": "http://timeago.yarp.com/",
     "keywords": [
@@ -1987,6 +1987,31 @@
         }
     ]
 },
+{
+    "name": "jquery.lifestream",
+    "filename": "jquery.lifestream.min.js",
+    "version": "0.3.2",
+    "description": "Show a stream of your online activity.",
+    "homepage": "https://github.com/christianv/jquery-lifestream",
+    "keywords": [
+        "lifestream",
+        "social networks",
+        "jquery"
+    ],
+    "maintainers": [
+        {
+            "name": "Christian Vuerings",
+            "web": "http://denbuzze.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/christianv/jquery-lifestream.git"
+        }
+    ]
+}
+,
 {
     "name": "jquery.nanoscroller",
     "filename": "jquery.nanoscroller.min.js",
@@ -2446,7 +2471,7 @@
 ,
 {
     "name": "lodash.js",
-    "version": "0.8.2",
+    "version": "0.9.0",
     "filename": "lodash.min.js",
     "description": "A drop-in replacement for Underscore.js delivering performance, bug fixes, and additional features.",
     "homepage": "http://lodash.com",
@@ -2686,8 +2711,9 @@
 {
     "name": "mustache.js",
     "filename": "mustache.min.js",
-    "version": "0.5.0-dev",
+    "version": "0.7.0",
     "description": "Logic-less {{mustache}} templates with JavaScript",
+    "author": "mustache.js Authors <http://github.com/janl/mustache.js>",
     "homepage": "https://github.com/janl/mustache.js",
     "keywords": [
        "templates",
@@ -4054,6 +4080,31 @@
        {
            "type": "plain file",
            "url": "http://baijs.nl/tinyscrollbar/js/jquery.tinyscrollbar.min.js" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "treesaver",
+    "filename": "treesaver-0.10.0.js",
+    "version": "0.10.0",
+    "description": "JavaScript library for creating column and page-based layouts.",
+    "homepage": "https://github.com/Treesaver/treesaver",
+    "keywords": [
+       "responsive",
+       "layout"
+   ],
+   "maintainers": [
+       {
+           "name": "Andrea Campi",
+           "web": "https://github.com/andreacampi" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/Treesaver/treesaver" 
        } 
    ]
 
