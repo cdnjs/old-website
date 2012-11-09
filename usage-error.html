@@ -1,4 +1,4 @@
-Hey guys, Cloudflare has recently had to limit ICMP packets which has affected our monitoring service.   The CDN itself has had no network issues.
+Hey guys, Cloudflare has recently had to limit ICMP packets which has affected our monitoring service.   The CDN itself has no network issues.
 <br />
 <br />
 To solve this, we've changed the way we monitor.   We now perform HTTP checks instead of PING checks by loading a real file from the CDN (http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js).   We've also changed to HTTP monitoring for the website.
