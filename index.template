@@ -106,7 +106,21 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
 
     <tr id="<%= package.name.replace('.', '') %>" class="odd gradeX">
       <td><a href="<%= package.homepage %>"><%= package.name %></a></td>
-      <td>//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %></td>
+      <td>//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>
+        <ul>
+        <% 
+          var version = '';
+        _.each(package.files, function(file) { 
+          if(version !== file[1]) {
+            version = file[1];
+          %>
+        <li class="version"><h3><%= file[1] %></h3></li>
+        <% }; %>
+          <li class="library">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= file[1] %>/<%= file[2] %></li>
+        <% }); %>
+      </ul>
+   <button  class="btn btn-mini btn-blue"><i class=" icon-chevron-down"></i></button>
+      </td>
       <!--<td class="hits">0</td>-->
     </tr>
   	<% } }); %>
@@ -150,6 +164,16 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
   }
   return x1 + x2;
 }
+$('body').on('click', '.icon-chevron-down', function(ev) {
+  $(ev.currentTarget).removeClass('icon-chevron-down').addClass('icon-chevron-up');
+  $(ev.currentTarget).parents('td').find('ul').slideDown(200);
+});
+
+$('body').on('click', '.icon-chevron-up', function(ev) {
+  $(ev.currentTarget).removeClass('icon-chevron-up').addClass('icon-chevron-down');
+  $(ev.currentTarget).parents('td').find('ul').slideUp(200);
+});
+
         $('#example').dataTable({
             "sDom": "<'row'<'span12'f>r>t<'row'<'span6'i><'span6'p>>",
             "sPaginationType": "bootstrap",

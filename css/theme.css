@@ -11,7 +11,34 @@ table.table thead .sorting_desc_disabled {
     cursor: pointer;
     *cursor: hand;
 }
- 
+.table th, .table td { 
+  line-height: 20px;
+}
+td ul { 
+  display: none;
+list-style: none;
+margin: 0;
+padding: 0;
+}
+td {
+  position: relative;
+}
+li.version {
+  margin: 10px;
+}
+li.library {
+  margin: 5px 10px;
+}
+ tr .btn {
+  display: none !important;
+  position: absolute;
+  right: 5px;
+  top: 8px;
+ }
+tr:hover .btn {
+ display: inline-block !important;
+}
+
 table.table thead .sorting { background: url('images/sort_both.png') no-repeat center right; }
 table.table thead .sorting_asc { background: url('images/sort_asc.png') no-repeat center right; }
 table.table thead .sorting_desc { background: url('images/sort_desc.png') no-repeat center right; }
