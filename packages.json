@@ -118,7 +118,7 @@
 {
     "name": "augment.js",
     "filename": "augment.min.js",
-    "version": "0.4.0",
+    "version": "0.4.2",
     "description": "Enables use of modern JavaScript by augmenting built in objects with the latest JavaScript methods.",
     "homepage": "http://augmentjs.com",
     "keywords": [
@@ -1240,6 +1240,33 @@
 }
 ,
 {
+    "name": "garlic.js",
+    "filename": "garlic.min.js",
+    "version": "0.0.1",
+    "description": "Garlic.js allows you to automatically persist your forms' text field values locally, until the form is submitted. This way, your users don't lose any precious data if they accidentally close their tab or browser.",
+    "homepage": "http://guillaumepotier.github.com/Garlic.js/",
+    "keywords": [
+       "html",
+       "form",
+       "forms"
+   ],
+   "maintainers": [
+       {
+           "name": "Guillaume Potier",
+           "email": "guillaume@wisembly.com",
+           "web": "http://guillaumepotier.com/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/guillaumepotier/Garlic.js"
+       }
+   ]
+
+}
+,
+{
   "author": "Eduardo Cereto Carvalho (http://www.cardinalpath.com)",
   "name": "gas",
   "filename": "gas.min.js",
@@ -1903,6 +1930,28 @@
     ]
 
 },
+{
+    "name": "jquery-powertip",
+    "filename": "jquery.powertip-1.1.0.min.js",
+    "version": "1.1.0",
+    "description": "A jQuery plugin that creates hover tooltips.",
+    "homepage": "http://stevenbenner.github.com/jquery-powertip/",
+    "keywords": [
+       "jquery-powertip"
+   ],
+   "maintainers": [
+       {
+           "name": "Steven Benner"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/stevenbenner/jquery-powertip"
+       }
+   ]
+}
+,
 {
     "name": "jquery-scrollTo",
     "filename": "jquery.scrollTo.min.js",
@@ -2806,7 +2855,7 @@
 {
     "name": "masonry",
     "filename": "jquery.masonry.min.js",
-    "version": "2.1.04",
+    "version": "2.1.05",
     "description": "A dynamic layout plugin for jQuery.",
     "homepage": "http://masonry.desandro.com/",
     "keywords": [
@@ -2973,8 +3022,8 @@
 {
     "name": "morris.js",
     "filename": "morris.min.js",
-    "version": "0.3.0",
-    "description": "Pretty time-series line graphs. requires raphael >= v2.0.",
+    "version": "0.3.3",
+    "description": "Pretty time-series line graphs",
     "homepage": "http://oesmith.github.com/morris.js/",
     "keywords": [
        "graphs",
@@ -3899,7 +3948,7 @@
     "filename": "shred.bundle.min.js",
     "version": "0.7.12",
     "description": "Shred is an HTTP client library for browsers and node.js. Shred supports gzip, cookies, https, proxies, and redirects.",
-    "homepage": "https://github.com/spire-io/shred",
+    "homepage": "https://github.com/automatthew/shred",
     "keywords": [
        "http",
        "xhr",
@@ -3919,7 +3968,8 @@
            "url": "https://github.com/spire-io/shred"
        }
    ]
-},
+}
+,
 {
     "name": "simplecartjs",
     "filename": "simplecart.min.js",
@@ -4600,7 +4650,7 @@
 {
     "name": "vertx",
     "filename": "vertxbus.min.js",
-    "version": "1.2.3",
+    "version": "1.3.0",
     "description": "Effortless asynchronous application development for the modern web and enterprise. This library internally uses SockJS to send and receive data to a SockJS vert.x server called the SockJS bridge. http://vertx.io/core_manual_js.html#sockjs-eventbus-bridge",
     "homepage": "http://vertx.io/",
     "keywords": [
