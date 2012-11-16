@@ -1306,7 +1306,7 @@
     "filename": "galleria.min.js",
     "version": "1.2.8",
     "description": "The JavaScript Image Gallery.",
-    "homepage": "http://galleria.aino.se",
+    "homepage": "http://galleria.io/",
     "keywords": [
        "gallery",
        "framework",
@@ -2216,7 +2216,7 @@
     "filename": "jquery.tools.min.js",
     "version": "1.2.6",
     "description": "jQuery Tools is a collection of the most important user-interface components for modern websites. Used by large sites all over the world.",
-    "homepage": "http://flowplayer.org/tools/index.html",
+    "homepage": "http://jquerytools.org/",
     "keywords": [
        "jquery",
        "ui",
@@ -2226,7 +2226,7 @@
        {
            "name": "jQuery Tools",
            "email": "tipiirai+jquerytools@gmail.com",
-           "web": "http://flowplayer.org/tools/index.html"
+           "web": "http://jquerytools.org/"
        }
    ],
    "repositories": [
