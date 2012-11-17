@@ -380,6 +380,32 @@
    ]
 },
 {
+  "name": "backbone.validation",
+  "filename": "backbone-validation-min.js",
+  "version": "0.6.2",
+  "description": "A validation plugin for Backbone.js that validates both your model as well as form input.",
+  "homepage": "http://thedersen.com/projects/backbone-validation",
+  "keywords": [
+      "validation",
+      "events",
+      "models",
+      "views"
+  ],
+  "maintainers": [
+      {
+        "name": "Thomas Pedersen",
+        "web": "http://thedersen.com/"
+      }
+  ],
+  "repositories": [
+      {
+        "type": "git",
+        "url": "http://github.com/thedersen/backbone.validation.git"
+      }
+  ]
+}
+,
+{
     "name": "backbone.wreqr",
     "filename": "backbone.wreqr.min.js",
     "version": "0.0.0",
@@ -3772,6 +3798,29 @@
 		"doc": "docs",
 		"test": "tests"
 	}
+},
+{
+    "name": "qooxdoo",
+    "filename": "q.min.js",
+    "author" : "Martin Wittemann <martin.wittemann@1und1.de>",
+    "homepage" : "http://qooxdoo.org",
+    "description": "qooxdoo is a cross-browser DOM manipulation library to enhance websites with a rich user experience.",
+    "keywords": ["framework", "toolkit", "dom"],
+    "version": "2.0.3",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/qooxdoo/qooxdoo.git"
+    },
+   "maintainers": [
+       {
+           "name": "Martin Wittemann",
+           "email": "martin.wittemann@1und1.de"
+       },
+       {
+           "name": "Daniel Wagner",
+           "email": "daniel.wagner@1und1.de"
+       }
+   ]
 },
 {
     "name": "qunit",
