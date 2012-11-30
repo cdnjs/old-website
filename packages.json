@@ -359,8 +359,8 @@
 {
     "name": "backbone.syphon",
     "filename": "backbone.syphon.min.js",
-    "version": "0.3.0",
-    "description": "Serialize the forms in your Backbone.Views into a JSON object for use with Backbone's models.",
+    "version": "0.4.1",
+    "description": "Serialize a Backbone.View in to a JavaScript object",
     "homepage": "http://github.com/derickbailey/backbone.syphon/",
     "keywords": [
        "modelbinding",
@@ -1019,7 +1019,7 @@
 {
     "name": "dropbox.js",
     "filename": "dropbox.min.js",
-    "version": "0.6.3",
+    "version": "0.7.1",
     "description": "Client library for the Dropbox API",
     "homepage": "https://dropbox.com/developers",
     "keywords": [
@@ -5020,7 +5020,7 @@
 {
     "name": "visibility.js",
     "filename": "visibility.min.js",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "description": "A wrapper for the Page Visibility API",
     "homepage": "https://github.com/ai/visibility.js",
     "keywords": [
