@@ -119,7 +119,7 @@
   "name": "angular.js",
   "filename": "angular.min.js",
   "description": "AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "http://angularjs.org",
   "keywords": [
     "framework",
@@ -382,7 +382,7 @@
 {
   "name": "backbone.validation",
   "filename": "backbone-validation-min.js",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "description": "A validation plugin for Backbone.js that validates both your model as well as form input.",
   "homepage": "http://thedersen.com/projects/backbone-validation",
   "keywords": [
@@ -554,7 +554,7 @@
 {
     "name": "chosen",
     "filename": "chosen.jquery.min.js",
-    "version": "0.9.8",
+    "version": "0.9.10",
     "description": "Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly. It is currently available in both jQuery and Prototype flavors.",
     "homepage": "http://harvesthq.github.com/chosen",
     "repositories": [
@@ -563,7 +563,8 @@
             "url": "https://github.com/harvesthq/chosen.git"
         }
     ]
-},
+}
+,
 {
     "name": "chrome-frame",
     "filename": "CFInstall.min.js",
@@ -675,7 +676,7 @@
 {
     "name": "css3finalize",
     "filename": "jquery.css3finalize.min.js",
-    "version": "3.1",
+    "version": "3.2",
     "description": "Skip vendor prefixes",
     "homepage": "https://github.com/codler/jQuery-Css3-Finalize",
     "keywords": [
@@ -806,6 +807,30 @@
            "url": "https://github.com/jsantell/dancer.js"
        }
    ]
+}
+,
+{
+    "name": "dat-gui",
+    "filename": "dat.gui.min.js",
+    "version": "0.5",
+    "description": "A lightweight graphical user interface for changing variables in JavaScript.",
+    "homepage": "http://code.google.com/p/dat-gui/",
+    "keywords": [
+       "ui",
+       "DataArtsTeam"
+    ],
+    "maintainers": [
+        {
+            "name": "George Michael Brower",
+            "web": "http://www.georgemichaelbrower.com" 
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://code.google.com/p/dat-gui/"
+        }
+    ]
 }
 ,
 {
@@ -1115,6 +1140,33 @@
         "embed"
     ]
 },
+{
+    "name": "ember-data.js",
+    "filename": "ember-data-latest.min.js",
+    "version": "0.8.0-latest20121123",
+    "description": "A data persistence library for Ember.js.",
+    "homepage": "https://github.com/emberjs/data",
+    "keywords": [
+       "ember",
+       "ember.js",
+       "ember-data",
+       "ember-data.js"
+   ],
+   "maintainers": [
+       {
+           "name": "Ember.js",
+           "web": "http://emberjs.com"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/emberjs/data"
+       }
+   ]
+
+}
+,
 {
     "name": "ember.js",
     "filename": "ember-1.0.0-pre.2.min.js",
@@ -1870,6 +1922,32 @@
 }
 ,
 {
+    "name": "jquery-backstretch",
+    "filename": "jquery.backstretch.min.js",
+    "version": "2.0.3",
+    "description": "Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.",
+    "homepage": "http://srobbin.com/jquery-plugins/backstretch/",
+    "keywords": [
+       "jquery",
+       "background",
+       "photo",
+       "stretch"
+   ],
+   "maintainers": [
+       {
+           "name": "Scott Robbin",
+           "email": "scott@robbin.co",
+           "web": "http://srobbin.com/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/srobbin/jquery-backstretch"
+       }
+   ]
+},
+{
   "name": "jquery-cookie",
   "filename": "jquery.cookie.js",
   "version": "1.2",
@@ -2468,7 +2546,7 @@
 {
     "name": "jquery.form",
     "filename": "jquery.form.js",
-    "version": "3.09",
+    "version": "3.20",
     "description": "The jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX",
     "homepage": "http://jquery.malsup.com/form/",
     "keywords": [
@@ -2655,7 +2733,7 @@
 {
     "name": "jqueryui",
     "filename": "jquery-ui.min.js",
-    "version": "1.9.1",
+    "version": "1.9.2",
     "description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
     "homepage": "http://jqueryui.com/",
     "keywords": [
@@ -2757,7 +2835,7 @@
 {
     "name": "json2",
     "filename": "json2.js",
-    "version": "20110223",
+    "version": "20121008",
     "description": "This file creates a global JSON object containing two methods: stringify and parse.",
     "homepage": "https://github.com/douglascrockford/JSON-js",
     "keywords": [
@@ -2818,6 +2896,39 @@
     }
 },
 {
+    "name": "jsoneditor",
+    "filename": "jsoneditor-min.js",
+    "version": "1.6.2",
+    "description": "JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in formatted plain text.",
+    "homepage": "http://jsoneditoronline.org",
+    "keywords": [
+        "json",
+        "html",
+        "editor"
+    ],
+    "licenses": [
+        {
+            "type": "Apache License 2.0",
+            "url": "http://www.apache.org/licenses/"
+        }
+    ],
+    "author": {
+        "name": "Jos de Jong",
+        "web": "http://github.com/wjosdejong"
+    },
+    "maintainers": [
+        {
+            "name": "Jos de Jong",
+            "web": "http://github.com/wjosdejong"
+        }
+    ],
+    "bugs": "http://github.com/wjosdejong/jsoneditoronline/issues",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/wjosdejong/jsoneditoronline.git"
+    }
+},
+{
     "name": "jStorage",
     "filename": "jstorage.min.js",
     "version": "0.3.0",
@@ -2847,7 +2958,7 @@
 {
     "name": "jsxgraph",
     "filename": "jsxgraphcore.js",
-    "version": "0.94",
+    "version": "0.96",
     "description": "JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.",
     "homepage": "http://jsxgraph.org/",
     "keywords": [
@@ -2862,9 +2973,13 @@
    ],
    "repositories": [
        {
-           "type": "svn",
-           "url": "https://jsxgraph.svn.sourceforge.net/svnroot/jsxgraph" 
-       } 
+           "type": "git",
+           "url": "https://github.com/jsxgraph/jsxgraph.git"
+       },
+       {
+           "type": "git",
+           "url": "http://git.code.sf.net/p/jsxgraph/code"
+       }
    ]
 }
 ,
@@ -2954,7 +3069,7 @@
 {
     "name": "knockout.mapping",
     "filename": "knockout.mapping.js",
-    "version": "2.3.3",
+    "version": "2.3.4",
     "description": "Object mapping plugin for Knockout",
     "homepage": "http://knockoutjs.com/documentation/plugins-mapping.html",
     "keywords": [
@@ -3055,9 +3170,9 @@
 ,
 {
     "name": "lodash.js",
-    "version": "0.10.0",
+    "version": "1.0.0-rc.2",
     "filename": "lodash.min.js",
-    "description": "A drop-in replacement for Underscore.js delivering performance, bug fixes, and additional features.",
+    "description": "A utility library, usable as a drop-in replacement for Underscore, delivering performance, bug fixes, and additional features.",
     "homepage": "http://lodash.com",
     "main": "lodash",
     "keywords": [
@@ -4002,6 +4117,82 @@
 }
 ,
 {
+    "filename": "cs.js",
+    "name": "require-cs",
+    "version": "0.4.2",
+    "description": "Load files written in CoffeeScript.",
+    "homepage": "https://github.com/jrburke/require-cs",
+    "keywords": [
+        "requirejs",
+        "coffeescript",
+        "coffee"
+    ],
+    "maintainers": [
+          {
+              "name": "James Burke",
+              "email": "jrburke@gmail.com",
+              "web": "http://tagneto.blogspot.ru/"
+          }
+      ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/jrburke/require-cs"
+        }
+    ]
+}
+,
+{
+    "filename": "domReady.js",
+    "name": "require-domReady",
+    "version": "2.0.1",
+    "description": "Wait for the DOM is ready.",
+    "homepage": "https://github.com/requirejs/domReady",
+    "keywords": [
+        "requirejs",
+        "domready"
+    ],
+    "maintainers": [
+          {
+              "name": "James Burke",
+              "email": "jrburke@gmail.com",
+              "web": "http://tagneto.blogspot.ru/"
+          }
+      ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/requirejs/domReady"
+        }
+    ]
+}
+,
+{
+    "filename": "i18n.js",
+    "name": "require-i18n",
+    "version": "2.0.1",
+    "description": "Load string bundles used in internationalization (i18n) that are made up of separate country/language/locale-specific bundles.",
+    "homepage": "http://github.com/requirejs/i18n",
+    "keywords": [
+        "requirejs",
+        "i18n"
+    ],
+    "maintainers": [
+          {
+              "name": "James Burke",
+              "email": "jrburke@gmail.com",
+              "web": "http://tagneto.blogspot.ru/"
+          }
+      ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "http://github.com/requirejs/i18n"
+        }
+    ]
+}
+,
+{
     "name": "require.js",
     "filename": "require.min.js",
     "version": "0.26.0",
@@ -4027,6 +4218,31 @@
        } 
    ]
 
+}
+,
+{
+    "filename": "text.js",
+    "name": "require-text",
+    "version": "2.0.3",
+    "description": "A RequireJS/AMD loader plugin for loading text resources.",
+    "homepage": "https://github.com/requirejs/text",
+    "keywords": [
+        "requirejs",
+        "text"
+    ],
+    "maintainers": [
+          {
+              "name": "James Burke",
+              "email": "jrburke@gmail.com",
+              "web": "http://tagneto.blogspot.ru/"
+          }
+      ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/requirejs/text"
+        }
+    ]
 }
 ,
 {
@@ -4615,7 +4831,7 @@
 ,
 {
     "name": "sugar",
-    "version": "1.3.6",
+    "version": "1.3.7",
     "filename": "sugar.min.js",
     "description": "Sugar is a Javascript library that extends native objects with helpful methods. It is designed to be intuitive, unobtrusive, and let you do more with less code.",
     "keywords": [
