@@ -582,6 +582,37 @@
 }
 ,
 {
+    "name": "can.js",
+    "filename": "can.jquery.min.js",
+    "version": "1.1.3",
+    "description": "CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy.",
+    "homepage": "http://canjs.us/",
+    "keywords": [
+       "can.js",
+       "canjs",
+       "javascript",
+       "mvc",
+       "framework",
+       "model",
+       "view",
+       "controller",
+       "popular"
+   ],
+   "maintainers": [
+       {
+          "name" : "Bitovi",
+          "email" : "contact@bitovi.com",
+          "web" : "http://bitovi.com/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/bitovi/canjs"
+       }
+   ]
+},
+{
     "name": "cannon.js",
     "filename": "cannon.min.js",
     "version": "0.4.3",
@@ -1344,8 +1375,8 @@
 ,
 {
     "name": "file-uploader",
-    "filename": "fileuploader.min.js",
-    "version": "2.1.2",
+    "filename": "fineuploader.min.js",
+    "version": "3.1.1",
     "description": "Multiple file upload plugin with progress-bar, drag-and-drop. ",
     "homepage": "http://fineuploader.com",
     "keywords": [
@@ -1862,7 +1893,7 @@
 ,
 {
     "name": "jade",
-    "filename": "runtime.min.js",
+    "filename": "jade.min.js",
     "version": "0.27.7",
     "description": "Jade template engine",
     "homepage": "http://jade-lang.com/",
@@ -1934,6 +1965,31 @@
       "url": "http://joapp.com/docs/#License"
     }
   ]
+},
+{
+    "name": "jplayer",
+    "filename": "jquery.jplayer.min.js",
+    "version": "2.2.0",
+    "description": "The jQuery HTML5 Audio / Video Library",
+    "homepage": "http://www.jplayer.org/",
+    "keywords": [
+       "framework",
+       "audio",
+       "video",
+	   "html5"
+   ],
+   "maintainers": [
+       {
+           "name": "Happyworm",
+           "web": "http://www.happyworm.com/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/happyworm/jPlayer.git"
+       }
+   ]
 },
 {
     "name": "jqModal",
@@ -2190,6 +2246,29 @@
             "url": "https://github.com/tapmodo/Jcrop"
         }
     ]
+},
+{
+    "name": "jquery-mobile",
+    "filename": "jquery.mobile.min.js",
+    "version": "1.2.0",
+    "description": "A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.",
+    "homepage": "http://jquerymobile.com/",
+    "keywords": [
+        "framework",
+        "toolkit",
+        "popular"
+    ],
+    "maintainers": [
+        {
+            "name": "The jQuery Project"
+        }
+    ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/jquery/jquery-mobile.git"
+       }
+   ]
 },
 {
   "name": "jquery-mockjax",
@@ -2812,6 +2891,32 @@
     "type": "git",
     "url": "https://github.com/Mottie/tablesorter.git"
   }
+}
+,
+{
+    "name": "jquery.touchswipe",
+    "filename": "jquery.touchswipe.min.js",
+    "version": "1.5.1",
+    "description": "A jQuery plugin that supports touch events on mobile devices.",
+    "homepage": "http://labs.skinkers.com/touchSwipe",
+    "keywords": [
+        "touch",
+        "swipe",
+        "mobile",
+        "jquery"
+    ],
+    "maintainers": [
+        {
+            "name": "Skinkers Labs",
+            "web": "http://labs.skinkers.com/"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/mattbryson/TouchSwipe-Jquery-Plugin.git"
+        }
+    ]
 }
 ,
 {
@@ -3455,8 +3560,8 @@
 ,
 {
     "name": "mootools",
-    "filename": "mootools-yui-compressed.js",
-    "version": "1.3.2",
+    "filename": "mootools-core-full-compat-yc.js",
+    "version": "1.4.5",
     "description": "MooTools is a compact, modular, Object-Oriented JavaScript framework designed for the intermediate to advanced JavaScript developer. It allows you to write powerful, flexible, and cross-browser code with its elegant, well documented, and coherent API.",
     "homepage": "http://mootools.net/",
     "keywords": [
@@ -3534,6 +3639,30 @@
        }
    ]
 },
+{
+    "name": "mousetrap",
+    "filename": "mousetrap.min.js",
+    "version": "1.2.2",
+    "description": "Mousetrap is a standalone library with no external dependencies. It weighs in at around 1.7kb minified and gzipped and 3kb minified.",
+    "homepage": "http://craig.is/killing/mice",
+    "keywords": [
+        "keyboard",
+        "shortcut",
+        "mouse"
+    ],
+    "maintainers": [
+        {
+            "name": "Craig Campbell"
+        }
+    ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/ccampbell/mousetrap.git"
+       }
+   ]
+}
+,
 {
     "name": "mustache.js",
     "filename": "mustache.min.js",
@@ -3650,7 +3779,7 @@
 {
     "name": "numeral.js",
     "filename": "numeral.min.js",
-    "version": "1.4.1",
+    "version": "1.4.5",
     "description": "A lightweight javascript library to format and manipulate numbers.",
     "homepage": "http://numeraljs.com/",
     "keywords": [
