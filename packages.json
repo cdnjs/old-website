@@ -159,6 +159,28 @@
 }
 ,
 {
+    "name": "async",
+    "filename": "async.min.js",
+    "version": "1.22",
+    "description": "Higher-order functions and common patterns for asynchronous code",
+    "author": "Caolan McMahon",
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/caolan/async.git"
+    },
+    "licenses" : [
+        {
+            "type" : "MIT",
+            "url" : "http://github.com/caolan/async/raw/master/LICENSE"
+        }
+    ],
+    "devDependencies": {
+        "nodeunit": ">0.0.0",
+        "uglify-js": "1.2.x",
+        "nodelint": ">0.0.0"
+    }
+},
+{
     "name": "augment.js",
     "filename": "augment.min.js",
     "version": "0.4.2",
@@ -243,7 +265,7 @@
 {
     "name": "backbone.js",
     "filename": "backbone-min.js",
-    "version": "0.9.2",
+    "version": "0.9.9",
     "description": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.",
     "homepage": "http://documentcloud.github.com/backbone/",
     "keywords": [
@@ -3367,6 +3389,32 @@
            "type": "git",
            "url": "https://github.com/getify/LABjs" 
        } 
+   ]
+
+}
+,
+{
+    "name": "lazyload",
+    "filename": "lazyload-min.js",
+    "version": "2.0.3",
+    "description": "Tiny, dependency-free async JavaScript and CSS loader.lo",
+    "homepage": "https://github.com/rgrove/lazyload/",
+    "keywords": [
+       "loader",
+       "modules",
+       "asynchronous"
+   ],
+   "maintainers": [
+       {
+           "name": "Ryan Grove",
+           "email": "ryan@wonko.com"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/rgrove/lazyload/"
+       }
    ]
 
 }
