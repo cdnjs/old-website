@@ -328,7 +328,7 @@
 {
     "name": "backbone.modelbinder",
     "filename": "Backbone.ModelBinder.min.js",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "description": "Simple, flexible and powerful Model-View binding for Backbone.",
     "homepage": "https://github.com/theironcook/Backbone.ModelBinder#prerequisites",
     "keywords": [
@@ -908,8 +908,8 @@
 ,
 {
     "name": "d3",
-    "filename": "d3.v2.min.js",
-    "version": "2.10.0",
+    "filename": "d3.v3.min.js",
+    "version": "3.0.1",
     "description": "A small, free JavaScript library for manipulating documents based on data.",
     "keywords": [
         "dom",
@@ -1629,6 +1629,36 @@
   },
   "bugs": "https://github.com/CardinalPath/gas/issues",
   "license": "MIT"
+}
+,
+{
+    "filename": "gmaps.min.js",
+    "name": "gmaps.js",
+    "version": "0.2.27",
+    "description": "google maps api with less pain and more fun",
+    "keywords": [
+        "google maps",
+        "maps"
+    ],
+    "homepage": "http://hpneo.github.com/gmaps/",
+    "maintainers": [
+        {
+          "name": "Gustavo Leon",
+          "web": "http://hpneo.github.com/"
+        }
+    ],
+    "repositories": [
+        {
+          "type": "git",
+          "url": "https://github.com/HPNeo/gmaps"
+        }
+    ],
+    "licenses": [
+        {
+          "type": "MIT",
+          "url": "https://github.com/HPNeo/gmaps/blob/master/README.md"
+        }
+    ]
 }
 ,
 {
