@@ -675,7 +675,7 @@
 {
     "name": "chrome-frame",
     "filename": "CFInstall.min.js",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Google Chrome Frame is an open source plug-in that seamlessly brings Google Chrome's open web technologies and speedy JavaScript engine to Internet Explorer.",
     "homepage": "http://code.google.com/chrome/chromeframe/",
     "keywords": [
@@ -1408,7 +1408,7 @@
 {
     "name": "fancybox",
     "filename": "jquery.fancybox.pack.js",
-    "version": "2.1.1",
+    "version": "2.1.3",
     "description": "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. It is built at the top of the popular JavaScript framework jQuery and is both easy to implement and a snap to customize.",
     "homepage": "http://fancyapps.com/fancybox/",
     "keywords": [
@@ -2614,7 +2614,7 @@
 {
     "name": "jquery-tools",
     "filename": "jquery.tools.min.js",
-    "version": "1.2.6",
+    "version": "1.2.7",
     "description": "jQuery Tools is a collection of the most important user-interface components for modern websites. Used by large sites all over the world.",
     "homepage": "http://jquerytools.org/",
     "keywords": [
@@ -2932,7 +2932,7 @@
 {
     "name": "jquery.selectboxit",
     "filename": "jquery.selectBoxIt.min.js",
-    "version": "2.2.0",
+    "version": "2.3.0",
     "description": "A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.",
     "homepage": "http://www.selectboxit.com",
     "keywords": [
