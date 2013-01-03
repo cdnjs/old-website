@@ -2792,7 +2792,7 @@
 {
     "name": "jquery.form",
     "filename": "jquery.form.js",
-    "version": "3.20",
+    "version": "3.24",
     "description": "The jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX",
     "homepage": "http://jquery.malsup.com/form/",
     "keywords": [
@@ -2932,7 +2932,7 @@
 {
     "name": "jquery.selectboxit",
     "filename": "jquery.selectBoxIt.min.js",
-    "version": "2.3.0",
+    "version": "2.4.0",
     "description": "A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.",
     "homepage": "http://www.selectboxit.com",
     "keywords": [
@@ -3545,6 +3545,24 @@
         "doc": "./doc",
         "test": "./test"
     }
+},
+{
+    "name": "log4javascript",
+    "filename": "log4javascript.js",
+    "version": "1.4.3",
+    "description": "log4javascript is a JavaScript logging framework based on the Java logging framework log4j",
+    "homepage": "http://log4javascript.org/",
+    "keywords":[
+        "log4javascript",
+        "log4j",
+        "logger"
+    ],
+    "maintainers":[
+        {
+            "name":"Tim Down",
+            "web":"http://log4javascript.org"
+        }
+     ]
 },
 {
     "name": "masonry",
