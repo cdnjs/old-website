@@ -430,7 +430,7 @@
 {
     "name": "backbone.wreqr",
     "filename": "backbone.wreqr.min.js",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "A simple infrastructure for decoupling Backbone and Backbone.Marionette application modules and components.",
     "homepage": "http://github.com/marionettejs/backbone.wreqr",
     "keywords": [
@@ -4774,8 +4774,8 @@
 ,
 {
     "name": "require-jquery",
-    "filename": "require.min.js",
-    "version": "0.24.0",
+    "filename": "require-jquery.min.js",
+    "version": "0.25.0",
     "description": "Require.js merged with jQuery for loader goodness!",
     "homepage": "https://github.com/jrburke/require-jquery",
     "keywords": [
@@ -5604,9 +5604,9 @@
 {
     "name": "three.js",
     "filename": "three.min.js",
-    "version": "r53",
+    "version": "r54",
     "description": "three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.",
-    "homepage": "http://mrdoob.github.com/three.js/",
+    "homepage": "http://threejs.org/",
     "keywords": [
        "3d",
        "WebGL"
