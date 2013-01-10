@@ -1189,7 +1189,7 @@
 {
     "name": "dropbox.js",
     "filename": "dropbox.min.js",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "description": "Client library for the Dropbox API",
     "homepage": "https://dropbox.com/developers",
     "keywords": [
@@ -1337,6 +1337,39 @@
 
 }
 ,
+{
+	"name" : "enquire.js",
+	"version" : "1.5.4",
+	"description" : "Awesome Media Queries in JavaScript",
+	"homepage" : "http://wicky.nillia.ms/enquire.js",
+	"author" : {
+		"name" : "Nick Williams",
+		"url" : "http://wicky.nillia.ms"
+	},
+	"filename" : "enquire.min.js",
+	"keywords": [
+		"media query",
+		"media queries",
+		"matchMedia",
+		"enquire",
+		"enquire.js"
+   	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/WickyNilliams/enquire.js.git"
+	},
+	"licenses": [{
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }],
+	"dependencies" : {
+		"grunt" : "*",
+		"grunt-jasmine-runner" : "*"
+	},
+ 	"scripts" : {
+    	"test": "grunt travis --verbose"
+  }
+},
 {
     "name": "es5-shim",
     "filename": "es5-shim.min.js",
