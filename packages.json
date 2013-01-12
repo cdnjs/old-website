@@ -2995,7 +2995,7 @@
 {
     "name": "jquery.selectboxit",
     "filename": "jquery.selectBoxIt.min.js",
-    "version": "2.5.0",
+    "version": "2.6.0",
     "description": "A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.",
     "homepage": "http://www.selectboxit.com",
     "keywords": [
@@ -4272,11 +4272,11 @@
 	"filename": "postal.min.js",
     "description" : "Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.",
     "version" : "0.7.3",
-	"url" : "http://github.com/ifandelse/postal.js",
-    "homepage" : "http://github.com/ifandelse/postal.js",
+	"url" : "http://github.com/postaljs/postal.js",
+    "homepage" : "http://github.com/postaljs/postal.js",
     "repository" : {
         "type" : "git",
-        "url" : "git://github.com/ifandelse/postal.js.git"
+        "url" : "git://github.com/postaljs/postal.js.git"
     },
     "author" : "Jim Cowart (http://freshbrewedcode.com/jimcowart)",
     "contributors": [
@@ -4365,7 +4365,7 @@
 {
     "name": "prettify",
     "filename": "prettify.js",
-    "version": "188.0.0",
+    "version": "r224",
     "description": "A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.",
     "homepage": "http://code.google.com/p/google-code-prettify/",
     "keywords": [
@@ -5971,7 +5971,7 @@
 {
     "name": "webfont",
     "filename": "webfont.js",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "The WebFont Loader is a JavaScript library that gives you more control over font loading than the Google Font API provides.",
     "homepage": "http://code.google.com/apis/webfonts/docs/webfont_loader.html",
     "keywords": [
