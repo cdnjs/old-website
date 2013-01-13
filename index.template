@@ -67,15 +67,16 @@ We host it all - JavaScript, CSS, SWF, images, etc!</p>
 
 <table>
   <thead>
-    <tr><td><strong>Open source</strong></td><td style="width: 115px;"><strong>Maintainers</strong></td><td></td></tr>
+    <tr><td style="width: 115px;"><strong>Maintainers</strong></td><td></td></tr>
   </thead>
   <tbody>
-    <tr><td><iframe src="http://ghbtns.com//github-btn.html?user=cdnjs&repo=cdnjs&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe></td><td><a href="http://ryankirkman.com">Ryan Kirkman</a> </td>   <td><a href="http://twitter.com/ryan_kirkman" class="twitter-follow-button">Follow @ryan_kirkman</a></td></tr>
-    <tr><td><iframe src="http://ghbtns.com//github-btn.html?user=cdnjs&repo=cdnjs&type=fork&count=true&size=small" allowtransparency="true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe></td><td><a href="http://thomasdavis.github.com">Thomas Davis</a></td><td>
+    <tr><td><a href="http://ryankirkman.com">Ryan Kirkman</a> </td>   <td><a href="http://twitter.com/ryan_kirkman" class="twitter-follow-button">Follow @ryan_kirkman</a></td></tr>
+    <tr><td><a href="http://thomasdavis.github.com">Thomas Davis</a></td><td>
        <a href="http://twitter.com/neutralthoughts" class="twitter-follow-button">Follow @neutralthoughts</a></td></tr>
 </tbody>
 </table>
 <p style="margin-top: 6px;">
+<a href="https://github.com/cdnjs/cdnjs">github.com/cdnjs/cdnjs</a><br />
 Started in Jan 2011<br />
 100% <a href="http://stats.pingdom.com/4jg86a2wqei0">uptime this month</a><br />
 Supports http/https/spdy, we encourage leaving the protocol <a href="http://paulirish.com/2010/the-protocol-relative-url/">off</a>! <br />
