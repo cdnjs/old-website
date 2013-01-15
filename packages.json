@@ -234,6 +234,41 @@
 }
 ,
 {
+  "name": "backbone-relational",
+  "filename": "backbone-relational.min.js",
+  "version": "0.7.0",
+  "description": "Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models",
+  "homepage": "https://github.com/PaulUithol/Backbone-relational",
+  "keywords": [
+    "backbone",
+    "models",
+    "relational",
+    "hasMany",
+    "hasOne",
+    "popular"
+  ],
+  "maintainers": [
+    {
+      "name": "Paul Uithol",
+      "web": "http://progressivecompany.nl/"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/PaulUithol/Backbone-relational"
+    }
+  ],
+  "bugs": "https://github.com/PaulUithol/Backbone-relational/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/PaulUithol/Backbone-relational/blob/master/LICENSE.txt"
+    }
+  ]
+
+},
+{
     "name": "backbone.eventbinder",
     "filename": "backbone.eventbinder.min.js",
     "version": "0.1.0",
@@ -404,7 +439,7 @@
 {
   "name": "backbone.validation",
   "filename": "backbone-validation-min.js",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "A validation plugin for Backbone.js that validates both your model as well as form input.",
   "homepage": "http://thedersen.com/projects/backbone-validation",
   "keywords": [
@@ -1692,6 +1727,23 @@
   },
   "bugs": "https://github.com/CardinalPath/gas/issues",
   "license": "MIT"
+}
+,
+{
+  "name": "geo-location-javascript",
+  "filename": "geo-min.js",
+  "version": "0.4.8",
+  "description": "JavaScript geo location framework for the mobile web.",
+  "homepage": "http://code.google.com/p/geo-location-javascript/",
+  "keywords": [
+     "geolocation"
+ ],
+ "repositories": [
+     {
+         "type": "svn",
+         "url": "http://geo-location-javascript.googlecode.com/svn/trunk/"
+     }
+ ]
 }
 ,
 {
@@ -2995,7 +3047,7 @@
 {
     "name": "jquery.selectboxit",
     "filename": "jquery.selectBoxIt.min.js",
-    "version": "2.8.0",
+    "version": "2.9.0",
     "description": "A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.",
     "homepage": "http://www.selectboxit.com",
     "keywords": [
@@ -3455,7 +3507,7 @@
 {
     "name": "knockout.mapping",
     "filename": "knockout.mapping.js",
-    "version": "2.3.4",
+    "version": "2.3.5",
     "description": "Object mapping plugin for Knockout",
     "homepage": "http://knockoutjs.com/documentation/plugins-mapping.html",
     "keywords": [
@@ -3478,7 +3530,8 @@
             "url": "https://github.com/SteveSanderson/knockout.mapping"
         }
     ]
-},
+}
+,
 {
     "name": "labjs",
     "filename": "LAB.min.js",
@@ -4653,6 +4706,30 @@
 }
 ,
 {
+    "name": "rainbow",
+    "filename": "js/rainbow.min.js",
+    "version": "1.1.8",
+    "description": "Rainbow is a code syntax highlighting library written in Javascript",
+    "homepage": "http://craig.is/making/rainbows/",
+    "keywords": [
+       "code",
+       "syntax",
+       "highlighting"
+   ],
+   "maintainers": [
+       {
+           "name": "Craig Campbell",
+           "web": "http://craig.is/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/ccampbell/rainbow.git"
+       }
+   ]
+},
+{
     "name": "raphael",
     "filename": "raphael-min.js",
     "version": "2.1.0",
@@ -4963,6 +5040,29 @@
    ]
 }
 ,
+{
+    "name": "reveal.js",
+    "filename": "js/reveal.min.js",
+    "version": "2.1",
+    "description": "A framework for easily creating beautiful presentations using HTML",
+    "homepage": "http://lab.hakim.se/reveal-js/",
+    "keywords": [
+       "presentations",
+       "slides"
+   ],
+   "maintainers": [
+       {
+           "name": "Hakim El Hattab",
+           "web": "http://hakim.se/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/hakimel/reveal.js.git"
+       }
+   ]
+},
 {
     "name": "rickshaw",
     "filename": "rickshaw.min.js",
@@ -5429,6 +5529,39 @@
 }
 ,
 {
+  "name": "stellar.js",
+  "filename": "jquery.stellar.min.js",
+  "version": "0.5.0",
+  "description": "Parallax scrolling made easy",
+  "homepage": "http://markdalgleish.com/projects/stellar.js",
+  "author": {
+    "name": "Mark Dalgleish",
+    "url": "http://markdalgleish.com"
+  },
+  "maintainers": [
+    {
+      "name": "Mark Dalgleish",
+      "url": "http://markdalgleish.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/markdalgleish/stellar.js.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://markdalgleish.mit-license.org"
+    }
+  ],
+  "bugs": "https://github.com/markdalgleish/stellar.js/issues",
+  "keywords": [
+    "parallax",
+    "scroll",
+    "iOS"
+  ]
+},
+{
   "name": "store.js",
   "filename": "store.min.js",
   "keywords": [
@@ -5706,6 +5839,32 @@
        } 
    ]
 
+}
+,
+{
+    "name": "tweenjs",
+    "filename": "tween.min.js",
+    "version": "0.3.0",
+    "description": "TweenJS is a Javascript library for tweening and animating HTML5 and Javascript properties.",
+    "homepage": "http://www.createjs.com/#!/TweenJS",
+    "keywords": [
+       "WebGL",
+       "canvas",
+       "html5",
+       "animation"
+    ],
+    "maintainers": [
+        {
+            "name": "CreateJS",
+            "web": "http://www.createjs.com/"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/CreateJS/TweenJS.git"
+        }
+    ]
 }
 ,
 {
