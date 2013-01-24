@@ -1433,6 +1433,30 @@
   }
 },
 {
+    "name": "epiceditor",
+    "filename": "js/epiceditor.min.js",
+    "version": "0.2.0",
+    "description": "EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.",
+    "homepage": "http://epiceditor.com",
+    "keywords": [
+       "markdown",
+       "editor"
+   ],
+   "maintainers": [
+       {
+           "name": "Oscar Godson",
+           "web": "http://epiceditor.com"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/OscarGodson/EpicEditor"
+       }
+   ]
+
+},
+{
     "name": "es5-shim",
     "filename": "es5-shim.min.js",
     "version": "1.2.4",
@@ -1887,7 +1911,7 @@
 {
     "name": "handlebars.js",
     "filename": "handlebars.min.js",
-    "version": "1.0.rc.1",
+    "version": "1.0.rc.2",
     "description": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.",
     "homepage": "http://www.handlebarsjs.com",
     "keywords": [
@@ -2531,6 +2555,29 @@
     ]
 },
 {
+    "name": "jquery-migrate",
+    "filename": "jquery-migrate-1.0.0.min.js",
+    "version": "1.0.0",
+    "description": "This project can be used to detect and restore APIs, features or functionality that have been deprecated in jQuery and removed as of version 1.9.",
+    "homepage": "http://jquery.com/",
+    "keywords": [
+        "framework",
+        "toolkit",
+        "popular"
+    ],
+    "maintainers": [
+        {
+            "name": "The jQuery Project"
+        }
+    ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/jquery/jquery-migrate.git"
+       }
+   ]
+},
+{
     "name": "jquery-mobile",
     "filename": "jquery.mobile.min.js",
     "version": "1.2.0",
@@ -2965,7 +3012,7 @@
 {
   "name": "jquery.colorbox",
   "filename": "jquery.colorbox-min.js",
-  "version": "1.3.20.1",
+  "version": "1.3.27",
   "description": "A lightweight customizable lightbox plugin for jQuery",
   "author": "Jack Moore (http://www.jacklmoore.com/)",
   "homepage": "http://www.jacklmoore.com/colorbox",
@@ -3089,7 +3136,7 @@
 {
     "name": "jquery.lazyload",
     "filename": "jquery.lazyload.min.js",
-    "version": "1.8.3",
+    "version": "1.8.4",
     "description": "Lazy Load delays loading of images in long web pages. Images outside of viewport wont be loaded before user scrolls to them.",
     "homepage": "http://www.appelsiini.net/projects/lazyload",
     "keywords": [
@@ -3363,6 +3410,31 @@
        {
            "type": "git",
            "url": "https://github.com/millermedeiros/js-signals" 
+       } 
+   ]
+
+}
+,
+{
+    "name": "js-url",
+    "filename": "js-url.min.js",
+    "version": "1.7.5",
+    "description": "A simple, lightweight url parser for JavaScript",
+    "homepage": "https://github.com/websanova/js-url",
+    "keywords": [
+       "url",
+       "js-url"
+   ],
+   "maintainers": [
+       {
+           "name": "Websanova",
+           "web": "http://www.websanova.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "github",
+           "url": "https://github.com/websanova/js-url" 
        } 
    ]
 
@@ -5169,7 +5241,7 @@
 {
     "name": "require.js",
     "filename": "require.min.js",
-    "version": "2.1.1",
+    "version": "2.1.4",
     "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node",
     "homepage": "http://requirejs.org/",
     "keywords": [
@@ -6054,6 +6126,39 @@
    ]
 },
 {
+  "name": "thorax",
+  "version": "2.0.0rc1",
+  "filename": "thorax.js",
+  "description": "Handlebars + Backbone",
+  "keywords": ["backbone", "handlebars"],
+  "authors": [
+    "Ryan Eastridge <ryan@eastridge.xxx> (http://eastridge.xxx)",
+    "Kevin Decker <kpdecker@gmail.com> (http://incaseofstairs.com)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/walmartlabs/thorax.git"
+  },
+  "engines": {
+    "node": ">=0.4.7"
+  },
+  "dependencies": {
+    "fs-watch-tree": "0.2.0"
+  },
+  "devDependencies": {
+    "uglify-js": "1.3.4",
+    "jake": "~0.5",
+    "phoenix-build": "~1"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jake test"
+  },
+  "bin": {
+    "thorax": "bin/thorax"
+  }
+}
+,
+{
     "name": "three.js",
     "filename": "three.min.js",
     "version": "r54",
@@ -6075,6 +6180,31 @@
             "url": "https://github.com/mrdoob/three.js.git"
         }
     ]
+}
+,
+{
+    "name": "tinycon",
+    "filename": "tinycon.min.js",
+    "version": "0.5",
+    "description": "A small library for manipulating the favicon, in particular adding alert bubbles and changing images..",
+    "homepage": "http://tommoor.github.com/tinycon/",
+    "keywords": [
+       "favicon",
+       "Tinycon"
+   ],
+   "maintainers": [
+       {
+           "name": "Tom Moor",
+           "web": "http://tommoor.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "github",
+           "url": "https://github.com/tommoor/tinycon" 
+       } 
+   ]
+
 }
 ,
 {
