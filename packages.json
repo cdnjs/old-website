@@ -1814,7 +1814,7 @@
 {
     "name": "garlic.js",
     "filename": "garlic.min.js",
-    "version": "0.0.1",
+    "version": "1.2.0",
     "description": "Garlic.js allows you to automatically persist your forms' text field values locally, until the form is submitted. This way, your users don't lose any precious data if they accidentally close their tab or browser.",
     "homepage": "http://garlicjs.org/",
     "keywords": [
@@ -4513,6 +4513,29 @@
 }
 ,
 {
+    "name": "parsley.js",
+    "filename": "parsley.min.js",
+    "version": "1.1.6",
+    "description": "Validate your forms without writing a single line of javascript",
+    "homepage": "http://parsleyjs.org/",
+    "keywords": [
+       "form",
+       "validation"
+   ],
+   "maintainers": [
+       {
+           "name": "Guillaume Potier",
+           "email": "guillaume@wisembly.com" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/guillaumepotier/Parsley.js" 
+       } 
+   ]
+},
+{
     "name": "path.js",
     "filename": "path.min.js",
     "version": "0.8.4",
@@ -5110,22 +5133,22 @@
 {
     "name": "raven.js",
     "filename": "raven.min.js",
-    "version": "0.6.0",
+    "version": "1.0.0",
     "description": "JavaScript client for the Sentry realtime event logging and aggregation platform.",
-    "homepage": "https://github.com/lincolnloop/raven-js",
+    "homepage": "https://github.com/getsentry/raven-js",
     "keywords": [
        "raven",
        "sentry"
    ],
    "maintainers": [
        {
-           "name": "Lincoln Loop"
+           "name": "Matt Robenolt"
        }
    ],
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/lincolnloop/raven-js"
+           "url": "git://github.com/getsentry/raven-js.git"
        }
    ]
 }
