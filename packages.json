@@ -1350,7 +1350,7 @@
 ,
 {
     "name": "embedly-jquery",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "filename": "jquery.embedly.min.js",
     "description": "Embedly - jQuery is a jQuery Library for Embedly that will replace links with content. It follows the oEmbed spec (oembed.com) for content retrieval, while utilizing http://api.embed.ly as a single endpoint.",
     "homepage": "https://github.com/embedly/embedly-jquery",
@@ -1451,7 +1451,7 @@
 ,
 {
 	"name" : "enquire.js",
-	"version" : "1.5.4",
+	"version" : "1.5.6",
 	"description" : "Awesome Media Queries in JavaScript",
 	"homepage" : "http://wicky.nillia.ms/enquire.js",
 	"author" : {
@@ -1753,7 +1753,7 @@
 {
     "name": "font-awesome",
     "filename": "css/font-awesome.min.css",
-    "version": "3.0.0",
+    "version": "3.0.2",
     "description": "Font Awesome",
     "homepage": "http://fortawesome.github.com/Font-Awesome/",
     "keywords": [
@@ -2051,7 +2051,7 @@
 {
     "name": "headjs",
     "filename": "head.min.js",
-    "version": "0.98",
+    "version": "0.99",
     "description": "Achieve responsive design. Load scripts on demand. Target CSS for different screens, paths, states and browsers. Make it the only script in your HEAD. A concise solution to universal issues.",
     "homepage": "http://headjs.com",
     "keywords": [
@@ -2452,6 +2452,29 @@
            "url": "https://github.com/srobbin/jquery-backstretch"
        }
    ]
+},
+{
+    "name": "jquery-color",
+    "filename": "jquery.color.min.js",
+    "version": "2.1.2",
+    "description": "jQuery plugin for color manipulation and animation support.",
+    "homepage": "https://github.com/jquery/jquery-color",
+    "keywords": [
+       "jquery",
+       "color"
+   ],
+   "maintainers": [
+       {
+      "name": "Corey Frang",
+      "email": "gnarf37@gmail.com",
+      "url": "http://gnarf.net"
+      } 
+   ],
+   "repository": [{
+    "type": "git",
+    "url": "git://github.com/jquery/jquery-color.git"
+   }]
+
 },
 {
   "name": "jquery-cookie",
@@ -4010,7 +4033,7 @@
 {
     "name": "masonry",
     "filename": "jquery.masonry.min.js",
-    "version": "2.1.05",
+    "version": "2.1.07",
     "description": "A dynamic layout plugin for jQuery.",
     "homepage": "http://masonry.desandro.com/",
     "keywords": [
@@ -6016,7 +6039,7 @@
 {
   "name": "stellar.js",
   "filename": "jquery.stellar.min.js",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Parallax scrolling made easy",
   "homepage": "http://markdalgleish.com/projects/stellar.js",
   "author": {
@@ -6043,7 +6066,8 @@
   "keywords": [
     "parallax",
     "scroll",
-    "iOS"
+    "effect",
+    "animation"
   ]
 },
 {
@@ -6516,7 +6540,7 @@
 {
     "name": "underscore.js",
     "filename": "underscore-min.js",
-    "version": "1.4.3",
+    "version": "1.4.4",
     "description": "Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go along with jQuery's tux.",
     "homepage": "http://documentcloud.github.com/underscore/",
     "keywords": [
