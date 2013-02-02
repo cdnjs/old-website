@@ -613,7 +613,7 @@
 {
     "name": "bootstrap-lightbox",
     "filename": "bootstrap-lightbox.js",
-    "version": "0.4",
+    "version": "0.5",
     "description": "A simple lightbox plugin based on the bootstrap modal plugin.",
     "homepage": "http://jbutz.github.com/bootstrap-lightbox/",
     "keywords": [
@@ -963,6 +963,34 @@
             "url": "https://github.com/lojjic/PIE.git"
         }
     ]
+}
+,
+{
+  "name": "cubism",
+  "filename":"cubism.v1.min.js",
+  "version": "1.2.2",
+  "description": "A JavaScript library for time series visualization.",
+  "keywords": [
+    "time series",
+    "visualization",
+    "d3"
+  ],
+  "homepage": "http://square.github.com/cubism/",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/square/cubism.git"
+  },
+  "dependencies": {
+    "d3": "2.9.1"
+  },
+  "devDependencies": {
+    "vows": "0.6.1",
+    "uglify-js": "1.2.5"
+  }
 }
 ,
 {
@@ -2668,8 +2696,8 @@
 },
 {
     "name": "jquery-migrate",
-    "filename": "jquery-migrate-1.0.0.min.js",
-    "version": "1.0.0",
+    "filename": "jquery-migrate-1.1.0.min.js",
+    "version": "1.1.0",
     "description": "This project can be used to detect and restore APIs, features or functionality that have been deprecated in jQuery and removed as of version 1.9.",
     "homepage": "http://jquery.com/",
     "keywords": [
@@ -4403,6 +4431,32 @@
 }
 ,
 {
+    "name": "noUiSlider",
+    "filename": "jquery.nouislider.min.js",
+    "version": "2.5.5",
+    "description": "A jQuery plugin that turns an html object into a nice (range) slider.",
+    "homepage": "http://refreshless.com/nouislider/",
+    "keywords": [
+       "jquery",
+       "slider",
+       "range"
+   ],
+   "maintainers": [
+       {
+           "name": "Léon Gersen",
+           "web": "http://refreshless.com/"
+       }
+   ],
+   "bugs": "https://github.com/leongersen/noUiSlider/issues",
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/leongersen/noUiSlider"
+       }
+   ]
+}
+,
+{
     "name": "numeral.js",
     "filename": "numeral.min.js",
     "version": "1.4.5",
@@ -4487,7 +4541,7 @@
 {
     "name": "openlayers",
     "filename": "OpenLayers.js",
-    "version": "2.11",
+    "version": "2.12",
     "description": "OpenLayers is a JavaScript library for building map applications on the web. OpenLayers is made available under a BSD-license. Please see license.txt in this distribution for more details.",
     "homepage": "http://openlayers.org/",
     "keywords": [
@@ -5195,7 +5249,7 @@
 {
     "name": "raven.js",
     "filename": "raven.min.js",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "JavaScript client for the Sentry realtime event logging and aggregation platform.",
     "homepage": "https://github.com/getsentry/raven-js",
     "keywords": [
@@ -5531,13 +5585,14 @@
 {
     "name": "sammy.js",
     "filename": "sammy.min.js",
-    "version": "0.7.2",
-    "description": "Sammy is a tiny javascript framework built on top of jQuery, It's RESTful Evented Javascript.",
+    "version": "0.7.4",
+    "description": "Sammy is a RESTful Evented JavaScript framework built on top of jQuery.",
     "homepage": "http://sammyjs.org/",
     "keywords": [
        "framework",
        "restful",
-       "popular"
+       "popular",
+       "jquery"
    ],
    "maintainers": [
        {
