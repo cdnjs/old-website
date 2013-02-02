@@ -1377,6 +1377,31 @@
 }
 ,
 {
+    "name": "easyXDM",
+    "filename": "easyXDM.min.js",
+    "version": "2.4.17.1",
+    "description": "A javascript library providing cross-browser, cross-site messaging/method invocation.",
+    "homepage": "http://easyxdm.net",
+    "keywords": [
+        "cross-browser",
+        "cross-domain",
+        "messaging",
+        "rpc"
+    ],
+    "maintainers": [
+       {
+           "name": "Øyvind Sean Kinsey",
+           "web": "http://kinsey.no"
+       }
+    ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/oyvindkinsey/easyXDM.git"
+       }
+   ]
+},
+{
     "name": "embedly-jquery",
     "version": "3.0.1",
     "filename": "jquery.embedly.min.js",
@@ -4813,6 +4838,34 @@
   }
 },
 {
+    "name": "portal",
+    "filename": "portal.min.js",
+    "version": "1.0rc3",
+    "description": "The Portal is a server agnostic JavaScript library that not just provides a socket for browser-based applications that need two-way communication with servers, but also aims to utilize a full duplex connection for modern web application development.",
+    "homepage": "http://github.com/flowersinthesand/portal",
+    "keywords": [
+        "ws",
+        "websocket",
+        "sse",
+        "serversentevents",
+        "comet",
+        "streaming",
+        "longpolling"
+    ],
+    "maintainers": [
+        {
+            "name": "Donghwan Kim"
+        } 
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/flowersinthesand/portal.git" 
+        } 
+    ]
+}
+,
+{
     "name" : "postal.js",
 	"filename": "postal.min.js",
     "description" : "Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.",
@@ -6448,6 +6501,30 @@
 
 }
 ,
+{
+    "name": "tinymce",
+    "filename": "tiny_mce.js",
+    "version": "3.5.8",
+    "description": "TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor",
+    "homepage": "http://www.tinymce.com",
+    "keywords": [
+       "tinymce",
+       "editor",
+       "wysiwyg"
+   ],
+   "maintainers": [
+       {
+           "name": "TinyMCE",
+           "web": "http://www.tinymce.com"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/tinymce/tinymce.git"
+       }
+   ]
+},
 {
     "name": "tinyscrollbar",
     "filename": "jquery.tinyscrollbar.min.js",
