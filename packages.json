@@ -722,6 +722,39 @@
 }
 ,
 {
+    "name": "chainvas",
+    "filename": "chainvas.js",
+    "version": "2.1",
+    "description": "A tiny, modular library that can add chaining to any API that isn’t naturally chainable, like the Canvas API, the DOM and more.",
+    "homepage": "http://leaverou.github.com/chainvas/",
+    "keywords": [
+       "chaining",
+       "method",
+       "prototype",
+       "JavaScript",
+       "Chainvas",
+       "canvas"
+   ],
+   "maintainers": [
+       {
+           "name": "Lea Verou"
+       } 
+    ],
+    "licenses": [
+        {
+            "type": "none",
+            "url": "NA"
+        }
+    ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/LeaVerou/chainvas"
+       }
+   ]
+}
+,
+{
     "name": "chosen",
     "filename": "chosen.jquery.min.js",
     "version": "0.9.11",
@@ -3037,8 +3070,8 @@
 ,
 {
     "name": "jquery-timeago",
-    "filename": "jquery.timeago.js",
-    "version": "0.11.4",
+    "filename": "jquery.timeago.min.js",
+    "version": "1.0.2",
     "description": "Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. '4 minutes ago' or 'about 1 day ago') from ISO 8601 formatted dates and times embedded in your HTML (à la microformats).",
     "homepage": "http://timeago.yarp.com/",
     "keywords": [
@@ -4061,6 +4094,29 @@
         {
             "type": "git",
             "url": "https://github.com/cloudhead/less.js"
+        }
+    ]
+}
+,
+{
+    "name": "lettering.js",
+    "filename": "jquery.lettering.min.js",
+    "version": "0.6.1",
+    "description": "A lightweight, easy to use Javascript <span> injector for radical Web Typography",
+    "homepage": "http://letteringjs.com/",
+    "keywords": [
+        "typography"
+    ],
+    "maintainers" : [
+        {
+            "name": "Dave Rupert",
+            "web": "http://daverupert.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/davatron5000/Lettering.js"
         }
     ]
 }
@@ -5349,7 +5405,7 @@
 {
     "name": "raven.js",
     "filename": "raven.min.js",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "JavaScript client for the Sentry realtime event logging and aggregation platform.",
     "homepage": "https://github.com/getsentry/raven-js",
     "keywords": [
