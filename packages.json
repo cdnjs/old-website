@@ -842,7 +842,7 @@
 {
     "name": "conditionizr.js",
     "filename": "conditionizr.min.js",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "description": "Conditionizr is a fast and lightweight (4KB) javascript utility that detects browser and pixel ratio, allowing you to serve conditional JavaScript and CSS files.",
     "homepage": "http://conditionizr.com",
     "keywords": [
@@ -1428,7 +1428,7 @@
 {
     "name": "dropbox.js",
     "filename": "dropbox.min.js",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "Client library for the Dropbox API",
     "homepage": "https://dropbox.com/developers",
     "keywords": [
