@@ -581,6 +581,26 @@
 }
 ,
 {
+  "name": "bootstrap-datepicker",
+  "filename": "js/bootstrap-datepicker.min.js",
+  "version": "1.0.0",
+  "description": "A datepicker for Twitter Bootstrap",
+  "homepage": "https://github.com/eternicode/bootstrap-datepicker",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "datepicker"
+  ],
+  "maintainers": [{
+    "name": "Andrew Rowls",
+    "web": "https://github.com/eternicode"
+  }],
+  "repositories": [{
+    "type": "git",
+    "url": "https://github.com/eternicode/bootstrap-datepicker.git"
+  }]
+},
+{
   "name": "bootstrap-growl",
   "filename": "jquery.bootstrap-growl.min.js",
   "description": "Pretty simple jQuery plugin that turns standard Bootstrap alerts into \"Growl-like\" notifications.",
@@ -1604,7 +1624,7 @@
 {
     "name": "ember.js",
     "filename": "ember.min.js",
-    "version": "1.0.0-pre.4",
+    "version": "1.0.0-rc.1",
     "description": "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
     "homepage": "http://emberjs.com/",
     "keywords": [
@@ -2177,7 +2197,7 @@
 {
     "name": "handlebars.js",
     "filename": "handlebars.min.js",
-    "version": "1.0.rc.2",
+    "version": "1.0.0-rc.3",
     "description": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.",
     "homepage": "http://www.handlebarsjs.com",
     "keywords": [
@@ -3652,6 +3672,23 @@
 }
 ,
 {
+    "name": "jquery.wookmark",
+    "filename": "jquery.wookmark.min.js",
+    "version": "1.0.1",
+    "description": "Jquery plugin to create a waterfall grid layout. Lays out a series of elements in a dynamic column grid like on wookmark.com",
+    "homepage": "http://www.wookmark.com/jquery-plugin",
+    "keywords": [
+       "wookmark"
+   ],
+   "repositories": [
+       {
+        "type": "git",
+        "url": "https://github.com/GBKS/Wookmark-jQuery"
+       }
+   ]
+}
+,
+{
     "name": "jqueryui",
     "filename": "jquery-ui.min.js",
     "version": "1.10.0",
@@ -4188,6 +4225,26 @@
 }
 ,
 {
+    "name": "linq.js",
+    "filename": "linq.min.js",
+    "version": "2.2.0.2",
+    "description": "linq.js - LINQ for JavaScript. Implements all .NET 4.0 LINQ to Objects methods and many extra methods (inspiration from Rx, Achiral, Haskell, Ruby, etc...)",
+    "homepage": "http://linqjs.codeplex.com/",
+    "keywords": [
+        "linq",
+        "json",
+        "query",
+        "jquery",
+        "rx"
+    ],
+    "maintainers": [
+        {
+            "name": "Yoshifumi Kawai",
+            "website": "http://neue.cc/"
+        }
+    ]
+},
+{
     "name": "lodash.js",
     "version": "1.0.0",
     "filename": "lodash.min.js",
@@ -4599,7 +4656,7 @@
 {
     "name": "normalize",
     "filename": "normalize.css",
-    "version": "2.0.1",
+    "version": "2.1.0",
     "description": "Normalize.css makes browsers render all elements consistently and in line with modern standards.",
     "homepage": "http://necolas.github.com/normalize.css/",
     "keywords": [
@@ -4825,7 +4882,7 @@
 {
     "name": "parsley.js",
     "filename": "parsley.min.js",
-    "version": "1.1.6",
+    "version": "1.1.10",
     "description": "Validate your forms without writing a single line of javascript",
     "homepage": "http://parsleyjs.org/",
     "keywords": [
@@ -5038,7 +5095,7 @@
     "name" : "postal.js",
 	"filename": "postal.min.js",
     "description" : "Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.",
-    "version" : "0.7.3",
+    "version" : "0.8.2",
 	"url" : "http://github.com/postaljs/postal.js",
     "homepage" : "http://github.com/postaljs/postal.js",
     "repository" : {
@@ -6589,13 +6646,36 @@
    ]
 },
 {
+    "name": "tablesort",
+    "filename": "tablesort.min.js",
+    "version": "1.6.1",
+    "description": "A dependency free sorting component for tables.",
+    "homepage": "http://tristen.ca/tablesort/demo/",
+    "keywords": [
+        "table",
+        "sorting"
+    ],
+    "maintainers": [
+        {
+            "name": "Tristen"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/tristen/tablesort/"
+        }
+    ]
+}
+,
+{
   "name": "thorax",
-  "version": "2.0.0rc1",
+  "version": "2.0.0rc2",
   "filename": "thorax.js",
   "description": "Handlebars + Backbone",
   "keywords": ["backbone", "handlebars"],
   "authors": [
-    "Ryan Eastridge <ryan@eastridge.xxx> (http://eastridge.xxx)",
+    "Ryan Eastridge <ryan@eastridge.me> (http://eastridge.me)",
     "Kevin Decker <kpdecker@gmail.com> (http://incaseofstairs.com)"
   ],
   "repository": {
