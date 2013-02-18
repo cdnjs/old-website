@@ -116,6 +116,33 @@
 }
 ,
 {
+  "name": "angular-strap",
+  "filename": "angular-strap.min.js",
+  "description": "AngularStrap - Twitter Bootstrap directives for AngularJS.",
+  "version": "0.6.6",
+  "homepage": "http://mgcrea.github.com/angular-strap",
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "directives",
+    "datepicker"
+  ],
+  "maintainers": [
+    {
+     "name": "Olivier Louvignes",
+     "email": "olouvignes@gmail.com",
+     "web": "http://olouv.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/angular-strap/angular-strap.git"
+    }
+  ]
+}
+,
+{
   "name": "angular.js",
   "filename": "angular.min.js",
   "description": "AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.",
@@ -1859,6 +1886,29 @@
 }
 ,
 {
+    "name": "FitText.js",
+    "filename": "jquery.fittext.min.js",
+    "version": "1.1",
+    "description": "A jQuery plugin for inflating web type",
+    "homepage": "http://fittextjs.com/",
+    "keywords": [
+        "typography"
+    ],
+    "maintainers" : [
+        {
+            "name": "Dave Rupert",
+            "web": "http://daverupert.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/davatron5000/FitText.js"
+        }
+    ]
+}
+,
+{
     "name": "fitvids",
     "filename": "jquery.fitvids.min.js",
     "version": "1.0.1",
@@ -2193,6 +2243,21 @@
        } 
    ]
 
+},
+{
+    "name": "hammer.js",
+    "filename": "hammer.js",
+    "version": "0.6.4",
+    "description": "A javascript library for multi-touch gestures :// You can touch this ",
+    "homepage": "http://eightmedia.github.com/hammer.js/",
+    "keywords": ["events", "touch", "gestures"],
+    "author": "Jorik Tangelder (Eight Media)",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/EightMedia/hammer.js.git"
+        }
+    ]
 },
 {
     "name": "handlebars.js",
@@ -3570,6 +3635,26 @@
 }
 ,
 {
+    "name": "jquery.pjax",
+    "filename": "jquery.pjax.min.js",
+    "version": "1.2.0",
+    "description": "pjax is a jQuery plugin that uses ajax and pushState to deliver a fast browsing experience with real permalinks, page titles, and a working back button.",
+    "homepage": "https://github.com/defunkt/jquery-pjax",
+    "keywords": [
+        "ajax",
+        "pjax",
+		"pushState",
+        "jquery"
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/defunkt/jquery-pjax"
+        }
+    ]
+}
+,
+{
     "name": "jquery.selectboxit",
     "filename": "jquery.selectBoxIt.min.js",
     "version": "2.9.0",
@@ -3607,6 +3692,31 @@
         }
     ]
 },
+{
+    "name": "jquery.spritely",
+    "filename": "jquery.spritely.min.js",
+    "version": "0.6.1",
+    "description": "Create dynamic characters and background animations.",
+    "homepage": "http://www.spritely.net",
+    "keywords": [
+        "spritely",
+        "ui",
+        "jquery"
+    ],
+    "maintainers": [
+        {
+            "name": "Artlogic",
+            "web": "http://www.artlogic.net"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/artlogicmedia/spritely.git"
+        }
+    ]
+}
+,
 {
     "name": "jquery.SPServices",
     "filename": "jquery.SPServices-0.7.2.min.js",
@@ -5088,7 +5198,7 @@
 {
     "name": "portal",
     "filename": "portal.min.js",
-    "version": "1.0rc3",
+    "version": "1.0",
     "description": "The Portal is a server agnostic JavaScript library that not just provides a socket for browser-based applications that need two-way communication with servers, but also aims to utilize a full duplex connection for modern web application development.",
     "homepage": "http://github.com/flowersinthesand/portal",
     "keywords": [
