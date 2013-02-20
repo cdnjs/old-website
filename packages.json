@@ -1524,6 +1524,34 @@
 
 },
 {
+    "name": "dustjs-linkedin",
+    "filename": "dust-core.min.js",
+    "version": "1.2.0",
+    "description": "Asynchronous templates for the browser and node.js ( LinkedIn fork )",
+    "homepage": "http://linkedin.github.com/dustjs/",
+    "keywords": [
+       "template",
+       "templating",
+       "dust",
+       "linkedin",
+       "popular",
+       "asynchronous"
+   ],
+   "maintainers": [
+       {
+           "name": "LinkedIn",
+           "web": "https://github.com/linkedin"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/linkedin/dustjs"
+       }
+   ]
+
+},
+{
     "name": "dygraph",
     "filename": "dygraph-combined.js",
     "version": "1.2",
@@ -1762,7 +1790,7 @@
 {
 	"name": "eve.js",
 	"filename": "eve.min.js",
-	"version": "0.8.1",
+	"version": "0.8.4",
 	"description": "A JavaScript meta-framework for scoped event delegation.",
 	"homepage": "http://evejs.com",
 	"maintainers": [
@@ -2672,6 +2700,32 @@
    ]
 },
 {
+    "name": "jq-console",
+    "filename": "jqconsole.min.js",
+    "version": "2.7.7",
+    "description": "A jQuery terminal plugin written in CoffeeScript.",
+    "homepage": "http://repl.it/",
+    "keywords": [
+        "terminal",
+        "shell",
+        "jquery",
+        "plugin",
+        "console"
+    ],
+    "maintainers": [
+        {
+            "name": "The Replit Project"
+        }
+    ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/replit/jq-console.git"
+       }
+   ]
+}
+,
+{
     "name": "jqModal",
     "filename": "jqModal.js",
     "version": "r14",
@@ -2950,6 +3004,19 @@
         }
     ]
 },
+{
+    "name": "jquery-layout",
+    "filename": "jquery.layout.min.js",
+    "version": "1.3.0-rc-30.79",
+    "description": "jQuery plugin for layout management (jQuery version of extJS border-layout).",
+    "homepage": "http://layout.jquery-dev.net/",
+    "keywords": [
+       "jquery",
+       "layout",
+       "ui"
+   ]
+}
+,
 {
     "name": "jquery-migrate",
     "filename": "jquery-migrate-1.1.0.min.js",
@@ -4205,6 +4272,35 @@
 }
 ,
 {
+    "name": "knockout-validation",
+    "filename": "knockout.validation.min.js",
+    "version": "1.0.2",
+    "description": "A validation library for Knockout JS",
+    "homepage": "http://ericmbarnard.github.com/Knockout-Validation/",
+    "keywords": [
+        "knockout",
+        "mvvm",
+        "ui",
+        "templating",
+        "mapping",
+        "validation"
+    ],
+    "maintainers": [
+        {
+            "name": "eric barnard",
+            "email": "eric.m.barnard@gmail.com",
+            "web": "http://www.ericbarnard.com/"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/ericmbarnard/Knockout-Validation.git"
+        }
+    ]
+}
+,
+{
     "name": "knockout.mapping",
     "filename": "knockout.mapping.js",
     "version": "2.3.5",
@@ -4574,7 +4670,7 @@
 {
     "name": "moment.js",
     "filename": "moment.min.js",
-    "version": "1.7.2",
+    "version": "2.0.0",
     "description": "A lightweight (4.3k) javascript date library for parsing, manipulating, and formatting dates.",
     "homepage": "http://momentjs.com/",
     "keywords": [
@@ -4868,7 +4964,7 @@
 {
     "name": "ocanvas",
     "filename": "ocanvas.min.js",
-    "version": "2.3.1",
+    "version": "2.4.0",
     "description": "oCanvas is a JavaScript library that makes development with HTML5 canvas easy, by using an object-based approach.",
     "homepage": "http://ocanvas.org/",
     "keywords": [
@@ -5360,6 +5456,23 @@
        }
    ]
 
+}
+,
+{
+    "name": "proj4js",
+    "filename": "proj4js-compressed.js",
+    "version": "1.1.0",
+    "description": "Proj4js is a JavaScript library to transform point coordinates from one coordinate system to another, including datum transformations.",
+    "homepage": "http://trac.osgeo.org/proj4js/",
+    "keywords": [
+       "projection"
+   ],
+   "repositories": [
+       {
+           "type": "svn",
+           "url": "http://svn.osgeo.org/metacrs/proj4js/trunk/"
+       }
+   ]
 }
 ,
 {
