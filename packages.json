@@ -2056,7 +2056,7 @@
 {
     "name": "foundation",
     "filename": "javascripts/foundation.min.js",
-    "version": "3.2.2",
+    "version": "3.2.5",
     "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.",
     "homepage": "http://foundation.zurb.com",
     "keywords": [
@@ -2169,7 +2169,7 @@
 {
     "filename": "gmaps.min.js",
     "name": "gmaps.js",
-    "version": "0.2.30",
+    "version": "0.3",
     "description": "google maps api with less pain and more fun",
     "keywords": [
         "google maps",
@@ -4979,6 +4979,33 @@
    ]
 },
 {
+    "name": "nwmatcher",
+    "filename": "nwmatcher.min.js",
+    "version": "1.2.5",
+    "description": "A CSS3-compliant JavaScript selector engine.",
+    "homepage": "http://javascript.nwbox.com/NWMatcher/",
+    "keywords": [
+        "css",
+        "matcher",
+        "selector",
+        "ender"
+    ],
+    "maintainers": [
+        {
+        "name": "Diego Perini",
+        "email": "diego.perini@gmail.com",
+        "web": "http://www.iport.it/"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/dperini/nwmatcher.git"
+        }
+   ]
+}
+,
+{
     "name": "ocanvas",
     "filename": "ocanvas.min.js",
     "version": "2.4.0",
@@ -6932,7 +6959,7 @@
 ,
 {
   "name": "thorax",
-  "version": "2.0.0rc2",
+  "version": "2.0.0rc3",
   "filename": "thorax.js",
   "description": "Handlebars + Backbone",
   "keywords": ["backbone", "handlebars"],
