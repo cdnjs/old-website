@@ -4816,7 +4816,7 @@
 {
     "name": "mustache.js",
     "filename": "mustache.min.js",
-    "version": "0.7.0",
+    "version": "0.7.2",
     "description": "Logic-less {{mustache}} templates with JavaScript",
     "author": "mustache.js Authors <http://github.com/janl/mustache.js>",
     "homepage": "https://github.com/janl/mustache.js",
@@ -6147,6 +6147,30 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/shutterstock/rickshaw.git"
+    }
+}
+,
+{
+    "name": "roundabout",
+    "filename": "jquery.roundabout.min.js",
+    "version": "2.4.2",
+    "description": "Easily convert unordered lists & other nested HTML structures into entertaining, interactive, turntable-like areas.",
+    "keywords": [
+        "roundabout",
+        "turntable",
+        "lazy",
+        "susan",
+        "carousel",
+        "3d"
+    ],
+    "homepage": "http://fredhq.com/projects/roundabout",
+    "author": {
+        "name": "Fred LeBlanc",
+        "email": "fred@fredhq.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fredhq/roundabout.git"
     }
 }
 ,
