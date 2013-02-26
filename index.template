@@ -171,14 +171,14 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
   }
   return x1 + x2;
 }
-$('body').on('click', '.icon-chevron-down', function(ev) {
+$('body').on('click', '.btn-mini', function(ev) {
   $(ev.currentTarget).removeClass('icon-chevron-down').addClass('icon-chevron-up');
-  $(ev.currentTarget).parents('td').find('ul').slideDown(200);
+  $(ev.currentTarget).parents('div').find('ul').slideDown(200);
 });
 
-$('body').on('click', '.icon-chevron-up', function(ev) {
+$('body').on('click', '.btn-mini', function(ev) {
   $(ev.currentTarget).removeClass('icon-chevron-up').addClass('icon-chevron-down');
-  $(ev.currentTarget).parents('td').find('ul').slideUp(200);
+  $(ev.currentTarget).parents('div').find('ul').slideUp(200);
 });
 
         $('#example').dataTable({
