@@ -171,15 +171,10 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
   }
   return x1 + x2;
 }
-$('body').on('click', '.btn-mini', function(ev) {
-  $(ev.currentTarget).children('i').removeClass('icon-chevron-down').addClass('icon-chevron-up');
-  $(ev.currentTarget).parents('div').children('ul').slideDown(200);
-  return false;
-});
 
 $('body').on('click', '.btn-mini', function(ev) {
-  $(ev.currentTarget).children('i').removeClass('icon-chevron-up').addClass('icon-chevron-down');
-  $(ev.currentTarget).parents('div').children('ul').slideUp(200);
+  $(ev.currentTarget).children('i').toggleClass('icon-chevron-up icon-chevron-down');
+  $(ev.currentTarget).parents('div').children('ul').slideToggle(200);
   return false;
 });
 
