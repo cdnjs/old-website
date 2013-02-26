@@ -110,20 +110,23 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
 
     <tr id="<%= package.name.replace('.', '') %>" class="odd gradeX">
       <td><a href="<%= package.homepage %>"><%= package.name %></a></td>
-      <td>//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>
-        <ul>
-        <% 
-          var version = '';
-        _.each(package.files, function(file) { 
-          if(version !== file[1]) {
-            version = file[1];
-          %>
-        <li class="version"><h3><%= file[1] %></h3></li>
-        <% }; %>
-          <li class="library">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= file[1] %>/<%= file[2] %></li>
-        <% }); %>
-      </ul>
-   <button  class="btn btn-mini btn-blue"><i class=" icon-chevron-down"></i></button>
+      <td>
+        <div style="position: relative">
+          //cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>
+          <ul>
+          <% 
+            var version = '';
+          _.each(package.files, function(file) { 
+            if(version !== file[1]) {
+              version = file[1];
+            %>
+          <li class="version"><h3><%= file[1] %></h3></li>
+          <% }; %>
+            <li class="library">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= file[1] %>/<%= file[2] %></li>
+          <% }); %>
+        </ul>
+         <button  class="btn btn-mini btn-blue"><i class=" icon-chevron-down"></i></button>
+       </div>
       </td>
       <!--<td class="hits">0</td>-->
     </tr>
