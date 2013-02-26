@@ -125,7 +125,7 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
             <li class="library">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= file[1] %>/<%= file[2] %></li>
           <% }); %>
         </ul>
-         <button  class="btn btn-mini btn-blue"><i class=" icon-chevron-down"></i></button>
+         <button  class="btn btn-mini btn-blue">Versions & Files <i class=" icon-chevron-down"></i></button>
        </div>
       </td>
       <!--<td class="hits">0</td>-->
