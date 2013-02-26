@@ -12494,12 +12494,12 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
 }
 $('body').on('click', '.btn-mini', function(ev) {
   $(ev.currentTarget).removeClass('icon-chevron-down').addClass('icon-chevron-up');
-  $(ev.currentTarget).parents('div').find('ul').slideDown(200);
+  $(ev.currentTarget).parents('div').children('ul').slideDown(200);
 });
 
 $('body').on('click', '.btn-mini', function(ev) {
   $(ev.currentTarget).removeClass('icon-chevron-up').addClass('icon-chevron-down');
-  $(ev.currentTarget).parents('div').find('ul').slideUp(200);
+  $(ev.currentTarget).parents('div').children('ul').slideUp(200);
 });
 
         $('#example').dataTable({
