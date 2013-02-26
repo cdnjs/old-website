@@ -110,8 +110,8 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
 
     <tr id="<%= package.name.replace('.', '') %>" class="odd gradeX">
       <td><a href="<%= package.homepage %>"><%= package.name %></a></td>
-      <td>
-        <div style="position: relative">
+      <td style="padding: 0;">
+        <div style="position: relative; padding: 8px;">
           //cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>
           <ul>
           <% 
