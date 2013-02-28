@@ -1776,6 +1776,32 @@
 
 },
 {
+    "name": "epitome",
+    "filename": "Epitome-min.js",
+    "version": "0.2.0",
+    "description": "Epitome, an MVP framework built on top of MooTools",
+    "homepage": "http://dimitarchristoff.github.com/Epitome",
+    "keywords": [
+        "mootools",
+        "epitome",
+        "mvc",
+        "mvp"
+    ],
+    "maintainers": [
+        {
+            "name": "Dimitar Christoff",
+            "email": "christoff@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/DimitarChristoff/Epitome"
+        }
+    ]
+}
+,
+{
     "name": "es5-shim",
     "filename": "es5-shim.min.js",
     "version": "1.2.4",
@@ -3643,6 +3669,30 @@
         {
             "type": "git",
             "url": "https://github.com/desandro/imagesloaded"
+        }
+    ]
+},
+{
+    "name": "jquery.isotope",
+    "filename": "jquery.isotope.min.js",
+    "version": "1.5.25",
+    "description": "An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts.",
+    "homepage": "https://github.com/desandro/isotope",
+    "keywords": [
+        "isotope",
+        "filtering",
+        "sorting"
+    ],
+    "maintainers": [
+        {
+            "name": "desandro",
+            "web": "http://metafizzy.co/"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/desandro/isotope"
         }
     ]
 },
