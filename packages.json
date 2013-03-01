@@ -2279,7 +2279,7 @@
 {
     "name": "gsap",
     "filename": "TweenMax.min.js",
-    "version": "1.8.4",
+    "version": "1.9.0",
     "description": "GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.",
     "homepage": "http://www.greensock.com/gsap-js/",
     "keywords": [
@@ -3802,7 +3802,7 @@
 {
     "name": "jquery.selectboxit",
     "filename": "jquery.selectBoxIt.min.js",
-    "version": "3.1.0",
+    "version": "3.2.0",
     "description": "A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.",
     "homepage": "http://www.selectboxit.com",
     "keywords": [
@@ -5878,7 +5878,7 @@
 {
     "name": "raven.js",
     "filename": "raven.min.js",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "JavaScript client for the Sentry realtime event logging and aggregation platform.",
     "homepage": "https://github.com/getsentry/raven-js",
     "keywords": [
@@ -6235,6 +6235,36 @@
     }
 }
 ,
+{
+  "name": "rxjs",
+  "filename": "rx.min.js",
+  "title": "Reactive Extensions for JavaScript (RxJS)",
+  "description": "Library for composing asynchronous and event-based operations in JavaScript",
+  "version": "2.1.0",
+  "homepage": "http://rx.codeplex.com",
+  "author": {
+    "name": "Cloud Programmability Team",
+    "url": "https://github.com/Reactive-Extensions/RxJS/blob/master/authors.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Reactive-Extensions/RxJS.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-nodeunit": "~0.1.2"
+  },
+  "keywords": [],
+  "main": "rx.node.js"
+},
 {
     "name": "sammy.js",
     "filename": "sammy.min.js",
