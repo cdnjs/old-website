@@ -1619,7 +1619,7 @@
 },
 {
     "name": "embedly-jquery",
-    "version": "3.0.1",
+    "version": "3.0.2",
     "filename": "jquery.embedly.min.js",
     "description": "Embedly - jQuery is a jQuery Library for Embedly that will replace links with content. It follows the oEmbed spec (oembed.com) for content retrieval, while utilizing http://api.embed.ly as a single endpoint.",
     "homepage": "https://github.com/embedly/embedly-jquery",
@@ -1691,6 +1691,32 @@
        }
    ]
 
+}
+,
+{
+    "name": "ember-resource.js",
+    "filename": "ember-resource.min.js",
+    "version": "1.0",
+    "description": "A simple library to connect your Ember.js application to JSON backends.",
+    "homepage": "https://github.com/zendesk/ember-resource",
+    "keywords": [
+       "ember",
+       "ember.js",
+       "ember-resource",
+       "ember-resource.js"
+   ],
+   "maintainers": [
+       {
+           "name": "Zendesk",
+           "web": "http://developer.zendesk.com/zengineering/open_source.html"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/zendesk/ember-resource"
+       }
+   ]
 }
 ,
 {
@@ -2105,7 +2131,7 @@
 {
     "name": "galleria",
     "filename": "galleria.min.js",
-    "version": "1.2.8",
+    "version": "1.2.9",
     "description": "The JavaScript Image Gallery.",
     "homepage": "http://galleria.io/",
     "keywords": [
@@ -2921,6 +2947,33 @@
 
 }
 ,
+{
+  "name": "jquery-footable",
+  "filename": "js/footable.min.js",
+  "description": "jQuery plugin to make HTML tables responsive",
+  "version": "0.1.0",
+  "keywords": [
+    "jquery",
+    "footable",
+    "tables"
+  ],
+  "demos": [
+    "http://themergency.com/footable-demo/responsive-container.htm"
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/bradvin/FooTable.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT License",
+      "url": "https://github.com/bradvin/FooTable/blob/master/LICENSE"
+    }
+  ],
+  "homepage": "http://themergency.com/footable/"
+},
 {
     "name": "jquery-gamequery",
     "filename": "jquery.gamequery.min.js",
@@ -7280,7 +7333,7 @@
 {
     "name": "twitter-bootstrap",
     "filename": "js/bootstrap.min.js",
-    "version": "2.3.0",
+    "version": "2.3.1",
     "description": "Javascript plugins for the Twitter Bootstrap toolkit",
     "homepage": "http://twitter.github.com/bootstrap/",
     "keywords": [
