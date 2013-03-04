@@ -1951,6 +1951,37 @@
 }
 ,
 {
+  "name": "fastclick",
+  "filename": "fastclick.min.js",
+  "version": "0.6.0",
+  "description": "Polyfill to remove click delays on browsers with touch UIs",
+  "homepage": "https://github.com/ftlabs/fastclick",
+  "keywords": [
+    "fastclick",
+    "mobile",
+    "touch",
+    "tap",
+    "click",
+    "delay"
+  ],
+  "maintainers": [
+     {
+      "name": "Rowan Beentje",
+      "email": "rowan.beentje@ft.com"
+    },
+    {
+      "name": "Matthew Caruana Galizia",
+      "email": "m@m.cg"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/ftlabs/fastclick.git"
+    }
+  ]
+},
+{
     "name": "file-uploader",
     "filename": "fineuploader.min.js",
     "version": "3.1.1",
@@ -7726,7 +7757,7 @@
   "name": "zepto",
   "filename": "zepto.min.js",
   "description": "Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API",
-  "version": "1.0rc1",
+  "version": "1.0",
   "homepage": "http://zeptojs.com",
   "keywords": [
     "mobile",
@@ -7749,6 +7780,28 @@
     }
   ]
 },
+{
+  "name": "zeroclipboard",
+  "filename": "ZeroClipboard.min.js",
+  "version": "1.1.7",
+  "license": "MIT",
+  "description": "The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie, and a JavaScript interface. The \"Zero\" signifies that the library is invisible and the user interface is left entirely up to you.",
+  "homepage": "https://github.com/jonrohan/ZeroClipboard",
+  "keywords": [
+    "jquery",
+    "flash",
+    "clipboard",
+    "copy",
+    "paste"
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url" : "https://github.com/jonrohan/ZeroClipboard"
+    }
+  ]
+}
+,
 {
     "name": "zxcvbn",
     "version": "1.0",
