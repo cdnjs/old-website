@@ -1,6 +1,9 @@
 .page {
 	padding-top: 0px;
 }
+.navbar {
+  margin-top: 10px !important;
+}
 .maintainers {
 	margin-bottom: 10px;
 }table.table thead .sorting,
@@ -14,11 +17,18 @@ table.table thead .sorting_desc_disabled {
 .table th, .table td { 
   line-height: 20px;
 }
-td ul { 
+.versionlabel {
+  font-weight: bold;
+}
+td .filesandversions { 
   display: none;
 list-style: none;
+margin-top: 20px;
 margin: 0;
 padding: 0;
+}
+td .filesandversions td , td .filesandversions th { 
+  background: #fff !important;
 }
 td {
   position: relative;

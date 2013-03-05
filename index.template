@@ -45,6 +45,9 @@
             <a href="https://www.cloudflare.com/network-map">Our network</a>
 
           </li>
+          <li>
+            <a href="http://stats.pingdom.com/4jg86a2wqei0">Uptime</a>
+          </li>
         </ul>
       </div>
     </div>
@@ -64,8 +67,10 @@
 
 <br />
 We host it all - JavaScript, CSS, SWF, images, etc!</p>
-
-<table>
+<p style="margin-top: 6px;">
+Supports http/https/spdy, we encourage leaving the protocol <a href="http://paulirish.com/2010/the-protocol-relative-url/">off</a>! <br />
+</p>
+<table style="margin-top: 25px;">
   <thead>
     <tr><td style="width: 115px;"><strong>Maintainers</strong></td><td></td></tr>
   </thead>
@@ -75,20 +80,13 @@ We host it all - JavaScript, CSS, SWF, images, etc!</p>
        <a href="http://twitter.com/neutralthoughts" class="twitter-follow-button">Follow @neutralthoughts</a></td></tr>
 </tbody>
 </table>
-<p style="margin-top: 6px;">
-<a href="https://github.com/cdnjs/cdnjs">github.com/cdnjs/cdnjs</a><br />
-Started in Jan 2011<br />
-<a href="http://stats.pingdom.com/4jg86a2wqei0">Uptime this month</a><br />
-Supports http/https/spdy, we encourage leaving the protocol <a href="http://paulirish.com/2010/the-protocol-relative-url/">off</a>! <br />
-<!--Usage stats are available over a CORS enabled <a href="https://github.com/cdnjs/cdnjs/issues/405#issuecomment-9004806">API</a>.
--->
-</p>
+
 <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
 
     </div>
-  <div class="span5">   <div class="well">
-    <img style="margin-bottom: 16px;" src="images/poweredbycloudflare.png">
-    <br />At CloudFlare, we believe that open source, community-driven projects like CDNJS are the tools upon which the future of the internet will be built. CloudFlare is proud to provide the global CDN infrastructure that will help power that future.
+  <div class="span5">   <div class="">
+   At CloudFlare, we believe that open source, community-driven projects like CDNJS are the tools upon which the future of the internet will be built. CloudFlare is proud to provide the global CDN infrastructure that will help power that future.  <br /><br /> <img style="margin-bottom: 20px; " src="images/poweredbycloudflare.png">
+   
 </div>  </div>
 </div>
 <div class="row">
@@ -112,19 +110,22 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
       <td><a href="<%= package.homepage %>"><%= package.name %></a></td>
       <td style="padding: 0;">
         <div style="position: relative; padding: 8px;">
-          //cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>
-          <ul>
+          <p style="padding: 0; margin: 0">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %></p>
+          <div class="filesandversions">
+          <table class=" table table-bordered" style="margin-top: 20px;">
           <% 
             var version = '';
           _.each(package.files, function(file) { 
             if(version !== file[1]) {
               version = file[1];
             %>
-          <li class="version"><h3><%= file[1] %></h3></li>
+          <tr class="version"><td class="versionlabel"><%= file[1] %></td></tr>
+
           <% }; %>
-            <li class="library">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= file[1] %>/<%= file[2] %></li>
+            <tr class="library"><td>//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= file[1] %>/<%= file[2] %></td></tr>
           <% }); %>
-        </ul>
+        </table>
+      </div>
          <button  class="btn btn-mini btn-blue">Versions & Files <i class=" icon-chevron-down"></i></button>
        </div>
       </td>
@@ -174,7 +175,7 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
 
 $('body').on('click', '.btn-mini', function(ev) {
   $(ev.currentTarget).children('i').toggleClass('icon-chevron-up icon-chevron-down');
-  $(ev.currentTarget).parents('div').children('ul').slideToggle(200);
+  $(ev.currentTarget).parents('div').children('.filesandversions').slideToggle(200);
   return false;
 });
 
