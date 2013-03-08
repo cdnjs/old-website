@@ -143,6 +143,56 @@
 }
 ,
 {
+  "name": "angular-ui",
+  "filename": "angular-ui.min.js",
+  "description": "AngularUI is the companion suite to the AngularJS framework.",
+  "version": "0.4.0",
+  "homepage": "http://angular-ui.github.com",
+  "keywords": [
+    "framework",
+    "mvc",
+    "AngularJS",
+    "angular",
+    "angular.js",
+    "angular-ui",
+    "AngularUI"
+  ],
+  "contributors": [
+    {
+      "name": "Dean Sofer"
+    },
+    {
+      "name": "Pete Bacon Darwin"
+    },
+    {
+      "name": "Dan Doyon"
+    },
+    {
+      "name": "Christopher Hiller"
+    },
+    {
+      "name": "Josh Kurz"
+    },
+    {
+      "name": "Andy Joslin"
+    },
+    {
+      "name": "Pawel Kozlowski"
+    }
+  ],
+  "repositories": [{
+    "type": "git",
+    "url": "https://github.com/angular-ui/angular-ui"
+  }],
+  "bugs": "https://github.com/angular-ui/angular-ui/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/angular-ui/angular-ui/blob/master/LICENSE"
+    }
+  ]
+},
+{
   "name": "angular.js",
   "filename": "angular.min.js",
   "description": "AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.",
@@ -2133,6 +2183,24 @@
 }
 ,
 {
+    "name": "flipCounter",
+    "filename": "jquery.flipCounter.pack.js",
+    "version": "1.2",
+    "description": "Uses valid markup and an image sprite to render an analogue clock / odometer effect. Clock image is easily customizable, default options can be easily overriden, can be easily animated and extended with jQuery.easing plugin, gracefully degrades if Javascript is not available.",
+    "keywords": [
+        "flipcounter",
+        "number",
+        "end_number",
+        "easing",
+        "duration"
+    ],
+    "homepage": "http://bloggingsquared.com/jquery/flipcounter/",
+    "author": {
+        "name": "Brolly.ca",
+        "email": "info@brolly.ca"
+    }
+},
+{
     "name": "flot",
     "filename": "jquery.flot.min.js",
     "version": "0.7",
@@ -3147,8 +3215,8 @@
 ,
 {
     "name": "jquery-jcrop",
-    "filename": "jquery.Jcrop.js",
-    "version": "0.9.10",
+    "filename": "js/jquery.Jcrop.min.js",
+    "version": "0.9.12",
     "description": "Jcrop is the quick and easy way to add image cropping functionality to your web application.",
     "homepage": "http://deepliquid.com/content/Jcrop.html",
     "keywords": [
@@ -3165,6 +3233,12 @@
         {
             "type": "git",
             "url": "https://github.com/tapmodo/Jcrop"
+        }
+    ],
+    "licenses": [
+        {
+          "type": "MIT",
+          "url": "https://github.com/tapmodo/Jcrop/blob/master/MIT-LICENSE.txt"
         }
     ]
 },
@@ -3538,6 +3612,62 @@
 
 }
 ,
+{
+  "name": "jquery-ui-map",
+  "description": "Google Map version 3 plugin for jQuery and jQM",
+  "filename": "jquery.ui.map.js",
+  "version": "3.0-rc1",
+  "keywords": [
+    "jquery",
+    "maps",
+    "gmaps",
+    "google maps",
+    "google",
+    "jqm",
+    "jquery mobile"
+  ],
+  "contributors": [
+    {
+      "name": "Shane Knee",
+      "email": "",
+      "web": ""
+    },
+    {
+      "name": "futureweb",
+      "email": "",
+      "web": "http://www.futureweb.at/"
+    },
+    {
+      "name": "razorpms",
+      "email": "",
+      "web": "http://www.razorpms.com/"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Johan Säll Larsson",
+      "email": "johansalllarsson@gmail.com",
+      "web": "https://code.google.com/u/johansalllarsson/"
+    }
+  ],
+  "demos": [
+    "http://jquery-ui-map.googlecode.com/svn/trunk/demos/"
+  ],
+  "bugs": "http://code.google.com/p/jquery-ui-map/issues/list/",
+  "repositories": [
+    {
+      "type": "svn",
+      "url": "http://jquery-ui-map.googlecode.com/svn/trunk/"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT License",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "homepage": "https://code.google.com/p/jquery-ui-map/"
+},
 {
     "name": "jquery-url-parser",
     "filename": "purl.min.js",
@@ -7638,7 +7768,7 @@
 {
     "name": "webfont",
     "filename": "webfont.js",
-    "version": "1.1.2",
+    "version": "1.3.0",
     "description": "The WebFont Loader is a JavaScript library that gives you more control over font loading than the Google Font API provides.",
     "homepage": "http://code.google.com/apis/webfonts/docs/webfont_loader.html",
     "keywords": [
@@ -7790,6 +7920,21 @@
    ]
 }
 ,
+{
+  "name": "zclip",
+  "filename": "jquery.zclip.min.js",
+  "version": "1.1.1",
+  "license": "MIT",
+  "description": "zClip is a lightweight jQuery \"copy to clipboard\" plugin built using the popular Zero Clipboard library. This plugin uses an invisible Adobe Flash movie that is fully compatible with Flash Player 10 and below.",
+  "homepage": "http://steamdev.com/zclip/",
+  "keywords": [
+    "jquery",
+    "flash",
+    "clipboard",
+    "copy",
+    "paste"
+  ]
+},
 {
   "name": "zepto",
   "filename": "zepto.min.js",
