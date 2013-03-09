@@ -6550,6 +6550,21 @@
   "main": "rx.node.js"
 },
 {
+    "name": "salesforce-canvas",
+    "filename": "canvas-all.min.js",
+    "version": "27.0",
+    "description": "An open source javascript sdk to build a seamless end-user experience inside of salesforce.com.",
+    "homepage": "http://wiki.developerforce.com/page/Force.com_Canvas",
+    "keywords": ["salesforce", "canvas", "intigration"],
+    "author": "Salesforce.com, Inc.",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/forcedotcom/SalesforceCanvasFrameworkSDK.git"
+        }
+    ]
+},
+{
     "name": "sammy.js",
     "filename": "sammy.min.js",
     "version": "0.7.4",
