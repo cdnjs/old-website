@@ -1915,6 +1915,39 @@
 }
 ,
 {
+    "name": "equalize.js",
+    "filename": "equalize.min.js",     
+    "version": "1.0.1",
+    "description": "The jQuery plugin for equalizing the height or width of your elements",
+    "keywords": [
+        "ui",
+        "equalize",
+        "equal",
+        "height",
+        "width",
+        "layout"
+    ],
+    "homepage": "https://github.com/tsvensen/equalize.js",
+    "demo": "http://tsvensen.github.com/equalize.js/",
+    "dependencies": {
+        "jquery": ">=1.4.x"
+        },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+        }, {
+        "type": "GPLv2",
+        "url": "http://opensource.org/licenses/GPL-2.0"
+    }],
+    "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/tsvensen/equalize.js/blob/master/js/equalize.js" 
+       } 
+   ]
+
+},
+{
     "name": "es5-shim",
     "filename": "es5-shim.min.js",
     "version": "1.2.4",
@@ -3499,7 +3532,7 @@
 {
     "name": "jquery-sparklines",
     "filename": "jquery.sparkline.min.js",
-    "version": "2.0.0",
+    "version": "2.1.1",
     "description": "This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript",
     "homepage": "http://omnipotent.net/jquery.sparkline",
     "keywords": [
@@ -3560,7 +3593,7 @@
 {
     "name": "jquery-timeago",
     "filename": "jquery.timeago.min.js",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "description": "Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. '4 minutes ago' or 'about 1 day ago') from ISO 8601 formatted dates and times embedded in your HTML (à la microformats).",
     "homepage": "http://timeago.yarp.com/",
     "keywords": [
@@ -5241,7 +5274,7 @@
 {
     "name": "noUiSlider",
     "filename": "jquery.nouislider.min.js",
-    "version": "2.5.5",
+    "version": "3.1.1",
     "description": "A jQuery plugin that turns an html object into a nice (range) slider.",
     "homepage": "http://refreshless.com/nouislider/",
     "keywords": [
