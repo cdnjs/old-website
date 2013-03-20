@@ -953,6 +953,29 @@
    ]
 },
 {
+    "name": "codemirror",
+    "filename": "codemirror.min.js",
+    "version":"2.36.0",
+    "main": "codemirror.js",
+    "description": "In-browser code editing made bearable",
+    "licenses": [{"type": "MIT",
+                  "url": "http://codemirror.net/LICENSE"}],
+    "directories": {"lib": "./lib"},
+    "scripts": {"test": "node ./test/run.js"},
+    "devDependencies": {"node-static": "0.6.0"},
+    "bugs": "http://github.com/marijnh/CodeMirror/issues",
+    "keywords": ["JavaScript", "CodeMirror", "Editor"],
+    "homepage": "http://codemirror.net",
+    "maintainers":[{"name": "Marijn Haverbeke",
+                    "email": "marijnh@gmail.com",
+                    "web": "http://marijnhaverbeke.nl"}],
+    "repositories": [{"type": "git",
+                      "url": "http://marijnhaverbeke.nl/git/codemirror"},
+                     {"type": "git",
+                      "url": "https://github.com/marijnh/CodeMirror.git"}]
+}
+,
+{
     "name": "coffee-script",
     "filename": "coffee-script.min.js",
     "version": "1.4.0",
@@ -2336,26 +2359,35 @@
 }
 ,
 {
-    "name": "foundation",
-    "filename": "js/foundation.min.js",
-    "version": "4.0.8",
-    "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.",
-    "homepage": "http://foundation.zurb.com",
-    "keywords": [
-       "foundation",
-       "responsive"
-   ],
-   "maintainers": [
-       {
-           "name": "zurb"
-       }
-   ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/zurb/foundation.git"
-       }
-   ]
+  "name": "foundation",
+  "filename": "js/foundation.min.js",
+  "version": "4.0.9",
+  "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.",
+  "homepage": "http://foundation.zurb.com",
+  "keywords": [
+    "foundation",
+    "responsive"
+  ],
+  "maintainers": [
+    {
+      "name": "Chris Michel",
+      "web": "http://www.zurb.com/about/profile/chris-michel"
+    },
+    {
+      "name": "Jordan Humphreys",
+      "web": "http://www.zurb.com/about/profile/jordan-humphreys"
+    },
+    {
+      "name": "Mark Hayes",
+      "web": "http://www.zurb.com/about/profile/mark-hayes"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/zurb/foundation.git"
+    }
+  ]
 }
 ,
 {
@@ -2826,6 +2858,32 @@
 }
 ,
 {
+    "name": "hydra.js",
+    "filename": "hydra.min.js",
+    "version": "3.1.2",
+    "description": "Framework that gives you the tools to write your application using modules or widgets and make easy to work with them.",
+    "homepage": "http://tcorral.github.com/Hydra.js/",
+    "keywords": [
+        "hydra",
+        "hydra.js",
+        "modular",
+        "modules",
+        "scalable"
+    ],
+    "maintainers": [
+        {
+            "name": "Tomas Corral",
+            "email": "amischol@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/tcorral/Hydra.js.git"
+        }
+    ]
+},
+{
     "name": "ICanHaz.js",
     "filename": "ICanHaz.min.js",
     "version": "0.10",
@@ -2924,6 +2982,41 @@
 }
 ,
 {
+  "name": "jasny-bootstrap",
+  "filename": "jasny-bootstrap.min.js",
+  "description": "Extension to Twitter Bootstrap",
+  "version": "2.3.0-j5",
+  "keywords": [
+    "twitter bootstrap",
+    "bootstrap",
+    "extensions"
+  ],
+  "maintainers": [
+    {
+      "name": "Arnold Daniels",
+      "email": "",
+      "web": "https://twitter.com/ArnoldDaniels/"
+    }
+  ],
+  "demos": [
+    "http://jasny.github.com/bootstrap/getting-started.html#examples"
+  ],
+  "bugs": "https://github.com/jasny/bootstrap/issues",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/jasny/bootstrap.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Apache License",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "homepage": "http://jasny.github.com/bootstrap"
+},
+{
     "name": "javascript-state-machine",
     "filename": "state-machine.min.js",
     "version": "2.0.0",
@@ -3020,6 +3113,30 @@
        {
            "type": "git",
            "url": "https://github.com/replit/jq-console.git"
+       }
+   ]
+}
+,
+{
+    "name": "jqcloud",
+    "filename": "jqcloud-1.0.3.min.js",
+    "version": "1.0.3",
+    "description": "jQCloud is a jQuery plugin that builds neat and pure HTML + CSS word clouds and tag clouds that are actually shaped like a cloud.",
+    "homepage": "https://github.com/lucaong/jQCloud",
+    "keywords": [
+       "visualization",
+       "text"
+   ],
+   "maintainers": [
+       {
+           "name": "Luca Ongaro",
+           "web": "http://www.lucaongaro.eu/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/lucaong/jQCloud"
        }
    ]
 }
@@ -3335,6 +3452,25 @@
           "url": "https://github.com/tapmodo/Jcrop/blob/master/MIT-LICENSE.txt"
         }
     ]
+},
+{
+  "name": "jquery-jkit",
+  "filename": "jquery.jkit.min.js",
+  "version": "1.1.8",
+  "description": "A very easy to use, cross platform, jQuery based UI toolkit, that's still small in size, has the features you need, and doesn't get in your way of doing things!",
+  "homepage": "http://jquery-jkit.com/",
+  "keywords": [
+    "jquery",
+    "jkit",
+	"ui",
+	"toolkit"
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url" : "https://github.com/FrediBach/jQuery-jKit"
+    }
+  ]
 },
 {
     "name": "jquery-layout",
@@ -4200,7 +4336,7 @@
 {
     "name": "jquery.selectboxit",
     "filename": "jquery.selectBoxIt.min.js",
-    "version": "3.2.0",
+    "version": "3.3.0",
     "description": "A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.",
     "homepage": "http://www.selectboxit.com",
     "keywords": [
