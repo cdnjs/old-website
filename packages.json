@@ -394,7 +394,7 @@
 {
     "name": "backbone.js",
     "filename": "backbone-min.js",
-    "version": "0.9.10",
+    "version": "1.0.0",
     "description": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.",
     "homepage": "http://documentcloud.github.com/backbone/",
     "keywords": [
@@ -2540,7 +2540,7 @@
 {
     "name": "graphael",
     "filename": "g.raphael-min.js",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "description": "gRaphael's goal is to help you create stunning charts on your website. It is based on Raphaël graphics library.",
     "homepage": "http://g.raphaeljs.com/",
     "keywords": [
@@ -7755,7 +7755,7 @@
 {
     "name": "three.js",
     "filename": "three.min.js",
-    "version": "r55",
+    "version": "r57",
     "description": "three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.",
     "homepage": "http://threejs.org/",
     "keywords": [
