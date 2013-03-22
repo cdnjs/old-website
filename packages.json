@@ -119,7 +119,7 @@
   "name": "angular-strap",
   "filename": "angular-strap.min.js",
   "description": "AngularStrap - Twitter Bootstrap directives for AngularJS.",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "homepage": "http://mgcrea.github.com/angular-strap",
   "keywords": [
     "angular",
@@ -978,7 +978,7 @@
 {
     "name": "coffee-script",
     "filename": "coffee-script.min.js",
-    "version": "1.4.0",
+    "version": "1.6.2",
     "description": "CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.",
     "homepage": "http://jashkenas.github.com/coffee-script/",
     "keywords": [
@@ -5204,7 +5204,7 @@
 {
     "name": "masonry",
     "filename": "jquery.masonry.min.js",
-    "version": "2.1.07",
+    "version": "2.1.08",
     "description": "A dynamic layout plugin for jQuery.",
     "homepage": "http://masonry.desandro.com/",
     "keywords": [
