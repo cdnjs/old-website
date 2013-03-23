@@ -1,22 +1,17 @@
 {
-  "author": "Thomas Davies <thomasalwyndavis@gmail.com> (http://backbonetutorials.com/)",
-  "name": "backboneboilerplate",
-  "description": "A modular backbone environment",
+  "name": "cdnjs website",
+  "description": "The client for the public facing website of cdnjs",
   "version": "0.0.0",
-  "homepage": "http://backboneboilerplate.com/",
+  "homepage": "http://cdnjs.com/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/thomasdavis/backboneboilerplate.git"
+    "url": "git://github.com/cdnjs/cdnjs.git"
   },
-  "main": "build/server",
   "engines": {
     "node": "~0.6.11"
   },
   "dependencies": {
     "underscore": "1.4.4",
-    "glob": "~3.1.14",
     "superagent": "~0.13.0"
   },
-  "devDependencies": {},
-  "optionalDependencies": {}
 }

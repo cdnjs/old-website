@@ -3,5 +3,3 @@
 # cdnjs.com website repository
 
 Please go to https://github.com/cdnjs/cdnjs if you want to add something to cdnjs
-
-<img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66606907ns.gif" />

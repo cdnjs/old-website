@@ -88,7 +88,7 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
 
     </div>
   <div class="span5">   <div class="">
-   At CloudFlare, we believe that open source, community-driven projects like CDNJS are the tools upon which the future of the internet will be built. CloudFlare is proud to provide the global CDN infrastructure that will help power that future.  <br /><br /> <img style="margin-bottom: 20px; " src="images/poweredbycloudflare.png">
+   At CloudFlare, we believe that open source, community-driven projects like CDNJS are the tools upon which the future of the internet will be built. CloudFlare is proud to provide the global CDN infrastructure that will help power that future.  <br /><br /> <img style="margin-bottom: 20px; " src="img/poweredbycloudflare.png">
    
 </div>  </div>
 </div>
@@ -118,14 +118,18 @@ Supports http/https/spdy, we encourage leaving the protocol <a href="http://paul
           <table class=" table table-bordered" style="margin-top: 20px;">
           <% 
             var version = '';
-          _.each(package.files, function(file) { 
-            if(version !== file[1]) {
-              version = file[1];
-            %>
-          <tr class="version"><td class="versionlabel"><%= file[1] %></td></tr>
+          _.each(package.assets, function(version) { 
 
-          <% }; %>
-            <tr class="library"><td>//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= file[1] %>/<%= file[2] %></td></tr>
+          %>
+          <tr class="version"><td class="versionlabel"><%= version.version %></td></tr>
+
+
+          <% _.each(version.files, function(file) { %>
+            <tr class="library"><td>//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= version.version %>/<%= file %></td></tr>
+
+
+          <% }); %>
+
           <% }); %>
         </table>
       </div>
