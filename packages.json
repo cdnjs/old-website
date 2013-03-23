@@ -5523,8 +5523,8 @@
         },
         {
             "name": "hammer.js",
-            "filename": "hammer.js",
-            "version": "0.6.4",
+            "filename": "hammer.min.js",
+            "version": "1.0.3",
             "description": "A javascript library for multi-touch gestures :// You can touch this ",
             "homepage": "http://eightmedia.github.com/hammer.js/",
             "keywords": [
@@ -5540,6 +5540,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.0.3",
+                    "files": [
+                        "hammer.js",
+                        "hammer.min.js",
+                        "jquery.hammer.js",
+                        "jquery.hammer.min.js"
+                    ]
+                },
                 {
                     "version": "0.6.4",
                     "files": [
