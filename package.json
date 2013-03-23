@@ -1,5 +1,5 @@
 {
-  "name": "cdnjs website",
+  "name": "cdnjs-website",
   "description": "The client for the public facing website of cdnjs",
   "version": "0.0.0",
   "homepage": "http://cdnjs.com/",
@@ -13,5 +13,5 @@
   "dependencies": {
     "underscore": "1.4.4",
     "superagent": "~0.13.0"
-  },
+  }
 }

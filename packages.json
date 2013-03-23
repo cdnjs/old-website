@@ -1193,7 +1193,7 @@
         {
             "name": "backbone.paginator",
             "filename": "backbone.paginator.min.js",
-            "version": "0.5",
+            "version": "0.6",
             "description": "Pagination component for backbone.js",
             "homepage": "https://github.com/addyosmani/backbone.paginator",
             "keywords": [
@@ -1217,6 +1217,13 @@
                 {
                     "version": "0.154",
                     "files": [
+                        "backbone.paginator.min.js"
+                    ]
+                },
+                {
+                    "version": "0.6",
+                    "files": [
+                        "backbone.paginator.js",
                         "backbone.paginator.min.js"
                     ]
                 },
@@ -1733,6 +1740,45 @@
                     "files": [
                         "bootstrap-lightbox.css",
                         "bootstrap-lightbox.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bootstrap-tour",
+            "filename": "bootstrap-tour.js",
+            "version": "0.2.0",
+            "description": "Quick and easy product tours with Twitter Bootstrap Popovers.",
+            "homepage": "http://bootstraptour.com",
+            "keywords": [
+                "twitter",
+                "bootstrap",
+                "tour",
+                "intro"
+            ],
+            "mantainers": [
+                {
+                    "name": "Ulrich Sossou",
+                    "email": "sorich87@gmail.com",
+                    "web": "http://ulrichsossou.com"
+                },
+                {
+                    "name": "Emanuele Marchi",
+                    "email": "emanuele@lostcrew.it",
+                    "web": "http://lostcrew.nl"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/sorich87/bootstrap-tour"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.2.0",
+                    "files": [
+                        "bootstrap-tour.js"
                     ]
                 }
             ]
@@ -6939,6 +6985,49 @@
                     "version": "2.0b2.110713",
                     "files": [
                         "jquery.infinitescroll.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery-instagram",
+            "filename": "jquery.instagram.js",
+            "version": "0.2.2",
+            "description": "Instagram jQuery plugin",
+            "homepage": "https://github.com/potomak/jquery-instagram",
+            "keywords": [
+                "jquery",
+                "instagram",
+                "plugin",
+                "photography",
+                "pictures",
+                "mobile"
+            ],
+            "maintainers": [
+                {
+                    "name": "Giovanni Cappellotto",
+                    "web": "http://www.focustheweb.com/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/potomak/jquery-instagram"
+                }
+            ],
+            "bugs": "https://github.com/potomak/jquery-instagram/issues",
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://raw.github.com/potomak/jquery-instagram/0.2.2/LICENSE"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.2.2",
+                    "files": [
+                        "jquery.instagram.js",
+                        "jquery.instagram.min.js"
                     ]
                 }
             ]
@@ -13212,7 +13301,7 @@
         {
             "name": "qtip2",
             "filename": "jquery.qtip.min.js",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "description": "Pretty powerful tooltips. The second generation of the advanced qTip plugin for the ever popular jQuery framework.",
             "homepage": "http://craigsworks.com/projects/qtip2/",
             "keywords": [
@@ -13243,6 +13332,19 @@
             },
             "bugs": "https://github.com/Craga89/qTip2/issues",
             "assets": [
+                {
+                    "version": "2.0.1",
+                    "files": [
+                        "basic/jquery.qtip.css",
+                        "basic/jquery.qtip.js",
+                        "basic/jquery.qtip.min.css",
+                        "basic/jquery.qtip.min.js",
+                        "jquery.qtip.css",
+                        "jquery.qtip.js",
+                        "jquery.qtip.min.css",
+                        "jquery.qtip.min.js"
+                    ]
+                },
                 {
                     "version": "2.0.0",
                     "files": [
@@ -13714,7 +13816,7 @@
         {
             "name": "require.js",
             "filename": "require.min.js",
-            "version": "2.1.4",
+            "version": "2.1.5",
             "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node",
             "homepage": "http://requirejs.org/",
             "keywords": [
@@ -13736,6 +13838,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.1.5",
+                    "files": [
+                        "require.js",
+                        "require.min.js"
+                    ]
+                },
                 {
                     "version": "2.1.4",
                     "files": [
