@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "underscore": "1.4.4",
-    "glob": "~3.1.14"
+    "glob": "~3.1.14",
+    "superagent": "~0.13.0"
   },
   "devDependencies": {},
   "optionalDependencies": {}
