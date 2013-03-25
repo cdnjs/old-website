@@ -11,6 +11,10 @@ superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new 
 });
 
 
+superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//rss?' + new Date().getTime(), function(res, textStatus, xhr){
+  fs.writeFileSync('rss', res.body, 'utf8');
+});
+
 
 
 

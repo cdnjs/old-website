@@ -8573,6 +8573,38 @@
             ]
         },
         {
+            "name": "jquery.qrcode",
+            "filename": "jquery.qrcode.min.js",
+            "version": "1.0",
+            "description": "A jquery plugin for a pure browser qrcode generation.",
+            "homepage": "http://jeromeetienne.github.com/jquery-qrcode/",
+            "keywords": [
+                "jquery",
+                "qrcode",
+                "qr"
+            ],
+            "maintainers": [
+                {
+                    "name": "Jerome Etienne",
+                    "url": "http://jetienne.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/jeromeetienne/jquery-qrcode"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.0",
+                    "files": [
+                        "jquery.qrcode.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "jquery.selectboxit",
             "filename": "jquery.selectBoxIt.min.js",
             "version": "3.3.0",
@@ -14463,7 +14495,7 @@
         {
             "name": "select2",
             "filename": "select2.min.js",
-            "version": "3.3.0",
+            "version": "3.3.1",
             "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. Look and feel of Select2 is based on the excellent Chosen library.",
             "homepage": "http://ivaynberg.github.com/select2/",
             "keywords": [
@@ -14487,6 +14519,20 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.3.1",
+                    "files": [
+                        "select2-spinner.gif",
+                        "select2.css",
+                        "select2.js",
+                        "select2.min.js",
+                        "select2.png",
+                        "select2_locale_es.js",
+                        "select2_locale_hu.js",
+                        "select2_locale_it.js",
+                        "select2x2.png"
+                    ]
+                },
                 {
                     "version": "3.3.0",
                     "files": [
