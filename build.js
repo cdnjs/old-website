@@ -12,7 +12,7 @@ superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new 
 });
 
 
-var file = fs.createWriteStream("rss");
+var file = fs.createWriteStream("rss.xml");
 var request = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function(response) {
   response.pipe(file);
 });
