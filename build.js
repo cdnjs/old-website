@@ -1,6 +1,7 @@
 var superagent = require('superagent');
 var _ = require('underscore');
 var fs = require('fs');
+var http = require('http');
 
 superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new Date().getTime(), function(res, textStatus, xhr){
   var packages = res.body.packages;
@@ -11,17 +12,10 @@ superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new 
 });
 
 
-superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//rss?' + new Date().getTime(), function(res, textStatus, xhr){
-  fs.writeFileSync('rss', res.body, 'utf8');
+var file = fs.createWriteStream("rss");
+var request = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function(response) {
+  response.pipe(file);
 });
-
-
-
-
-
-
-
-
 
 
 
