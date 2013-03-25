@@ -1,2 +1,361 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Feed Title]]></title><description><![CDATA[This is my personnal feed!]]></description><link>http://github.com/dylan/node-rss</link><generator>NodeJS RSS Module</generator><lastBuildDate>Mon, 25 Mar 2013 13:03:56 GMT</lastBuildDate><item><title><![CDATA[select2 was modified]]></title><description><![CDATA[Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. Look and feel of Select2 is based on the excellent Chosen library.]]></description><guid isPermaLink="false">select2 was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sun, 24 Mar 2013 18:53:27 GMT</pubDate></item><item><title><![CDATA[jquery.qrcode was added]]></title><description><![CDATA[A jquery plugin for a pure browser qrcode generation.]]></description><guid isPermaLink="false">jquery.qrcode was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sat, 23 Mar 2013 21:26:46 GMT</pubDate></item><item><title><![CDATA[require.js was modified]]></title><description><![CDATA[RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node]]></description><guid isPermaLink="false">require.js was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sat, 23 Mar 2013 21:02:38 GMT</pubDate></item><item><title><![CDATA[hammer.js was modified]]></title><description><![CDATA[A javascript library for multi-touch gestures :// You can touch this ]]></description><guid isPermaLink="false">hammer.js was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sat, 23 Mar 2013 05:03:10 GMT</pubDate></item><item><title><![CDATA[q.js was added]]></title><description><![CDATA[A library for promises (CommonJS/Promises/A,B,D)]]></description><guid isPermaLink="false">q.js was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sat, 23 Mar 2013 03:45:33 GMT</pubDate></item><item><title><![CDATA[angular-strap was modified]]></title><description><![CDATA[AngularStrap - Twitter Bootstrap directives for AngularJS.]]></description><guid isPermaLink="false">angular-strap was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Thu, 21 Mar 2013 15:14:32 GMT</pubDate></item><item><title><![CDATA[coffee-script was modified]]></title><description><![CDATA[CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.]]></description><guid isPermaLink="false">coffee-script was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Thu, 21 Mar 2013 12:41:45 GMT</pubDate></item><item><title><![CDATA[masonry was modified]]></title><description><![CDATA[A dynamic layout plugin for jQuery.]]></description><guid isPermaLink="false">masonry was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Thu, 21 Mar 2013 02:10:38 GMT</pubDate></item><item><title><![CDATA[graphael was modified]]></title><description><![CDATA[gRaphael's goal is to help you create stunning charts on your website. It is based on Raphaël graphics library.]]></description><guid isPermaLink="false">graphael was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 20 Mar 2013 22:01:24 GMT</pubDate></item><item><title><![CDATA[bootstrap-tour was added]]></title><description><![CDATA[Quick and easy product tours with Twitter Bootstrap Popovers.]]></description><guid isPermaLink="false">bootstrap-tour was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 20 Mar 2013 21:24:03 GMT</pubDate></item><item><title><![CDATA[three.js was modified]]></title><description><![CDATA[three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.]]></description><guid isPermaLink="false">three.js was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 20 Mar 2013 21:11:02 GMT</pubDate></item><item><title><![CDATA[qtip2 was modified]]></title><description><![CDATA[Pretty powerful tooltips. The second generation of the advanced qTip plugin for the ever popular jQuery framework.]]></description><guid isPermaLink="false">qtip2 was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 20 Mar 2013 17:21:26 GMT</pubDate></item><item><title><![CDATA[backbone-pageable was modified]]></title><description><![CDATA[A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.]]></description><guid isPermaLink="false">backbone-pageable was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 20 Mar 2013 15:18:39 GMT</pubDate></item><item><title><![CDATA[jquery-instagram was added]]></title><description><![CDATA[Instagram jQuery plugin]]></description><guid isPermaLink="false">jquery-instagram was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 20 Mar 2013 14:07:11 GMT</pubDate></item><item><title><![CDATA[backbone.js was modified]]></title><description><![CDATA[Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.]]></description><guid isPermaLink="false">backbone.js was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 20 Mar 2013 14:01:57 GMT</pubDate></item><item><title><![CDATA[backbone.paginator was modified]]></title><description><![CDATA[Pagination component for backbone.js]]></description><guid isPermaLink="false">backbone.paginator was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 20 Mar 2013 08:56:42 GMT</pubDate></item><item><title><![CDATA[dropbox.js was modified]]></title><description><![CDATA[Client library for the Dropbox API]]></description><guid isPermaLink="false">dropbox.js was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 20 Mar 2013 08:55:19 GMT</pubDate></item><item><title><![CDATA[breezejs was added]]></title><description><![CDATA[BreezeJS is a JavaScript library for managing data in data rich-client HTML/JS applications. Core features include client-side querying, caching, change-tracking, validation, batch saves.]]></description><guid isPermaLink="false">breezejs was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 20 Mar 2013 05:11:16 GMT</pubDate></item><item><title><![CDATA[jquery.selectboxit was modified]]></title><description><![CDATA[A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.]]></description><guid isPermaLink="false">jquery.selectboxit was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Tue, 19 Mar 2013 20:11:05 GMT</pubDate></item><item><title><![CDATA[foundation was modified]]></title><description><![CDATA[The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.]]></description><guid isPermaLink="false">foundation was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Tue, 19 Mar 2013 17:40:41 GMT</pubDate></item><item><title><![CDATA[gsap was modified]]></title><description><![CDATA[GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.]]></description><guid isPermaLink="false">gsap was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Tue, 19 Mar 2013 05:32:17 GMT</pubDate></item><item><title><![CDATA[jqcloud was added]]></title><description><![CDATA[jQCloud is a jQuery plugin that builds neat and pure HTML + CSS word clouds and tag clouds that are actually shaped like a cloud.]]></description><guid isPermaLink="false">jqcloud was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Mon, 18 Mar 2013 22:02:36 GMT</pubDate></item><item><title><![CDATA[jquery.superlabels was added]]></title><description><![CDATA[Give your forms a helping of awesome!]]></description><guid isPermaLink="false">jquery.superlabels was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Mon, 18 Mar 2013 10:47:16 GMT</pubDate></item><item><title><![CDATA[tabletop.js was added]]></title><description><![CDATA[Tabletop.js takes a Google Spreadsheet and makes it easily accessible through JavaScript.]]></description><guid isPermaLink="false">tabletop.js was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Mon, 18 Mar 2013 00:11:00 GMT</pubDate></item><item><title><![CDATA[rickshaw was modified]]></title><description><![CDATA[JavaScript toolkit for creating interactive real-time graphs]]></description><guid isPermaLink="false">rickshaw was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sun, 17 Mar 2013 01:52:18 GMT</pubDate></item><item><title><![CDATA[messenger was added]]></title><description><![CDATA[Client-side growl-like notifications with actions and auto-retry.]]></description><guid isPermaLink="false">messenger was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sun, 17 Mar 2013 01:37:10 GMT</pubDate></item><item><title><![CDATA[jqueryui was modified]]></title><description><![CDATA[jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.]]></description><guid isPermaLink="false">jqueryui was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sun, 17 Mar 2013 01:26:04 GMT</pubDate></item><item><title><![CDATA[ResponsiveSlides.js was modified]]></title><description><![CDATA[Simple & lightweight responsive slider plugin]]></description><guid isPermaLink="false">ResponsiveSlides.js was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sun, 17 Mar 2013 01:20:58 GMT</pubDate></item><item><title><![CDATA[require-text was modified]]></title><description><![CDATA[A RequireJS/AMD loader plugin for loading text resources.]]></description><guid isPermaLink="false">require-text was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sun, 17 Mar 2013 01:12:59 GMT</pubDate></item><item><title><![CDATA[jstimezonedetect was added]]></title><description><![CDATA[This script gives you the zone info key representing your device's time zone setting.]]></description><guid isPermaLink="false">jstimezonedetect was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Sat, 16 Mar 2013 14:23:11 GMT</pubDate></item><item><title><![CDATA[jquery.mask was added]]></title><description><![CDATA[A jQuery Plugin to make input mask field.]]></description><guid isPermaLink="false">jquery.mask was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Thu, 14 Mar 2013 19:48:04 GMT</pubDate></item><item><title><![CDATA[fabric.js was added]]></title><description><![CDATA[A powerful and simple Javascript canvas library]]></description><guid isPermaLink="false">fabric.js was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Thu, 14 Mar 2013 02:38:37 GMT</pubDate></item><item><title><![CDATA[d3 was modified]]></title><description><![CDATA[A small, free JavaScript library for manipulating documents based on data.]]></description><guid isPermaLink="false">d3 was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 13 Mar 2013 23:28:19 GMT</pubDate></item><item><title><![CDATA[backbone.marionette was modified]]></title><description><![CDATA[Make your Backbone.js apps dance with a composite application architecture!]]></description><guid isPermaLink="false">backbone.marionette was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 13 Mar 2013 23:21:27 GMT</pubDate></item><item><title><![CDATA[jquery-validate was modified]]></title><description><![CDATA[Form Validation plugin for jQuery]]></description><guid isPermaLink="false">jquery-validate was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 13 Mar 2013 20:35:14 GMT</pubDate></item><item><title><![CDATA[chosen was modified]]></title><description><![CDATA[Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly. It is currently available in both jQuery and Prototype flavors.]]></description><guid isPermaLink="false">chosen was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 13 Mar 2013 20:32:20 GMT</pubDate></item><item><title><![CDATA[backbone.layoutmanager was modified]]></title><description><![CDATA[A layout and template manager for Backbone.js applications.]]></description><guid isPermaLink="false">backbone.layoutmanager was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 13 Mar 2013 11:30:27 GMT</pubDate></item><item><title><![CDATA[jquery-placeholder was added]]></title><description><![CDATA[A jQuery plugin that enables HTML5 placeholder behavior for browsers that aren’t trying hard enough yet.]]></description><guid isPermaLink="false">jquery-placeholder was added</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 13 Mar 2013 11:23:55 GMT</pubDate></item><item><title><![CDATA[pubnub was modified]]></title><description><![CDATA[PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.]]></description><guid isPermaLink="false">pubnub was modified</guid><dc:creator><![CDATA[[object Object]]]></dc:creator><pubDate>Wed, 13 Mar 2013 05:55:50 GMT</pubDate></item></channel></rss>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My Feed Title]]></title>
+        <description><![CDATA[This is my personnal feed!]]></description>
+        <link>http://github.com/dylan/node-rss</link>
+        <generator>NodeJS RSS Module</generator>
+        <lastBuildDate>Mon, 25 Mar 2013 13:13:06 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[select2 was updated to version 3.3.1]]></title>
+            <description><![CDATA[Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. Look and feel of Select2 is based on the excellent Chosen library.]]></description>
+            <link>http://ivaynberg.github.com/select2/</link>
+            <guid isPermaLink="false">
+                select23.3.1            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sun, 24 Mar 2013 18:53:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.qrcode(1.0) was added]]></title>
+            <description><![CDATA[A jquery plugin for a pure browser qrcode generation.]]></description>
+            <link>http://jeromeetienne.github.com/jquery-qrcode/</link>
+            <guid isPermaLink="false">
+                jquery.qrcode1.0            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sat, 23 Mar 2013 21:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[require.js was updated to version 2.1.5]]></title>
+            <description><![CDATA[RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node]]></description>
+            <link>http://requirejs.org/</link>
+            <guid isPermaLink="false">
+                require.js2.1.5            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sat, 23 Mar 2013 21:02:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[hammer.js was updated to version 1.0.3]]></title>
+            <description><![CDATA[A javascript library for multi-touch gestures :// You can touch this ]]></description>
+            <link>http://eightmedia.github.com/hammer.js/</link>
+            <guid isPermaLink="false">
+                hammer.js1.0.3            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sat, 23 Mar 2013 05:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[q.js(0.9.2) was added]]></title>
+            <description><![CDATA[A library for promises (CommonJS/Promises/A,B,D)]]></description>
+            <link>https://github.com/kriskowal/q</link>
+            <guid isPermaLink="false">
+                q.js0.9.2            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sat, 23 Mar 2013 03:45:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-strap was updated to version 0.7.1]]></title>
+            <description><![CDATA[AngularStrap - Twitter Bootstrap directives for AngularJS.]]></description>
+            <link>http://mgcrea.github.com/angular-strap</link>
+            <guid isPermaLink="false">
+                angular-strap0.7.1            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Thu, 21 Mar 2013 15:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[coffee-script was updated to version 1.6.2]]></title>
+            <description><![CDATA[CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.]]></description>
+            <link>http://jashkenas.github.com/coffee-script/</link>
+            <guid isPermaLink="false">
+                coffee-script1.6.2            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Thu, 21 Mar 2013 12:41:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[masonry was updated to version 2.1.08]]></title>
+            <description><![CDATA[A dynamic layout plugin for jQuery.]]></description>
+            <link>http://masonry.desandro.com/</link>
+            <guid isPermaLink="false">
+                masonry2.1.08            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Thu, 21 Mar 2013 02:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[graphael was updated to version 0.5.1]]></title>
+            <description><![CDATA[gRaphael's goal is to help you create stunning charts on your website. It is based on Raphaël graphics library.]]></description>
+            <link>http://g.raphaeljs.com/</link>
+            <guid isPermaLink="false">
+                graphael0.5.1            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2013 22:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bootstrap-tour(0.2.0) was added]]></title>
+            <description><![CDATA[Quick and easy product tours with Twitter Bootstrap Popovers.]]></description>
+            <link>http://bootstraptour.com</link>
+            <guid isPermaLink="false">
+                bootstrap-tour0.2.0            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2013 21:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[three.js was updated to version r57]]></title>
+            <description><![CDATA[three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.]]></description>
+            <link>http://threejs.org/</link>
+            <guid isPermaLink="false">
+                three.jsr57            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2013 21:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[qtip2 was updated to version 2.0.1]]></title>
+            <description><![CDATA[Pretty powerful tooltips. The second generation of the advanced qTip plugin for the ever popular jQuery framework.]]></description>
+            <link>http://craigsworks.com/projects/qtip2/</link>
+            <guid isPermaLink="false">
+                qtip22.0.1            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2013 17:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone-pageable was updated to version 1.2.0]]></title>
+            <description><![CDATA[A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.]]></description>
+            <link>https://github.com/wyuenho/backbone-pageable</link>
+            <guid isPermaLink="false">
+                backbone-pageable1.2.0            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2013 15:18:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-instagram(0.2.2) was added]]></title>
+            <description><![CDATA[Instagram jQuery plugin]]></description>
+            <link>https://github.com/potomak/jquery-instagram</link>
+            <guid isPermaLink="false">
+                jquery-instagram0.2.2            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2013 14:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone.js was updated to version 1.0.0]]></title>
+            <description><![CDATA[Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.]]></description>
+            <link>http://documentcloud.github.com/backbone/</link>
+            <guid isPermaLink="false">
+                backbone.js1.0.0            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2013 14:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone.paginator was updated to version 0.6]]></title>
+            <description><![CDATA[Pagination component for backbone.js]]></description>
+            <link>https://github.com/addyosmani/backbone.paginator</link>
+            <guid isPermaLink="false">
+                backbone.paginator0.6            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2013 08:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dropbox.js was updated to version 0.9.2]]></title>
+            <description><![CDATA[Client library for the Dropbox API]]></description>
+            <link>https://dropbox.com/developers</link>
+            <guid isPermaLink="false">
+                dropbox.js0.9.2            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2013 08:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[breezejs(1.2.5) was added]]></title>
+            <description><![CDATA[BreezeJS is a JavaScript library for managing data in data rich-client HTML/JS applications. Core features include client-side querying, caching, change-tracking, validation, batch saves.]]></description>
+            <link>http://www.breezejs.com</link>
+            <guid isPermaLink="false">
+                breezejs1.2.5            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2013 05:11:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.selectboxit was updated to version 3.3.0]]></title>
+            <description><![CDATA[A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.]]></description>
+            <link>http://www.selectboxit.com</link>
+            <guid isPermaLink="false">
+                jquery.selectboxit3.3.0            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Tue, 19 Mar 2013 20:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[foundation was updated to version 4.0.9]]></title>
+            <description><![CDATA[The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.]]></description>
+            <link>http://foundation.zurb.com</link>
+            <guid isPermaLink="false">
+                foundation4.0.9            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Tue, 19 Mar 2013 17:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gsap was updated to version 1.9.1]]></title>
+            <description><![CDATA[GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.]]></description>
+            <link>http://www.greensock.com/gsap-js/</link>
+            <guid isPermaLink="false">
+                gsap1.9.1            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Tue, 19 Mar 2013 05:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jqcloud(1.0.3) was added]]></title>
+            <description><![CDATA[jQCloud is a jQuery plugin that builds neat and pure HTML + CSS word clouds and tag clouds that are actually shaped like a cloud.]]></description>
+            <link>https://github.com/lucaong/jQCloud</link>
+            <guid isPermaLink="false">
+                jqcloud1.0.3            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Mon, 18 Mar 2013 22:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.superlabels(2.0.3) was added]]></title>
+            <description><![CDATA[Give your forms a helping of awesome!]]></description>
+            <link>http://plugins.jquery.com/superLabels/</link>
+            <guid isPermaLink="false">
+                jquery.superlabels2.0.3            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Mon, 18 Mar 2013 10:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tabletop.js(1.1.0) was added]]></title>
+            <description><![CDATA[Tabletop.js takes a Google Spreadsheet and makes it easily accessible through JavaScript.]]></description>
+            <link>http://github.com/jsoma/tabletop</link>
+            <guid isPermaLink="false">
+                tabletop.js1.1.0            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Mon, 18 Mar 2013 00:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rickshaw was updated to version 1.2.1]]></title>
+            <description><![CDATA[JavaScript toolkit for creating interactive real-time graphs]]></description>
+            <link>http://code.shutterstock.com/rickshaw/</link>
+            <guid isPermaLink="false">
+                rickshaw1.2.1            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sun, 17 Mar 2013 01:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[messenger(1.2.3) was added]]></title>
+            <description><![CDATA[Client-side growl-like notifications with actions and auto-retry.]]></description>
+            <link>http://github.hubspot.com/messenger</link>
+            <guid isPermaLink="false">
+                messenger1.2.3            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sun, 17 Mar 2013 01:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jqueryui was updated to version 1.10.2]]></title>
+            <description><![CDATA[jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.]]></description>
+            <link>http://jqueryui.com/</link>
+            <guid isPermaLink="false">
+                jqueryui1.10.2            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sun, 17 Mar 2013 01:26:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ResponsiveSlides.js was updated to version 1.53]]></title>
+            <description><![CDATA[Simple & lightweight responsive slider plugin]]></description>
+            <link>http://responsive-slides.viljamis.com/</link>
+            <guid isPermaLink="false">
+                ResponsiveSlides.js1.53            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sun, 17 Mar 2013 01:20:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[require-text was updated to version 2.0.5]]></title>
+            <description><![CDATA[A RequireJS/AMD loader plugin for loading text resources.]]></description>
+            <link>https://github.com/requirejs/text</link>
+            <guid isPermaLink="false">
+                require-text2.0.5            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sun, 17 Mar 2013 01:12:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jstimezonedetect(1.0.4) was added]]></title>
+            <description><![CDATA[This script gives you the zone info key representing your device's time zone setting.]]></description>
+            <link>http://pellepim.bitbucket.org/jstz/</link>
+            <guid isPermaLink="false">
+                jstimezonedetect1.0.4            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Sat, 16 Mar 2013 14:23:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.mask(0.7.5) was added]]></title>
+            <description><![CDATA[A jQuery Plugin to make input mask field.]]></description>
+            <link>http://igorescobar.github.com/jQuery-Mask-Plugin/</link>
+            <guid isPermaLink="false">
+                jquery.mask0.7.5            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Thu, 14 Mar 2013 19:48:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fabric.js(1.1.0) was added]]></title>
+            <description><![CDATA[A powerful and simple Javascript canvas library]]></description>
+            <link>http://fabricjs.com/</link>
+            <guid isPermaLink="false">
+                fabric.js1.1.0            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Thu, 14 Mar 2013 02:38:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[d3 was updated to version 3.0.8]]></title>
+            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.]]></description>
+            <link>http://mbostock.github.com/d3/</link>
+            <guid isPermaLink="false">
+                d33.0.8            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 13 Mar 2013 23:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone.marionette was updated to version 1.0.0-rc6-bundled]]></title>
+            <description><![CDATA[Make your Backbone.js apps dance with a composite application architecture!]]></description>
+            <link>http://github.com/marionettejs/backbone.marionette</link>
+            <guid isPermaLink="false">
+                backbone.marionette1.0.0-rc6-bundled            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 13 Mar 2013 23:21:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-validate was updated to version 1.11.0]]></title>
+            <description><![CDATA[Form Validation plugin for jQuery]]></description>
+            <link>http://bassistance.de/jquery-plugins/jquery-plugin-validation//</link>
+            <guid isPermaLink="false">
+                jquery-validate1.11.0            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 13 Mar 2013 20:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[chosen was updated to version 0.9.12]]></title>
+            <description><![CDATA[Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly. It is currently available in both jQuery and Prototype flavors.]]></description>
+            <link>http://harvesthq.github.com/chosen</link>
+            <guid isPermaLink="false">
+                chosen0.9.12            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 13 Mar 2013 20:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone.layoutmanager was updated to version 0.8.4]]></title>
+            <description><![CDATA[A layout and template manager for Backbone.js applications.]]></description>
+            <link>http://layoutmanager.org</link>
+            <guid isPermaLink="false">
+                backbone.layoutmanager0.8.4            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 13 Mar 2013 11:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-placeholder(2.0.7) was added]]></title>
+            <description><![CDATA[A jQuery plugin that enables HTML5 placeholder behavior for browsers that aren’t trying hard enough yet.]]></description>
+            <link>http://mths.be/placeholder</link>
+            <guid isPermaLink="false">
+                jquery-placeholder2.0.7            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 13 Mar 2013 11:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pubnub was updated to version 3.4.2]]></title>
+            <description><![CDATA[PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.]]></description>
+            <link>http://www.pubnub.com/</link>
+            <guid isPermaLink="false">
+                pubnub3.4.2            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Wed, 13 Mar 2013 05:55:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
