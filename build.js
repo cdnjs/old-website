@@ -19,6 +19,11 @@ var request = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function(
 
 
 
+var file2 = fs.createWriteStream("atom.xml");
+var request2 = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function(response) {
+  response.pipe(file2);
+});
+
 
 
 

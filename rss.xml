@@ -5,7 +5,16 @@
         <description><![CDATA[Track when new libraries are added and old libraries updated!]]></description>
         <link>http://github.com/dylan/node-rss</link>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Mon, 25 Mar 2013 13:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2013 06:42:56 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[lodash.js was updated to version 1.1.0]]></title>
+            <description><![CDATA[A low-level utility library delivering consistency, customization, performance, and extra features.]]></description>
+            <link>http://lodash.com</link>
+            <guid isPermaLink="false">
+                lodash.js1.1.0            </guid>
+            <dc:creator><![CDATA[[object Object]]]></dc:creator>
+            <pubDate>Tue, 26 Mar 2013 06:39:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[select2 was updated to version 3.3.1]]></title>
             <description><![CDATA[Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. Look and feel of Select2 is based on the excellent Chosen library.]]></description>
