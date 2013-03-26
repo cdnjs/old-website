@@ -26,12 +26,6 @@ var request2 = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function
 });
 
 
-var file3 = fs.createWriteStream("test.xml");
-var request3 = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function(response) {
-  response.pipe(file3);
-});
-
-
 
 
 
