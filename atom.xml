@@ -2,7 +2,7 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[cdnjs.com - library updates]]></title>
-        <description><![CDATA[Track when new libraries are added and old libraries updated!]]></description>
+        <description><![CDATA[Track when new libraries are added and updated!]]></description>
         <link>http://cdnjs.com/</link>
         <image>
             <url>http://cdnjs.com/img/poweredbycloudflare.png</url>
@@ -10,12 +10,12 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 26 Mar 2013 10:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2013 10:07:34 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[lodash.js updated to version 1.1.0]]></title>
             <description><![CDATA[A low-level utility library delivering consistency, customization, performance, and extra features.
-//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.1.0/lodash.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.1.0/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.1.0/lodash.min.js</a>]]></description>
             <link>http://lodash.com</link>
             <guid isPermaLink="false">
                 lodash.js1.1.0            </guid>
@@ -25,7 +25,7 @@
         <item>
             <title><![CDATA[select2 updated to version 3.3.1]]></title>
             <description><![CDATA[Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. Look and feel of Select2 is based on the excellent Chosen library.
-//cdnjs.cloudflare.com/ajax/libs/select2/3.3.1/select2.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/select2/3.3.1/select2.min.js">//cdnjs.cloudflare.com/ajax/libs/select2/3.3.1/select2.min.js</a>]]></description>
             <link>http://ivaynberg.github.com/select2/</link>
             <guid isPermaLink="false">
                 select23.3.1            </guid>
@@ -35,7 +35,7 @@
         <item>
             <title><![CDATA[jquery.qrcode(1.0) was added]]></title>
             <description><![CDATA[A jquery plugin for a pure browser qrcode generation.
-//cdnjs.cloudflare.com/ajax/libs/jquery.qrcode/1.0/jquery.qrcode.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/jquery.qrcode/1.0/jquery.qrcode.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.qrcode/1.0/jquery.qrcode.min.js</a>]]></description>
             <link>http://jeromeetienne.github.com/jquery-qrcode/</link>
             <guid isPermaLink="false">
                 jquery.qrcode1.0            </guid>
@@ -45,7 +45,7 @@
         <item>
             <title><![CDATA[require.js updated to version 2.1.5]]></title>
             <description><![CDATA[RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node
-//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.5/require.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.5/require.min.js">//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.5/require.min.js</a>]]></description>
             <link>http://requirejs.org/</link>
             <guid isPermaLink="false">
                 require.js2.1.5            </guid>
@@ -55,7 +55,7 @@
         <item>
             <title><![CDATA[hammer.js updated to version 1.0.3]]></title>
             <description><![CDATA[A javascript library for multi-touch gestures :// You can touch this 
-//cdnjs.cloudflare.com/ajax/libs/hammer.js/1.0.3/hammer.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/hammer.js/1.0.3/hammer.min.js">//cdnjs.cloudflare.com/ajax/libs/hammer.js/1.0.3/hammer.min.js</a>]]></description>
             <link>http://eightmedia.github.com/hammer.js/</link>
             <guid isPermaLink="false">
                 hammer.js1.0.3            </guid>
@@ -65,7 +65,7 @@
         <item>
             <title><![CDATA[q.js(0.9.2) was added]]></title>
             <description><![CDATA[A library for promises (CommonJS/Promises/A,B,D)
-//cdnjs.cloudflare.com/ajax/libs/q.js/0.9.2/q.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/q.js/0.9.2/q.min.js">//cdnjs.cloudflare.com/ajax/libs/q.js/0.9.2/q.min.js</a>]]></description>
             <link>https://github.com/kriskowal/q</link>
             <guid isPermaLink="false">
                 q.js0.9.2            </guid>
@@ -75,7 +75,7 @@
         <item>
             <title><![CDATA[angular-strap updated to version 0.7.1]]></title>
             <description><![CDATA[AngularStrap - Twitter Bootstrap directives for AngularJS.
-//cdnjs.cloudflare.com/ajax/libs/angular-strap/0.7.1/angular-strap.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/angular-strap/0.7.1/angular-strap.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-strap/0.7.1/angular-strap.min.js</a>]]></description>
             <link>http://mgcrea.github.com/angular-strap</link>
             <guid isPermaLink="false">
                 angular-strap0.7.1            </guid>
@@ -85,7 +85,7 @@
         <item>
             <title><![CDATA[coffee-script updated to version 1.6.2]]></title>
             <description><![CDATA[CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
-//cdnjs.cloudflare.com/ajax/libs/coffee-script/1.6.2/coffee-script.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/coffee-script/1.6.2/coffee-script.min.js">//cdnjs.cloudflare.com/ajax/libs/coffee-script/1.6.2/coffee-script.min.js</a>]]></description>
             <link>http://jashkenas.github.com/coffee-script/</link>
             <guid isPermaLink="false">
                 coffee-script1.6.2            </guid>
@@ -95,7 +95,7 @@
         <item>
             <title><![CDATA[masonry updated to version 2.1.08]]></title>
             <description><![CDATA[A dynamic layout plugin for jQuery.
-//cdnjs.cloudflare.com/ajax/libs/masonry/2.1.08/jquery.masonry.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/masonry/2.1.08/jquery.masonry.min.js">//cdnjs.cloudflare.com/ajax/libs/masonry/2.1.08/jquery.masonry.min.js</a>]]></description>
             <link>http://masonry.desandro.com/</link>
             <guid isPermaLink="false">
                 masonry2.1.08            </guid>
@@ -105,7 +105,7 @@
         <item>
             <title><![CDATA[graphael updated to version 0.5.1]]></title>
             <description><![CDATA[gRaphael's goal is to help you create stunning charts on your website. It is based on Raphaël graphics library.
-//cdnjs.cloudflare.com/ajax/libs/graphael/0.5.1/g.raphael-min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/graphael/0.5.1/g.raphael-min.js">//cdnjs.cloudflare.com/ajax/libs/graphael/0.5.1/g.raphael-min.js</a>]]></description>
             <link>http://g.raphaeljs.com/</link>
             <guid isPermaLink="false">
                 graphael0.5.1            </guid>
@@ -115,7 +115,7 @@
         <item>
             <title><![CDATA[bootstrap-tour(0.2.0) was added]]></title>
             <description><![CDATA[Quick and easy product tours with Twitter Bootstrap Popovers.
-//cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.2.0/bootstrap-tour.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.2.0/bootstrap-tour.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.2.0/bootstrap-tour.js</a>]]></description>
             <link>http://bootstraptour.com</link>
             <guid isPermaLink="false">
                 bootstrap-tour0.2.0            </guid>
@@ -125,7 +125,7 @@
         <item>
             <title><![CDATA[three.js updated to version r57]]></title>
             <description><![CDATA[three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.
-//cdnjs.cloudflare.com/ajax/libs/three.js/r57/three.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/three.js/r57/three.min.js">//cdnjs.cloudflare.com/ajax/libs/three.js/r57/three.min.js</a>]]></description>
             <link>http://threejs.org/</link>
             <guid isPermaLink="false">
                 three.jsr57            </guid>
@@ -135,7 +135,7 @@
         <item>
             <title><![CDATA[qtip2 updated to version 2.0.1]]></title>
             <description><![CDATA[Pretty powerful tooltips. The second generation of the advanced qTip plugin for the ever popular jQuery framework.
-//cdnjs.cloudflare.com/ajax/libs/qtip2/2.0.1/jquery.qtip.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/qtip2/2.0.1/jquery.qtip.min.js">//cdnjs.cloudflare.com/ajax/libs/qtip2/2.0.1/jquery.qtip.min.js</a>]]></description>
             <link>http://craigsworks.com/projects/qtip2/</link>
             <guid isPermaLink="false">
                 qtip22.0.1            </guid>
@@ -145,7 +145,7 @@
         <item>
             <title><![CDATA[backbone-pageable updated to version 1.2.0]]></title>
             <description><![CDATA[A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.
-//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.2.0/backbone-pageable.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.2.0/backbone-pageable.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.2.0/backbone-pageable.min.js</a>]]></description>
             <link>https://github.com/wyuenho/backbone-pageable</link>
             <guid isPermaLink="false">
                 backbone-pageable1.2.0            </guid>
@@ -155,7 +155,7 @@
         <item>
             <title><![CDATA[jquery-instagram(0.2.2) was added]]></title>
             <description><![CDATA[Instagram jQuery plugin
-//cdnjs.cloudflare.com/ajax/libs/jquery-instagram/0.2.2/jquery.instagram.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/jquery-instagram/0.2.2/jquery.instagram.js">//cdnjs.cloudflare.com/ajax/libs/jquery-instagram/0.2.2/jquery.instagram.js</a>]]></description>
             <link>https://github.com/potomak/jquery-instagram</link>
             <guid isPermaLink="false">
                 jquery-instagram0.2.2            </guid>
@@ -165,7 +165,7 @@
         <item>
             <title><![CDATA[backbone.js updated to version 1.0.0]]></title>
             <description><![CDATA[Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
-//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js</a>]]></description>
             <link>http://documentcloud.github.com/backbone/</link>
             <guid isPermaLink="false">
                 backbone.js1.0.0            </guid>
@@ -175,7 +175,7 @@
         <item>
             <title><![CDATA[backbone.paginator updated to version 0.6]]></title>
             <description><![CDATA[Pagination component for backbone.js
-//cdnjs.cloudflare.com/ajax/libs/backbone.paginator/0.6/backbone.paginator.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/backbone.paginator/0.6/backbone.paginator.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.paginator/0.6/backbone.paginator.min.js</a>]]></description>
             <link>https://github.com/addyosmani/backbone.paginator</link>
             <guid isPermaLink="false">
                 backbone.paginator0.6            </guid>
@@ -185,7 +185,7 @@
         <item>
             <title><![CDATA[dropbox.js updated to version 0.9.2]]></title>
             <description><![CDATA[Client library for the Dropbox API
-//cdnjs.cloudflare.com/ajax/libs/dropbox.js/0.9.2/dropbox.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/dropbox.js/0.9.2/dropbox.min.js">//cdnjs.cloudflare.com/ajax/libs/dropbox.js/0.9.2/dropbox.min.js</a>]]></description>
             <link>https://dropbox.com/developers</link>
             <guid isPermaLink="false">
                 dropbox.js0.9.2            </guid>
@@ -195,7 +195,7 @@
         <item>
             <title><![CDATA[breezejs(1.2.5) was added]]></title>
             <description><![CDATA[BreezeJS is a JavaScript library for managing data in data rich-client HTML/JS applications. Core features include client-side querying, caching, change-tracking, validation, batch saves.
-//cdnjs.cloudflare.com/ajax/libs/breezejs/1.2.5/breeze.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/breezejs/1.2.5/breeze.min.js">//cdnjs.cloudflare.com/ajax/libs/breezejs/1.2.5/breeze.min.js</a>]]></description>
             <link>http://www.breezejs.com</link>
             <guid isPermaLink="false">
                 breezejs1.2.5            </guid>
@@ -205,7 +205,7 @@
         <item>
             <title><![CDATA[jquery.selectboxit updated to version 3.3.0]]></title>
             <description><![CDATA[A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.
-//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.3.0/jquery.selectBoxIt.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.3.0/jquery.selectBoxIt.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.3.0/jquery.selectBoxIt.min.js</a>]]></description>
             <link>http://www.selectboxit.com</link>
             <guid isPermaLink="false">
                 jquery.selectboxit3.3.0            </guid>
@@ -215,7 +215,7 @@
         <item>
             <title><![CDATA[foundation updated to version 4.0.9]]></title>
             <description><![CDATA[The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.
-//cdnjs.cloudflare.com/ajax/libs/foundation/4.0.9/js/foundation.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/foundation/4.0.9/js/foundation.min.js">//cdnjs.cloudflare.com/ajax/libs/foundation/4.0.9/js/foundation.min.js</a>]]></description>
             <link>http://foundation.zurb.com</link>
             <guid isPermaLink="false">
                 foundation4.0.9            </guid>
@@ -225,7 +225,7 @@
         <item>
             <title><![CDATA[gsap updated to version 1.9.1]]></title>
             <description><![CDATA[GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.
-//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.1/TweenMax.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.1/TweenMax.min.js">//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.1/TweenMax.min.js</a>]]></description>
             <link>http://www.greensock.com/gsap-js/</link>
             <guid isPermaLink="false">
                 gsap1.9.1            </guid>
@@ -235,7 +235,7 @@
         <item>
             <title><![CDATA[jqcloud(1.0.3) was added]]></title>
             <description><![CDATA[jQCloud is a jQuery plugin that builds neat and pure HTML + CSS word clouds and tag clouds that are actually shaped like a cloud.
-//cdnjs.cloudflare.com/ajax/libs/jqcloud/1.0.3/jqcloud-1.0.3.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/jqcloud/1.0.3/jqcloud-1.0.3.min.js">//cdnjs.cloudflare.com/ajax/libs/jqcloud/1.0.3/jqcloud-1.0.3.min.js</a>]]></description>
             <link>https://github.com/lucaong/jQCloud</link>
             <guid isPermaLink="false">
                 jqcloud1.0.3            </guid>
@@ -245,7 +245,7 @@
         <item>
             <title><![CDATA[jquery.superlabels(2.0.3) was added]]></title>
             <description><![CDATA[Give your forms a helping of awesome!
-//cdnjs.cloudflare.com/ajax/libs/jquery.superlabels/2.0.3/jquery.superLabels.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/jquery.superlabels/2.0.3/jquery.superLabels.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.superlabels/2.0.3/jquery.superLabels.min.js</a>]]></description>
             <link>http://plugins.jquery.com/superLabels/</link>
             <guid isPermaLink="false">
                 jquery.superlabels2.0.3            </guid>
@@ -255,7 +255,7 @@
         <item>
             <title><![CDATA[tabletop.js(1.1.0) was added]]></title>
             <description><![CDATA[Tabletop.js takes a Google Spreadsheet and makes it easily accessible through JavaScript.
-//cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.1.0/tabletop.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.1.0/tabletop.min.js">//cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.1.0/tabletop.min.js</a>]]></description>
             <link>http://github.com/jsoma/tabletop</link>
             <guid isPermaLink="false">
                 tabletop.js1.1.0            </guid>
@@ -265,7 +265,7 @@
         <item>
             <title><![CDATA[rickshaw updated to version 1.2.1]]></title>
             <description><![CDATA[JavaScript toolkit for creating interactive real-time graphs
-//cdnjs.cloudflare.com/ajax/libs/rickshaw/1.2.1/rickshaw.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/rickshaw/1.2.1/rickshaw.min.js">//cdnjs.cloudflare.com/ajax/libs/rickshaw/1.2.1/rickshaw.min.js</a>]]></description>
             <link>http://code.shutterstock.com/rickshaw/</link>
             <guid isPermaLink="false">
                 rickshaw1.2.1            </guid>
@@ -275,7 +275,7 @@
         <item>
             <title><![CDATA[messenger(1.2.3) was added]]></title>
             <description><![CDATA[Client-side growl-like notifications with actions and auto-retry.
-//cdnjs.cloudflare.com/ajax/libs/messenger/1.2.3/js/messenger.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/messenger/1.2.3/js/messenger.min.js">//cdnjs.cloudflare.com/ajax/libs/messenger/1.2.3/js/messenger.min.js</a>]]></description>
             <link>http://github.hubspot.com/messenger</link>
             <guid isPermaLink="false">
                 messenger1.2.3            </guid>
@@ -285,7 +285,7 @@
         <item>
             <title><![CDATA[jqueryui updated to version 1.10.2]]></title>
             <description><![CDATA[jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.
-//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js">//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js</a>]]></description>
             <link>http://jqueryui.com/</link>
             <guid isPermaLink="false">
                 jqueryui1.10.2            </guid>
@@ -295,7 +295,7 @@
         <item>
             <title><![CDATA[ResponsiveSlides.js updated to version 1.53]]></title>
             <description><![CDATA[Simple & lightweight responsive slider plugin
-//cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.53/responsiveslides.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.53/responsiveslides.min.js">//cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.53/responsiveslides.min.js</a>]]></description>
             <link>http://responsive-slides.viljamis.com/</link>
             <guid isPermaLink="false">
                 ResponsiveSlides.js1.53            </guid>
@@ -305,7 +305,7 @@
         <item>
             <title><![CDATA[require-text updated to version 2.0.5]]></title>
             <description><![CDATA[A RequireJS/AMD loader plugin for loading text resources.
-//cdnjs.cloudflare.com/ajax/libs/require-text/2.0.5/text.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/require-text/2.0.5/text.js">//cdnjs.cloudflare.com/ajax/libs/require-text/2.0.5/text.js</a>]]></description>
             <link>https://github.com/requirejs/text</link>
             <guid isPermaLink="false">
                 require-text2.0.5            </guid>
@@ -315,7 +315,7 @@
         <item>
             <title><![CDATA[jstimezonedetect(1.0.4) was added]]></title>
             <description><![CDATA[This script gives you the zone info key representing your device's time zone setting.
-//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js">//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js</a>]]></description>
             <link>http://pellepim.bitbucket.org/jstz/</link>
             <guid isPermaLink="false">
                 jstimezonedetect1.0.4            </guid>
@@ -325,7 +325,7 @@
         <item>
             <title><![CDATA[jquery.mask(0.7.5) was added]]></title>
             <description><![CDATA[A jQuery Plugin to make input mask field.
-//cdnjs.cloudflare.com/ajax/libs/jquery.mask/0.7.5/jquery.mask.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/jquery.mask/0.7.5/jquery.mask.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.mask/0.7.5/jquery.mask.min.js</a>]]></description>
             <link>http://igorescobar.github.com/jQuery-Mask-Plugin/</link>
             <guid isPermaLink="false">
                 jquery.mask0.7.5            </guid>
@@ -335,7 +335,7 @@
         <item>
             <title><![CDATA[fabric.js(1.1.0) was added]]></title>
             <description><![CDATA[A powerful and simple Javascript canvas library
-//cdnjs.cloudflare.com/ajax/libs/fabric.js/1.1.0/fabric.all.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/fabric.js/1.1.0/fabric.all.min.js">//cdnjs.cloudflare.com/ajax/libs/fabric.js/1.1.0/fabric.all.min.js</a>]]></description>
             <link>http://fabricjs.com/</link>
             <guid isPermaLink="false">
                 fabric.js1.1.0            </guid>
@@ -345,7 +345,7 @@
         <item>
             <title><![CDATA[d3 updated to version 3.0.8]]></title>
             <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.
-//cdnjs.cloudflare.com/ajax/libs/d3/3.0.8/d3.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.0.8/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.0.8/d3.min.js</a>]]></description>
             <link>http://mbostock.github.com/d3/</link>
             <guid isPermaLink="false">
                 d33.0.8            </guid>
@@ -355,7 +355,7 @@
         <item>
             <title><![CDATA[backbone.marionette updated to version 1.0.0-rc6-bundled]]></title>
             <description><![CDATA[Make your Backbone.js apps dance with a composite application architecture!
-//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.0.0-rc6-bundled/backbone.marionette.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.0.0-rc6-bundled/backbone.marionette.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.0.0-rc6-bundled/backbone.marionette.min.js</a>]]></description>
             <link>http://github.com/marionettejs/backbone.marionette</link>
             <guid isPermaLink="false">
                 backbone.marionette1.0.0-rc6-bundled            </guid>
@@ -365,7 +365,7 @@
         <item>
             <title><![CDATA[jquery-validate updated to version 1.11.0]]></title>
             <description><![CDATA[Form Validation plugin for jQuery
-//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.0/jquery.validate.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.0/jquery.validate.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.0/jquery.validate.min.js</a>]]></description>
             <link>http://bassistance.de/jquery-plugins/jquery-plugin-validation//</link>
             <guid isPermaLink="false">
                 jquery-validate1.11.0            </guid>
@@ -375,7 +375,7 @@
         <item>
             <title><![CDATA[chosen updated to version 0.9.12]]></title>
             <description><![CDATA[Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly. It is currently available in both jQuery and Prototype flavors.
-//cdnjs.cloudflare.com/ajax/libs/chosen/0.9.12/chosen.jquery.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/chosen/0.9.12/chosen.jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/chosen/0.9.12/chosen.jquery.min.js</a>]]></description>
             <link>http://harvesthq.github.com/chosen</link>
             <guid isPermaLink="false">
                 chosen0.9.12            </guid>
@@ -385,7 +385,7 @@
         <item>
             <title><![CDATA[backbone.layoutmanager updated to version 0.8.4]]></title>
             <description><![CDATA[A layout and template manager for Backbone.js applications.
-//cdnjs.cloudflare.com/ajax/libs/backbone.layoutmanager/0.8.4/backbone.layoutmanager.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/backbone.layoutmanager/0.8.4/backbone.layoutmanager.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.layoutmanager/0.8.4/backbone.layoutmanager.min.js</a>]]></description>
             <link>http://layoutmanager.org</link>
             <guid isPermaLink="false">
                 backbone.layoutmanager0.8.4            </guid>
@@ -395,7 +395,7 @@
         <item>
             <title><![CDATA[jquery-placeholder(2.0.7) was added]]></title>
             <description><![CDATA[A jQuery plugin that enables HTML5 placeholder behavior for browsers that aren’t trying hard enough yet.
-//cdnjs.cloudflare.com/ajax/libs/jquery-placeholder/2.0.7/jquery.placeholder.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/jquery-placeholder/2.0.7/jquery.placeholder.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-placeholder/2.0.7/jquery.placeholder.min.js</a>]]></description>
             <link>http://mths.be/placeholder</link>
             <guid isPermaLink="false">
                 jquery-placeholder2.0.7            </guid>
@@ -405,7 +405,7 @@
         <item>
             <title><![CDATA[pubnub updated to version 3.4.2]]></title>
             <description><![CDATA[PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.
-//cdnjs.cloudflare.com/ajax/libs/pubnub/3.4.2/pubnub.min.js]]></description>
+<a href="//cdnjs.cloudflare.com/ajax/libs/pubnub/3.4.2/pubnub.min.js">//cdnjs.cloudflare.com/ajax/libs/pubnub/3.4.2/pubnub.min.js</a>]]></description>
             <link>http://www.pubnub.com/</link>
             <guid isPermaLink="false">
                 pubnub3.4.2            </guid>
