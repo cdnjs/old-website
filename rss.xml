@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 26 Mar 2013 10:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2013 11:18:18 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gsap updated to version 1.9.2]]></title>
+            <description><![CDATA[GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.2/TweenMax.min.js">//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.2/TweenMax.min.js</a>]]></description>
+            <link>http://www.greensock.com/gsap-js/</link>
+            <guid isPermaLink="false">
+                gsap1.9.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 26 Mar 2013 07:03:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[lodash.js updated to version 1.1.0]]></title>
             <description><![CDATA[A low-level utility library delivering consistency, customization, performance, and extra features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.1.0/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.1.0/lodash.min.js</a>]]></description>
@@ -200,15 +209,6 @@
                 foundation4.0.9            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 19 Mar 2013 17:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[gsap updated to version 1.9.1]]></title>
-            <description><![CDATA[GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.1/TweenMax.min.js">//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.1/TweenMax.min.js</a>]]></description>
-            <link>http://www.greensock.com/gsap-js/</link>
-            <guid isPermaLink="false">
-                gsap1.9.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 19 Mar 2013 05:32:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jqcloud(1.0.3) was added]]></title>
