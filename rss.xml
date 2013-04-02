@@ -10,8 +10,44 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 26 Mar 2013 11:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2013 01:47:29 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ember.js updated to version 1.0.0-rc.2]]></title>
+            <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember.js/1.0.0-rc.2/ember.min.js">//cdnjs.cloudflare.com/ajax/libs/ember.js/1.0.0-rc.2/ember.min.js</a>]]></description>
+            <link>http://emberjs.com/</link>
+            <guid isPermaLink="false">
+                ember.js1.0.0-rc.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 29 Mar 2013 21:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[css3finalize updated to version 3.4.0]]></title>
+            <description><![CDATA[Automatically add vendor prefixes<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/css3finalize/3.4.0/jquery.css3finalize.min.js">//cdnjs.cloudflare.com/ajax/libs/css3finalize/3.4.0/jquery.css3finalize.min.js</a>]]></description>
+            <link>https://github.com/codler/jQuery-Css3-Finalize</link>
+            <guid isPermaLink="false">
+                css3finalize3.4.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 29 Mar 2013 19:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dropzone updated to version 2.0.4]]></title>
+            <description><![CDATA[Drag'n'drop file uploads with image previews<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/dropzone/2.0.4/dropzone.min.js">//cdnjs.cloudflare.com/ajax/libs/dropzone/2.0.4/dropzone.min.js</a>]]></description>
+            <link>http://www.dropzonejs.com/</link>
+            <guid isPermaLink="false">
+                dropzone2.0.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 28 Mar 2013 21:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lodash.js updated to version 1.1.1]]></title>
+            <description><![CDATA[A low-level utility library delivering consistency, customization, performance, and extra features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.1.1/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.1.1/lodash.min.js</a>]]></description>
+            <link>http://lodash.com</link>
+            <guid isPermaLink="false">
+                lodash.js1.1.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 27 Mar 2013 15:06:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gsap updated to version 1.9.2]]></title>
             <description><![CDATA[GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.2/TweenMax.min.js">//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.2/TweenMax.min.js</a>]]></description>
@@ -20,15 +56,6 @@
                 gsap1.9.2            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 26 Mar 2013 07:03:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lodash.js updated to version 1.1.0]]></title>
-            <description><![CDATA[A low-level utility library delivering consistency, customization, performance, and extra features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.1.0/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.1.0/lodash.min.js</a>]]></description>
-            <link>http://lodash.com</link>
-            <guid isPermaLink="false">
-                lodash.js1.1.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 26 Mar 2013 06:39:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[select2 updated to version 3.3.1]]></title>
@@ -245,132 +272,6 @@
                 rickshaw1.2.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 17 Mar 2013 01:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[messenger(1.2.3) was added]]></title>
-            <description><![CDATA[Client-side growl-like notifications with actions and auto-retry.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/messenger/1.2.3/js/messenger.min.js">//cdnjs.cloudflare.com/ajax/libs/messenger/1.2.3/js/messenger.min.js</a>]]></description>
-            <link>http://github.hubspot.com/messenger</link>
-            <guid isPermaLink="false">
-                messenger1.2.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 17 Mar 2013 01:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jqueryui updated to version 1.10.2]]></title>
-            <description><![CDATA[jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js">//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js</a>]]></description>
-            <link>http://jqueryui.com/</link>
-            <guid isPermaLink="false">
-                jqueryui1.10.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 17 Mar 2013 01:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ResponsiveSlides.js updated to version 1.53]]></title>
-            <description><![CDATA[Simple & lightweight responsive slider plugin<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.53/responsiveslides.min.js">//cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.53/responsiveslides.min.js</a>]]></description>
-            <link>http://responsive-slides.viljamis.com/</link>
-            <guid isPermaLink="false">
-                ResponsiveSlides.js1.53            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 17 Mar 2013 01:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[require-text updated to version 2.0.5]]></title>
-            <description><![CDATA[A RequireJS/AMD loader plugin for loading text resources.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/require-text/2.0.5/text.js">//cdnjs.cloudflare.com/ajax/libs/require-text/2.0.5/text.js</a>]]></description>
-            <link>https://github.com/requirejs/text</link>
-            <guid isPermaLink="false">
-                require-text2.0.5            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 17 Mar 2013 01:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jstimezonedetect(1.0.4) was added]]></title>
-            <description><![CDATA[This script gives you the zone info key representing your device's time zone setting.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js">//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js</a>]]></description>
-            <link>http://pellepim.bitbucket.org/jstz/</link>
-            <guid isPermaLink="false">
-                jstimezonedetect1.0.4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 16 Mar 2013 14:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.mask(0.7.5) was added]]></title>
-            <description><![CDATA[A jQuery Plugin to make input mask field.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.mask/0.7.5/jquery.mask.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.mask/0.7.5/jquery.mask.min.js</a>]]></description>
-            <link>http://igorescobar.github.com/jQuery-Mask-Plugin/</link>
-            <guid isPermaLink="false">
-                jquery.mask0.7.5            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 14 Mar 2013 19:48:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fabric.js(1.1.0) was added]]></title>
-            <description><![CDATA[A powerful and simple Javascript canvas library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/fabric.js/1.1.0/fabric.all.min.js">//cdnjs.cloudflare.com/ajax/libs/fabric.js/1.1.0/fabric.all.min.js</a>]]></description>
-            <link>http://fabricjs.com/</link>
-            <guid isPermaLink="false">
-                fabric.js1.1.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 14 Mar 2013 02:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[d3 updated to version 3.0.8]]></title>
-            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.0.8/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.0.8/d3.min.js</a>]]></description>
-            <link>http://mbostock.github.com/d3/</link>
-            <guid isPermaLink="false">
-                d33.0.8            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 13 Mar 2013 23:28:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone.marionette updated to version 1.0.0-rc6-bundled]]></title>
-            <description><![CDATA[Make your Backbone.js apps dance with a composite application architecture!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.0.0-rc6-bundled/backbone.marionette.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.0.0-rc6-bundled/backbone.marionette.min.js</a>]]></description>
-            <link>http://github.com/marionettejs/backbone.marionette</link>
-            <guid isPermaLink="false">
-                backbone.marionette1.0.0-rc6-bundled            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 13 Mar 2013 23:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-validate updated to version 1.11.0]]></title>
-            <description><![CDATA[Form Validation plugin for jQuery<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.0/jquery.validate.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.0/jquery.validate.min.js</a>]]></description>
-            <link>http://bassistance.de/jquery-plugins/jquery-plugin-validation//</link>
-            <guid isPermaLink="false">
-                jquery-validate1.11.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 13 Mar 2013 20:35:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chosen updated to version 0.9.12]]></title>
-            <description><![CDATA[Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly. It is currently available in both jQuery and Prototype flavors.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chosen/0.9.12/chosen.jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/chosen/0.9.12/chosen.jquery.min.js</a>]]></description>
-            <link>http://harvesthq.github.com/chosen</link>
-            <guid isPermaLink="false">
-                chosen0.9.12            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 13 Mar 2013 20:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone.layoutmanager updated to version 0.8.4]]></title>
-            <description><![CDATA[A layout and template manager for Backbone.js applications.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.layoutmanager/0.8.4/backbone.layoutmanager.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.layoutmanager/0.8.4/backbone.layoutmanager.min.js</a>]]></description>
-            <link>http://layoutmanager.org</link>
-            <guid isPermaLink="false">
-                backbone.layoutmanager0.8.4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 13 Mar 2013 11:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-placeholder(2.0.7) was added]]></title>
-            <description><![CDATA[A jQuery plugin that enables HTML5 placeholder behavior for browsers that aren’t trying hard enough yet.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-placeholder/2.0.7/jquery.placeholder.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-placeholder/2.0.7/jquery.placeholder.min.js</a>]]></description>
-            <link>http://mths.be/placeholder</link>
-            <guid isPermaLink="false">
-                jquery-placeholder2.0.7            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 13 Mar 2013 11:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pubnub updated to version 3.4.2]]></title>
-            <description><![CDATA[PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pubnub/3.4.2/pubnub.min.js">//cdnjs.cloudflare.com/ajax/libs/pubnub/3.4.2/pubnub.min.js</a>]]></description>
-            <link>http://www.pubnub.com/</link>
-            <guid isPermaLink="false">
-                pubnub3.4.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 13 Mar 2013 05:55:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
