@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Wed, 03 Apr 2013 04:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2013 04:37:28 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[sugar updated to version 1.3.9]]></title>
@@ -272,6 +272,33 @@
                 backbone.paginator0.7            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 25 Mar 2013 08:50:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone.marionette updated to version 1.0.1-bundled]]></title>
+            <description><![CDATA[Make your Backbone.js apps dance with a composite application architecture!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.0.1-bundled/backbone.marionette.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.0.1-bundled/backbone.marionette.min.js</a>]]></description>
+            <link>http://github.com/marionettejs/backbone.marionette</link>
+            <guid isPermaLink="false">
+                backbone.marionette1.0.1-bundled            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 25 Mar 2013 07:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[piwik updated to version 1.11.1]]></title>
+            <description><![CDATA[Piwik is a free web analytics tool that provides you with detailed reports on your website's visitors, your marketing campaigns and much more. Piwik is an open source alternative to Google Analytics, available in 45 languages, and has been downloaded more than 1 million times!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/piwik/1.11.1/piwik.js">//cdnjs.cloudflare.com/ajax/libs/piwik/1.11.1/piwik.js</a>]]></description>
+            <link>http://piwik.org/</link>
+            <guid isPermaLink="false">
+                piwik1.11.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 25 Mar 2013 06:52:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ratchet(1.0.1) was added]]></title>
+            <description><![CDATA[Prototype iPhone apps with simple HTML, CSS, and JS components.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ratchet/1.0.1/ratchet.min.js">//cdnjs.cloudflare.com/ajax/libs/ratchet/1.0.1/ratchet.min.js</a>]]></description>
+            <link>http://maker.github.com/ratchet/</link>
+            <guid isPermaLink="false">
+                ratchet1.0.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 25 Mar 2013 05:47:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery.qrcode(1.0) was added]]></title>
