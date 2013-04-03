@@ -477,6 +477,46 @@
             ]
         },
         {
+            "name": "angular-ui-bootstrap",
+            "description": "Native AngularJS (Angular) directives for Twitter's Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required!",
+            "author": "https://github.com/angular-ui/bootstrap/graphs/contributors",
+            "homepage": "http://angular-ui.github.com/bootstrap/",
+            "keywords": [
+                "AngularJS",
+                "angular",
+                "angular.js",
+                "bootstrap",
+                "angular-ui",
+                "AngularUI"
+            ],
+            "filename": "ui-bootstrap-tpls.min.js",
+            "version": "0.2.0",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/angular-ui/bootstrap"
+                }
+            ],
+            "bugs": "https://github.com/angular-ui/bootstrap/issues",
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/angular-ui/bootstrap/blob/master/LICENSE"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.2.0",
+                    "files": [
+                        "ui-bootstrap-tpls.js",
+                        "ui-bootstrap-tpls.min.js",
+                        "ui-bootstrap.js",
+                        "ui-bootstrap.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "angular-ui",
             "filename": "angular-ui.min.js",
             "description": "AngularUI is the companion suite to the AngularJS framework.",
@@ -656,6 +696,40 @@
                     "version": "1.0.0",
                     "files": [
                         "angular.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "anythingslider",
+            "filename": "jquery.anythingslider.min.js",
+            "version": "1.8.17",
+            "description": "A jQuery Slider plugin for anything.",
+            "homepage": "http://css-tricks.com/anythingslider-jquery-plugin/",
+            "keywords": [
+                "jquery",
+                "slider",
+                "images"
+            ],
+            "maintainers": [
+                {
+                    "name": "Lorenzo Raffio",
+                    "url": "http://lorenzoraffio.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/CSS-Tricks/AnythingSlider"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.8.17",
+                    "files": [
+                        "anythingslider.css",
+                        "jquery.anythingslider.js",
+                        "jquery.anythingslider.min.js"
                     ]
                 }
             ]
@@ -1193,7 +1267,7 @@
         {
             "name": "backbone.paginator",
             "filename": "backbone.paginator.min.js",
-            "version": "0.6",
+            "version": "0.7",
             "description": "Pagination component for backbone.js",
             "homepage": "https://github.com/addyosmani/backbone.paginator",
             "keywords": [
@@ -1217,6 +1291,13 @@
                 {
                     "version": "0.154",
                     "files": [
+                        "backbone.paginator.min.js"
+                    ]
+                },
+                {
+                    "version": "0.7",
+                    "files": [
+                        "backbone.paginator.js",
                         "backbone.paginator.min.js"
                     ]
                 },
@@ -1468,7 +1549,7 @@
         {
             "name": "bonsai",
             "filename": "bonsai.min.js",
-            "version": "0.4.1",
+            "version": "0.4.3",
             "description": "BonsaiJS is a graphics library and renderer",
             "homepage": "http://bonsaijs.org",
             "keywords": [
@@ -1490,6 +1571,18 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.4.3",
+                    "files": [
+                        "bonsai.min.js"
+                    ]
+                },
+                {
+                    "version": "0.4.2",
+                    "files": [
+                        "bonsai.min.js"
+                    ]
+                },
                 {
                     "version": "0.4.1",
                     "files": [
@@ -1585,7 +1678,7 @@
         {
             "name": "bootstrap-datepicker",
             "filename": "js/bootstrap-datepicker.min.js",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "description": "A datepicker for Twitter Bootstrap",
             "homepage": "https://github.com/eternicode/bootstrap-datepicker",
             "keywords": [
@@ -1606,6 +1699,53 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.0.2",
+                    "files": [
+                        "css/bootstrap-datepicker.css",
+                        "css/bootstrap-datepicker.min.css",
+                        "js/bootstrap-datepicker.js",
+                        "js/bootstrap-datepicker.min.js",
+                        "js/locales/bootstrap-datepicker.bg.js",
+                        "js/locales/bootstrap-datepicker.ca.js",
+                        "js/locales/bootstrap-datepicker.cs.js",
+                        "js/locales/bootstrap-datepicker.da.js",
+                        "js/locales/bootstrap-datepicker.de.js",
+                        "js/locales/bootstrap-datepicker.el.js",
+                        "js/locales/bootstrap-datepicker.es.js",
+                        "js/locales/bootstrap-datepicker.fi.js",
+                        "js/locales/bootstrap-datepicker.fr.js",
+                        "js/locales/bootstrap-datepicker.he.js",
+                        "js/locales/bootstrap-datepicker.hr.js",
+                        "js/locales/bootstrap-datepicker.hu.js",
+                        "js/locales/bootstrap-datepicker.id.js",
+                        "js/locales/bootstrap-datepicker.is.js",
+                        "js/locales/bootstrap-datepicker.it.js",
+                        "js/locales/bootstrap-datepicker.ja.js",
+                        "js/locales/bootstrap-datepicker.kr.js",
+                        "js/locales/bootstrap-datepicker.lt.js",
+                        "js/locales/bootstrap-datepicker.lv.js",
+                        "js/locales/bootstrap-datepicker.ms.js",
+                        "js/locales/bootstrap-datepicker.nb.js",
+                        "js/locales/bootstrap-datepicker.nl.js",
+                        "js/locales/bootstrap-datepicker.pl.js",
+                        "js/locales/bootstrap-datepicker.pt-BR.js",
+                        "js/locales/bootstrap-datepicker.pt.js",
+                        "js/locales/bootstrap-datepicker.ro.js",
+                        "js/locales/bootstrap-datepicker.rs-latin.js",
+                        "js/locales/bootstrap-datepicker.rs.js",
+                        "js/locales/bootstrap-datepicker.ru.js",
+                        "js/locales/bootstrap-datepicker.sk.js",
+                        "js/locales/bootstrap-datepicker.sl.js",
+                        "js/locales/bootstrap-datepicker.sv.js",
+                        "js/locales/bootstrap-datepicker.sw.js",
+                        "js/locales/bootstrap-datepicker.th.js",
+                        "js/locales/bootstrap-datepicker.tr.js",
+                        "js/locales/bootstrap-datepicker.uk.js",
+                        "js/locales/bootstrap-datepicker.zh-CN.js",
+                        "js/locales/bootstrap-datepicker.zh-TW.js"
+                    ]
+                },
                 {
                     "version": "1.0.0",
                     "files": [
@@ -1967,7 +2107,7 @@
         {
             "name": "cannon.js",
             "filename": "cannon.min.js",
-            "version": "0.4.3",
+            "version": "0.5.0",
             "description": "A lightweight 3D physics engine written in JavaScript.",
             "homepage": "http://schteppe.github.com/cannon.js",
             "keywords": [
@@ -1987,6 +2127,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.5.0",
+                    "files": [
+                        "cannon.js",
+                        "cannon.min.js"
+                    ]
+                },
                 {
                     "version": "0.4.3",
                     "files": [
@@ -2681,6 +2828,52 @@
                     "version": "0.4.9",
                     "files": [
                         "crafty-min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "crossfilter",
+            "filename": "crossfilter.min.js",
+            "version": "1.1.3",
+            "description": "Fast multidimensional filtering for coordinated views.",
+            "keywords": [
+                "square",
+                "analytics",
+                "visualization"
+            ],
+            "author": {
+                "name": "Mike Bostock",
+                "url": "http://bost.ocks.org/mike"
+            },
+            "contributors": [
+                {
+                    "name": "Jason Davies",
+                    "url": "http://www.jasondavies.com/"
+                }
+            ],
+            "maintainers": [
+                {
+                    "name": "Tom Carden",
+                    "url": "http://github.com/RandomEtc"
+                }
+            ],
+            "homepage": "http://square.github.com/crossfilter/",
+            "repository": {
+                "type": "git",
+                "url": "http://github.com/square/crossfilter.git"
+            },
+            "devDependencies": {
+                "d3": "3.0.x",
+                "vows": "0.7.0",
+                "uglify-js": "git://github.com/mishoo/UglifyJS2.git#aebafad4"
+            },
+            "assets": [
+                {
+                    "version": "1.1.3",
+                    "files": [
+                        "crossfilter.js",
+                        "crossfilter.min.js"
                     ]
                 }
             ]
@@ -3882,7 +4075,7 @@
         },
         {
             "name": "embedly-jquery",
-            "version": "3.0.2",
+            "version": "3.0.5",
             "filename": "jquery.embedly.min.js",
             "description": "Embedly - jQuery is a jQuery Library for Embedly that will replace links with content. It follows the oEmbed spec (oembed.com) for content retrieval, while utilizing http://api.embed.ly as a single endpoint.",
             "homepage": "https://github.com/embedly/embedly-jquery",
@@ -3929,6 +4122,13 @@
                 "embed"
             ],
             "assets": [
+                {
+                    "version": "3.0.5",
+                    "files": [
+                        "jquery.embedly.js",
+                        "jquery.embedly.min.js"
+                    ]
+                },
                 {
                     "version": "3.0.2",
                     "files": [
@@ -4302,7 +4502,7 @@
         {
             "name": "es5-shim",
             "filename": "es5-shim.min.js",
-            "version": "1.2.4",
+            "version": "2.0.8",
             "description": "Provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.",
             "homepage": "https://github.com/kriskowal/es5-shim",
             "keywords": [
@@ -4326,6 +4526,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.0.8",
+                    "files": [
+                        "es5-shim.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.4",
                     "files": [
@@ -5103,6 +5309,53 @@
             ]
         },
         {
+            "name": "fullcalendar",
+            "version": "1.6.0",
+            "dependencies": {
+                "jquery": "~1.9.1"
+            },
+            "optionalDependencies": {
+                "jquery-ui": "~1.10.2"
+            },
+            "title": "FullCalendar",
+            "description": "Full-sized drag & drop event calendar",
+            "keywords": [
+                "calendar",
+                "event",
+                "full-sized"
+            ],
+            "homepage": "http://arshaw.com/fullcalendar/",
+            "demo": "http://arshaw.com/fullcalendar/",
+            "docs": "http://arshaw.com/fullcalendar/docs/",
+            "download": "http://arshaw.com/fullcalendar/download/",
+            "bugs": "http://code.google.com/p/fullcalendar/issues/list",
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/arshaw/fullcalendar/blob/master/license.txt"
+                }
+            ],
+            "author": {
+                "name": "Adam Shaw",
+                "email": "arshaw@arshaw.com",
+                "url": "http://arshaw.com/"
+            },
+            "copyright": "2013 Adam Shaw",
+            "filename": "fullcalendar.min.js",
+            "assets": [
+                {
+                    "version": "1.6.0",
+                    "files": [
+                        "fullcalendar.css",
+                        "fullcalendar.js",
+                        "fullcalendar.min.js",
+                        "fullcalendar.print.css",
+                        "gcal.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "galleria",
             "filename": "galleria.min.js",
             "version": "1.2.9",
@@ -5413,7 +5666,7 @@
         {
             "name": "gsap",
             "filename": "TweenMax.min.js",
-            "version": "1.9.2",
+            "version": "1.9.3",
             "description": "GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.",
             "homepage": "http://www.greensock.com/gsap-js/",
             "keywords": [
@@ -5450,6 +5703,28 @@
             "assets": [
                 {
                     "version": "latest",
+                    "files": [
+                        "TimelineLite.min.js",
+                        "TimelineMax.min.js",
+                        "TweenLite.min.js",
+                        "TweenMax.min.js",
+                        "easing/EasePack.min.js",
+                        "jquery.gsap.min.js",
+                        "plugins/AttrPlugin.min.js",
+                        "plugins/BezierPlugin.min.js",
+                        "plugins/CSSPlugin.min.js",
+                        "plugins/CSSRulePlugin.min.js",
+                        "plugins/ColorPropsPlugin.min.js",
+                        "plugins/DirectionalRotationPlugin.min.js",
+                        "plugins/EaselPlugin.min.js",
+                        "plugins/RaphaelPlugin.min.js",
+                        "plugins/RoundPropsPlugin.min.js",
+                        "plugins/ScrollToPlugin.min.js",
+                        "plugins/TextPlugin.min.js"
+                    ]
+                },
+                {
+                    "version": "1.9.3",
                     "files": [
                         "TimelineLite.min.js",
                         "TimelineMax.min.js",
@@ -6236,7 +6511,7 @@
         {
             "name": "idbwrapper",
             "filename": "idbstore.min.js",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "description": "A cross-browser wrapper for IndexedDB",
             "homepage": "https://github.com/jensarps/IDBWrapper",
             "keywords": [
@@ -6258,6 +6533,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.1.0",
+                    "files": [
+                        "idbstore.min.js"
+                    ]
+                },
                 {
                     "version": "1.0.0",
                     "files": [
@@ -6295,6 +6576,52 @@
                     "files": [
                         "impress.js",
                         "impress.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "intro.js",
+            "filename": "intro.min.js",
+            "description": "A better way for new feature introduction and step-by-step users guide for your website and project.",
+            "version": "0.2.1",
+            "keywords": [
+                "intro.js",
+                "step-by-step guide",
+                "introductions"
+            ],
+            "maintainers": [
+                {
+                    "name": "Afshin Mehrabani",
+                    "email": "afshin.meh@gmail.com",
+                    "web": "https://github.com/afshinm"
+                }
+            ],
+            "demos": [
+                "http://usablica.github.com/intro.js/"
+            ],
+            "bugs": "https://github.com/usablica/intro.js/issues",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/usablica/intro.js.git"
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "Personal License",
+                    "url": "https://github.com/usablica/intro.js#license"
+                }
+            ],
+            "homepage": "http://usablica.github.com/intro.js/",
+            "assets": [
+                {
+                    "version": "0.2.1",
+                    "files": [
+                        "intro.js",
+                        "intro.min.js",
+                        "introjs.css",
+                        "introjs.min.css"
                     ]
                 }
             ]
@@ -7241,7 +7568,7 @@
         {
             "name": "jquery-mobile",
             "filename": "jquery.mobile.min.js",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "description": "A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.",
             "homepage": "http://jquerymobile.com/",
             "keywords": [
@@ -7261,6 +7588,24 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.3.0",
+                    "files": [
+                        "images/ajax-loader.gif",
+                        "images/icons-18-black.png",
+                        "images/icons-18-white.png",
+                        "images/icons-36-black.png",
+                        "images/icons-36-white.png",
+                        "jquery.mobile.css",
+                        "jquery.mobile.js",
+                        "jquery.mobile.min.css",
+                        "jquery.mobile.min.js",
+                        "jquery.mobile.structure.css",
+                        "jquery.mobile.structure.min.css",
+                        "jquery.mobile.theme.css",
+                        "jquery.mobile.theme.min.css"
+                    ]
+                },
                 {
                     "version": "1.2.0",
                     "files": [
@@ -8587,6 +8932,50 @@
                     "version": "0.6.8",
                     "files": [
                         "jquery.nanoscroller.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery.pin",
+            "filename": "jquery.pin.min.js",
+            "description": "Pin any element within a container",
+            "version": "1.0.1",
+            "keywords": [
+                "jquery-pin",
+                "jquery.pin",
+                "pin"
+            ],
+            "maintainers": [
+                {
+                    "name": "Mathias Biilmann",
+                    "email": "us@webpop.com",
+                    "web": "https://github.com/webpop"
+                }
+            ],
+            "demos": [
+                "http://webpop.github.com/jquery.pin/"
+            ],
+            "bugs": "https://github.com/webpop/jquery.pin/issues",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/webpop/jquery.pin.git"
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "Personalized License",
+                    "url": "https://github.com/webpop/jquery.pin#license"
+                }
+            ],
+            "homepage": "http://webpop.github.com/jquery.pin/",
+            "assets": [
+                {
+                    "version": "1.0.1",
+                    "files": [
+                        "jquery.pin.js",
+                        "jquery.pin.min.js"
                     ]
                 }
             ]
@@ -10593,6 +10982,36 @@
                         "log4javascript_production_uncompressed.js",
                         "log4javascript_uncompressed.js",
                         "main.css"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "lunr.js",
+            "filename": "lunr.min.js",
+            "version": "0.3.0",
+            "description": "Simple full-text search in your browser",
+            "homepage": "http://lunrjs.com",
+            "keywords": [
+                "search"
+            ],
+            "maintainers": [
+                {
+                    "name": "Oliver Nightingale",
+                    "email": "oliver.nightingale1@gmail.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/olivernn/lunr.js"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.3.0",
+                    "files": [
+                        "lunr.min.js"
                     ]
                 }
             ]
@@ -12605,6 +13024,40 @@
             ]
         },
         {
+            "name": "piecon",
+            "filename": "piecon.min.js",
+            "version": "0.2",
+            "description": "A tiny javascript library for dynamically generating progress pie charts in your favicons.",
+            "homepage": "https://github.com/lipka/piecon",
+            "keywords": [
+                "favicon",
+                "piecon",
+                "progress",
+                "chart"
+            ],
+            "maintainers": [
+                {
+                    "name": "Lukas Lipka",
+                    "web": "http://lipka.github.com/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/lipka/piecon"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.2",
+                    "files": [
+                        "piecon.js",
+                        "piecon.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "piwik",
             "filename": "piwik.js",
             "version": "1.10.1",
@@ -12737,6 +13190,38 @@
                     "files": [
                         "platform.js",
                         "platform.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "polymaps",
+            "filename": "polymaps.min.js",
+            "version": "2.5.1",
+            "description": "A free JavaScript library for making dynamic, interactive maps in modern web browsers.",
+            "homepage": "http://polymaps.org/",
+            "keywords": [
+                "maps",
+                "visualization",
+                "svg"
+            ],
+            "maintainers": [
+                {
+                    "name": "Mike Bostock",
+                    "url": "http://bost.ocks.org/mike"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/simplegeo/polymaps"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.5.1",
+                    "files": [
+                        "polymaps.min.js"
                     ]
                 }
             ]
@@ -13135,6 +13620,38 @@
                     "version": "1.7.0.0",
                     "files": [
                         "prototype.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "protovis",
+            "filename": "protovis.min.js",
+            "version": "3.3.1",
+            "description": "A visualization toolkit for JavaScript using SVG.",
+            "homepage": "http://mbostock.github.com/protovis/",
+            "keywords": [
+                "visualization",
+                "svg",
+                "animation"
+            ],
+            "maintainers": [
+                {
+                    "name": "Mike Bostock",
+                    "url": "http://bost.ocks.org/mike"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/mbostock/protovis"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "3.3.1",
+                    "files": [
+                        "protovis.min.js"
                     ]
                 }
             ]
@@ -14260,11 +14777,58 @@
             ]
         },
         {
+            "name": "rxjs-jquery",
+            "filename": "rx.jquery.js",
+            "title": "Reactive Extensions for JavaScript bindings for jQuery",
+            "description": "Library for composing asynchronous and event-based operations in JavaScript extending the jQuery library",
+            "version": "0.0.2",
+            "homepage": "https://github.com/Reactive-Extensions/rxjs-jquery",
+            "author": {
+                "name": "MS Open Tech",
+                "url": "https://github.com/Reactive-Extensions/rxjs-jquery/blob/master/authors.txt"
+            },
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/Reactive-Extensions/rxjs-jquery.git"
+            },
+            "licenses": [
+                {
+                    "type": "Apache License, Version 2.0",
+                    "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+                }
+            ],
+            "dependencies": {},
+            "devDependencies": {
+                "grunt": "~0.4.0",
+                "grunt-contrib-uglify": "~0.1.2",
+                "grunt-contrib-concat": "~0.1.3",
+                "grunt-contrib-qunit": "~0.2.0"
+            },
+            "keywords": [
+                "Reactive",
+                "LINQ",
+                "Collections",
+                "jQuery",
+                "RxJS",
+                "Rx"
+            ],
+            "main": "rx.jquery.js",
+            "assets": [
+                {
+                    "version": "0.0.2",
+                    "files": [
+                        "rx.jquery.js",
+                        "rx.jquery.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "rxjs",
             "filename": "rx.min.js",
             "title": "Reactive Extensions for JavaScript (RxJS)",
             "description": "Library for composing asynchronous and event-based operations in JavaScript",
-            "version": "2.1.0",
+            "version": "2.1.2",
             "homepage": "http://rx.codeplex.com",
             "author": {
                 "name": "Cloud Programmability Team",
@@ -14290,7 +14854,77 @@
             "main": "rx.node.js",
             "assets": [
                 {
+                    "version": "2.1.2",
+                    "files": [
+                        "rx.aggregates.js",
+                        "rx.aggregates.min.js",
+                        "rx.binding.js",
+                        "rx.binding.min.js",
+                        "rx.coincidence.js",
+                        "rx.coincidence.min.js",
+                        "rx.experimental.js",
+                        "rx.experimental.min.js",
+                        "rx.joinpatterns.js",
+                        "rx.joinpatterns.min.js",
+                        "rx.js",
+                        "rx.min.js",
+                        "rx.modern.js",
+                        "rx.modern.min.js",
+                        "rx.node.js",
+                        "rx.testing.js",
+                        "rx.testing.min.js",
+                        "rx.time.js",
+                        "rx.time.min.js"
+                    ]
+                },
+                {
+                    "version": "2.1.1",
+                    "files": [
+                        "rx.aggregates.js",
+                        "rx.aggregates.min.js",
+                        "rx.binding.js",
+                        "rx.binding.min.js",
+                        "rx.coincidence.js",
+                        "rx.coincidence.min.js",
+                        "rx.experimental.js",
+                        "rx.experimental.min.js",
+                        "rx.joinpatterns.js",
+                        "rx.joinpatterns.min.js",
+                        "rx.js",
+                        "rx.min.js",
+                        "rx.modern.js",
+                        "rx.modern.min.js",
+                        "rx.node.js",
+                        "rx.testing.js",
+                        "rx.testing.min.js",
+                        "rx.time.js",
+                        "rx.time.min.js"
+                    ]
+                },
+                {
                     "version": "2.1.0",
+                    "files": [
+                        "rx.aggregates.js",
+                        "rx.aggregates.min.js",
+                        "rx.binding.js",
+                        "rx.binding.min.js",
+                        "rx.coincidence.js",
+                        "rx.coincidence.min.js",
+                        "rx.experimental.js",
+                        "rx.experimental.min.js",
+                        "rx.joinpatterns.js",
+                        "rx.joinpatterns.min.js",
+                        "rx.js",
+                        "rx.min.js",
+                        "rx.node.js",
+                        "rx.testing.js",
+                        "rx.testing.min.js",
+                        "rx.time.js",
+                        "rx.time.min.js"
+                    ]
+                },
+                {
+                    "version": "2.0.0",
                     "files": [
                         "rx.aggregates.js",
                         "rx.aggregates.min.js",
@@ -14576,7 +15210,7 @@
         {
             "name": "select2",
             "filename": "select2.min.js",
-            "version": "3.3.1",
+            "version": "3.3.2",
             "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. Look and feel of Select2 is based on the excellent Chosen library.",
             "homepage": "http://ivaynberg.github.com/select2/",
             "keywords": [
@@ -14600,6 +15234,34 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.3.2",
+                    "files": [
+                        "select2-spinner.gif",
+                        "select2.css",
+                        "select2.js",
+                        "select2.min.js",
+                        "select2.png",
+                        "select2_locale_de.js",
+                        "select2_locale_es.js",
+                        "select2_locale_eu.js",
+                        "select2_locale_fr.js",
+                        "select2_locale_hr.js",
+                        "select2_locale_hu.js",
+                        "select2_locale_it.js",
+                        "select2_locale_nl.js",
+                        "select2_locale_pt-BR.js",
+                        "select2_locale_pt-PT.js",
+                        "select2_locale_ro.js",
+                        "select2_locale_ru.js",
+                        "select2_locale_sk.js",
+                        "select2_locale_sv.js",
+                        "select2_locale_tr.js",
+                        "select2_locale_ua.js",
+                        "select2_locale_zh-CN.js",
+                        "select2x2.png"
+                    ]
+                },
                 {
                     "version": "3.3.1",
                     "files": [
@@ -15179,7 +15841,7 @@
         {
             "name": "stellar.js",
             "filename": "jquery.stellar.min.js",
-            "version": "0.6.0",
+            "version": "0.6.2",
             "description": "Parallax scrolling made easy",
             "homepage": "http://markdalgleish.com/projects/stellar.js",
             "author": {
@@ -15210,6 +15872,12 @@
                 "animation"
             ],
             "assets": [
+                {
+                    "version": "0.6.2",
+                    "files": [
+                        "jquery.stellar.min.js"
+                    ]
+                },
                 {
                     "version": "0.6.0",
                     "files": [
@@ -15365,7 +16033,7 @@
         },
         {
             "name": "sugar",
-            "version": "1.3.8",
+            "version": "1.3.9",
             "filename": "sugar.min.js",
             "description": "Sugar is a Javascript library that extends native objects with helpful methods. It is designed to be intuitive, unobtrusive, and let you do more with less code.",
             "keywords": [
@@ -15390,6 +16058,14 @@
                 "test": "./unit_tests/node.sh"
             },
             "assets": [
+                {
+                    "version": "1.3.9",
+                    "files": [
+                        "sugar-full.development.js",
+                        "sugar-full.min.js",
+                        "sugar.min.js"
+                    ]
+                },
                 {
                     "version": "1.3.8",
                     "files": [
@@ -16391,6 +17067,37 @@
                     "version": "0.9.0",
                     "files": [
                         "twitterlib.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "typeahead.js",
+            "filename": "typeahead.min.js",
+            "version": "0.9.0",
+            "description": "a fast and fully-featured autocomplete library",
+            "homepage": "http://twitter.github.com/typeahead.js/",
+            "keywords": [
+                "twitter",
+                "typeahead",
+                "autocomplete"
+            ],
+            "maintainers": [
+                {
+                    "name": "Twitter, Inc."
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/twitter/bootstrap"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.9.0",
+                    "files": [
+                        "typeahead.min.js"
                     ]
                 }
             ]
