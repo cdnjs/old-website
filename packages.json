@@ -701,6 +701,52 @@
             ]
         },
         {
+            "name": "angularFire",
+            "filename": "angularfire.min.js",
+            "description": "AngularFire is a set of Firebase bindings for AngularJS. It allows you to easily plug in a backend powered by Firebase to your Angular based webapp.",
+            "version": "0.1.0",
+            "homepage": "http://angularjs.org",
+            "keywords": [
+                "realtime",
+                "websockets",
+                "AngularJS",
+                "angular",
+                "angular.js"
+            ],
+            "contributors": [
+                {
+                    "name": "Anant Narayanan"
+                },
+                {
+                    "name": "Peter Bacon Darwin"
+                },
+                {
+                    "name": "Thomas Weiser"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git://github.com/firebase/angularFire.git"
+                }
+            ],
+            "bugs": "https://github.com/firebase/angularFire/issues",
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "http://firebase.mit-license.org"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.1.0",
+                    "files": [
+                        "angularfire.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "anythingslider",
             "filename": "jquery.anythingslider.min.js",
             "version": "1.8.17",
@@ -713,8 +759,8 @@
             ],
             "maintainers": [
                 {
-                    "name": "Lorenzo Raffio",
-                    "url": "http://lorenzoraffio.com"
+                    "name": "Rob Garrison",
+                    "url": "https://github.com/Mottie"
                 }
             ],
             "repositories": [
@@ -728,8 +774,13 @@
                     "version": "1.8.17",
                     "files": [
                         "anythingslider.css",
+                        "default.png",
+                        "jquery.anythingslider.fx.js",
+                        "jquery.anythingslider.fx.min.js",
                         "jquery.anythingslider.js",
-                        "jquery.anythingslider.min.js"
+                        "jquery.anythingslider.min.js",
+                        "jquery.anythingslider.video.js",
+                        "jquery.anythingslider.video.min.js"
                     ]
                 }
             ]
@@ -852,7 +903,7 @@
         {
             "name": "backbone-pageable",
             "description": "A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "filename": "backbone-pageable.min.js",
             "repository": {
                 "type": "git",
@@ -865,6 +916,13 @@
             "author": "Jimmy Yuen Ho Wong <wyuenho@gmail.com>",
             "license": "MIT",
             "assets": [
+                {
+                    "version": "1.2.1",
+                    "files": [
+                        "backbone-pageable.js",
+                        "backbone-pageable.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.0",
                     "files": [
@@ -1506,6 +1564,87 @@
             ]
         },
         {
+            "name": "bacon.js",
+            "filename": "Bacon.min.js",
+            "version": "0.3.5",
+            "author": "Juha Paananen",
+            "description": "A small functional reactive programming lib for JavaScript.",
+            "homepage": "http://baconjs.blogspot.com",
+            "keywords": [
+                "bacon",
+                "baconjs",
+                "functional",
+                "reactive",
+                "lib",
+                "frp"
+            ],
+            "maintainers": [
+                {
+                    "name": "Juha Paananen",
+                    "web": "http://nullzzz.blogspot.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/raimohanska/bacon.js.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.3.5",
+                    "files": [
+                        "Bacon.js",
+                        "Bacon.min.js"
+                    ]
+                },
+                {
+                    "version": "0.3.0",
+                    "files": [
+                        "Bacon.js",
+                        "Bacon.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "barman",
+            "description": "A small library to brew JavaScript objects.",
+            "version": "0.2.2",
+            "homepage": "https://github.com/dfernandez79/barman",
+            "author": {
+                "name": "Diego Fernandez",
+                "url": "https://github.com/dfernandez79"
+            },
+            "keywords": [
+                "traits",
+                "oop",
+                "classes",
+                "objects",
+                "object composition"
+            ],
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/dfernandez79/barman/blob/master/LICENSE"
+                }
+            ],
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/dfernandez79/barman.git"
+            },
+            "filename": "barman.min.js",
+            "assets": [
+                {
+                    "version": "0.2.2",
+                    "files": [
+                        "barman.js",
+                        "barman.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "benchmark",
             "version": "0.3.0",
             "filename": "benchmark.min.js",
@@ -1887,6 +2026,78 @@
                     "files": [
                         "bootstrap-lightbox.css",
                         "bootstrap-lightbox.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bootstrap-modal",
+            "filename": "bootstrap-modal.pack.js",
+            "version": "2.1.0",
+            "description": "Extends the default Bootstrap Modal class.",
+            "homepage": "https://github.com/jschr/bootstrap-modal",
+            "keywords": [
+                "bootstrap",
+                "modal"
+            ],
+            "maintainers": [
+                {
+                    "name": "Jordan Schroter"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/jschr/bootstrap-modal"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.1.0",
+                    "files": [
+                        "ajax-loader.gif",
+                        "bootstrap-modal.css",
+                        "bootstrap-modal.pack.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bootstrap-switch",
+            "filename": "bootstrapSwitch.min.js",
+            "description": "bootstrapSwitch adds switches to your bootstrap ecosystem",
+            "version": "1.3",
+            "homepage": "http://www.larentis.eu/switch/",
+            "keywords": [
+                "bootstrap",
+                "switch",
+                "html5",
+                "css3",
+                "jquery"
+            ],
+            "maintainers": [
+                {
+                    "name": "Mattia Larentis",
+                    "email": "mattia@larentis.eu",
+                    "web": "http://www.larentis.eu/"
+                }
+            ],
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/nostalgiaz/bootstrap-switch.git"
+            },
+            "bugs": "https://github.com/nostalgiaz/bootstrap-switch/issues",
+            "licenses": [
+                {
+                    "type": "Apache License, Version 2.0",
+                    "url": "http://www.apache.org/licenses/LICENSE-2.0"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.3",
+                    "files": [
+                        "bootstrapSwitch.min.js"
                     ]
                 }
             ]
@@ -3924,7 +4135,7 @@
         {
             "name": "dropzone",
             "filename": "dropzone.min.js",
-            "version": "2.0.4",
+            "version": "2.0.8",
             "description": "Drag'n'drop file uploads with image previews",
             "homepage": "http://www.dropzonejs.com/",
             "keywords": [
@@ -3945,6 +4156,19 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.0.8",
+                    "files": [
+                        "css/basic.css",
+                        "css/dropzone.css",
+                        "dropzone-amd-module.js",
+                        "dropzone-amd-module.min.js",
+                        "dropzone.js",
+                        "dropzone.min.js",
+                        "images/spritemap.png",
+                        "images/spritemap@2x.png"
+                    ]
+                },
                 {
                     "version": "2.0.4",
                     "files": [
@@ -5130,7 +5354,7 @@
         {
             "name": "foundation",
             "filename": "js/foundation.min.js",
-            "version": "4.0.9",
+            "version": "4.1.2",
             "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.",
             "homepage": "http://foundation.zurb.com",
             "keywords": [
@@ -5158,6 +5382,32 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "4.1.2",
+                    "files": [
+                        "css/foundation.css",
+                        "css/foundation.min.css",
+                        "css/normalize.css",
+                        "js/foundation.min.js",
+                        "js/foundation/foundation.alerts.js",
+                        "js/foundation/foundation.clearing.js",
+                        "js/foundation/foundation.cookie.js",
+                        "js/foundation/foundation.dropdown.js",
+                        "js/foundation/foundation.forms.js",
+                        "js/foundation/foundation.joyride.js",
+                        "js/foundation/foundation.js",
+                        "js/foundation/foundation.magellan.js",
+                        "js/foundation/foundation.orbit.js",
+                        "js/foundation/foundation.placeholder.js",
+                        "js/foundation/foundation.reveal.js",
+                        "js/foundation/foundation.section.js",
+                        "js/foundation/foundation.tooltips.js",
+                        "js/foundation/foundation.topbar.js",
+                        "js/vendor/custom.modernizr.js",
+                        "js/vendor/jquery.js",
+                        "js/vendor/zepto.js"
+                    ]
+                },
                 {
                     "version": "4.0.9",
                     "files": [
@@ -5426,6 +5676,61 @@
                     "version": "1",
                     "files": [
                         "galleria.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "galleriffic",
+            "filename": "jquery.galleriffic.min.js",
+            "version": "2.0.1",
+            "description": "A jQuery plugin for rendering rich, fast-performing photo galleries.",
+            "homepage": "http://www.twospy.com/galleriffic/",
+            "keywords": [
+                "jquery",
+                "gallery",
+                "images"
+            ],
+            "maintainers": [
+                {
+                    "name": "Lorenzo Raffio",
+                    "url": "http://lorenzoraffio.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "svn",
+                    "url": "http://code.google.com/p/galleriffic/source/browse/#svn/trunk/example"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.0.1",
+                    "files": [
+                        "css/basic.css",
+                        "css/black.css",
+                        "css/caption.png",
+                        "css/galleriffic-1.css",
+                        "css/galleriffic-2.css",
+                        "css/galleriffic-3.css",
+                        "css/galleriffic-4.css",
+                        "css/galleriffic-5.css",
+                        "css/loader.gif",
+                        "css/loaderWhite.gif",
+                        "css/nextPageArrow.gif",
+                        "css/nextPageArrowWhite.gif",
+                        "css/prevPageArrow.gif",
+                        "css/prevPageArrowWhite.gif",
+                        "css/white.css",
+                        "example-1.html",
+                        "example-2.html",
+                        "example-3.html",
+                        "example-4.html",
+                        "example-5.html",
+                        "index.html",
+                        "jquery.galleriffic.js",
+                        "jquery.galleriffic.min.js",
+                        "jquery.opacityrollover.js"
                     ]
                 }
             ]
@@ -5892,6 +6197,47 @@
                         "plugins/RaphaelPlugin.min.js",
                         "plugins/RoundPropsPlugin.min.js",
                         "plugins/ScrollToPlugin.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "h5Validate",
+            "filename": "jquery.h5validate.min.js",
+            "version": "0.8.4",
+            "description": "HTML5 form validation",
+            "homepage": "http://ericleads.com/h5validate/",
+            "author": {
+                "name": "Eric Elliott",
+                "url": "http://ericleads.com"
+            },
+            "keywords": [
+                "form",
+                "html5",
+                "form validation",
+                "validation",
+                "jquery"
+            ],
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/dilvie/h5Validate.git"
+            },
+            "devDependencies": {
+                "grunt": "*",
+                "grunt-saucelabs": "*"
+            },
+            "scripts": {
+                "test": "./scripts/test.sh"
+            },
+            "engines": {
+                "node": "~0.x.x"
+            },
+            "assets": [
+                {
+                    "version": "0.8.4",
+                    "files": [
+                        "jquery.h5validate.js",
+                        "jquery.h5validate.min.js"
                     ]
                 }
             ]
@@ -7575,7 +7921,7 @@
         {
             "name": "jquery-mobile",
             "filename": "jquery.mobile.min.js",
-            "version": "1.3.0",
+            "version": "1.3.1",
             "description": "A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.",
             "homepage": "http://jquerymobile.com/",
             "keywords": [
@@ -7596,7 +7942,43 @@
             ],
             "assets": [
                 {
+                    "version": "1.3.1",
+                    "files": [
+                        "images/ajax-loader.gif",
+                        "images/icons-18-black.png",
+                        "images/icons-18-white.png",
+                        "images/icons-36-black.png",
+                        "images/icons-36-white.png",
+                        "jquery.mobile.css",
+                        "jquery.mobile.js",
+                        "jquery.mobile.min.css",
+                        "jquery.mobile.min.js",
+                        "jquery.mobile.structure.css",
+                        "jquery.mobile.structure.min.css",
+                        "jquery.mobile.theme.css",
+                        "jquery.mobile.theme.min.css"
+                    ]
+                },
+                {
                     "version": "1.3.0",
+                    "files": [
+                        "images/ajax-loader.gif",
+                        "images/icons-18-black.png",
+                        "images/icons-18-white.png",
+                        "images/icons-36-black.png",
+                        "images/icons-36-white.png",
+                        "jquery.mobile.css",
+                        "jquery.mobile.js",
+                        "jquery.mobile.min.css",
+                        "jquery.mobile.min.js",
+                        "jquery.mobile.structure.css",
+                        "jquery.mobile.structure.min.css",
+                        "jquery.mobile.theme.css",
+                        "jquery.mobile.theme.min.css"
+                    ]
+                },
+                {
+                    "version": "1.2.1",
                     "files": [
                         "images/ajax-loader.gif",
                         "images/icons-18-black.png",
@@ -8449,6 +8831,9 @@
                     "url": "https://github.com/cowboy/jquery-bbq"
                 }
             ],
+            "dependencies": {
+                "jquery": "1.2.6"
+            },
             "assets": [
                 {
                     "version": "1.2.1",
@@ -13067,7 +13452,7 @@
         {
             "name": "piwik",
             "filename": "piwik.js",
-            "version": "1.10.1",
+            "version": "1.11.1",
             "description": "Piwik is a free web analytics tool that provides you with detailed reports on your website's visitors, your marketing campaigns and much more. Piwik is an open source alternative to Google Analytics, available in 45 languages, and has been downloaded more than 1 million times!",
             "homepage": "http://piwik.org/",
             "keywords": [
@@ -13083,15 +13468,23 @@
             ],
             "repositories": [
                 {
-                    "type": "svn",
-                    "url": "https://dev.piwik.org/svn/"
-                },
-                {
                     "type": "git",
                     "url": "https://github.com/piwik/piwik.git"
                 }
             ],
             "assets": [
+                {
+                    "version": "1.11.1",
+                    "files": [
+                        "piwik.js"
+                    ]
+                },
+                {
+                    "version": "1.11",
+                    "files": [
+                        "piwik.js"
+                    ]
+                },
                 {
                     "version": "1.10.1",
                     "files": [
@@ -13418,6 +13811,42 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "r298",
+                    "files": [
+                        "lang-apollo.js",
+                        "lang-basic.js",
+                        "lang-clj.js",
+                        "lang-css.js",
+                        "lang-dart.js",
+                        "lang-erlang.js",
+                        "lang-go.js",
+                        "lang-hs.js",
+                        "lang-lisp.js",
+                        "lang-llvm.js",
+                        "lang-lua.js",
+                        "lang-matlab.js",
+                        "lang-ml.js",
+                        "lang-mumps.js",
+                        "lang-n.js",
+                        "lang-pascal.js",
+                        "lang-proto.js",
+                        "lang-r.js",
+                        "lang-rd.js",
+                        "lang-scala.js",
+                        "lang-sql.js",
+                        "lang-tcl.js",
+                        "lang-tex.js",
+                        "lang-vb.js",
+                        "lang-vhdl.js",
+                        "lang-wiki.js",
+                        "lang-xq.js",
+                        "lang-yaml.js",
+                        "prettify.css",
+                        "prettify.js",
+                        "run_prettify.js"
+                    ]
+                },
                 {
                     "version": "r224",
                     "files": [
@@ -16199,7 +16628,7 @@
         {
             "name": "swipe",
             "filename": "swipe.min.js",
-            "version": "1.0",
+            "version": "2.0",
             "description": "Swipe is a lightweight mobile slider with 1-to-1 touch movement.",
             "homepage": "http://swipejs.com/",
             "keywords": [
@@ -16221,6 +16650,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.0",
+                    "files": [
+                        "swipe.min.js"
+                    ]
+                },
                 {
                     "version": "1.0",
                     "files": [
@@ -16807,7 +17242,7 @@
         {
             "name": "tinyscrollbar",
             "filename": "jquery.tinyscrollbar.min.js",
-            "version": "1.66",
+            "version": "1.81",
             "description": "A lightweight jQuery plugin to scroll content.",
             "homepage": "http://baijs.nl/tinyscrollbar/",
             "keywords": [
@@ -16827,6 +17262,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.81",
+                    "files": [
+                        "jquery.tinyscrollbar.min.js"
+                    ]
+                },
                 {
                     "version": "1.66",
                     "files": [
