@@ -10,8 +10,62 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 12 Apr 2013 01:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2013 01:35:09 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[angular-strap updated to version 0.7.2]]></title>
+            <description><![CDATA[AngularStrap - Twitter Bootstrap directives for AngularJS.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-strap/0.7.2/angular-strap.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-strap/0.7.2/angular-strap.min.js</a>]]></description>
+            <link>http://mgcrea.github.com/angular-strap</link>
+            <guid isPermaLink="false">
+                angular-strap0.7.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 13 Apr 2013 00:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.nanoscroller updated to version 0.7.2]]></title>
+            <description><![CDATA[A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.nanoscroller/0.7.2/jquery.nanoscroller.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.nanoscroller/0.7.2/jquery.nanoscroller.min.js</a>]]></description>
+            <link>http://jamesflorentino.github.com/nanoScrollerJS/</link>
+            <guid isPermaLink="false">
+                jquery.nanoscroller0.7.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 12 Apr 2013 20:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-jgrowl(1.2.12) was added]]></title>
+            <description><![CDATA[jGrowl is a jQuery plugin that raises unobtrusive messages within the browser, similar to the way that OS X's Growl Framework works. The idea is simple, deliver notifications to the end user in a noticeable way that doesn't obstruct the work flow and yet keeps the user informed.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-jgrowl/1.2.12/jquery.jgrowl.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-jgrowl/1.2.12/jquery.jgrowl.min.js</a>]]></description>
+            <link>https://github.com/stanlemon/jGrowl</link>
+            <guid isPermaLink="false">
+                jquery-jgrowl1.2.12            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 12 Apr 2013 20:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[keymage(1.0.0) was added]]></title>
+            <description><![CDATA[Yet Another JS Keybinding library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/keymage/1.0.0/keymage.min.js">//cdnjs.cloudflare.com/ajax/libs/keymage/1.0.0/keymage.min.js</a>]]></description>
+            <link>https://github.com/piranha/keymage</link>
+            <guid isPermaLink="false">
+                keymage1.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 12 Apr 2013 12:56:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[prettify updated to version r298]]></title>
+            <description><![CDATA[A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/prettify/r298/prettify.js">//cdnjs.cloudflare.com/ajax/libs/prettify/r298/prettify.js</a>]]></description>
+            <link>http://code.google.com/p/google-code-prettify/</link>
+            <guid isPermaLink="false">
+                prettifyr298            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 12 Apr 2013 09:08:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[thorax updated to version 2.0.0rc3]]></title>
+            <description><![CDATA[Handlebars + Backbone<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/thorax/2.0.0rc3/thorax.js">//cdnjs.cloudflare.com/ajax/libs/thorax/2.0.0rc3/thorax.js</a>]]></description>
+            <link>http://thoraxjs.org/</link>
+            <guid isPermaLink="false">
+                thorax2.0.0rc3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 12 Apr 2013 02:47:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[swipe updated to version 2.0]]></title>
             <description><![CDATA[Swipe is a lightweight mobile slider with 1-to-1 touch movement.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/swipe/2.0/swipe.min.js">//cdnjs.cloudflare.com/ajax/libs/swipe/2.0/swipe.min.js</a>]]></description>
@@ -200,42 +254,6 @@
                 select23.3.2            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 31 Mar 2013 15:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bootstrap-modal(2.1.0) was added]]></title>
-            <description><![CDATA[Extends the default Bootstrap Modal class.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-modal/2.1.0/bootstrap-modal.pack.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-modal/2.1.0/bootstrap-modal.pack.js</a>]]></description>
-            <link>https://github.com/jschr/bootstrap-modal</link>
-            <guid isPermaLink="false">
-                bootstrap-modal2.1.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 30 Mar 2013 16:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fullcalendar(1.6.0) was added]]></title>
-            <description><![CDATA[Full-sized drag & drop event calendar<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/1.6.0/fullcalendar.min.js">//cdnjs.cloudflare.com/ajax/libs/fullcalendar/1.6.0/fullcalendar.min.js</a>]]></description>
-            <link>http://arshaw.com/fullcalendar/</link>
-            <guid isPermaLink="false">
-                fullcalendar1.6.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 30 Mar 2013 07:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ember.js updated to version 1.0.0-rc.2]]></title>
-            <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember.js/1.0.0-rc.2/ember.min.js">//cdnjs.cloudflare.com/ajax/libs/ember.js/1.0.0-rc.2/ember.min.js</a>]]></description>
-            <link>http://emberjs.com/</link>
-            <guid isPermaLink="false">
-                ember.js1.0.0-rc.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 29 Mar 2013 21:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[css3finalize updated to version 3.4.0]]></title>
-            <description><![CDATA[Automatically add vendor prefixes<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/css3finalize/3.4.0/jquery.css3finalize.min.js">//cdnjs.cloudflare.com/ajax/libs/css3finalize/3.4.0/jquery.css3finalize.min.js</a>]]></description>
-            <link>https://github.com/codler/jQuery-Css3-Finalize</link>
-            <guid isPermaLink="false">
-                css3finalize3.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 29 Mar 2013 19:30:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
