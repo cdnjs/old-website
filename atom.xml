@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Sun, 14 Apr 2013 01:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2013 01:56:11 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[angular-strap updated to version 0.7.2]]></title>
