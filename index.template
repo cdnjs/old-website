@@ -14,7 +14,7 @@
 
 </head>
 <body>
-	
+
   <!-- Initially populated by templates/layout.html -->
   <div class="container">
 <div class="header">
@@ -40,7 +40,7 @@
           </li>
           <li class="">
             <a href="https://github.com/cdnjs/cdnjs/issues?direction=desc&sort=created&state=open">Feedback</a>
-          </li>         
+          </li>
           <li>
             <a href="https://www.cloudflare.com/network-map">Our network</a>
 
@@ -95,7 +95,7 @@ Track when libraries are added and updated with our <a href="http://cdnjs.com/rs
     </div>
   <div class="span5">   <div class="">
    At CloudFlare, we believe that open source, community-driven projects like CDNJS are the tools upon which the future of the internet will be built. CloudFlare is proud to provide the global CDN infrastructure that will help power that future.  <br /><br /> <a href="http://cloudflare.com"><img style="margin-bottom: 20px; " src="img/poweredbycloudflare.png"></a>
-   
+
 </div>  </div>
 </div>
 <div class="row">
@@ -122,9 +122,9 @@ Track when libraries are added and updated with our <a href="http://cdnjs.com/rs
           <p style="padding: 0; margin: 0">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %></p>
           <div class="filesandversions">
           <table class=" table table-bordered" style="margin-top: 20px;">
-          <% 
+          <%
             var version = '';
-          _.each(package.assets, function(version) { 
+          _.each(package.assets, function(version) {
 
           %>
           <tr class="version"><td class="versionlabel"><%= version.version %></td></tr>
@@ -236,9 +236,9 @@ $.fn.dataTableExt.afnSortData['dom-text'] = function  ( oSettings, iColumn )
 */
         </script>
 
-       <script src="//static.getclicky.com/js" type="text/javascript"></script> 
-<script type="text/javascript">try{ clicky.init(66376315); }catch(err){}</script> 
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66376315ns.gif" /></p></noscript> 
+       <script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(66376315); }catch(err){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66376315ns.gif" /></p></noscript>
 <script type="text/javascript">
 var fby = fby || [];
 fby.push(['showTab', {id: '4178', position: 'right', color: '#FF1F3A'}]);
@@ -248,5 +248,6 @@ fby.push(['showTab', {id: '4178', position: 'right', color: '#FF1F3A'}]);
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
 })();
 </script>
+<span class="build-time"><%= new Date() %></span>
 </body>
-</html> 
+</html>
