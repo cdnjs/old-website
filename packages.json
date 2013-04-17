@@ -11957,10 +11957,11 @@
         },
         {
             "name": "lodash.js",
-            "version": "1.1.1",
+            "version": "1.2.0",
             "filename": "lodash.min.js",
             "description": "A low-level utility library delivering consistency, customization, performance, and extra features.",
             "homepage": "http://lodash.com",
+            "license": "MIT",
             "main": "lodash",
             "keywords": [
                 "browser",
@@ -11970,18 +11971,6 @@
                 "server",
                 "speed",
                 "util"
-            ],
-            "licenses": [
-                {
-                    "type": "MIT",
-                    "url": "http://lodash.com/license"
-                }
-            ],
-            "maintainers": [
-                {
-                    "name": "John-David Dalton",
-                    "web": "http://allyoucanleet.com/"
-                }
             ],
             "author": {
                 "name": "John-David Dalton",
@@ -11997,11 +11986,24 @@
                 "node",
                 "rhino"
             ],
-            "directories": {
-                "doc": "./doc",
-                "test": "./test"
-            },
             "assets": [
+                {
+                    "version": "1.2.0",
+                    "files": [
+                        "lodash.backbone.js",
+                        "lodash.backbone.min.js",
+                        "lodash.compat.js",
+                        "lodash.compat.min.js",
+                        "lodash.js",
+                        "lodash.legacy.js",
+                        "lodash.legacy.min.js",
+                        "lodash.min.js",
+                        "lodash.mobile.js",
+                        "lodash.mobile.min.js",
+                        "lodash.underscore.js",
+                        "lodash.underscore.min.js"
+                    ]
+                },
                 {
                     "version": "1.1.1",
                     "files": [

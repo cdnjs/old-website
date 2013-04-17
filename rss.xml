@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Sun, 14 Apr 2013 01:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2013 16:56:45 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[lodash.js updated to version 1.2.0]]></title>
+            <description><![CDATA[A low-level utility library delivering consistency, customization, performance, and extra features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.2.0/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.2.0/lodash.min.js</a>]]></description>
+            <link>http://lodash.com</link>
+            <guid isPermaLink="false">
+                lodash.js1.2.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 16 Apr 2013 16:17:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[angular-strap updated to version 0.7.2]]></title>
             <description><![CDATA[AngularStrap - Twitter Bootstrap directives for AngularJS.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-strap/0.7.2/angular-strap.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-strap/0.7.2/angular-strap.min.js</a>]]></description>
@@ -200,60 +209,6 @@
                 gsap1.9.3            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 03 Apr 2013 02:42:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[cannon.js updated to version 0.5.0]]></title>
-            <description><![CDATA[A lightweight 3D physics engine written in JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/cannon.js/0.5.0/cannon.min.js">//cdnjs.cloudflare.com/ajax/libs/cannon.js/0.5.0/cannon.min.js</a>]]></description>
-            <link>http://schteppe.github.com/cannon.js</link>
-            <guid isPermaLink="false">
-                cannon.js0.5.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 01 Apr 2013 22:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rxjs updated to version 2.1.2]]></title>
-            <description><![CDATA[Library for composing asynchronous and event-based operations in JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rxjs/2.1.2/rx.min.js">//cdnjs.cloudflare.com/ajax/libs/rxjs/2.1.2/rx.min.js</a>]]></description>
-            <link>http://rx.codeplex.com</link>
-            <guid isPermaLink="false">
-                rxjs2.1.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 01 Apr 2013 20:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rxjs-jquery(0.0.2) was added]]></title>
-            <description><![CDATA[Library for composing asynchronous and event-based operations in JavaScript extending the jQuery library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rxjs-jquery/0.0.2/rx.jquery.js">//cdnjs.cloudflare.com/ajax/libs/rxjs-jquery/0.0.2/rx.jquery.js</a>]]></description>
-            <link>https://github.com/Reactive-Extensions/rxjs-jquery</link>
-            <guid isPermaLink="false">
-                rxjs-jquery0.0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 01 Apr 2013 20:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lunr.js(0.3.0) was added]]></title>
-            <description><![CDATA[Simple full-text search in your browser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lunr.js/0.3.0/lunr.min.js">//cdnjs.cloudflare.com/ajax/libs/lunr.js/0.3.0/lunr.min.js</a>]]></description>
-            <link>http://lunrjs.com</link>
-            <guid isPermaLink="false">
-                lunr.js0.3.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 01 Apr 2013 17:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bootstrap-datepicker updated to version 1.0.2]]></title>
-            <description><![CDATA[A datepicker for Twitter Bootstrap<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.0.2/js/bootstrap-datepicker.min.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.0.2/js/bootstrap-datepicker.min.js</a>]]></description>
-            <link>https://github.com/eternicode/bootstrap-datepicker</link>
-            <guid isPermaLink="false">
-                bootstrap-datepicker1.0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 01 Apr 2013 10:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[select2 updated to version 3.3.2]]></title>
-            <description><![CDATA[Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. Look and feel of Select2 is based on the excellent Chosen library.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/select2/3.3.2/select2.min.js">//cdnjs.cloudflare.com/ajax/libs/select2/3.3.2/select2.min.js</a>]]></description>
-            <link>http://ivaynberg.github.com/select2/</link>
-            <guid isPermaLink="false">
-                select23.3.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 31 Mar 2013 15:17:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
