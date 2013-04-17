@@ -4,13 +4,13 @@
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>cdnjs - the missing cdn</title>
-	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="description" content="All CDNJS code is open source and driven by the community, we welcome users to fork!">
-	<link rel="stylesheet" href="css/styles.css">
+  <title>cdnjs - the missing cdn</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="All CDNJS code is open source and driven by the community, we welcome users to fork!">
+  <link rel="stylesheet" href="css/styles.css">
 
 </head>
 <body>
@@ -111,10 +111,10 @@ Track when libraries are added and updated with our <a href="http://cdnjs.com/rs
 <div class="row">
 <div class="span12">
   <div class="">
-  	<div class="packages-table-container">
+    <div class="packages-table-container">
 
 
-<table style="margin-top: 10px;" cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example">
+<table style="margin-top: 10px;" cellpadding="0" cellspacing="0" border="0" class="table table-striped" id="example">
   <thead>
     <tr>
       <th>Library</th>
@@ -123,13 +123,16 @@ Track when libraries are added and updated with our <a href="http://cdnjs.com/rs
     </tr>
   </thead>
   <tbody>
-  	<% _.each(packages, function(package){ if(typeof package.name !== 'undefined') { %>
+    <% _.each(packages, function(package){ if(typeof package.name !== 'undefined') { %>
 
     <tr id="<%= package.name.replace('.', '') %>" class="odd gradeX">
-      <td><a href="<%= package.homepage %>"><%= package.name %></a></td>
-      <td style="padding: 0;">
+      <td style="white-space: nowrap;"><a href="<%= package.homepage %>"><%= package.name %></a></td>
+      <td style="padding: 0; width: 100%;">
         <div style="position: relative; padding: 8px;">
-          <p style="padding: 0; margin: 0">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %></p>
+          <p style="padding: 0; margin: 0">
+            <!-- //cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %> -->
+            <input type="text" class="input-block-level" style="margin: 0" readonly value="//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>">
+          </p>
           <div class="filesandversions">
           <table class=" table table-bordered" style="margin-top: 20px;">
           <%
@@ -141,7 +144,11 @@ Track when libraries are added and updated with our <a href="http://cdnjs.com/rs
 
 
           <% _.each(version.files, function(file) { %>
-            <tr class="library"><td>//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= version.version %>/<%= file %></td></tr>
+            <tr class="library"><td>
+              <!-- //cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= version.version %>/<%= file %> -->
+            <input type="text" class="input-block-level" style="margin: 0" readonly value="//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= version.version %>/<%= file %>">
+
+            </td></tr>
 
 
           <% }); %>
@@ -149,19 +156,19 @@ Track when libraries are added and updated with our <a href="http://cdnjs.com/rs
           <% }); %>
         </table>
       </div>
-         <button  class="btn btn-mini btn-blue">Versions & Files <i class=" icon-chevron-down"></i></button>
+         <button  class="btn btn-mini btn-primary">Versions &amp; Files <i class="icon-white icon-chevron-down"></i></button>
        </div>
       </td>
       <!--<td class="hits">0</td>-->
     </tr>
-  	<% } }); %>
+    <% } }); %>
   </tbody>
 </table>
 
 
 
 
-  	</div>
+    </div>
 
 </div>
 </div>
@@ -210,6 +217,11 @@ $('body').on('click', '.btn-mini', function(ev) {
               "sLengthMenu": "_MENU_ records per page"
             }
           });
+
+$(document).on('mouseenter', 'input[readonly]', function (event) {
+  $(this).select();
+});
+
 /*
 $.fn.dataTableExt.afnSortData['dom-text'] = function  ( oSettings, iColumn )
 {
