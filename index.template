@@ -126,7 +126,17 @@ Track when libraries are added and updated with our <a href="http://cdnjs.com/rs
     <% _.each(packages, function(package){ if(typeof package.name !== 'undefined') { %>
 
     <tr id="<%= package.name.replace('.', '') %>" class="odd gradeX">
-      <td style="white-space: nowrap;"><a href="<%= package.homepage %>"><%= package.name %></a></td>
+      <td style="white-space: nowrap;">
+        <a href="<%= package.homepage %>"><%= package.name %></a>
+
+        <!-- hidden text for searching -->
+        <div style="display: none;">
+          <%= package.description %>
+          <%= package.homepage %>
+          <%= package.keywords && package.keywords.join(', ') %>
+        </div>
+        
+      </td>
       <td style="padding: 0; width: 100%;">
         <div style="position: relative; padding: 8px;">
           <p style="padding: 0; margin: 0">
