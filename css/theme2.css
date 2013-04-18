@@ -6,13 +6,14 @@
 }
 .maintainers {
 	margin-bottom: 10px;
-}table.table thead .sorting,
+}
+table.table thead .sorting,
 table.table thead .sorting_asc,
 table.table thead .sorting_desc,
 table.table thead .sorting_asc_disabled,
 table.table thead .sorting_desc_disabled {
-    cursor: pointer;
-    *cursor: hand;
+  cursor: pointer;
+  *cursor: hand;
 }
 .table th, .table td { 
   line-height: 20px;
@@ -22,12 +23,13 @@ table.table thead .sorting_desc_disabled {
 }
 td .filesandversions { 
   display: none;
-list-style: none;
-margin-top: 20px;
-margin: 0;
-padding: 0;
+  list-style: none;
+  margin-top: 20px;
+  margin: 0;
+  padding: 0;
 }
-td .filesandversions td , td .filesandversions th { 
+td .filesandversions td,
+td .filesandversions th { 
   background: #fff !important;
 }
 td {
@@ -39,12 +41,12 @@ li.version {
 li.library {
   margin: 5px 10px;
 }
- tr .btn {
+tr .btn {
   display: none !important;
   position: absolute;
   right: 5px;
   top: 8px;
- }
+}
 tr:hover .btn {
  display: inline-block !important;
 }
@@ -52,6 +54,10 @@ tr:hover .btn {
 table.table thead .sorting { background: url('images/sort_both.png') no-repeat center right; }
 table.table thead .sorting_asc { background: url('images/sort_asc.png') no-repeat center right; }
 table.table thead .sorting_desc { background: url('images/sort_desc.png') no-repeat center right; }
- 
+
 table.table thead .sorting_asc_disabled { background: url('images/sort_asc_disabled.png') no-repeat center right; }
 table.table thead .sorting_desc_disabled { background: url('images/sort_desc_disabled.png') no-repeat center right; }
+
+input[readonly] {
+  cursor: text;
+}
