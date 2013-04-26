@@ -525,7 +525,7 @@
             "name": "angular-strap",
             "filename": "angular-strap.min.js",
             "description": "AngularStrap - Twitter Bootstrap directives for AngularJS.",
-            "version": "0.7.2",
+            "version": "0.7.3",
             "homepage": "http://mgcrea.github.com/angular-strap",
             "keywords": [
                 "angular",
@@ -547,6 +547,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.7.3",
+                    "files": [
+                        "angular-strap.js",
+                        "angular-strap.min.js"
+                    ]
+                },
                 {
                     "version": "0.7.2",
                     "files": [
@@ -852,7 +859,7 @@
         {
             "name": "anythingslider",
             "filename": "jquery.anythingslider.min.js",
-            "version": "1.8.17",
+            "version": "1.9.0",
             "description": "A jQuery Slider plugin for anything.",
             "homepage": "http://css-tricks.com/anythingslider-jquery-plugin/",
             "keywords": [
@@ -874,6 +881,20 @@
             ],
             "assets": [
                 {
+                    "version": "1.9.0",
+                    "files": [
+                        "anythingslider.css",
+                        "anythingslider.min.css",
+                        "default.png",
+                        "jquery.anythingslider.fx.js",
+                        "jquery.anythingslider.fx.min.js",
+                        "jquery.anythingslider.js",
+                        "jquery.anythingslider.min.js",
+                        "jquery.anythingslider.video.js",
+                        "jquery.anythingslider.video.min.js"
+                    ]
+                },
+                {
                     "version": "1.8.17",
                     "files": [
                         "anythingslider.css",
@@ -892,7 +913,7 @@
         {
             "name": "async",
             "filename": "async.min.js",
-            "version": "1.22",
+            "version": "0.2.7",
             "description": "Higher-order functions and common patterns for asynchronous code",
             "author": "Caolan McMahon",
             "repository": {
@@ -905,14 +926,15 @@
                     "url": "http://github.com/caolan/async/raw/master/LICENSE"
                 }
             ],
-            "devDependencies": {
-                "nodeunit": ">0.0.0",
-                "uglify-js": "1.2.x",
-                "nodelint": ">0.0.0"
-            },
             "assets": [
                 {
                     "version": "1.22",
+                    "files": [
+                        "async.min.js"
+                    ]
+                },
+                {
+                    "version": "0.2.7",
                     "files": [
                         "async.min.js"
                     ]
@@ -1007,7 +1029,7 @@
         {
             "name": "backbone-pageable",
             "description": "A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.",
-            "version": "1.2.1",
+            "version": "1.2.2",
             "filename": "backbone-pageable.min.js",
             "repository": {
                 "type": "git",
@@ -1020,6 +1042,13 @@
             "author": "Jimmy Yuen Ho Wong <wyuenho@gmail.com>",
             "license": "MIT",
             "assets": [
+                {
+                    "version": "1.2.2",
+                    "files": [
+                        "backbone-pageable.js",
+                        "backbone-pageable.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.1",
                     "files": [
@@ -4941,7 +4970,7 @@
         {
             "name": "ember.js",
             "filename": "ember.min.js",
-            "version": "1.0.0-rc.2",
+            "version": "1.0.0-rc.3",
             "description": "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
             "homepage": "http://emberjs.com/",
             "keywords": [
@@ -4966,6 +4995,13 @@
                     "files": [
                         "ember-1.0.pre.js",
                         "ember-1.0.pre.min.js"
+                    ]
+                },
+                {
+                    "version": "1.0.0-rc.3",
+                    "files": [
+                        "ember.js",
+                        "ember.min.js"
                     ]
                 },
                 {
@@ -5044,7 +5080,7 @@
         },
         {
             "name": "enquire.js",
-            "version": "1.5.6",
+            "version": "2.0.0",
             "description": "Awesome Media Queries in JavaScript",
             "homepage": "http://wicky.nillia.ms/enquire.js",
             "author": {
@@ -5069,14 +5105,25 @@
                     "url": "http://www.opensource.org/licenses/mit-license.php"
                 }
             ],
-            "dependencies": {
-                "grunt": "*",
-                "grunt-jasmine-runner": "*"
-            },
             "scripts": {
-                "test": "grunt travis --verbose"
+                "test": "grunt test --verbose"
+            },
+            "devDependencies": {
+                "grunt": "~0.4.1",
+                "grunt-contrib-jasmine": "~0.4.1",
+                "grunt-contrib-jshint": "~0.3.0",
+                "grunt-contrib-concat": "~0.1.3",
+                "grunt-contrib-uglify": "~0.2.0",
+                "grunt-contrib-watch": "~0.3.1"
             },
             "assets": [
+                {
+                    "version": "2.0.0",
+                    "files": [
+                        "enquire.js",
+                        "enquire.min.js"
+                    ]
+                },
                 {
                     "version": "1.5.6",
                     "files": [
@@ -5143,7 +5190,7 @@
         {
             "name": "epitome",
             "filename": "Epitome-min.js",
-            "version": "0.2.0",
+            "version": "0.3.0",
             "description": "Epitome, an MVP framework built on top of MooTools",
             "homepage": "http://dimitarchristoff.github.com/Epitome",
             "keywords": [
@@ -5165,6 +5212,18 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.3.0",
+                    "files": [
+                        "Epitome-min.js"
+                    ]
+                },
+                {
+                    "version": "0.2.2",
+                    "files": [
+                        "Epitome-min.js"
+                    ]
+                },
                 {
                     "version": "0.2.0",
                     "files": [
@@ -5775,9 +5834,9 @@
         {
             "name": "flot",
             "filename": "jquery.flot.min.js",
-            "version": "0.7",
+            "version": "0.8",
             "description": "Attractive Javascript plotting for jQuery",
-            "homepage": "http://code.google.com/p/flot/",
+            "homepage": "http://flotcharts.org/",
             "keywords": [
                 "jquery",
                 "plot",
@@ -5790,7 +5849,7 @@
             ],
             "maintainers": [
                 {
-                    "name": "Ole Laursen"
+                    "name": "David Schnur"
                 }
             ],
             "repositories": [
@@ -5800,6 +5859,29 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.8",
+                    "files": [
+                        "excanvas.min.js",
+                        "jquery.colorhelpers.js",
+                        "jquery.colorhelpers.min.js",
+                        "jquery.flot.canvas.min.js",
+                        "jquery.flot.categories.min.js",
+                        "jquery.flot.crosshair.min.js",
+                        "jquery.flot.errorbars.min.js",
+                        "jquery.flot.fillbetween.min.js",
+                        "jquery.flot.image.min.js",
+                        "jquery.flot.min.js",
+                        "jquery.flot.navigate.min.js",
+                        "jquery.flot.pie.min.js",
+                        "jquery.flot.resize.min.js",
+                        "jquery.flot.selection.min.js",
+                        "jquery.flot.stack.min.js",
+                        "jquery.flot.symbol.min.js",
+                        "jquery.flot.threshold.min.js",
+                        "jquery.flot.time.min.js"
+                    ]
+                },
                 {
                     "version": "0.7",
                     "files": [
@@ -6188,6 +6270,48 @@
             ]
         },
         {
+            "name": "foundicons",
+            "filename": "fonts/general_foundicons.ttf",
+            "version": "2.0",
+            "description": "Custom icon sets that are stored in a handy web font and are coded to be more accessible. A couple lines of CSS and the right markup will get you going in no time.",
+            "homepage": "http://zurb.com/playground/foundation-icons",
+            "keywords": [
+                "foundation",
+                "foundicons"
+            ],
+            "assets": [
+                {
+                    "version": "2.0",
+                    "files": [
+                        "fonts/accessibility_foundicons.eot",
+                        "fonts/accessibility_foundicons.svg",
+                        "fonts/accessibility_foundicons.ttf",
+                        "fonts/accessibility_foundicons.woff",
+                        "fonts/general_enclosed_foundicons.eot",
+                        "fonts/general_enclosed_foundicons.svg",
+                        "fonts/general_enclosed_foundicons.ttf",
+                        "fonts/general_enclosed_foundicons.woff",
+                        "fonts/general_foundicons.eot",
+                        "fonts/general_foundicons.svg",
+                        "fonts/general_foundicons.ttf",
+                        "fonts/general_foundicons.woff",
+                        "fonts/social_foundicons.eot",
+                        "fonts/social_foundicons.svg",
+                        "fonts/social_foundicons.ttf",
+                        "fonts/social_foundicons.woff",
+                        "stylesheets/accessibility_foundicons.css",
+                        "stylesheets/accessibility_foundicons_ie7.css",
+                        "stylesheets/general_enclosed_foundicons.css",
+                        "stylesheets/general_enclosed_foundicons_ie7.css",
+                        "stylesheets/general_foundicons.css",
+                        "stylesheets/general_foundicons_ie7.css",
+                        "stylesheets/social_foundicons.css",
+                        "stylesheets/social_foundicons_ie7.css"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "fullcalendar",
             "version": "1.6.0",
             "dependencies": {
@@ -6464,6 +6588,45 @@
             ]
         },
         {
+            "name": "geocomplete",
+            "filename": "jquery.geocomplete.min.js",
+            "version": "1.4",
+            "description": "Easily convert unordered lists & other nested HTML structures into entertaining, interactive, turntable-like areas.",
+            "keywords": [
+                "geocomplete",
+                "turntable",
+                "lazy",
+                "susan",
+                "carousel",
+                "3d"
+            ],
+            "homepage": "http://ubilabs.github.io/geocomplete/",
+            "author": {
+                "name": "Martin Kleppe",
+                "email": "kleppe@ubilabs.net"
+            },
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ubilabs/geocomplete.git"
+            },
+            "assets": [
+                {
+                    "version": "1.4",
+                    "files": [
+                        "jquery.geocomplete.js",
+                        "jquery.geocomplete.min.js"
+                    ]
+                },
+                {
+                    "version": "1.3",
+                    "files": [
+                        "jquery.geocomplete.js",
+                        "jquery.geocomplete.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "filename": "gmaps.min.js",
             "name": "gmaps.js",
             "version": "0.3",
@@ -6618,7 +6781,7 @@
         {
             "name": "gsap",
             "filename": "TweenMax.min.js",
-            "version": "1.9.3",
+            "version": "1.9.4",
             "description": "GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.",
             "homepage": "http://www.greensock.com/gsap-js/",
             "keywords": [
@@ -6669,6 +6832,30 @@
                         "plugins/ColorPropsPlugin.min.js",
                         "plugins/DirectionalRotationPlugin.min.js",
                         "plugins/EaselPlugin.min.js",
+                        "plugins/KineticPlugin.min.js",
+                        "plugins/RaphaelPlugin.min.js",
+                        "plugins/RoundPropsPlugin.min.js",
+                        "plugins/ScrollToPlugin.min.js",
+                        "plugins/TextPlugin.min.js"
+                    ]
+                },
+                {
+                    "version": "1.9.4",
+                    "files": [
+                        "TimelineLite.min.js",
+                        "TimelineMax.min.js",
+                        "TweenLite.min.js",
+                        "TweenMax.min.js",
+                        "easing/EasePack.min.js",
+                        "jquery.gsap.min.js",
+                        "plugins/AttrPlugin.min.js",
+                        "plugins/BezierPlugin.min.js",
+                        "plugins/CSSPlugin.min.js",
+                        "plugins/CSSRulePlugin.min.js",
+                        "plugins/ColorPropsPlugin.min.js",
+                        "plugins/DirectionalRotationPlugin.min.js",
+                        "plugins/EaselPlugin.min.js",
+                        "plugins/KineticPlugin.min.js",
                         "plugins/RaphaelPlugin.min.js",
                         "plugins/RoundPropsPlugin.min.js",
                         "plugins/ScrollToPlugin.min.js",
@@ -6885,7 +7072,7 @@
         {
             "name": "hammer.js",
             "filename": "hammer.min.js",
-            "version": "1.0.3",
+            "version": "1.0.5",
             "description": "A javascript library for multi-touch gestures :// You can touch this ",
             "homepage": "http://eightmedia.github.com/hammer.js/",
             "keywords": [
@@ -6901,6 +7088,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.0.5",
+                    "files": [
+                        "hammer.js",
+                        "hammer.min.js",
+                        "jquery.hammer.js",
+                        "jquery.hammer.min.js"
+                    ]
+                },
                 {
                     "version": "1.0.3",
                     "files": [
@@ -7420,6 +7616,40 @@
                     "files": [
                         "hogan.js",
                         "hogan.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "holder",
+            "filename": "holder.js",
+            "version": "1.9.0",
+            "description": "Holder uses the canvas element and the data URI scheme to render image placeholders entirely in browser.",
+            "homepage": "http://imsky.github.io/holder/",
+            "keywords": [
+                "images",
+                "placeholders",
+                "client-side",
+                "canvas",
+                "generation",
+                "development"
+            ],
+            "maintainers": [
+                {
+                    "name": "Ivan Malopinsky"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git://github.com/imsky/holder.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.9.0",
+                    "files": [
+                        "holder.js"
                     ]
                 }
             ]
@@ -8683,6 +8913,9 @@
                     "url": "https://github.com/jquery/jquery-migrate.git"
                 }
             ],
+            "dependencies": {
+                "jquery": ">=1.6.4"
+            },
             "assets": [
                 {
                     "version": "1.1.1",
@@ -9652,7 +9885,10 @@
                 }
             ],
             "dependencies": {
-                "jquery": "1.2.6"
+                "jquery": {
+                    "jquery": ">=1.2.6 <1.9",
+                    "jquery-migrate": ""
+                }
             },
             "assets": [
                 {
@@ -9849,6 +10085,47 @@
                         "jquery.cycle.all.min.js",
                         "jquery.cycle.lite.min.js",
                         "jquery.cycle.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery.cycle2",
+            "filename": "jquery.cycle2.min.js",
+            "version": "20130409",
+            "description": "The successor to Cycle. Cycle2 is a mobile and desktop friendly slideshow built around ease-of-use with a declarative API. It supports responsive designs, dynamic slideshow manipulation, swipe events, and lots of options!",
+            "homepage": "http://jquery.malsup.com/cycle2/",
+            "keywords": [
+                "slideshow",
+                "carousel",
+                "slider"
+            ],
+            "maintainers": [
+                {
+                    "name": "Mike Alsup",
+                    "web": "http://jquery.malsup.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/malsup/cycle2"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "20130409",
+                    "files": [
+                        "jquery.cycle2.caption2.min.js",
+                        "jquery.cycle2.carousel.min.js",
+                        "jquery.cycle2.center.min.js",
+                        "jquery.cycle2.ie-fade.min.js",
+                        "jquery.cycle2.min.js",
+                        "jquery.cycle2.scrollVert.min.js",
+                        "jquery.cycle2.shuffle.min.js",
+                        "jquery.cycle2.swipe.min.js",
+                        "jquery.cycle2.tile.min.js",
+                        "jquery.cycle2.video.min.js"
                     ]
                 }
             ]
@@ -10382,6 +10659,49 @@
             ]
         },
         {
+            "name": "jquery.shapeshift",
+            "version": "2.0",
+            "filename": "jquery.shapeshift.min.js",
+            "homepage": "https://github.com/McPants/jquery.shapeshift",
+            "description": "jQuery plugin which creates a column based grid system that allows drag and drop even between multiple containers.",
+            "keywords": [
+                "grid",
+                "column",
+                "drag",
+                "drop"
+            ],
+            "maintainers": [
+                {
+                    "name": "Scott Elwood",
+                    "web": "http://www.scottelwood.com"
+                },
+                {
+                    "name": "We the Media, Inc.",
+                    "web": "http://www.wtmworldwide.com.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git@github.com:McPants/jquery.shapeshift.git"
+                }
+            ],
+            "dependencies": {
+                "jquery": "~1.9.1",
+                "jqueryui": "~1.9.2"
+            },
+            "assets": [
+                {
+                    "version": "2.0",
+                    "files": [
+                        "jquery.shapeshift.coffee",
+                        "jquery.shapeshift.js",
+                        "jquery.shapeshift.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "jquery.socialshareprivacy",
             "version": "1.4",
             "filename": "jquery.socialshareprivacy.min.js",
@@ -10526,8 +10846,8 @@
         {
             "name": "jquery.tablesorter",
             "filename": "jquery.tablesorter.min.js",
-            "version": "2.5.2",
-            "description": "tablesorter is a jQuery plugin for turning a standard HTML table with THEAD and TBODY tags into a sortable table without page refreshes. tablesorter can successfully parse and sort many types of data including linked data in a cell.",
+            "version": "2.9.1",
+            "description": "tablesorter is a jQuery plugin for turning a standard HTML table with THEAD and TBODY tags into a sortable table without page refreshes. tablesorter can successfully parse and sort many types of data including linked data in a cell.\n\nThis forked version adds lots of new enhancements including: alphanumeric sorting, pager callback functons, multiple widgets providing column styling, ui theme application, sticky headers, column filters and resizer, as well as extended documentation with a lot more demos.",
             "author": "Christian Bach, Mottie",
             "homepage": "http://mottie.github.com/tablesorter/docs/",
             "repository": {
@@ -10535,6 +10855,31 @@
                 "url": "https://github.com/Mottie/tablesorter.git"
             },
             "assets": [
+                {
+                    "version": "2.9.1",
+                    "files": [
+                        "jquery.metadata.js",
+                        "jquery.tablesorter.js",
+                        "jquery.tablesorter.min.js",
+                        "jquery.tablesorter.widgets-filter-formatter.js",
+                        "jquery.tablesorter.widgets-filter-formatter.min.js",
+                        "jquery.tablesorter.widgets.js",
+                        "jquery.tablesorter.widgets.min.js",
+                        "parsers/parser-date-iso8601.js",
+                        "parsers/parser-date-month.js",
+                        "parsers/parser-date-two-digit-year.js",
+                        "parsers/parser-date-weekday.js",
+                        "parsers/parser-date.js",
+                        "parsers/parser-feet-inch-fraction.js",
+                        "parsers/parser-ignore-articles.js",
+                        "parsers/parser-input-select.js",
+                        "parsers/parser-metric.js",
+                        "widgets/widget-editable.js",
+                        "widgets/widget-grouping.js",
+                        "widgets/widget-repeatheaders.js",
+                        "widgets/widget-scroller.js"
+                    ]
+                },
                 {
                     "version": "2.5.2",
                     "files": [
@@ -10646,7 +10991,7 @@
         {
             "name": "jquery",
             "filename": "jquery.min.js",
-            "version": "1.9.1",
+            "version": "2.0.0",
             "description": "jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.",
             "homepage": "http://jquery.com/",
             "keywords": [
@@ -10666,6 +11011,14 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.0.0",
+                    "files": [
+                        "jquery.js",
+                        "jquery.min.js",
+                        "jquery.min.map"
+                    ]
+                },
                 {
                     "version": "1.9.1",
                     "files": [
@@ -12328,6 +12681,83 @@
             ]
         },
         {
+            "name": "machina.js",
+            "filename": "machina.min.js",
+            "description": "A library for creating powerful and flexible finite state machines.  Loosely inspired by Erlang/OTP's gen_fsm behavior.",
+            "version": "0.3.4",
+            "url": "http://machina-js.org/",
+            "homepage": "http://machina-js.org/",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ifandelse/machina.js.git"
+            },
+            "author": "Jim Cowart (http://freshbrewedcode.com/jimcowart)",
+            "contributors": [
+                {
+                    "name": "Jim Cowart",
+                    "email": "jim@ifandelse.com",
+                    "url": "http://freshbrewedcode.com/jimcowart"
+                },
+                {
+                    "name": "Doug Neiner",
+                    "email": "doug@dougneiner.com",
+                    "url": "http://code.dougneiner.com"
+                },
+                {
+                    "name": "Friedemann Altrock",
+                    "email": "frodenius@gmail.com",
+                    "url": "https://github.com/fwg"
+                },
+                {
+                    "name": "Michiel Trimpe",
+                    "email": "michiel@trimpe.nl",
+                    "url": "https://github.com/mtrimpe"
+                },
+                {
+                    "name": "Brian Mavity",
+                    "url": "https://github.com/bmavity"
+                }
+            ],
+            "keywords": [
+                "state machine",
+                "finite state machine",
+                "fsm",
+                "async",
+                "workflow",
+                "state",
+                "machina",
+                "machina-js",
+                "machina.js",
+                "machinajs"
+            ],
+            "bugs": "http://github.com/ifandelse/machina.js/issues",
+            "engines": {
+                "node": ">=0.4.0"
+            },
+            "dependencies": {
+                "underscore": ">=1.1.7"
+            },
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "http://opensource.org/licenses/MIT"
+                },
+                {
+                    "type": "GPL",
+                    "url": "http://opensource.org/licenses/GPL-2.0"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.3.4",
+                    "files": [
+                        "machina.js",
+                        "machina.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "masonry",
             "filename": "jquery.masonry.min.js",
             "version": "2.1.08",
@@ -12924,7 +13354,7 @@
         {
             "name": "morris.js",
             "filename": "morris.min.js",
-            "version": "0.4.0",
+            "version": "0.4.2",
             "description": "Pretty time-series line graphs",
             "homepage": "http://oesmith.github.com/morris.js/",
             "keywords": [
@@ -12946,6 +13376,14 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.4.2",
+                    "files": [
+                        "morris.css",
+                        "morris.js",
+                        "morris.min.js"
+                    ]
+                },
                 {
                     "version": "0.4.0",
                     "files": [
@@ -16909,6 +17347,82 @@
             ]
         },
         {
+            "name": "restangular",
+            "description": "Restfull Resources service for AngularJS apps",
+            "version": "0.5.1",
+            "filename": "restangular.min.js",
+            "homepage": "https://github.com/mgonto/restangular",
+            "author": "Martin Gontovnikas <martin@gonto.com.ar>",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/mgonto/restangular.git"
+            },
+            "engines": {
+                "node": ">= 0.9"
+            },
+            "keywords": [
+                "angular",
+                "client",
+                "browser",
+                "restful",
+                "resources",
+                "rest",
+                "api"
+            ],
+            "maintainers": [
+                {
+                    "name": "Martin Gontovnikas",
+                    "website": "http://gon.to/"
+                }
+            ],
+            "dependencies": {},
+            "devDependencies": {
+                "grunt-cli": ">= 0.1.7",
+                "grunt-contrib-concat": "*",
+                "grunt-contrib-jshint": "*",
+                "grunt-contrib-uglify": "*",
+                "grunt-bower": "*",
+                "grunt-bower-task": "*",
+                "grunt-karma": "*"
+            },
+            "scripts": {
+                "test": "grunt test --verbose"
+            },
+            "assets": [
+                {
+                    "version": "0.5.1",
+                    "files": [
+                        "dependencies/angular-resource.js",
+                        "dependencies/angular.js",
+                        "dependencies/underscore.js",
+                        "restangular.js",
+                        "restangular.min.js"
+                    ]
+                },
+                {
+                    "version": "0.5.0",
+                    "files": [
+                        "restangular.js",
+                        "restangular.min.js"
+                    ]
+                },
+                {
+                    "version": "0.4.5",
+                    "files": [
+                        "restangular.js",
+                        "restangular.min.js"
+                    ]
+                },
+                {
+                    "version": "0.4.2",
+                    "files": [
+                        "restangular.js",
+                        "restangular.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "retina.js",
             "filename": "retina.js",
             "version": "1.0.1",
@@ -17898,6 +18412,38 @@
                     "files": [
                         "jquery.slabtext.js",
                         "jquery.slabtext.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "slidesjs",
+            "filename": "jquery.slides.min.js",
+            "version": "3.0",
+            "description": "SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions.",
+            "keywords": [
+                "slides",
+                "navigation",
+                "pagination",
+                "play",
+                "effect",
+                "callback"
+            ],
+            "homepage": "http://slidesjs.com",
+            "author": {
+                "name": "Nathan Searles",
+                "email": "nsearles@gmail.com"
+            },
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/nathansearles/Slides.git"
+            },
+            "assets": [
+                {
+                    "version": "3.0",
+                    "files": [
+                        "jquery.slides.js",
+                        "jquery.slides.min.js"
                     ]
                 }
             ]
