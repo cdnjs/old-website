@@ -188,7 +188,7 @@ Track when libraries are added and updated with our <a href="http://cdnjs.com/rs
 
 <div class="clear"></div>
 
-
+<span class="build-time"><%= new Date() %></span>
 
 
 
@@ -280,6 +280,5 @@ fby.push(['showTab', {id: '4178', position: 'right', color: '#FF1F3A'}]);
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
 })();
 </script>
-<span class="build-time"><%= new Date() %></span>
 </body>
 </html>
