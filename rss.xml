@@ -10,8 +10,44 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 26 Apr 2013 02:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2013 04:07:46 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[lodash.js updated to version 1.2.1]]></title>
+            <description><![CDATA[A low-level utility library delivering consistency, customization, performance, and extra features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.2.1/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.2.1/lodash.min.js</a>]]></description>
+            <link>http://lodash.com</link>
+            <guid isPermaLink="false">
+                lodash.js1.2.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 30 Apr 2013 04:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jplayer updated to version 2.3.0]]></title>
+            <description><![CDATA[The jQuery HTML5 Audio / Video Library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jplayer/2.3.0/jquery.jplayer.min.js">//cdnjs.cloudflare.com/ajax/libs/jplayer/2.3.0/jquery.jplayer.min.js</a>]]></description>
+            <link>http://www.jplayer.org/</link>
+            <guid isPermaLink="false">
+                jplayer2.3.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 26 Apr 2013 20:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.selectboxit updated to version 3.4.0]]></title>
+            <description><![CDATA[A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.4.0/jquery.selectBoxIt.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.4.0/jquery.selectBoxIt.min.js</a>]]></description>
+            <link>http://www.selectboxit.com</link>
+            <guid isPermaLink="false">
+                jquery.selectboxit3.4.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 26 Apr 2013 19:34:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[waypoints updated to version 2.0.2]]></title>
+            <description><![CDATA[Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.2/waypoints.min.js">//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.2/waypoints.min.js</a>]]></description>
+            <link>http://imakewebthings.github.com/jquery-waypoints</link>
+            <guid isPermaLink="false">
+                waypoints2.0.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 26 Apr 2013 07:10:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[foundicons(2.0) was added]]></title>
             <description><![CDATA[Custom icon sets that are stored in a handy web font and are coded to be more accessible. A couple lines of CSS and the right markup will get you going in no time.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/foundicons/2.0/fonts/general_foundicons.ttf">//cdnjs.cloudflare.com/ajax/libs/foundicons/2.0/fonts/general_foundicons.ttf</a>]]></description>
@@ -149,6 +185,15 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <pubDate>Fri, 19 Apr 2013 04:44:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[jquery.form updated to version 3.32]]></title>
+            <description><![CDATA[The jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js">//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js</a>]]></description>
+            <link>http://jquery.malsup.com/form/</link>
+            <guid isPermaLink="false">
+                jquery.form3.32            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 19 Apr 2013 01:14:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[jquery updated to version 2.0.0]]></title>
             <description><![CDATA[jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.0/jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.0/jquery.min.js</a>]]></description>
             <link>http://jquery.com/</link>
@@ -210,51 +255,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
                 geocomplete1.4            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 16 Apr 2013 21:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lodash.js updated to version 1.2.0]]></title>
-            <description><![CDATA[A low-level utility library delivering consistency, customization, performance, and extra features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.2.0/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.2.0/lodash.min.js</a>]]></description>
-            <link>http://lodash.com</link>
-            <guid isPermaLink="false">
-                lodash.js1.2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 16 Apr 2013 16:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.nanoscroller updated to version 0.7.2]]></title>
-            <description><![CDATA[A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.nanoscroller/0.7.2/jquery.nanoscroller.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.nanoscroller/0.7.2/jquery.nanoscroller.min.js</a>]]></description>
-            <link>http://jamesflorentino.github.com/nanoScrollerJS/</link>
-            <guid isPermaLink="false">
-                jquery.nanoscroller0.7.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 12 Apr 2013 20:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-jgrowl(1.2.12) was added]]></title>
-            <description><![CDATA[jGrowl is a jQuery plugin that raises unobtrusive messages within the browser, similar to the way that OS X's Growl Framework works. The idea is simple, deliver notifications to the end user in a noticeable way that doesn't obstruct the work flow and yet keeps the user informed.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-jgrowl/1.2.12/jquery.jgrowl.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-jgrowl/1.2.12/jquery.jgrowl.min.js</a>]]></description>
-            <link>https://github.com/stanlemon/jGrowl</link>
-            <guid isPermaLink="false">
-                jquery-jgrowl1.2.12            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 12 Apr 2013 20:09:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[keymage(1.0.0) was added]]></title>
-            <description><![CDATA[Yet Another JS Keybinding library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/keymage/1.0.0/keymage.min.js">//cdnjs.cloudflare.com/ajax/libs/keymage/1.0.0/keymage.min.js</a>]]></description>
-            <link>https://github.com/piranha/keymage</link>
-            <guid isPermaLink="false">
-                keymage1.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 12 Apr 2013 12:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[prettify updated to version r298]]></title>
-            <description><![CDATA[A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/prettify/r298/prettify.js">//cdnjs.cloudflare.com/ajax/libs/prettify/r298/prettify.js</a>]]></description>
-            <link>http://code.google.com/p/google-code-prettify/</link>
-            <guid isPermaLink="false">
-                prettifyr298            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 12 Apr 2013 09:08:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
