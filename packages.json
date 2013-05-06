@@ -693,7 +693,7 @@
             "name": "angular.js",
             "filename": "angular.min.js",
             "description": "AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.",
-            "version": "1.1.1",
+            "version": "1.1.3",
             "homepage": "http://angularjs.org",
             "keywords": [
                 "framework",
@@ -767,6 +767,13 @@
                     "version": "1.0.0rc6",
                     "files": [
                         "angular-1.0.0rc6.min.js"
+                    ]
+                },
+                {
+                    "version": "1.0.6",
+                    "files": [
+                        "angular.js",
+                        "angular.min.js"
                     ]
                 },
                 {
@@ -1089,7 +1096,7 @@
         {
             "name": "backbone-relational",
             "filename": "backbone-relational.min.js",
-            "version": "0.7.0",
+            "version": "0.8.5",
             "description": "Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models",
             "homepage": "https://github.com/PaulUithol/Backbone-relational",
             "keywords": [
@@ -1120,6 +1127,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.8.5",
+                    "files": [
+                        "backbone-relational.js",
+                        "backbone-relational.min.js"
+                    ]
+                },
                 {
                     "version": "0.7.0",
                     "files": [
@@ -1821,6 +1835,42 @@
                     "files": [
                         "benchmark.js",
                         "benchmark.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "blanket.js",
+            "filename": "blanket.min.js",
+            "description": "seamless js code coverage",
+            "version": "1.1.4",
+            "homepage": "https://github.com/alex-seville/blanket",
+            "author": {
+                "name": "Alex-Seville",
+                "email": "hi@alexanderseville.com",
+                "url": "http://blanketjs.org"
+            },
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/alex-seville/blanket.git"
+            },
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/alex-seville/blanket/blob/master/LICENSE-MIT"
+                }
+            ],
+            "keywords": [
+                "coverage"
+            ],
+            "assets": [
+                {
+                    "version": "1.1.4",
+                    "files": [
+                        "blanket.js",
+                        "blanket.min.js",
+                        "blanket_jasmine.js",
+                        "blanket_jasmine.min.js"
                     ]
                 }
             ]
@@ -3101,7 +3151,7 @@
         {
             "name": "codemirror",
             "filename": "codemirror.min.js",
-            "version": "2.36.0",
+            "version": "3.12.0",
             "main": "codemirror.js",
             "description": "In-browser code editing made bearable",
             "licenses": [
@@ -3144,6 +3194,14 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.12.0",
+                    "files": [
+                        "codemirror.css",
+                        "codemirror.js",
+                        "codemirror.min.js"
+                    ]
+                },
                 {
                     "version": "2.36.0",
                     "files": [
@@ -6791,7 +6849,7 @@
         {
             "name": "gsap",
             "filename": "TweenMax.min.js",
-            "version": "1.9.4",
+            "version": "1.9.5",
             "description": "GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.",
             "homepage": "http://www.greensock.com/gsap-js/",
             "keywords": [
@@ -6828,6 +6886,29 @@
             "assets": [
                 {
                     "version": "latest",
+                    "files": [
+                        "TimelineLite.min.js",
+                        "TimelineMax.min.js",
+                        "TweenLite.min.js",
+                        "TweenMax.min.js",
+                        "easing/EasePack.min.js",
+                        "jquery.gsap.min.js",
+                        "plugins/AttrPlugin.min.js",
+                        "plugins/BezierPlugin.min.js",
+                        "plugins/CSSPlugin.min.js",
+                        "plugins/CSSRulePlugin.min.js",
+                        "plugins/ColorPropsPlugin.min.js",
+                        "plugins/DirectionalRotationPlugin.min.js",
+                        "plugins/EaselPlugin.min.js",
+                        "plugins/KineticPlugin.min.js",
+                        "plugins/RaphaelPlugin.min.js",
+                        "plugins/RoundPropsPlugin.min.js",
+                        "plugins/ScrollToPlugin.min.js",
+                        "plugins/TextPlugin.min.js"
+                    ]
+                },
+                {
+                    "version": "1.9.5",
                     "files": [
                         "TimelineLite.min.js",
                         "TimelineMax.min.js",
@@ -7551,10 +7632,10 @@
         },
         {
             "name": "history.js",
-            "filename": "native.history.js",
-            "version": "1.7.1",
+            "filename": "native.history.min.js",
+            "version": "1.8",
             "description": "Provides a cross-compatible experience for the History API on all HTML5 Browsers and backwards-compatible one on older ones using a hash-fallback.",
-            "homepage": "https://github.com/balupton/History.js/",
+            "homepage": "https://github.com/browserstate/history.js/",
             "keywords": [
                 "history",
                 "state",
@@ -7563,17 +7644,56 @@
             ],
             "maintainers": [
                 {
-                    "name": "Benjamin Arthur Lupton",
-                    "web": "http://lupton.cc"
+                    "name": "Andreas Bernhard"
                 }
             ],
             "repositories": [
                 {
                     "type": "git",
-                    "url": "https://github.com/balupton/history.js.git"
+                    "url": "https://github.com/browserstate/history.js.git"
                 }
             ],
             "assets": [
+                {
+                    "version": "1.8",
+                    "files": [
+                        "bundled/html4+html5/dojo.history.js",
+                        "bundled/html4+html5/extjs.history.js",
+                        "bundled/html4+html5/jquery.history.js",
+                        "bundled/html4+html5/mootools.history.js",
+                        "bundled/html4+html5/native.history.js",
+                        "bundled/html4+html5/right.history.js",
+                        "bundled/html4+html5/zepto.history.js",
+                        "bundled/html5/dojo.history.js",
+                        "bundled/html5/extjs.history.js",
+                        "bundled/html5/jquery.history.js",
+                        "bundled/html5/mootools.history.js",
+                        "bundled/html5/native.history.js",
+                        "bundled/html5/right.history.js",
+                        "bundled/html5/zepto.history.js",
+                        "compressed/history.adapter.dojo.js",
+                        "compressed/history.adapter.extjs.js",
+                        "compressed/history.adapter.jquery.js",
+                        "compressed/history.adapter.mootools.js",
+                        "compressed/history.adapter.native.js",
+                        "compressed/history.adapter.right.js",
+                        "compressed/history.adapter.zepto.js",
+                        "compressed/history.html4.js",
+                        "compressed/history.js",
+                        "compressed/json2.js",
+                        "native.history.min.js",
+                        "uncompressed/history.adapter.dojo.js",
+                        "uncompressed/history.adapter.extjs.js",
+                        "uncompressed/history.adapter.jquery.js",
+                        "uncompressed/history.adapter.mootools.js",
+                        "uncompressed/history.adapter.native.js",
+                        "uncompressed/history.adapter.right.js",
+                        "uncompressed/history.adapter.zepto.js",
+                        "uncompressed/history.html4.js",
+                        "uncompressed/history.js",
+                        "uncompressed/json2.js"
+                    ]
+                },
                 {
                     "version": "1.7.1",
                     "files": [
@@ -10359,7 +10479,7 @@
         {
             "name": "jquery.lifestream",
             "filename": "jquery.lifestream.min.js",
-            "version": "0.3.4",
+            "version": "0.3.7",
             "description": "Show a stream of your online activity.",
             "homepage": "https://github.com/christianv/jquery-lifestream",
             "keywords": [
@@ -10380,6 +10500,14 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.3.7",
+                    "files": [
+                        "jquery.lifestream.js",
+                        "jquery.lifestream.min.js",
+                        "lifestream.css"
+                    ]
+                },
                 {
                     "version": "0.3.4",
                     "files": [
@@ -10732,6 +10860,37 @@
                         "jquery.shapeshift.coffee",
                         "jquery.shapeshift.js",
                         "jquery.shapeshift.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery.simpleWeather",
+            "filename": "jquery.simpleWeather.min.js",
+            "version": "2.2.0",
+            "description": "A simple jQuery plugin to display the weather information for any location. The data is pulled from the public Yahoo! Weather feed via the YQL API. Developed by James Fleeting.",
+            "homepage": "http://simpleweatherjs.com",
+            "keywords": [
+                "weather",
+                "weather-data"
+            ],
+            "maintainers": [
+                {
+                    "name": "James Fleeting",
+                    "web": "http://jamesfleeting.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/monkeecreate/jquery.simpleWeather"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.2.0",
+                    "files": [
+                        "jquery.simpleWeather.min.js"
                     ]
                 }
             ]
@@ -11453,7 +11612,7 @@
         {
             "name": "js-url",
             "filename": "js-url.min.js",
-            "version": "1.7.5",
+            "version": "1.7.6",
             "description": "A simple, lightweight url parser for JavaScript",
             "homepage": "https://github.com/websanova/js-url",
             "keywords": [
@@ -11473,6 +11632,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.7.6",
+                    "files": [
+                        "js-url.js",
+                        "js-url.min.js"
+                    ]
+                },
                 {
                     "version": "1.7.5",
                     "files": [
@@ -11683,7 +11849,7 @@
         {
             "name": "jsxgraph",
             "filename": "jsxgraphcore.js",
-            "version": "0.96",
+            "version": "0.97",
             "description": "JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.",
             "homepage": "http://jsxgraph.org/",
             "keywords": [
@@ -11707,6 +11873,16 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.97",
+                    "files": [
+                        "GeogebraReader.min.js",
+                        "GeonextReader.min.js",
+                        "IntergeoReader.min.js",
+                        "SketchReader.min.js",
+                        "jsxgraphcore.js"
+                    ]
+                },
                 {
                     "version": "0.96",
                     "files": [
@@ -11872,6 +12048,42 @@
                     "version": "4.3.1",
                     "files": [
                         "kinetic.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "kiss.animate",
+            "filename": "kiss.animate.min.js",
+            "version": "0.1.2",
+            "description": "KISS.Animate is plugin for sliding animations based on JQuery and the best code structure practices with simple api",
+            "homepage": "https://github.com/daogurtsov/KISS.Animate",
+            "keywords": [
+                "slides",
+                "animation",
+                "simple",
+                "effect"
+            ],
+            "maintainers": [
+                {
+                    "name": "Dmitry Ogurtsov",
+                    "web": "https://github.com/daogurtsov"
+                },
+                {
+                    "name": "KISS.Animate"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git@github.com:daogurtsov/KISS.Animate.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.1.2",
+                    "files": [
+                        "kiss.animate.min.js"
                     ]
                 }
             ]
@@ -13908,6 +14120,101 @@
             ]
         },
         {
+            "name": "opal-parser",
+            "filename": "opal-parser.min.js",
+            "version": "0.3.43",
+            "description": "Ruby runtime and core library for javascript.",
+            "homepage": "https://github.com/opal/opal",
+            "keywords": [
+                "opal",
+                "opal-parser",
+                "opal.js",
+                "opalrb",
+                "ruby",
+                "compiler",
+                "javascript",
+                "language"
+            ],
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/opal/opal/blob/master/LICENSE"
+                }
+            ],
+            "maintainers": [
+                {
+                    "name": "Adam Beynon",
+                    "web": "https://github.com/adambeynon"
+                },
+                {
+                    "name": "Elia Schito",
+                    "web": "http://elia.schito.me"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/opal/opal"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.3.43",
+                    "files": [
+                        "opal-parser.js",
+                        "opal-parser.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "opal",
+            "filename": "opal.min.js",
+            "version": "0.3.43",
+            "description": "Ruby runtime and core library for javascript.",
+            "homepage": "http://opalrb.org",
+            "keywords": [
+                "opal",
+                "opal.js",
+                "opalrb",
+                "ruby",
+                "compiler",
+                "javascript",
+                "language"
+            ],
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/opal/opal/blob/master/LICENSE"
+                }
+            ],
+            "maintainers": [
+                {
+                    "name": "Adam Beynon",
+                    "web": "https://github.com/adambeynon"
+                },
+                {
+                    "name": "Elia Schito",
+                    "web": "http://elia.schito.me"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/opal/opal"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.3.43",
+                    "files": [
+                        "opal.js",
+                        "opal.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "openajax-hub",
             "filename": "OpenAjaxUnmanagedHub.min.js",
             "version": "2.0.7",
@@ -15863,7 +16170,7 @@
             "name": "postal.js",
             "filename": "postal.min.js",
             "description": "Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.",
-            "version": "0.8.2",
+            "version": "0.8.3",
             "url": "http://github.com/postaljs/postal.js",
             "homepage": "http://github.com/postaljs/postal.js",
             "repository": {
@@ -15932,6 +16239,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.8.3",
+                    "files": [
+                        "postal.js",
+                        "postal.min.js"
+                    ]
+                },
                 {
                     "version": "0.8.2",
                     "files": [
@@ -16781,6 +17095,45 @@
             ]
         },
         {
+            "name": "qwery",
+            "description": "blazing fast CSS3 query selector engine",
+            "version": "3.4.1",
+            "homepage": "https://github.com/ded/qwery",
+            "author": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)",
+            "contributors": [
+                "Jacob Thornton <> (https://github.com/fat)",
+                "Rod Vagg <> (https://github.com/rvagg)",
+                "Andrew McCollum <> (https://github.com/amccollum)"
+            ],
+            "filename": "qwery.js",
+            "keywords": [
+                "ender",
+                "query",
+                "css",
+                "selector engine"
+            ],
+            "ender": "./src/ender.js",
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/ded/qwery.git"
+            },
+            "devDependencies": {
+                "sink-test": ">= 1.0.1",
+                "serve": "*",
+                "smoosh": "0.4.0",
+                "phantomjs": "0.2.3"
+            },
+            "assets": [
+                {
+                    "version": "3.4.1",
+                    "files": [
+                        "qwery.js",
+                        "qwery.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "rainbow",
             "filename": "js/rainbow.min.js",
             "version": "1.1.8",
@@ -17524,7 +17877,7 @@
         {
             "name": "reveal.js",
             "filename": "js/reveal.min.js",
-            "version": "2.2",
+            "version": "2.3",
             "description": "A framework for easily creating beautiful presentations using HTML",
             "homepage": "http://lab.hakim.se/reveal-js/",
             "keywords": [
@@ -17544,6 +17897,25 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.3",
+                    "files": [
+                        "css/print/paper.css",
+                        "css/print/pdf.css",
+                        "css/reveal.css",
+                        "css/reveal.min.css",
+                        "css/theme/beige.css",
+                        "css/theme/default.css",
+                        "css/theme/moon.css",
+                        "css/theme/night.css",
+                        "css/theme/serif.css",
+                        "css/theme/simple.css",
+                        "css/theme/sky.css",
+                        "css/theme/solarized.css",
+                        "js/reveal.js",
+                        "js/reveal.min.js"
+                    ]
+                },
                 {
                     "version": "2.2",
                     "files": [
@@ -18447,6 +18819,40 @@
             ]
         },
         {
+            "name": "sketch.js",
+            "filename": "sketch.min.js",
+            "version": "1.0.0",
+            "description": "sketch.js is a tiny (~5k) boilerplate for creating JavaScript based creative coding experiments.",
+            "homepage": "https://github.com/soulwire/sketch.js/",
+            "keywords": [
+                "framework",
+                "audio",
+                "video",
+                "html5"
+            ],
+            "maintainers": [
+                {
+                    "name": "soulwire",
+                    "web": "https://github.com/soulwire/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/soulwire/sketch.js.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.0.0",
+                    "files": [
+                        "sketch.js",
+                        "sketch.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "slabText",
             "filename": "jquery.slabtext.min.js",
             "version": "2.2",
@@ -18893,7 +19299,7 @@
                 "storage"
             ],
             "description": "A localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood",
-            "version": "1.3.6",
+            "version": "1.3.7",
             "homepage": "https://github.com/marcuswestin/store.js",
             "author": "Marcus Westin <narcvs@gmail.com> (http://marcuswest.in)",
             "maintainers": [
@@ -18935,6 +19341,12 @@
                 ""
             ],
             "assets": [
+                {
+                    "version": "1.3.7",
+                    "files": [
+                        "store.min.js"
+                    ]
+                },
                 {
                     "version": "1.3.6",
                     "files": [
@@ -20795,6 +21207,85 @@
                     "version": "0.3.0",
                     "files": [
                         "wysihtml5.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "x-editable",
+            "filename": "bootstrap-editable/js/bootstrap-editable.min.js",
+            "version": "1.4.4",
+            "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.",
+            "homepage": "http://vitalets.github.io/x-editable/",
+            "keywords": [
+                "bootstrap",
+                "editable",
+                "edit-in-place"
+            ],
+            "maintainers": [
+                {
+                    "name": "Vitaliy Potapov",
+                    "email": "noginsk@rambler.ru",
+                    "web": "https://github.com/vitalets"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/vitalets/x-editable"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.4.4",
+                    "files": [
+                        "CHANGELOG.txt",
+                        "README.md",
+                        "bootstrap-editable/css/bootstrap-editable.css",
+                        "bootstrap-editable/img/clear.png",
+                        "bootstrap-editable/img/loading.gif",
+                        "bootstrap-editable/js/bootstrap-editable.js",
+                        "bootstrap-editable/js/bootstrap-editable.min.js",
+                        "inputs-ext/address/address.css",
+                        "inputs-ext/address/address.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.css",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.min.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysihtml5-0.3.0.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysihtml5-0.3.0.min.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysiwyg-color.css",
+                        "inputs-ext/wysihtml5/wysihtml5.js",
+                        "jquery-editable/css/jquery-editable.css",
+                        "jquery-editable/img/clear.png",
+                        "jquery-editable/img/loading.gif",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/animated-overlay.gif",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_flat_0_aaaaaa_40x100.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_flat_55_fbec88_40x100.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_glass_75_d0e5f5_1x400.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_glass_85_dfeffc_1x400.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_glass_95_fef1ec_1x400.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_inset-hard_100_f5f8f9_1x100.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_inset-hard_100_fcfdfd_1x100.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_217bc0_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_2e83ff_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_469bdd_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_6da8d5_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_cd0a0a_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_d8e7f3_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_f9bd01_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/jquery-ui-1.10.2.custom.css",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/jquery-ui-1.10.2.custom.min.css",
+                        "jquery-editable/jquery-ui-datepicker/js/jquery-ui-1.10.2.custom.js",
+                        "jquery-editable/jquery-ui-datepicker/js/jquery-ui-1.10.2.custom.min.js",
+                        "jquery-editable/js/jquery-editable-poshytip.js",
+                        "jquery-editable/js/jquery-editable-poshytip.min.js",
+                        "jqueryui-editable/css/jqueryui-editable.css",
+                        "jqueryui-editable/img/clear.png",
+                        "jqueryui-editable/img/loading.gif",
+                        "jqueryui-editable/js/jqueryui-editable.js",
+                        "jqueryui-editable/js/jqueryui-editable.min.js"
                     ]
                 }
             ]
