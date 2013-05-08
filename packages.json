@@ -1036,7 +1036,7 @@
         {
             "name": "backbone-pageable",
             "description": "A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.",
-            "version": "1.2.2",
+            "version": "1.2.3",
             "filename": "backbone-pageable.min.js",
             "repository": {
                 "type": "git",
@@ -1049,6 +1049,13 @@
             "author": "Jimmy Yuen Ho Wong <wyuenho@gmail.com>",
             "license": "MIT",
             "assets": [
+                {
+                    "version": "1.2.3",
+                    "files": [
+                        "backbone-pageable.js",
+                        "backbone-pageable.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.2",
                     "files": [
@@ -2201,6 +2208,40 @@
             ]
         },
         {
+            "name": "bootstrap-datetimepicker",
+            "filename": "js/bootstrap-datetimepicker.min.js",
+            "version": "0.0.11",
+            "description": "A datetime picker for Twitter Bootstrap",
+            "homepage": "https://github.com/tarruda/bootstrap-datetimepicker",
+            "keywords": [
+                "twitter",
+                "bootstrap",
+                "datepicker",
+                "datetimepicker"
+            ],
+            "maintainers": [
+                {
+                    "name": "Thiago de Arruda",
+                    "web": "https://github.com/tarruda"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/tarruda/bootstrap-datetimepicker.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.0.11",
+                    "files": [
+                        "css/bootstrap-datetimepicker.min.css",
+                        "js/bootstrap-datetimepicker.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "bootstrap-growl",
             "filename": "jquery.bootstrap-growl.min.js",
             "description": "Pretty simple jQuery plugin that turns standard Bootstrap alerts into \"Growl-like\" notifications.",
@@ -2241,7 +2282,7 @@
         {
             "name": "bootstrap-lightbox",
             "filename": "bootstrap-lightbox.js",
-            "version": "0.5",
+            "version": "0.6",
             "description": "A simple lightbox plugin based on the bootstrap modal plugin.",
             "homepage": "http://jbutz.github.com/bootstrap-lightbox/",
             "keywords": [
@@ -2262,6 +2303,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.6",
+                    "files": [
+                        "bootstrap-lightbox.css",
+                        "bootstrap-lightbox.js",
+                        "bootstrap-lightbox.min.css",
+                        "bootstrap-lightbox.min.js"
+                    ]
+                },
                 {
                     "version": "0.5",
                     "files": [
@@ -6849,7 +6899,7 @@
         {
             "name": "gsap",
             "filename": "TweenMax.min.js",
-            "version": "1.9.5",
+            "version": "1.9.6",
             "description": "GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.",
             "homepage": "http://www.greensock.com/gsap-js/",
             "keywords": [
@@ -6886,6 +6936,29 @@
             "assets": [
                 {
                     "version": "latest",
+                    "files": [
+                        "TimelineLite.min.js",
+                        "TimelineMax.min.js",
+                        "TweenLite.min.js",
+                        "TweenMax.min.js",
+                        "easing/EasePack.min.js",
+                        "jquery.gsap.min.js",
+                        "plugins/AttrPlugin.min.js",
+                        "plugins/BezierPlugin.min.js",
+                        "plugins/CSSPlugin.min.js",
+                        "plugins/CSSRulePlugin.min.js",
+                        "plugins/ColorPropsPlugin.min.js",
+                        "plugins/DirectionalRotationPlugin.min.js",
+                        "plugins/EaselPlugin.min.js",
+                        "plugins/KineticPlugin.min.js",
+                        "plugins/RaphaelPlugin.min.js",
+                        "plugins/RoundPropsPlugin.min.js",
+                        "plugins/ScrollToPlugin.min.js",
+                        "plugins/TextPlugin.min.js"
+                    ]
+                },
+                {
+                    "version": "1.9.6",
                     "files": [
                         "TimelineLite.min.js",
                         "TimelineMax.min.js",
@@ -8071,7 +8144,7 @@
         },
         {
             "name": "jScrollPane",
-            "version": "2.0.0beta12",
+            "version": "2.0.14",
             "filename": "jquery.jscrollpane.min.js",
             "description": "jScrollPane - cross browser styleable scrollbars with jQuery and CSS",
             "homepage": "http://jscrollpane.kelvinluck.com",
@@ -8100,6 +8173,14 @@
                     "version": "2.0.0beta12",
                     "files": [
                         "jquery.jscrollpane.css",
+                        "jquery.jscrollpane.min.css",
+                        "jquery.jscrollpane.min.js"
+                    ]
+                },
+                {
+                    "version": "2.0.14",
+                    "files": [
+                        "jquery.jscrollpane.js",
                         "jquery.jscrollpane.min.css",
                         "jquery.jscrollpane.min.js"
                     ]
@@ -11408,7 +11489,7 @@
         {
             "name": "jqueryui",
             "filename": "jquery-ui.min.js",
-            "version": "1.10.2",
+            "version": "1.10.3",
             "description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
             "homepage": "http://jqueryui.com/",
             "keywords": [
@@ -11428,6 +11509,75 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.10.3",
+                    "files": [
+                        "css/base/images/animated-overlay.gif",
+                        "css/base/images/ui-bg_flat_0_aaaaaa_40x100.png",
+                        "css/base/images/ui-bg_flat_75_ffffff_40x100.png",
+                        "css/base/images/ui-bg_glass_55_fbf9ee_1x400.png",
+                        "css/base/images/ui-bg_glass_65_ffffff_1x400.png",
+                        "css/base/images/ui-bg_glass_75_dadada_1x400.png",
+                        "css/base/images/ui-bg_glass_75_e6e6e6_1x400.png",
+                        "css/base/images/ui-bg_glass_95_fef1ec_1x400.png",
+                        "css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
+                        "css/base/images/ui-icons_222222_256x240.png",
+                        "css/base/images/ui-icons_2e83ff_256x240.png",
+                        "css/base/images/ui-icons_454545_256x240.png",
+                        "css/base/images/ui-icons_888888_256x240.png",
+                        "css/base/images/ui-icons_cd0a0a_256x240.png",
+                        "css/base/jquery-ui.css",
+                        "css/base/jquery.ui.accordion.css",
+                        "css/base/jquery.ui.all.css",
+                        "css/base/jquery.ui.autocomplete.css",
+                        "css/base/jquery.ui.base.css",
+                        "css/base/jquery.ui.button.css",
+                        "css/base/jquery.ui.core.css",
+                        "css/base/jquery.ui.datepicker.css",
+                        "css/base/jquery.ui.dialog.css",
+                        "css/base/jquery.ui.menu.css",
+                        "css/base/jquery.ui.progressbar.css",
+                        "css/base/jquery.ui.resizable.css",
+                        "css/base/jquery.ui.selectable.css",
+                        "css/base/jquery.ui.slider.css",
+                        "css/base/jquery.ui.spinner.css",
+                        "css/base/jquery.ui.tabs.css",
+                        "css/base/jquery.ui.theme.css",
+                        "css/base/jquery.ui.tooltip.css",
+                        "css/base/minified/images/animated-overlay.gif",
+                        "css/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png",
+                        "css/base/minified/images/ui-bg_flat_75_ffffff_40x100.png",
+                        "css/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png",
+                        "css/base/minified/images/ui-bg_glass_65_ffffff_1x400.png",
+                        "css/base/minified/images/ui-bg_glass_75_dadada_1x400.png",
+                        "css/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png",
+                        "css/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png",
+                        "css/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
+                        "css/base/minified/images/ui-icons_222222_256x240.png",
+                        "css/base/minified/images/ui-icons_2e83ff_256x240.png",
+                        "css/base/minified/images/ui-icons_454545_256x240.png",
+                        "css/base/minified/images/ui-icons_888888_256x240.png",
+                        "css/base/minified/images/ui-icons_cd0a0a_256x240.png",
+                        "css/base/minified/jquery-ui.min.css",
+                        "css/base/minified/jquery.ui.accordion.min.css",
+                        "css/base/minified/jquery.ui.autocomplete.min.css",
+                        "css/base/minified/jquery.ui.button.min.css",
+                        "css/base/minified/jquery.ui.core.min.css",
+                        "css/base/minified/jquery.ui.datepicker.min.css",
+                        "css/base/minified/jquery.ui.dialog.min.css",
+                        "css/base/minified/jquery.ui.menu.min.css",
+                        "css/base/minified/jquery.ui.progressbar.min.css",
+                        "css/base/minified/jquery.ui.resizable.min.css",
+                        "css/base/minified/jquery.ui.selectable.min.css",
+                        "css/base/minified/jquery.ui.slider.min.css",
+                        "css/base/minified/jquery.ui.spinner.min.css",
+                        "css/base/minified/jquery.ui.tabs.min.css",
+                        "css/base/minified/jquery.ui.theme.min.css",
+                        "css/base/minified/jquery.ui.tooltip.min.css",
+                        "jquery-ui.js",
+                        "jquery-ui.min.js"
+                    ]
+                },
                 {
                     "version": "1.10.2",
                     "files": [
@@ -17291,7 +17441,7 @@
         {
             "name": "raven.js",
             "filename": "raven.min.js",
-            "version": "1.0.7",
+            "version": "1.0.8",
             "description": "JavaScript client for the Sentry realtime event logging and aggregation platform.",
             "homepage": "https://github.com/getsentry/raven-js",
             "keywords": [
@@ -17310,6 +17460,14 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.0.8",
+                    "files": [
+                        "raven.js",
+                        "raven.min.js",
+                        "raven.min.map"
+                    ]
+                },
                 {
                     "version": "1.0.7",
                     "files": [
