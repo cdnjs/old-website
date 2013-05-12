@@ -140,7 +140,6 @@ Track when libraries are added and updated with our <a href="http://cdnjs.com/rs
       <td style="padding: 0; width: 100%;">
         <div style="position: relative; padding: 8px;">
           <p style="padding: 0; margin: 0">
-            <!-- //cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %> -->
             <input type="text" class="input-block-level" style="margin: 0" readonly value="//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>">
           </p>
           <div class="filesandversions">
@@ -155,7 +154,6 @@ Track when libraries are added and updated with our <a href="http://cdnjs.com/rs
 
           <% _.each(version.files, function(file) { %>
             <tr class="library"><td>
-              <!-- //cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= version.version %>/<%= file %> -->
             <input type="text" class="input-block-level" style="margin: 0" readonly value="//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= version.version %>/<%= file %>">
 
             </td></tr>

@@ -15,9 +15,9 @@ superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new 
   	collapseWhitespace: true,
   };
 
-  var compressedIndexPage = htmlMinifier.minify(indexPage, htmlCompressionOptions);
+  indexPage = htmlMinifier.minify(indexPage, htmlCompressionOptions);
   
-  fs.writeFileSync('index.html', compressedIndexPage, 'utf8');
+  fs.writeFileSync('index.html', indexPage, 'utf8');
   fs.writeFileSync('packages.json', JSON.stringify(res.body, null, 4), 'utf8');
 });
 
