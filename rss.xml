@@ -10,8 +10,143 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Wed, 08 May 2013 03:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2013 03:53:46 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[three.js updated to version r58]]></title>
+            <description><![CDATA[three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/three.js/r58/three.min.js">//cdnjs.cloudflare.com/ajax/libs/three.js/r58/three.min.js</a>]]></description>
+            <link>http://threejs.org/</link>
+            <guid isPermaLink="false">
+                three.jsr58            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 11 May 2013 19:52:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[font-awesome updated to version 3.1.0]]></title>
+            <description><![CDATA[Font Awesome<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css">//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css</a>]]></description>
+            <link>http://fortawesome.github.com/Font-Awesome/</link>
+            <guid isPermaLink="false">
+                font-awesome3.1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 10 May 2013 18:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[two.js(0.2.0) was added]]></title>
+            <description><![CDATA[A two-dimensional drawing api meant for modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/two.js/0.2.0/two.min.js">//cdnjs.cloudflare.com/ajax/libs/two.js/0.2.0/two.min.js</a>]]></description>
+            <link>http://jonobr1.github.com/two.js</link>
+            <guid isPermaLink="false">
+                two.js0.2.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 10 May 2013 17:18:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.payment(1.0.1) was added]]></title>
+            <description><![CDATA[A general purpose library for building credit card forms, validating inputs and formatting numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.payment/1.0.1/jquery.payment.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.payment/1.0.1/jquery.payment.min.js</a>]]></description>
+            <link>https://github.com/stripe/jquery.payment</link>
+            <guid isPermaLink="false">
+                jquery.payment1.0.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 10 May 2013 16:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[accounting.js(0.3.2) was added]]></title>
+            <description><![CDATA[A lightweight JavaScript library for number, money and currency formatting .<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/accounting.js/0.3.2/accounting.min.js">//cdnjs.cloudflare.com/ajax/libs/accounting.js/0.3.2/accounting.min.js</a>]]></description>
+            <link>http://josscrowcroft.github.io/accounting.js/</link>
+            <guid isPermaLink="false">
+                accounting.js0.3.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 10 May 2013 16:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.selectboxit updated to version 3.5.0]]></title>
+            <description><![CDATA[A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.5.0/jquery.selectBoxIt.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.5.0/jquery.selectBoxIt.min.js</a>]]></description>
+            <link>http://www.selectboxit.com</link>
+            <guid isPermaLink="false">
+                jquery.selectboxit3.5.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 10 May 2013 15:28:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dc(1.3.0) was added]]></title>
+            <description><![CDATA[A multi-dimensional charting built to work natively with crossfilter rendered using d3.js <br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/dc/1.3.0/dc.min.js">//cdnjs.cloudflare.com/ajax/libs/dc/1.3.0/dc.min.js</a>]]></description>
+            <link>http://nickqizhu.github.com/dc.js/</link>
+            <guid isPermaLink="false">
+                dc1.3.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 09 May 2013 18:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.SPServices updated to version 2013.01]]></title>
+            <description><![CDATA[SPServices is a jQuery library which abstracts SharePoint's Web Services and makes them easier to use. It also includes functions which use the various Web Service operations to provide more useful (and cool) capabilities. It works entirely client side and requires no server install.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.SPServices/2013.01/jquery.SPServices-2013.01.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.SPServices/2013.01/jquery.SPServices-2013.01.min.js</a>]]></description>
+            <link>http://spservices.codeplex.com/</link>
+            <guid isPermaLink="false">
+                jquery.SPServices2013.01            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 09 May 2013 15:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mediaelement(2.11.3) was added]]></title>
+            <description><![CDATA[HTML5 audio and video players in pure HTML and CSS. MediaElementPlayer.js uses the same HTML/CSS for all players.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mediaelement/2.11.3/js/mediaelement.min.js">//cdnjs.cloudflare.com/ajax/libs/mediaelement/2.11.3/js/mediaelement.min.js</a>]]></description>
+            <link>http://mediaelementjs.com/</link>
+            <guid isPermaLink="false">
+                mediaelement2.11.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 09 May 2013 10:11:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pubnub updated to version 3.4.5]]></title>
+            <description><![CDATA[PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pubnub/3.4.5/pubnub.min.js">//cdnjs.cloudflare.com/ajax/libs/pubnub/3.4.5/pubnub.min.js</a>]]></description>
+            <link>http://www.pubnub.com/</link>
+            <guid isPermaLink="false">
+                pubnub3.4.5            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 08 May 2013 22:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[postal.js updated to version 0.8.4]]></title>
+            <description><![CDATA[Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/postal.js/0.8.4/postal.min.js">//cdnjs.cloudflare.com/ajax/libs/postal.js/0.8.4/postal.min.js</a>]]></description>
+            <link>http://github.com/postaljs/postal.js</link>
+            <guid isPermaLink="false">
+                postal.js0.8.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 08 May 2013 22:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[slabText updated to version 2.3]]></title>
+            <description><![CDATA[A jQuery plugin for producing big, bold & responsive headlines.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/slabText/2.3/jquery.slabtext.min.js">//cdnjs.cloudflare.com/ajax/libs/slabText/2.3/jquery.slabtext.min.js</a>]]></description>
+            <link>http://www.frequency-decoder.com/demo/slabText/</link>
+            <guid isPermaLink="false">
+                slabText2.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 08 May 2013 22:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-validate updated to version 1.11.1]]></title>
+            <description><![CDATA[Form Validation plugin for jQuery<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js</a>]]></description>
+            <link>http://bassistance.de/jquery-plugins/jquery-plugin-validation//</link>
+            <guid isPermaLink="false">
+                jquery-validate1.11.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 08 May 2013 22:00:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[draggabilly(1.0.2) was added]]></title>
+            <description><![CDATA[Draggabilly is Javascript library to make elements draggable. When dragging, Draggabillly will add the class .is-dragging to the element. The minified source draggabilly.pkgd.min.js is on http://draggabilly.desandro.com/<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/draggabilly/1.0.2/draggabilly.pkgd.js">//cdnjs.cloudflare.com/ajax/libs/draggabilly/1.0.2/draggabilly.pkgd.js</a>]]></description>
+            <link>http://draggabilly.desandro.com/</link>
+            <guid isPermaLink="false">
+                draggabilly1.0.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 08 May 2013 14:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bacon.js updated to version 0.3.15]]></title>
+            <description><![CDATA[A small functional reactive programming lib for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.3.15/Bacon.min.js">//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.3.15/Bacon.min.js</a>]]></description>
+            <link>http://baconjs.blogspot.com</link>
+            <guid isPermaLink="false">
+                bacon.js0.3.15            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 08 May 2013 12:15:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jqueryui updated to version 1.10.3]]></title>
             <description><![CDATA[jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js">//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js</a>]]></description>
@@ -236,105 +371,6 @@
                 sketch.js1.0.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 29 Apr 2013 15:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[postal.js updated to version 0.8.3]]></title>
-            <description><![CDATA[Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/postal.js/0.8.3/postal.min.js">//cdnjs.cloudflare.com/ajax/libs/postal.js/0.8.3/postal.min.js</a>]]></description>
-            <link>http://github.com/postaljs/postal.js</link>
-            <guid isPermaLink="false">
-                postal.js0.8.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 27 Apr 2013 17:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jplayer updated to version 2.3.0]]></title>
-            <description><![CDATA[The jQuery HTML5 Audio / Video Library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jplayer/2.3.0/jquery.jplayer.min.js">//cdnjs.cloudflare.com/ajax/libs/jplayer/2.3.0/jquery.jplayer.min.js</a>]]></description>
-            <link>http://www.jplayer.org/</link>
-            <guid isPermaLink="false">
-                jplayer2.3.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 26 Apr 2013 20:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.selectboxit updated to version 3.4.0]]></title>
-            <description><![CDATA[A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.4.0/jquery.selectBoxIt.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.4.0/jquery.selectBoxIt.min.js</a>]]></description>
-            <link>http://www.selectboxit.com</link>
-            <guid isPermaLink="false">
-                jquery.selectboxit3.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 26 Apr 2013 19:34:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[waypoints updated to version 2.0.2]]></title>
-            <description><![CDATA[Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.2/waypoints.min.js">//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.2/waypoints.min.js</a>]]></description>
-            <link>http://imakewebthings.github.com/jquery-waypoints</link>
-            <guid isPermaLink="false">
-                waypoints2.0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 26 Apr 2013 07:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[foundicons(2.0) was added]]></title>
-            <description><![CDATA[Custom icon sets that are stored in a handy web font and are coded to be more accessible. A couple lines of CSS and the right markup will get you going in no time.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/foundicons/2.0/fonts/general_foundicons.ttf">//cdnjs.cloudflare.com/ajax/libs/foundicons/2.0/fonts/general_foundicons.ttf</a>]]></description>
-            <link>http://zurb.com/playground/foundation-icons</link>
-            <guid isPermaLink="false">
-                foundicons2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 26 Apr 2013 02:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-migrate updated to version 1.1.1]]></title>
-            <description><![CDATA[This project can be used to detect and restore APIs, features or functionality that have been deprecated in jQuery and removed as of version 1.9.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.1.1/jquery-migrate.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.1.1/jquery-migrate.min.js</a>]]></description>
-            <link>http://jquery.com/</link>
-            <guid isPermaLink="false">
-                jquery-migrate1.1.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 26 Apr 2013 01:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[holder(1.9.0) was added]]></title>
-            <description><![CDATA[Holder uses the canvas element and the data URI scheme to render image placeholders entirely in browser.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/holder/1.9.0/holder.js">//cdnjs.cloudflare.com/ajax/libs/holder/1.9.0/holder.js</a>]]></description>
-            <link>http://imsky.github.io/holder/</link>
-            <guid isPermaLink="false">
-                holder1.9.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 26 Apr 2013 01:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[anythingslider updated to version 1.9.0]]></title>
-            <description><![CDATA[A jQuery Slider plugin for anything.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/anythingslider/1.9.0/jquery.anythingslider.min.js">//cdnjs.cloudflare.com/ajax/libs/anythingslider/1.9.0/jquery.anythingslider.min.js</a>]]></description>
-            <link>http://css-tricks.com/anythingslider-jquery-plugin/</link>
-            <guid isPermaLink="false">
-                anythingslider1.9.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 25 Apr 2013 22:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[angular-strap updated to version 0.7.3]]></title>
-            <description><![CDATA[AngularStrap - Twitter Bootstrap directives for AngularJS.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-strap/0.7.3/angular-strap.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-strap/0.7.3/angular-strap.min.js</a>]]></description>
-            <link>http://mgcrea.github.com/angular-strap</link>
-            <guid isPermaLink="false">
-                angular-strap0.7.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 25 Apr 2013 20:22:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.shapeshift(2.0) was added]]></title>
-            <description><![CDATA[jQuery plugin which creates a column based grid system that allows drag and drop even between multiple containers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.shapeshift/2.0/jquery.shapeshift.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.shapeshift/2.0/jquery.shapeshift.min.js</a>]]></description>
-            <link>https://github.com/McPants/jquery.shapeshift</link>
-            <guid isPermaLink="false">
-                jquery.shapeshift2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 24 Apr 2013 23:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hammer.js updated to version 1.0.5]]></title>
-            <description><![CDATA[A javascript library for multi-touch gestures :// You can touch this <br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/hammer.js/1.0.5/hammer.min.js">//cdnjs.cloudflare.com/ajax/libs/hammer.js/1.0.5/hammer.min.js</a>]]></description>
-            <link>http://eightmedia.github.com/hammer.js/</link>
-            <guid isPermaLink="false">
-                hammer.js1.0.5            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 24 Apr 2013 14:26:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

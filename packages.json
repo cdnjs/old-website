@@ -335,6 +335,39 @@
             ]
         },
         {
+            "name": "accounting.js",
+            "filename": "accounting.min.js",
+            "version": "0.3.2",
+            "description": "A lightweight JavaScript library for number, money and currency formatting .",
+            "homepage": "http://josscrowcroft.github.io/accounting.js/",
+            "keywords": [
+                "accounting",
+                "number",
+                "money",
+                "currency"
+            ],
+            "maintainers": [
+                {
+                    "name": "josscrowcroft"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/josscrowcroft/accounting.js"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.3.2",
+                    "files": [
+                        "accounting.js",
+                        "accounting.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "ace",
             "filename": "ace.js",
             "version": "0.2.0",
@@ -1720,7 +1753,7 @@
         {
             "name": "bacon.js",
             "filename": "Bacon.min.js",
-            "version": "0.3.5",
+            "version": "0.3.15",
             "author": "Juha Paananen",
             "description": "A small functional reactive programming lib for JavaScript.",
             "homepage": "http://baconjs.blogspot.com",
@@ -1745,6 +1778,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.3.15",
+                    "files": [
+                        "Bacon.js",
+                        "Bacon.min.js"
+                    ]
+                },
                 {
                     "version": "0.3.5",
                     "files": [
@@ -4454,6 +4494,42 @@
             ]
         },
         {
+            "name": "dc",
+            "filename": "dc.min.js",
+            "version": "1.3.0",
+            "description": "A multi-dimensional charting built to work natively with crossfilter rendered using d3.js ",
+            "keywords": [
+                "visualization",
+                "svg",
+                "animation",
+                "canvas",
+                "chart",
+                "dimensional"
+            ],
+            "homepage": "http://nickqizhu.github.com/dc.js/",
+            "author": {
+                "name": "Nick Zhu",
+                "url": "http://nzhu.blogspot.ca/"
+            },
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/NickQiZhu/dc.js.git"
+            },
+            "dependencies": {
+                "crossfilter": "1.x",
+                "d3": "3.x"
+            },
+            "assets": [
+                {
+                    "version": "1.3.0",
+                    "files": [
+                        "dc.js",
+                        "dc.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "dd_belatedpng",
             "filename": "dd_belatedpng.min.js",
             "version": "0.0.8",
@@ -4616,6 +4692,38 @@
                     "files": [
                         "dollar.js",
                         "dollar.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "draggabilly",
+            "filename": "draggabilly.pkgd.js",
+            "version": "1.0.2",
+            "description": "Draggabilly is Javascript library to make elements draggable. When dragging, Draggabillly will add the class .is-dragging to the element. The minified source draggabilly.pkgd.min.js is on http://draggabilly.desandro.com/",
+            "homepage": "http://draggabilly.desandro.com/",
+            "keywords": [
+                "draggable",
+                "element"
+            ],
+            "maintainers": [
+                {
+                    "name": "David DeSandro",
+                    "web": "http://desandro.com/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/desandro/draggabilly"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.0.2",
+                    "files": [
+                        "draggabilly.pkgd.js",
+                        "draggabilly.pkgd.min.js"
                     ]
                 }
             ]
@@ -6013,7 +6121,7 @@
         {
             "name": "font-awesome",
             "filename": "css/font-awesome.min.css",
-            "version": "3.0.2",
+            "version": "3.1.0",
             "description": "Font Awesome",
             "homepage": "http://fortawesome.github.com/Font-Awesome/",
             "keywords": [
@@ -6022,6 +6130,20 @@
                 "icons"
             ],
             "assets": [
+                {
+                    "version": "3.1.0",
+                    "files": [
+                        "css/font-awesome-ie7.css",
+                        "css/font-awesome-ie7.min.css",
+                        "css/font-awesome.css",
+                        "css/font-awesome.min.css",
+                        "font/FontAwesome.otf",
+                        "font/fontawesome-webfont.eot",
+                        "font/fontawesome-webfont.svg",
+                        "font/fontawesome-webfont.ttf",
+                        "font/fontawesome-webfont.woff"
+                    ]
+                },
                 {
                     "version": "3.0.2",
                     "files": [
@@ -9917,7 +10039,7 @@
         {
             "name": "jquery-validate",
             "filename": "jquery.validate.min.js",
-            "version": "1.11.0",
+            "version": "1.11.1",
             "description": "Form Validation plugin for jQuery",
             "homepage": "http://bassistance.de/jquery-plugins/jquery-plugin-validation//",
             "keywords": [
@@ -9927,6 +10049,15 @@
                 "validation"
             ],
             "assets": [
+                {
+                    "version": "1.11.1",
+                    "files": [
+                        "additional-methods.js",
+                        "additional-methods.min.js",
+                        "jquery.validate.js",
+                        "jquery.validate.min.js"
+                    ]
+                },
                 {
                     "version": "1.11.0",
                     "files": [
@@ -9956,8 +10087,8 @@
         },
         {
             "name": "jquery.SPServices",
-            "filename": "jquery.SPServices-0.7.2.min.js",
-            "version": "0.7.2",
+            "filename": "jquery.SPServices-2013.01.min.js",
+            "version": "2013.01",
             "description": "SPServices is a jQuery library which abstracts SharePoint's Web Services and makes them easier to use. It also includes functions which use the various Web Service operations to provide more useful (and cool) capabilities. It works entirely client side and requires no server install.",
             "homepage": "http://spservices.codeplex.com/",
             "keywords": [
@@ -9974,6 +10105,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2013.01",
+                    "files": [
+                        "jquery.SPServices-2013.01.min.js"
+                    ]
+                },
                 {
                     "version": "0.7.2",
                     "files": [
@@ -10686,6 +10823,37 @@
             ]
         },
         {
+            "name": "jquery.payment",
+            "filename": "jquery.payment.min.js",
+            "version": "1.0.1",
+            "description": "A general purpose library for building credit card forms, validating inputs and formatting numbers.",
+            "homepage": "https://github.com/stripe/jquery.payment",
+            "keywords": [
+                "payment",
+                "jquery"
+            ],
+            "maintainers": [
+                {
+                    "name": "Alex MacCaw (Stripe)"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/stripe/jquery.payment"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.0.1",
+                    "files": [
+                        "jquery.payment.js",
+                        "jquery.payment.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "jquery.pin",
             "filename": "jquery.pin.min.js",
             "description": "Pin any element within a container",
@@ -10792,7 +10960,7 @@
         {
             "name": "jquery.selectboxit",
             "filename": "jquery.selectBoxIt.min.js",
-            "version": "3.4.0",
+            "version": "3.5.0",
             "description": "A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.",
             "homepage": "http://www.selectboxit.com",
             "keywords": [
@@ -10807,6 +10975,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.5.0",
+                    "files": [
+                        "jquery.selectBoxIt.css",
+                        "jquery.selectBoxIt.min.js"
+                    ]
+                },
                 {
                     "version": "3.4.0",
                     "files": [
@@ -13237,6 +13412,57 @@
                     "version": "2.1.0",
                     "files": [
                         "jquery.masonry.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "mediaelement",
+            "filename": "js/mediaelement.min.js",
+            "version": "2.11.3",
+            "description": "HTML5 audio and video players in pure HTML and CSS. MediaElementPlayer.js uses the same HTML/CSS for all players.",
+            "homepage": "http://mediaelementjs.com/",
+            "keywords": [
+                "video",
+                "player",
+                "html5"
+            ],
+            "maintainers": [
+                {
+                    "name": "John Dyer",
+                    "web": "http://j.hn/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/johndyer/mediaelement"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.11.3",
+                    "files": [
+                        "css/background.png",
+                        "css/bigplay.png",
+                        "css/bigplay.svg",
+                        "css/controls-ted.png",
+                        "css/controls-wmp-bg.png",
+                        "css/controls-wmp.png",
+                        "css/controls.png",
+                        "css/controls.svg",
+                        "css/loading.gif",
+                        "css/mediaelementplayer.css",
+                        "css/mediaelementplayer.min.css",
+                        "css/mejs-skins.css",
+                        "js/flashmediaelement.swf",
+                        "js/mediaelement-and-player.js",
+                        "js/mediaelement-and-player.min.js",
+                        "js/mediaelement.js",
+                        "js/mediaelement.min.js",
+                        "js/mediaelementplayer.js",
+                        "js/mediaelementplayer.min.js",
+                        "js/silverlightmediaelement.xap"
                     ]
                 }
             ]
@@ -16320,7 +16546,7 @@
             "name": "postal.js",
             "filename": "postal.min.js",
             "description": "Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.",
-            "version": "0.8.3",
+            "version": "0.8.4",
             "url": "http://github.com/postaljs/postal.js",
             "homepage": "http://github.com/postaljs/postal.js",
             "repository": {
@@ -16389,6 +16615,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.8.4",
+                    "files": [
+                        "postal.js",
+                        "postal.min.js"
+                    ]
+                },
                 {
                     "version": "0.8.3",
                     "files": [
@@ -16902,7 +17135,7 @@
         {
             "name": "pubnub",
             "filename": "pubnub.min.js",
-            "version": "3.4.2",
+            "version": "3.4.5",
             "description": "PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.",
             "homepage": "http://www.pubnub.com/",
             "keywords": [
@@ -16933,6 +17166,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.4.5",
+                    "files": [
+                        "pubnub.min.js"
+                    ]
+                },
                 {
                     "version": "3.4.2",
                     "files": [
@@ -19013,7 +19252,7 @@
         {
             "name": "slabText",
             "filename": "jquery.slabtext.min.js",
-            "version": "2.2",
+            "version": "2.3",
             "description": "A jQuery plugin for producing big, bold & responsive headlines.",
             "homepage": "http://www.frequency-decoder.com/demo/slabText/",
             "keywords": [
@@ -19037,6 +19276,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.3",
+                    "files": [
+                        "jquery.slabtext.js",
+                        "jquery.slabtext.min.js"
+                    ]
+                },
                 {
                     "version": "2.2",
                     "files": [
@@ -19932,7 +20178,7 @@
         {
             "name": "three.js",
             "filename": "three.min.js",
-            "version": "r57",
+            "version": "r58",
             "description": "three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.",
             "homepage": "http://threejs.org/",
             "keywords": [
@@ -19952,6 +20198,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "r58",
+                    "files": [
+                        "three.js",
+                        "three.min.js"
+                    ]
+                },
                 {
                     "version": "r57",
                     "files": [
@@ -20838,6 +21091,47 @@
                     "version": "0.9.0",
                     "files": [
                         "twitterlib.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "two.js",
+            "filename": "two.min.js",
+            "version": "0.2.0",
+            "description": "A two-dimensional drawing api meant for modern browsers.",
+            "homepage": "http://jonobr1.github.com/two.js",
+            "keywords": [
+                "dom",
+                "w3c",
+                "visualization",
+                "svg",
+                "animation",
+                "canvas2d",
+                "webgl",
+                "rendering",
+                "motiongraphics"
+            ],
+            "maintainers": [
+                {
+                    "name": "jonobr1",
+                    "web": "http://jonobr1.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/jonobr1/two.js.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.2.0",
+                    "files": [
+                        "two.clean.js",
+                        "two.clean.min.js",
+                        "two.js",
+                        "two.min.js"
                     ]
                 }
             ]
