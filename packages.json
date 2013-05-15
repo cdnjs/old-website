@@ -1069,7 +1069,7 @@
         {
             "name": "backbone-pageable",
             "description": "A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.",
-            "version": "1.2.3",
+            "version": "1.2.4",
             "filename": "backbone-pageable.min.js",
             "repository": {
                 "type": "git",
@@ -1082,6 +1082,13 @@
             "author": "Jimmy Yuen Ho Wong <wyuenho@gmail.com>",
             "license": "MIT",
             "assets": [
+                {
+                    "version": "1.2.4",
+                    "files": [
+                        "backbone-pageable.js",
+                        "backbone-pageable.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.3",
                     "files": [
@@ -1834,6 +1841,37 @@
                     "files": [
                         "barman.js",
                         "barman.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bean",
+            "filename": "bean.min.js",
+            "description": "A small, fast, framework-agnostic event manager",
+            "version": "1.0.3",
+            "homepage": "https://github.com/fat/bean",
+            "authors": [
+                "Jacob Thornton <@fat>",
+                "Rod Vagg <@rvagg>",
+                "Dustin Diaz <@ded>"
+            ],
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/fat/bean.git"
+            },
+            "keywords": [
+                "ender",
+                "events",
+                "event",
+                "dom"
+            ],
+            "assets": [
+                {
+                    "version": "1.0.3",
+                    "files": [
+                        "bean.js",
+                        "bean.min.js"
                     ]
                 }
             ]
@@ -7404,7 +7442,7 @@
         {
             "name": "handlebars.js",
             "filename": "handlebars.min.js",
-            "version": "1.0.0-rc.3",
+            "version": "1.0.0-rc.4",
             "description": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.",
             "homepage": "http://www.handlebarsjs.com",
             "keywords": [
@@ -7451,6 +7489,15 @@
                     "version": "1.0.0.beta2",
                     "files": [
                         "handlebars.min.js"
+                    ]
+                },
+                {
+                    "version": "1.0.0-rc.4",
+                    "files": [
+                        "handlebars.js",
+                        "handlebars.min.js",
+                        "handlebars.runtime.js",
+                        "handlebars.runtime.min.js"
                     ]
                 },
                 {
@@ -8511,6 +8558,33 @@
             ]
         },
         {
+            "name": "joopl",
+            "filename": "joopl.min.js",
+            "version": "2.2.0",
+            "description": "Object-oriented programming for JavaScript on the Web and anywhere!",
+            "homepage": "http://mfidemraizer.github.io/joopl",
+            "keywords": [
+                "joopl",
+                "oop",
+                "object-oriented"
+            ],
+            "author": "Matias Fidemraizer",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/mfidemraizer/joopl.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.2.0",
+                    "files": [
+                        "joopl.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "jplayer",
             "filename": "jquery.jplayer.min.js",
             "version": "2.3.0",
@@ -9238,7 +9312,7 @@
         {
             "name": "jquery-migrate",
             "filename": "jquery-migrate.min.js",
-            "version": "1.1.1",
+            "version": "1.2.1",
             "description": "This project can be used to detect and restore APIs, features or functionality that have been deprecated in jQuery and removed as of version 1.9.",
             "homepage": "http://jquery.com/",
             "keywords": [
@@ -9261,6 +9335,13 @@
                 "jquery": ">=1.6.4"
             },
             "assets": [
+                {
+                    "version": "1.2.1",
+                    "files": [
+                        "jquery-migrate.js",
+                        "jquery-migrate.min.js"
+                    ]
+                },
                 {
                     "version": "1.1.1",
                     "files": [
@@ -9619,8 +9700,8 @@
         },
         {
             "name": "jquery-powertip",
-            "filename": "jquery.powertip-1.1.0.min.js",
-            "version": "1.1.0",
+            "filename": "jquery.powertip.min.js",
+            "version": "1.2.0",
             "description": "A jQuery plugin that creates hover tooltips.",
             "homepage": "http://stevenbenner.github.com/jquery-powertip/",
             "keywords": [
@@ -9638,6 +9719,31 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.2.0",
+                    "files": [
+                        "css/jquery.powertip-blue.css",
+                        "css/jquery.powertip-blue.min.css",
+                        "css/jquery.powertip-dark.css",
+                        "css/jquery.powertip-dark.min.css",
+                        "css/jquery.powertip-green.css",
+                        "css/jquery.powertip-green.min.css",
+                        "css/jquery.powertip-light.css",
+                        "css/jquery.powertip-light.min.css",
+                        "css/jquery.powertip-orange.css",
+                        "css/jquery.powertip-orange.min.css",
+                        "css/jquery.powertip-purple.css",
+                        "css/jquery.powertip-purple.min.css",
+                        "css/jquery.powertip-red.css",
+                        "css/jquery.powertip-red.min.css",
+                        "css/jquery.powertip-yellow.css",
+                        "css/jquery.powertip-yellow.min.css",
+                        "css/jquery.powertip.css",
+                        "css/jquery.powertip.min.css",
+                        "jquery.powertip.js",
+                        "jquery.powertip.min.js"
+                    ]
+                },
                 {
                     "version": "1.1.0",
                     "files": [
@@ -12890,6 +12996,72 @@
                         "jquery.linq.min.js",
                         "linq.js",
                         "linq.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "livescript",
+            "filename": "livescript.min.js",
+            "version": "1.1.1",
+            "description": "LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.",
+            "keywords": [
+                "language",
+                "compiler",
+                "coffeescript",
+                "coco",
+                "javascript"
+            ],
+            "author": "George Zahariev <z@georgezahariev.com>",
+            "homepage": "http://livescript.net",
+            "bugs": "https://github.com/gkz/LiveScript/issues",
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://raw.github.com/gkz/LiveScript/master/LICENSE"
+                }
+            ],
+            "engines": {
+                "node": ">= 0.8.0"
+            },
+            "directories": {
+                "lib": "./lib",
+                "bin": "./bin"
+            },
+            "files": [
+                "lib",
+                "bin",
+                "README.md",
+                "LICENSE"
+            ],
+            "main": "./lib/livescript",
+            "bin": {
+                "livescript": "./bin/livescript",
+                "lsc": "./bin/lsc",
+                "slake": "./bin/slake"
+            },
+            "scripts": {
+                "pretest": "bin/slake build && bin/slake build:parser && bin/slake build",
+                "test": "bin/slake test",
+                "posttest": "git checkout -- lib"
+            },
+            "preferGlobal": true,
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/gkz/LiveScript.git"
+            },
+            "dependencies": {
+                "prelude-ls": ">= 0.6.0"
+            },
+            "devDependencies": {
+                "jison": "0.2.1",
+                "uglify-js": "1.3.3"
+            },
+            "assets": [
+                {
+                    "version": "1.1.1",
+                    "files": [
+                        "livescript.min.js"
                     ]
                 }
             ]

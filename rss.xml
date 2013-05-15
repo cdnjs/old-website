@@ -10,8 +10,62 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Sun, 12 May 2013 03:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2013 03:39:03 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[livescript(1.1.1) was added]]></title>
+            <description><![CDATA[LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/livescript/1.1.1/livescript.min.js">//cdnjs.cloudflare.com/ajax/libs/livescript/1.1.1/livescript.min.js</a>]]></description>
+            <link>http://livescript.net</link>
+            <guid isPermaLink="false">
+                livescript1.1.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 14 May 2013 15:55:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[handlebars.js updated to version 1.0.0-rc.4]]></title>
+            <description><![CDATA[Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0-rc.4/handlebars.min.js">//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0-rc.4/handlebars.min.js</a>]]></description>
+            <link>http://www.handlebarsjs.com</link>
+            <guid isPermaLink="false">
+                handlebars.js1.0.0-rc.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 14 May 2013 04:53:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-powertip updated to version 1.2.0]]></title>
+            <description><![CDATA[A jQuery plugin that creates hover tooltips.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-powertip/1.2.0/jquery.powertip.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-powertip/1.2.0/jquery.powertip.min.js</a>]]></description>
+            <link>http://stevenbenner.github.com/jquery-powertip/</link>
+            <guid isPermaLink="false">
+                jquery-powertip1.2.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 13 May 2013 19:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bean(1.0.3) was added]]></title>
+            <description><![CDATA[A small, fast, framework-agnostic event manager<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bean/1.0.3/bean.min.js">//cdnjs.cloudflare.com/ajax/libs/bean/1.0.3/bean.min.js</a>]]></description>
+            <link>https://github.com/fat/bean</link>
+            <guid isPermaLink="false">
+                bean1.0.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 13 May 2013 15:37:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone-pageable updated to version 1.2.4]]></title>
+            <description><![CDATA[A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.2.4/backbone-pageable.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.2.4/backbone-pageable.min.js</a>]]></description>
+            <link>https://github.com/wyuenho/backbone-pageable</link>
+            <guid isPermaLink="false">
+                backbone-pageable1.2.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 12 May 2013 11:52:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[joopl updated to version 2.2.0]]></title>
+            <description><![CDATA[Object-oriented programming for JavaScript on the Web and anywhere!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/joopl/2.2.0/joopl.min.js">//cdnjs.cloudflare.com/ajax/libs/joopl/2.2.0/joopl.min.js</a>]]></description>
+            <link>http://mfidemraizer.github.io/joopl</link>
+            <guid isPermaLink="false">
+                joopl2.2.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 12 May 2013 08:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[three.js updated to version r58]]></title>
             <description><![CDATA[three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/three.js/r58/three.min.js">//cdnjs.cloudflare.com/ajax/libs/three.js/r58/three.min.js</a>]]></description>
@@ -65,6 +119,15 @@
                 jquery.selectboxit3.5.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 10 May 2013 15:28:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-migrate updated to version 1.2.1]]></title>
+            <description><![CDATA[This project can be used to detect and restore APIs, features or functionality that have been deprecated in jQuery and removed as of version 1.9.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js</a>]]></description>
+            <link>http://jquery.com/</link>
+            <guid isPermaLink="false">
+                jquery-migrate1.2.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 09 May 2013 21:24:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[dc(1.3.0) was added]]></title>
@@ -193,15 +256,6 @@
             <pubDate>Tue, 07 May 2013 18:27:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[backbone-pageable updated to version 1.2.3]]></title>
-            <description><![CDATA[A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.2.3/backbone-pageable.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.2.3/backbone-pageable.min.js</a>]]></description>
-            <link>https://github.com/wyuenho/backbone-pageable</link>
-            <guid isPermaLink="false">
-                backbone-pageable1.2.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 07 May 2013 15:34:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[bootstrap-datetimepicker(0.0.11) was added]]></title>
             <description><![CDATA[A datetime picker for Twitter Bootstrap<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/0.0.11/js/bootstrap-datetimepicker.min.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/0.0.11/js/bootstrap-datetimepicker.min.js</a>]]></description>
             <link>https://github.com/tarruda/bootstrap-datetimepicker</link>
@@ -308,69 +362,6 @@
                 jsxgraph0.97            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 02 May 2013 10:13:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.lifestream updated to version 0.3.7]]></title>
-            <description><![CDATA[Show a stream of your online activity.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.lifestream/0.3.7/jquery.lifestream.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.lifestream/0.3.7/jquery.lifestream.min.js</a>]]></description>
-            <link>https://github.com/christianv/jquery-lifestream</link>
-            <guid isPermaLink="false">
-                jquery.lifestream0.3.7            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 30 Apr 2013 21:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[js-url updated to version 1.7.6]]></title>
-            <description><![CDATA[A simple, lightweight url parser for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/js-url/1.7.6/js-url.min.js">//cdnjs.cloudflare.com/ajax/libs/js-url/1.7.6/js-url.min.js</a>]]></description>
-            <link>https://github.com/websanova/js-url</link>
-            <guid isPermaLink="false">
-                js-url1.7.6            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 30 Apr 2013 21:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[store.js updated to version 1.3.7]]></title>
-            <description><![CDATA[A localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/store.js/1.3.7/store.min.js">//cdnjs.cloudflare.com/ajax/libs/store.js/1.3.7/store.min.js</a>]]></description>
-            <link>https://github.com/marcuswestin/store.js</link>
-            <guid isPermaLink="false">
-                store.js1.3.7            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 30 Apr 2013 21:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone-relational updated to version 0.8.5]]></title>
-            <description><![CDATA[Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-relational/0.8.5/backbone-relational.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-relational/0.8.5/backbone-relational.min.js</a>]]></description>
-            <link>https://github.com/PaulUithol/Backbone-relational</link>
-            <guid isPermaLink="false">
-                backbone-relational0.8.5            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 30 Apr 2013 17:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[codemirror updated to version 3.12.0]]></title>
-            <description><![CDATA[In-browser code editing made bearable<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/codemirror/3.12.0/codemirror.min.js">//cdnjs.cloudflare.com/ajax/libs/codemirror/3.12.0/codemirror.min.js</a>]]></description>
-            <link>http://codemirror.net</link>
-            <guid isPermaLink="false">
-                codemirror3.12.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 30 Apr 2013 16:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lodash.js updated to version 1.2.1]]></title>
-            <description><![CDATA[A low-level utility library delivering consistency, customization, performance, and extra features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.2.1/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.2.1/lodash.min.js</a>]]></description>
-            <link>http://lodash.com</link>
-            <guid isPermaLink="false">
-                lodash.js1.2.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 30 Apr 2013 04:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sketch.js(1.0.0) was added]]></title>
-            <description><![CDATA[sketch.js is a tiny (~5k) boilerplate for creating JavaScript based creative coding experiments.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sketch.js/1.0.0/sketch.min.js">//cdnjs.cloudflare.com/ajax/libs/sketch.js/1.0.0/sketch.min.js</a>]]></description>
-            <link>https://github.com/soulwire/sketch.js/</link>
-            <guid isPermaLink="false">
-                sketch.js1.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 29 Apr 2013 15:41:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
