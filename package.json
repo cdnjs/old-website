@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "underscore": "1.4.4",
-    "superagent": "~0.13.0"
+    "superagent": "~0.13.0",
+    "html-minifier": "~0.5.2"
   }
 }
