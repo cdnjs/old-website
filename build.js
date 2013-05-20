@@ -16,9 +16,10 @@ superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new 
   };
 
   indexPage = htmlMinifier.minify(indexPage, htmlCompressionOptions);
-  
+
   fs.writeFileSync('index.html', indexPage, 'utf8');
   fs.writeFileSync('packages.json', JSON.stringify(res.body, null, 4), 'utf8');
+  fs.writeFileSync('packages.min.json', JSON.stringify(res.body), 'utf8');
 });
 
 // I was rushing below r0fl
