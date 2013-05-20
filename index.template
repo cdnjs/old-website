@@ -177,25 +177,32 @@
                     $(this).select();
                 });
             });
+            load_packages(true);
         });
 
         (function($){
             load_versions = function(package_name) {
-                if (packages == null) {
-                    $.ajax({
-                        dataType: "json",
-                        url: 'packages.json',
-                        async: false,
-                        success: function(data){
-                            packages = data.packages;
-                        }
-                    });
-                }
+                load_packages(false);
                 var pkgLength = packages.length;
                 for (var i = 0; i < pkgLength; i++) {
                     if (packages[i].name == package_name){
                         return packages[i];
                     }
+                }
+            }
+        })(jQuery);
+
+        (function($){
+            load_packages = function(asyncBool) {
+                if (packages == null) {
+                    $.ajax({
+                        dataType: "json",
+                        url: 'packages.json?' + new Date().getTime(),
+                        async: asyncBool,
+                        success: function(data){
+                            packages = data.packages;
+                        }
+                    });
                 }
             }
         })(jQuery);
