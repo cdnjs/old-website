@@ -197,7 +197,7 @@
                 if (packages == null) {
                     $.ajax({
                         dataType: "json",
-                        url: 'packages.json?' + new Date().getTime(),
+                        url: 'packages.min.json?' + new Date().getTime(),
                         async: asyncBool,
                         success: function(data){
                             packages = data.packages;
