@@ -173,6 +173,9 @@
                 }
                 $("#" + package_name.replace('.', '')).html(template(load_versions(package_name)))
                 $(this).siblings('.filesandversions').slideToggle(200);
+                $(this).siblings('.filesandversions').find('input[readonly]').on('mouseenter', function (event) {
+                    $(this).select();
+                });
             });
         });
 
