@@ -106,7 +106,7 @@
                                 </thead>
                                 <tbody>
                                     <% _.each(packages, function(package){ if(typeof package.name !== 'undefined') { %>
-                                        <tr class="odd gradeX">
+                                        <tr id="<%= package.name.replace('.', '') %>" class="odd gradeX">
                                             <td style="white-space: nowrap;">
                                                 <a href="<%= package.homepage %>"><%= package.name %></a>
                                                 <!-- hidden text for searching -->
@@ -122,7 +122,7 @@
                                                         <input type="text" class="input-block-level" style="margin: 0" readonly value="//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>">
                                                     </p>
                                                     <div class="filesandversions">
-                                                        <table class=" table table-bordered" style="margin-top: 20px;" id="<%= package.name.replace('.', '') %>">
+                                                        <table class=" table table-bordered" style="margin-top: 20px;" id="LAZY_<%= package.name.replace('.', '') %>">
 
                                                         </table>
                                                     </div>
@@ -171,7 +171,7 @@
                 if (template == null) {
                     template = Handlebars.templates['cdnjs'];
                 }
-                $("#" + package_name.replace('.', '')).html(template(load_versions(package_name)))
+                $("#LAZY_" + package_name.replace('.', '')).html(template(load_versions(package_name)))
                 $(this).siblings('.filesandversions').slideToggle(200);
                 $(this).siblings('.filesandversions').find('input[readonly]').on('mouseenter', function (event) {
                     $(this).select();
