@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Mon, 27 May 2013 04:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2013 05:15:43 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[nvd3(0.9) was added]]></title>
@@ -101,6 +101,24 @@
                 joopl2.3.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 21 May 2013 15:59:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pubnub updated to version 3.4.6]]></title>
+            <description><![CDATA[PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pubnub/3.4.6/pubnub.min.js">//cdnjs.cloudflare.com/ajax/libs/pubnub/3.4.6/pubnub.min.js</a>]]></description>
+            <link>http://www.pubnub.com/</link>
+            <guid isPermaLink="false">
+                pubnub3.4.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 21 May 2013 03:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[foundation updated to version 4.1.6]]></title>
+            <description><![CDATA[The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/foundation/4.1.6/js/foundation.min.js">//cdnjs.cloudflare.com/ajax/libs/foundation/4.1.6/js/foundation.min.js</a>]]></description>
+            <link>http://foundation.zurb.com</link>
+            <guid isPermaLink="false">
+                foundation4.1.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 20 May 2013 23:34:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[tweenjs updated to version 0.4.1]]></title>
@@ -218,6 +236,14 @@
                 d33.1.6            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 15 May 2013 17:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[topojson(1.1.0) was added]]></title>
+            <description><![CDATA[An extension to GeoJSON that encodes topology.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/topojson/1.1.0/topojson.min.js">//cdnjs.cloudflare.com/ajax/libs/topojson/1.1.0/topojson.min.js</a>]]></description>
+            <guid isPermaLink="false">
+                topojson1.1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 15 May 2013 17:18:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery-scrolldepth(0.1.2) was added]]></title>

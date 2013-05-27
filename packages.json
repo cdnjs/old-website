@@ -2900,6 +2900,7 @@
                         "chosen.css",
                         "chosen.jquery.js",
                         "chosen.jquery.min.js",
+                        "chosen.min.css",
                         "chosen.proto.js",
                         "chosen.proto.min.js"
                     ]
@@ -3418,6 +3419,7 @@
                     "files": [
                         "codemirror.css",
                         "codemirror.js",
+                        "codemirror.min.css",
                         "codemirror.min.js"
                     ]
                 },
@@ -6358,7 +6360,7 @@
         {
             "name": "foundation",
             "filename": "js/foundation.min.js",
-            "version": "4.1.2",
+            "version": "4.1.6",
             "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.",
             "homepage": "http://foundation.zurb.com",
             "keywords": [
@@ -6386,6 +6388,49 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "4.1.6",
+                    "files": [
+                        "css/foundation.css",
+                        "css/foundation.min.css",
+                        "css/normalize.css",
+                        "css/normalize.min.css",
+                        "js/foundation.min.js",
+                        "js/foundation/foundation.alerts.js",
+                        "js/foundation/foundation.alerts.min.js",
+                        "js/foundation/foundation.clearing.js",
+                        "js/foundation/foundation.clearing.min.js",
+                        "js/foundation/foundation.cookie.js",
+                        "js/foundation/foundation.cookie.min.js",
+                        "js/foundation/foundation.dropdown.js",
+                        "js/foundation/foundation.dropdown.min.js",
+                        "js/foundation/foundation.forms.js",
+                        "js/foundation/foundation.forms.min.js",
+                        "js/foundation/foundation.joyride.js",
+                        "js/foundation/foundation.joyride.min.js",
+                        "js/foundation/foundation.js",
+                        "js/foundation/foundation.magellan.js",
+                        "js/foundation/foundation.magellan.min.js",
+                        "js/foundation/foundation.orbit.js",
+                        "js/foundation/foundation.orbit.min.js",
+                        "js/foundation/foundation.placeholder.js",
+                        "js/foundation/foundation.placeholder.min.js",
+                        "js/foundation/foundation.reveal.js",
+                        "js/foundation/foundation.reveal.min.js",
+                        "js/foundation/foundation.section.js",
+                        "js/foundation/foundation.section.min.js",
+                        "js/foundation/foundation.tooltips.js",
+                        "js/foundation/foundation.tooltips.min.js",
+                        "js/foundation/foundation.topbar.js",
+                        "js/foundation/foundation.topbar.min.js",
+                        "js/vendor/custom.modernizr.js",
+                        "js/vendor/custom.modernizr.min.js",
+                        "js/vendor/jquery.js",
+                        "js/vendor/jquery.min.js",
+                        "js/vendor/zepto.js",
+                        "js/vendor/zepto.min.js"
+                    ]
+                },
                 {
                     "version": "4.1.2",
                     "files": [
@@ -6701,13 +6746,21 @@
                         "fonts/social_foundicons.ttf",
                         "fonts/social_foundicons.woff",
                         "stylesheets/accessibility_foundicons.css",
+                        "stylesheets/accessibility_foundicons.min.css",
                         "stylesheets/accessibility_foundicons_ie7.css",
+                        "stylesheets/accessibility_foundicons_ie7.min.css",
                         "stylesheets/general_enclosed_foundicons.css",
+                        "stylesheets/general_enclosed_foundicons.min.css",
                         "stylesheets/general_enclosed_foundicons_ie7.css",
+                        "stylesheets/general_enclosed_foundicons_ie7.min.css",
                         "stylesheets/general_foundicons.css",
+                        "stylesheets/general_foundicons.min.css",
                         "stylesheets/general_foundicons_ie7.css",
+                        "stylesheets/general_foundicons_ie7.min.css",
                         "stylesheets/social_foundicons.css",
-                        "stylesheets/social_foundicons_ie7.css"
+                        "stylesheets/social_foundicons.min.css",
+                        "stylesheets/social_foundicons_ie7.css",
+                        "stylesheets/social_foundicons_ie7.min.css"
                     ]
                 }
             ]
@@ -6752,9 +6805,12 @@
                     "files": [
                         "fullcalendar.css",
                         "fullcalendar.js",
+                        "fullcalendar.min.css",
                         "fullcalendar.min.js",
                         "fullcalendar.print.css",
-                        "gcal.js"
+                        "fullcalendar.print.min.css",
+                        "gcal.js",
+                        "gcal.min.js"
                     ]
                 },
                 {
@@ -8087,40 +8143,72 @@
                     "version": "1.8",
                     "files": [
                         "bundled/html4+html5/dojo.history.js",
+                        "bundled/html4+html5/dojo.history.min.js",
                         "bundled/html4+html5/extjs.history.js",
+                        "bundled/html4+html5/extjs.history.min.js",
                         "bundled/html4+html5/jquery.history.js",
+                        "bundled/html4+html5/jquery.history.min.js",
                         "bundled/html4+html5/mootools.history.js",
+                        "bundled/html4+html5/mootools.history.min.js",
                         "bundled/html4+html5/native.history.js",
                         "bundled/html4+html5/right.history.js",
+                        "bundled/html4+html5/right.history.min.js",
                         "bundled/html4+html5/zepto.history.js",
+                        "bundled/html4+html5/zepto.history.min.js",
                         "bundled/html5/dojo.history.js",
+                        "bundled/html5/dojo.history.min.js",
                         "bundled/html5/extjs.history.js",
+                        "bundled/html5/extjs.history.min.js",
                         "bundled/html5/jquery.history.js",
+                        "bundled/html5/jquery.history.min.js",
                         "bundled/html5/mootools.history.js",
+                        "bundled/html5/mootools.history.min.js",
                         "bundled/html5/native.history.js",
                         "bundled/html5/right.history.js",
+                        "bundled/html5/right.history.min.js",
                         "bundled/html5/zepto.history.js",
+                        "bundled/html5/zepto.history.min.js",
                         "compressed/history.adapter.dojo.js",
+                        "compressed/history.adapter.dojo.min.js",
                         "compressed/history.adapter.extjs.js",
+                        "compressed/history.adapter.extjs.min.js",
                         "compressed/history.adapter.jquery.js",
+                        "compressed/history.adapter.jquery.min.js",
                         "compressed/history.adapter.mootools.js",
+                        "compressed/history.adapter.mootools.min.js",
                         "compressed/history.adapter.native.js",
+                        "compressed/history.adapter.native.min.js",
                         "compressed/history.adapter.right.js",
+                        "compressed/history.adapter.right.min.js",
                         "compressed/history.adapter.zepto.js",
+                        "compressed/history.adapter.zepto.min.js",
                         "compressed/history.html4.js",
+                        "compressed/history.html4.min.js",
                         "compressed/history.js",
+                        "compressed/history.min.js",
                         "compressed/json2.js",
+                        "compressed/json2.min.js",
                         "native.history.min.js",
                         "uncompressed/history.adapter.dojo.js",
+                        "uncompressed/history.adapter.dojo.min.js",
                         "uncompressed/history.adapter.extjs.js",
+                        "uncompressed/history.adapter.extjs.min.js",
                         "uncompressed/history.adapter.jquery.js",
+                        "uncompressed/history.adapter.jquery.min.js",
                         "uncompressed/history.adapter.mootools.js",
+                        "uncompressed/history.adapter.mootools.min.js",
                         "uncompressed/history.adapter.native.js",
+                        "uncompressed/history.adapter.native.min.js",
                         "uncompressed/history.adapter.right.js",
+                        "uncompressed/history.adapter.right.min.js",
                         "uncompressed/history.adapter.zepto.js",
+                        "uncompressed/history.adapter.zepto.min.js",
                         "uncompressed/history.html4.js",
+                        "uncompressed/history.html4.min.js",
                         "uncompressed/history.js",
-                        "uncompressed/json2.js"
+                        "uncompressed/history.min.js",
+                        "uncompressed/json2.js",
+                        "uncompressed/json2.min.js"
                     ]
                 },
                 {
@@ -8208,7 +8296,8 @@
                 {
                     "version": "1.9.0",
                     "files": [
-                        "holder.js"
+                        "holder.js",
+                        "holder.min.js"
                     ]
                 }
             ]
@@ -8815,8 +8904,10 @@
                         "Jplayer.swf",
                         "add-on/jplayer.playlist.min.js",
                         "add-on/jquery.jplayer.inspector.js",
+                        "add-on/jquery.jplayer.inspector.min.js",
                         "jquery.jplayer.min.js",
-                        "popcorn/popcorn.jplayer.js"
+                        "popcorn/popcorn.jplayer.js",
+                        "popcorn/popcorn.jplayer.min.js"
                     ]
                 },
                 {
@@ -11077,7 +11168,8 @@
                     "files": [
                         "jquery.lifestream.js",
                         "jquery.lifestream.min.js",
-                        "lifestream.css"
+                        "lifestream.css",
+                        "lifestream.min.css"
                     ]
                 },
                 {
@@ -11372,6 +11464,7 @@
                     "version": "3.5.0",
                     "files": [
                         "jquery.selectBoxIt.css",
+                        "jquery.selectBoxIt.min.css",
                         "jquery.selectBoxIt.min.js"
                     ]
                 },
@@ -11379,6 +11472,7 @@
                     "version": "3.4.0",
                     "files": [
                         "jquery.selectBoxIt.css",
+                        "jquery.selectBoxIt.min.css",
                         "jquery.selectBoxIt.min.js"
                     ]
                 },
@@ -11709,6 +11803,7 @@
                     "version": "2.9.1",
                     "files": [
                         "jquery.metadata.js",
+                        "jquery.metadata.min.js",
                         "jquery.tablesorter.js",
                         "jquery.tablesorter.min.js",
                         "jquery.tablesorter.widgets-filter-formatter.js",
@@ -11716,18 +11811,31 @@
                         "jquery.tablesorter.widgets.js",
                         "jquery.tablesorter.widgets.min.js",
                         "parsers/parser-date-iso8601.js",
+                        "parsers/parser-date-iso8601.min.js",
                         "parsers/parser-date-month.js",
+                        "parsers/parser-date-month.min.js",
                         "parsers/parser-date-two-digit-year.js",
+                        "parsers/parser-date-two-digit-year.min.js",
                         "parsers/parser-date-weekday.js",
+                        "parsers/parser-date-weekday.min.js",
                         "parsers/parser-date.js",
+                        "parsers/parser-date.min.js",
                         "parsers/parser-feet-inch-fraction.js",
+                        "parsers/parser-feet-inch-fraction.min.js",
                         "parsers/parser-ignore-articles.js",
+                        "parsers/parser-ignore-articles.min.js",
                         "parsers/parser-input-select.js",
+                        "parsers/parser-input-select.min.js",
                         "parsers/parser-metric.js",
+                        "parsers/parser-metric.min.js",
                         "widgets/widget-editable.js",
+                        "widgets/widget-editable.min.js",
                         "widgets/widget-grouping.js",
+                        "widgets/widget-grouping.min.js",
                         "widgets/widget-repeatheaders.js",
-                        "widgets/widget-scroller.js"
+                        "widgets/widget-repeatheaders.min.js",
+                        "widgets/widget-scroller.js",
+                        "widgets/widget-scroller.min.js"
                     ]
                 },
                 {
@@ -12118,8 +12226,10 @@
                         "css/base/jquery-ui.css",
                         "css/base/jquery.ui.accordion.css",
                         "css/base/jquery.ui.all.css",
+                        "css/base/jquery.ui.all.min.css",
                         "css/base/jquery.ui.autocomplete.css",
                         "css/base/jquery.ui.base.css",
+                        "css/base/jquery.ui.base.min.css",
                         "css/base/jquery.ui.button.css",
                         "css/base/jquery.ui.core.css",
                         "css/base/jquery.ui.datepicker.css",
@@ -12663,7 +12773,8 @@
                         "GeonextReader.min.js",
                         "IntergeoReader.min.js",
                         "SketchReader.min.js",
-                        "jsxgraphcore.js"
+                        "jsxgraphcore.js",
+                        "jsxgraphcore.min.js"
                     ]
                 },
                 {
@@ -13979,6 +14090,7 @@
                         "css/mediaelementplayer.css",
                         "css/mediaelementplayer.min.css",
                         "css/mejs-skins.css",
+                        "css/mejs-skins.min.css",
                         "js/flashmediaelement.swf",
                         "js/mediaelement-and-player.js",
                         "js/mediaelement-and-player.min.js",
@@ -14559,6 +14671,7 @@
                     "files": [
                         "morris.css",
                         "morris.js",
+                        "morris.min.css",
                         "morris.min.js"
                     ]
                 },
@@ -17696,7 +17809,7 @@
         {
             "name": "pubnub",
             "filename": "pubnub.min.js",
-            "version": "3.4.5",
+            "version": "3.4.6",
             "description": "PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.",
             "homepage": "http://www.pubnub.com/",
             "keywords": [
@@ -17727,6 +17840,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.4.6",
+                    "files": [
+                        "pubnub.js",
+                        "pubnub.min.js"
+                    ]
+                },
                 {
                     "version": "3.4.5",
                     "files": [
@@ -18770,8 +18890,11 @@
                     "version": "0.5.1",
                     "files": [
                         "dependencies/angular-resource.js",
+                        "dependencies/angular-resource.min.js",
                         "dependencies/angular.js",
+                        "dependencies/angular.min.js",
                         "dependencies/underscore.js",
+                        "dependencies/underscore.min.js",
                         "restangular.js",
                         "restangular.min.js"
                     ]
@@ -18859,17 +18982,27 @@
                     "version": "2.3",
                     "files": [
                         "css/print/paper.css",
+                        "css/print/paper.min.css",
                         "css/print/pdf.css",
+                        "css/print/pdf.min.css",
                         "css/reveal.css",
                         "css/reveal.min.css",
                         "css/theme/beige.css",
+                        "css/theme/beige.min.css",
                         "css/theme/default.css",
+                        "css/theme/default.min.css",
                         "css/theme/moon.css",
+                        "css/theme/moon.min.css",
                         "css/theme/night.css",
+                        "css/theme/night.min.css",
                         "css/theme/serif.css",
+                        "css/theme/serif.min.css",
                         "css/theme/simple.css",
+                        "css/theme/simple.min.css",
                         "css/theme/sky.css",
+                        "css/theme/sky.min.css",
                         "css/theme/solarized.css",
+                        "css/theme/solarized.min.css",
                         "js/reveal.js",
                         "js/reveal.min.js"
                     ]
@@ -19510,41 +19643,74 @@
                         "select2.css",
                         "select2.jquery.json",
                         "select2.js",
+                        "select2.min.css",
                         "select2.min.js",
                         "select2.png",
                         "select2_locale_ca.js",
+                        "select2_locale_ca.min.js",
                         "select2_locale_cs.js",
+                        "select2_locale_cs.min.js",
                         "select2_locale_da.js",
+                        "select2_locale_da.min.js",
                         "select2_locale_de.js",
+                        "select2_locale_de.min.js",
                         "select2_locale_en.js.template",
                         "select2_locale_es.js",
+                        "select2_locale_es.min.js",
                         "select2_locale_et.js",
+                        "select2_locale_et.min.js",
                         "select2_locale_eu.js",
+                        "select2_locale_eu.min.js",
                         "select2_locale_fr.js",
+                        "select2_locale_fr.min.js",
                         "select2_locale_gl.js",
+                        "select2_locale_gl.min.js",
                         "select2_locale_he.js",
+                        "select2_locale_he.min.js",
                         "select2_locale_hr.js",
+                        "select2_locale_hr.min.js",
                         "select2_locale_hu.js",
+                        "select2_locale_hu.min.js",
                         "select2_locale_is.js",
+                        "select2_locale_is.min.js",
                         "select2_locale_it.js",
+                        "select2_locale_it.min.js",
                         "select2_locale_ja.js",
+                        "select2_locale_ja.min.js",
                         "select2_locale_lt.js",
+                        "select2_locale_lt.min.js",
                         "select2_locale_lv.js",
+                        "select2_locale_lv.min.js",
                         "select2_locale_mk.js",
+                        "select2_locale_mk.min.js",
                         "select2_locale_nl.js",
+                        "select2_locale_nl.min.js",
                         "select2_locale_no.js",
+                        "select2_locale_no.min.js",
                         "select2_locale_pl.js",
+                        "select2_locale_pl.min.js",
                         "select2_locale_pt-BR.js",
+                        "select2_locale_pt-BR.min.js",
                         "select2_locale_pt-PT.js",
+                        "select2_locale_pt-PT.min.js",
                         "select2_locale_ro.js",
+                        "select2_locale_ro.min.js",
                         "select2_locale_ru.js",
+                        "select2_locale_ru.min.js",
                         "select2_locale_sk.js",
+                        "select2_locale_sk.min.js",
                         "select2_locale_sv.js",
+                        "select2_locale_sv.min.js",
                         "select2_locale_tr.js",
+                        "select2_locale_tr.min.js",
                         "select2_locale_ua.js",
+                        "select2_locale_ua.min.js",
                         "select2_locale_vi.js",
+                        "select2_locale_vi.min.js",
                         "select2_locale_zh-CN.js",
+                        "select2_locale_zh-CN.min.js",
                         "select2_locale_zh-TW.js",
+                        "select2_locale_zh-TW.min.js",
                         "select2x2.png"
                     ]
                 },
@@ -21405,6 +21571,51 @@
             ]
         },
         {
+            "name": "topojson",
+            "filename": "topojson.min.js",
+            "version": "1.1.0",
+            "description": "An extension to GeoJSON that encodes topology.",
+            "keywords": [
+                "geojson",
+                "shapefile"
+            ],
+            "author": {
+                "name": "Mike Bostock",
+                "url": "http://bost.ocks.org/mike"
+            },
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/mbostock/topojson.git"
+            },
+            "main": "./index.js",
+            "dependencies": {
+                "dsv": "0.0",
+                "optimist": "0.3",
+                "queue-async": "1.0",
+                "shapefile": "0.1"
+            },
+            "devDependencies": {
+                "vows": "0.7",
+                "us-atlas": "0.0",
+                "world-atlas": "0.0"
+            },
+            "bin": {
+                "topojson": "./bin/topojson",
+                "geojson": "./bin/geojson"
+            },
+            "scripts": {
+                "test": "./node_modules/.bin/vows && echo"
+            },
+            "assets": [
+                {
+                    "version": "1.1.0",
+                    "files": [
+                        "topojson.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "treesaver",
             "filename": "treesaver-0.10.0.js",
             "version": "0.10.0",
@@ -22315,21 +22526,28 @@
                         "CHANGELOG.txt",
                         "README.md",
                         "bootstrap-editable/css/bootstrap-editable.css",
+                        "bootstrap-editable/css/bootstrap-editable.min.css",
                         "bootstrap-editable/img/clear.png",
                         "bootstrap-editable/img/loading.gif",
                         "bootstrap-editable/js/bootstrap-editable.js",
                         "bootstrap-editable/js/bootstrap-editable.min.js",
                         "inputs-ext/address/address.css",
                         "inputs-ext/address/address.js",
+                        "inputs-ext/address/address.min.css",
+                        "inputs-ext/address/address.min.js",
                         "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2",
                         "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.css",
                         "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.min.css",
                         "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.min.js",
                         "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysihtml5-0.3.0.js",
                         "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysihtml5-0.3.0.min.js",
                         "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysiwyg-color.css",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysiwyg-color.min.css",
                         "inputs-ext/wysihtml5/wysihtml5.js",
+                        "inputs-ext/wysihtml5/wysihtml5.min.js",
                         "jquery-editable/css/jquery-editable.css",
+                        "jquery-editable/css/jquery-editable.min.css",
                         "jquery-editable/img/clear.png",
                         "jquery-editable/img/loading.gif",
                         "jquery-editable/jquery-ui-datepicker/css/redmond/images/animated-overlay.gif",
@@ -22355,6 +22573,7 @@
                         "jquery-editable/js/jquery-editable-poshytip.js",
                         "jquery-editable/js/jquery-editable-poshytip.min.js",
                         "jqueryui-editable/css/jqueryui-editable.css",
+                        "jqueryui-editable/css/jqueryui-editable.min.css",
                         "jqueryui-editable/img/clear.png",
                         "jqueryui-editable/img/loading.gif",
                         "jqueryui-editable/js/jqueryui-editable.js",
