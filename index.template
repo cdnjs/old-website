@@ -72,6 +72,8 @@
                                     <a href="http://twitter.com/neutralthoughts" class="twitter-follow-button">Follow @neutralthoughts</a>
                                 </td>
                             </tr>
+                            <tr><td style="width: 115px;"><strong>Maintainers</strong></td><td></td></tr>
+
                             <tr>
                                 <td style="width: 145px;">
                                     <a href="http://github.com/lockyc" style="margin-right: 10px;"><img src="https://plus.google.com/s2/photos/profile/116251728973496544370" style="height: 30px; width: 30px; border: 1px solid #444;"></a>
@@ -91,6 +93,13 @@
                         At CloudFlare, we believe that open source, community-driven projects like CDNJS are the tools upon which the future of the internet will be built. CloudFlare is proud to provide the global CDN infrastructure that will help power that future.<br /><br />
                         <a href="http://cloudflare.com"><img style="margin-bottom: 20px; " src="img/poweredbycloudflare.png"></a>
                     </div>
+                    <br />
+                    <div style="background: url(earbits-b.png); padding: 7px; border-radius: 3px">
+                    <a href="http://www.earbits.com/#station/other-music-to-work-to/better-days-pt-1" style="color: #fff; text-decoration: none">
+                        <img style="margin-top: -5px" src="earbits.png" alt="earbit.com - free online radio" />
+                        <span style="display:inline-block; line-height: 20px;margin-left: 20px;">Radio station for programmers</span>
+                    </a>
+                </div>
                 </div>
             </div>
             <div class="row" ng-app>

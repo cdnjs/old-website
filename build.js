@@ -23,7 +23,6 @@ superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new 
 });
 
 // I was rushing below r0fl
-
 var file = fs.createWriteStream("rss.xml");
 var request = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function(response) {
   response.pipe(file);
@@ -35,7 +34,6 @@ var file2 = fs.createWriteStream("atom.xml");
 var request2 = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function(response) {
   response.pipe(file2);
 });
-
 
 
 
