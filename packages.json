@@ -20887,7 +20887,7 @@
         },
         {
             "name": "thorax",
-            "version": "2.0.0rc3",
+            "version": "2.0.0rc6",
             "filename": "thorax.js",
             "description": "Handlebars + Backbone",
             "homepage": "http://thoraxjs.org/",
@@ -20921,6 +20921,15 @@
                 "thorax": "bin/thorax"
             },
             "assets": [
+                {
+                    "version": "2.0.0rc6",
+                    "files": [
+                        "thorax-mobile.js",
+                        "thorax-mobile.min.js",
+                        "thorax.js",
+                        "thorax.min.js"
+                    ]
+                },
                 {
                     "version": "2.0.0rc3",
                     "files": [
@@ -21720,7 +21729,7 @@
         {
             "name": "twitter-bootstrap",
             "filename": "js/bootstrap.min.js",
-            "version": "2.3.1",
+            "version": "2.3.2",
             "description": "Javascript plugins for the Twitter Bootstrap toolkit",
             "homepage": "http://twitter.github.com/bootstrap/",
             "keywords": [
@@ -21739,6 +21748,19 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.3.2",
+                    "files": [
+                        "css/bootstrap-responsive.css",
+                        "css/bootstrap-responsive.min.css",
+                        "css/bootstrap.css",
+                        "css/bootstrap.min.css",
+                        "img/glyphicons-halflings-white.png",
+                        "img/glyphicons-halflings.png",
+                        "js/bootstrap.js",
+                        "js/bootstrap.min.js"
+                    ]
+                },
                 {
                     "version": "2.3.1",
                     "files": [
