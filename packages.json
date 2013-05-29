@@ -5323,7 +5323,7 @@
         {
             "name": "ember.js",
             "filename": "ember.min.js",
-            "version": "1.0.0-rc.3",
+            "version": "1.0.0-rc.4",
             "description": "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
             "homepage": "http://emberjs.com/",
             "keywords": [
@@ -5348,6 +5348,13 @@
                     "files": [
                         "ember-1.0.pre.js",
                         "ember-1.0.pre.min.js"
+                    ]
+                },
+                {
+                    "version": "1.0.0-rc.4",
+                    "files": [
+                        "ember.js",
+                        "ember.min.js"
                     ]
                 },
                 {

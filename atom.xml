@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Mon, 27 May 2013 21:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2013 10:06:52 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ember.js updated to version 1.0.0-rc.4]]></title>
+            <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember.js/1.0.0-rc.4/ember.min.js">//cdnjs.cloudflare.com/ajax/libs/ember.js/1.0.0-rc.4/ember.min.js</a>]]></description>
+            <link>http://emberjs.com/</link>
+            <guid isPermaLink="false">
+                ember.js1.0.0-rc.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 May 2013 10:04:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[twitter-bootstrap updated to version 2.3.2]]></title>
             <description><![CDATA[Javascript plugins for the Twitter Bootstrap toolkit<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/js/bootstrap.min.js">//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/js/bootstrap.min.js</a>]]></description>
@@ -271,33 +280,6 @@
                 jquery-scrolldepth0.1.2            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 15 May 2013 14:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[livescript(1.1.1) was added]]></title>
-            <description><![CDATA[LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/livescript/1.1.1/livescript.min.js">//cdnjs.cloudflare.com/ajax/libs/livescript/1.1.1/livescript.min.js</a>]]></description>
-            <link>http://livescript.net</link>
-            <guid isPermaLink="false">
-                livescript1.1.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 14 May 2013 15:55:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[handlebars.js updated to version 1.0.0-rc.4]]></title>
-            <description><![CDATA[Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0-rc.4/handlebars.min.js">//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0-rc.4/handlebars.min.js</a>]]></description>
-            <link>http://www.handlebarsjs.com</link>
-            <guid isPermaLink="false">
-                handlebars.js1.0.0-rc.4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 14 May 2013 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hallo.js(1.0.2) was added]]></title>
-            <description><![CDATA[Distraction-free writing for the web<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/hallo.js/1.0.2/hallo.js">//cdnjs.cloudflare.com/ajax/libs/hallo.js/1.0.2/hallo.js</a>]]></description>
-            <link>http://hallojs.org/</link>
-            <guid isPermaLink="false">
-                hallo.js1.0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 14 May 2013 02:37:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
