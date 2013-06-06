@@ -10,8 +10,26 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Wed, 05 Jun 2013 11:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2013 06:51:34 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[coffee-script updated to version 1.6.3]]></title>
+            <description><![CDATA[CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/coffee-script/1.6.3/coffee-script.min.js">//cdnjs.cloudflare.com/ajax/libs/coffee-script/1.6.3/coffee-script.min.js</a>]]></description>
+            <link>http://jashkenas.github.com/coffee-script/</link>
+            <guid isPermaLink="false">
+                coffee-script1.6.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 06 Jun 2013 06:13:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gsap updated to version 1.9.8]]></title>
+            <description><![CDATA[GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.8/TweenMax.min.js">//cdnjs.cloudflare.com/ajax/libs/gsap/1.9.8/TweenMax.min.js</a>]]></description>
+            <link>http://www.greensock.com/gsap-js/</link>
+            <guid isPermaLink="false">
+                gsap1.9.8            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 05 Jun 2013 20:17:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[backbone.layoutmanager updated to version 0.8.8]]></title>
             <description><![CDATA[A layout and template manager for Backbone.js applications.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.layoutmanager/0.8.8/backbone.layoutmanager.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.layoutmanager/0.8.8/backbone.layoutmanager.min.js</a>]]></description>
@@ -130,6 +148,15 @@
             <pubDate>Tue, 04 Jun 2013 01:44:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[jquery.pep(0.4.0) was added]]></title>
+            <description><![CDATA[Kinetic drag for mobile & desktop.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.pep/0.4.0/jquery.pep.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.pep/0.4.0/jquery.pep.min.js</a>]]></description>
+            <link>http://pep.briangonzalez.org</link>
+            <guid isPermaLink="false">
+                jquery.pep0.4.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 03 Jun 2013 20:05:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[chardin.js(0.1.2) was added]]></title>
             <description><![CDATA[Simple overlay instructions for your apps.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chardin.js/0.1.2/chardinjs.min.js">//cdnjs.cloudflare.com/ajax/libs/chardin.js/0.1.2/chardinjs.min.js</a>]]></description>
             <link>http://heelhook.github.io/chardin.js/</link>
@@ -236,15 +263,6 @@
                 jquery.maskedinput1.3.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 23 May 2013 11:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[thorax updated to version 2.0.0rc6]]></title>
-            <description><![CDATA[Handlebars + Backbone<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/thorax/2.0.0rc6/thorax.js">//cdnjs.cloudflare.com/ajax/libs/thorax/2.0.0rc6/thorax.js</a>]]></description>
-            <link>http://thoraxjs.org/</link>
-            <guid isPermaLink="false">
-                thorax2.0.0rc6            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 22 May 2013 23:23:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

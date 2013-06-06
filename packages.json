@@ -3731,7 +3731,7 @@
         {
             "name": "coffee-script",
             "filename": "coffee-script.min.js",
-            "version": "1.6.2",
+            "version": "1.6.3",
             "description": "CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.",
             "homepage": "http://jashkenas.github.com/coffee-script/",
             "keywords": [
@@ -3756,6 +3756,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.6.3",
+                    "files": [
+                        "coffee-script.min.js"
+                    ]
+                },
                 {
                     "version": "1.6.2",
                     "files": [
@@ -7380,7 +7386,7 @@
         {
             "name": "gsap",
             "filename": "TweenMax.min.js",
-            "version": "1.9.7",
+            "version": "1.9.8",
             "description": "GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.",
             "homepage": "http://www.greensock.com/gsap-js/",
             "keywords": [
@@ -7417,6 +7423,29 @@
             "assets": [
                 {
                     "version": "latest",
+                    "files": [
+                        "TimelineLite.min.js",
+                        "TimelineMax.min.js",
+                        "TweenLite.min.js",
+                        "TweenMax.min.js",
+                        "easing/EasePack.min.js",
+                        "jquery.gsap.min.js",
+                        "plugins/AttrPlugin.min.js",
+                        "plugins/BezierPlugin.min.js",
+                        "plugins/CSSPlugin.min.js",
+                        "plugins/CSSRulePlugin.min.js",
+                        "plugins/ColorPropsPlugin.min.js",
+                        "plugins/DirectionalRotationPlugin.min.js",
+                        "plugins/EaselPlugin.min.js",
+                        "plugins/KineticPlugin.min.js",
+                        "plugins/RaphaelPlugin.min.js",
+                        "plugins/RoundPropsPlugin.min.js",
+                        "plugins/ScrollToPlugin.min.js",
+                        "plugins/TextPlugin.min.js"
+                    ]
+                },
+                {
+                    "version": "1.9.8",
                     "files": [
                         "TimelineLite.min.js",
                         "TimelineMax.min.js",
@@ -11573,6 +11602,50 @@
                     "files": [
                         "jquery.payment.js",
                         "jquery.payment.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery.pep",
+            "filename": "jquery.pep.min.js",
+            "description": "Kinetic drag for mobile & desktop.",
+            "version": "0.4.0",
+            "keywords": [
+                "jquery-pep",
+                "jquery.pep",
+                "jquery.pep,js",
+                "pep"
+            ],
+            "maintainers": [
+                {
+                    "name": "Brian Gonzalez",
+                    "email": "me@briangonzalez.org",
+                    "web": "http://briangonzalez.org"
+                }
+            ],
+            "demos": [
+                "http://pep.briangonzalez.org"
+            ],
+            "bugs": "https://github.com/briangonzalez/jquery.pep.js/issues",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/briangonzalez/jquery.pep.js"
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "MIT",
+                    "url": "http://opensource.org/licenses/MIT"
+                }
+            ],
+            "homepage": "http://pep.briangonzalez.org",
+            "assets": [
+                {
+                    "version": "0.4.0",
+                    "files": [
+                        "jquery.pep.min.js"
                     ]
                 }
             ]
