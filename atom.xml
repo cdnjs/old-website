@@ -10,8 +10,26 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 07 Jun 2013 06:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2013 22:15:03 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SoundJS(0.4.1) was added]]></title>
+            <description><![CDATA[A Javascript library that provides a simple API, and powerful features to make working with audio a breeze.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/SoundJS/0.4.1/soundjs.min.js">//cdnjs.cloudflare.com/ajax/libs/SoundJS/0.4.1/soundjs.min.js</a>]]></description>
+            <link>http://www.createjs.com/#!/SoundJS</link>
+            <guid isPermaLink="false">
+                SoundJS0.4.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 07 Jun 2013 20:16:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[embedly-jquery updated to version 3.1.1]]></title>
+            <description><![CDATA[Embedly - jQuery is a jQuery Library for Embedly that will replace links with content. It follows the oEmbed spec (oembed.com) for content retrieval, while utilizing http://api.embed.ly as a single endpoint.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/embedly-jquery/3.1.1/jquery.embedly.min.js">//cdnjs.cloudflare.com/ajax/libs/embedly-jquery/3.1.1/jquery.embedly.min.js</a>]]></description>
+            <link>https://github.com/embedly/embedly-jquery</link>
+            <guid isPermaLink="false">
+                embedly-jquery3.1.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 07 Jun 2013 16:38:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[flexslider(2.1) was added]]></title>
             <description><![CDATA[An awesome, fully responsive jQuery slider plugin.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/flexslider/2.1/jquery.flexslider-min.js">//cdnjs.cloudflare.com/ajax/libs/flexslider/2.1/jquery.flexslider-min.js</a>]]></description>

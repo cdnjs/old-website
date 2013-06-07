@@ -205,6 +205,38 @@
             ]
         },
         {
+            "name": "SoundJS",
+            "filename": "soundjs.min.js",
+            "version": "0.4.1",
+            "description": "A Javascript library that provides a simple API, and powerful features to make working with audio a breeze.",
+            "homepage": "http://www.createjs.com/#!/SoundJS",
+            "keywords": [
+                "sound",
+                "audio",
+                "webAudio"
+            ],
+            "maintainers": [
+                {
+                    "name": "SoundJS",
+                    "web": "http://www.createjs.com/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/CreateJS/SoundJS.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.4.1",
+                    "files": [
+                        "soundjs.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "SyntaxHighlighter",
             "filename": "scripts/shCore.js",
             "version": "3.0.83",
@@ -5292,7 +5324,7 @@
         },
         {
             "name": "embedly-jquery",
-            "version": "3.0.5",
+            "version": "3.1.1",
             "filename": "jquery.embedly.min.js",
             "description": "Embedly - jQuery is a jQuery Library for Embedly that will replace links with content. It follows the oEmbed spec (oembed.com) for content retrieval, while utilizing http://api.embed.ly as a single endpoint.",
             "homepage": "https://github.com/embedly/embedly-jquery",
@@ -5339,6 +5371,13 @@
                 "embed"
             ],
             "assets": [
+                {
+                    "version": "3.1.1",
+                    "files": [
+                        "jquery.embedly.js",
+                        "jquery.embedly.min.js"
+                    ]
+                },
                 {
                     "version": "3.0.5",
                     "files": [
