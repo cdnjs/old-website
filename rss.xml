@@ -10,8 +10,34 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Mon, 17 Jun 2013 01:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2013 03:55:09 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[social-likes(2.0.8) was added]]></title>
+            <description><![CDATA[Beautiful like buttons with counters for popular social networks.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.8/social-likes.min.js">//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.8/social-likes.min.js</a>]]></description>
+            <link>http://sapegin.github.io/social-likes/</link>
+            <guid isPermaLink="false">
+                social-likes2.0.8            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 17 Jun 2013 03:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[social-likes(0.0.0) was added]]></title>
+            <description><![CDATA[undefined<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/social-likes/0.0.0/undefined">//cdnjs.cloudflare.com/ajax/libs/social-likes/0.0.0/undefined</a>]]></description>
+            <guid isPermaLink="false">
+                social-likes0.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 17 Jun 2013 03:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[social-likes(2.0.8) was added]]></title>
+            <description><![CDATA[Beautiful “like” buttons with counters for popular social networks.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.8/social-likes.js">//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.8/social-likes.js</a>]]></description>
+            <link>http://sapegin.github.io/social-likes/</link>
+            <guid isPermaLink="false">
+                social-likes2.0.8            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 17 Jun 2013 03:10:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jquery.simpleWeather updated to version 2.3.0]]></title>
             <description><![CDATA[A simple jQuery plugin to display the weather information for any location. The data is pulled from the public Yahoo! Weather feed via the YQL API. Developed by James Fleeting.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.simpleWeather/2.3.0/jquery.simpleWeather.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.simpleWeather/2.3.0/jquery.simpleWeather.min.js</a>]]></description>
@@ -184,6 +210,15 @@
             <pubDate>Fri, 07 Jun 2013 22:48:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[angular-ui-bootstrap updated to version 0.3.0]]></title>
+            <description><![CDATA[Native AngularJS (Angular) directives for Twitter's Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.3.0/ui-bootstrap-tpls.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.3.0/ui-bootstrap-tpls.min.js</a>]]></description>
+            <link>http://angular-ui.github.com/bootstrap/</link>
+            <guid isPermaLink="false">
+                angular-ui-bootstrap0.3.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 07 Jun 2013 22:23:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SoundJS(0.4.1) was added]]></title>
             <description><![CDATA[A Javascript library that provides a simple API, and powerful features to make working with audio a breeze.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/SoundJS/0.4.1/soundjs.min.js">//cdnjs.cloudflare.com/ajax/libs/SoundJS/0.4.1/soundjs.min.js</a>]]></description>
             <link>http://www.createjs.com/#!/SoundJS</link>
@@ -220,6 +255,15 @@
             <pubDate>Fri, 07 Jun 2013 06:27:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[superfish(1.7.3) was added]]></title>
+            <description><![CDATA[Superfish is an enhanced Suckerfish-style menu jQuery plugin that takes an existing pure CSS drop-down menu (so it degrades gracefully without JavaScript) and adds much-sought-after enhancements.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/superfish/1.7.3/superfish.min.js">//cdnjs.cloudflare.com/ajax/libs/superfish/1.7.3/superfish.min.js</a>]]></description>
+            <link>http://users.tpg.com.au/j_birch/</link>
+            <guid isPermaLink="false">
+                superfish1.7.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 06 Jun 2013 14:03:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[coffee-script updated to version 1.6.3]]></title>
             <description><![CDATA[CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/coffee-script/1.6.3/coffee-script.min.js">//cdnjs.cloudflare.com/ajax/libs/coffee-script/1.6.3/coffee-script.min.js</a>]]></description>
             <link>http://jashkenas.github.com/coffee-script/</link>
@@ -236,6 +280,15 @@
                 gsap1.9.8            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 05 Jun 2013 20:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[underscore-contrib(0.1.1) was added]]></title>
+            <description><![CDATA[The brass buckles on Underscore's utility belt.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/underscore-contrib/0.1.1/underscore-contrib.min.js">//cdnjs.cloudflare.com/ajax/libs/underscore-contrib/0.1.1/underscore-contrib.min.js</a>]]></description>
+            <link>https://github.com/documentcloud/underscore-contrib</link>
+            <guid isPermaLink="false">
+                underscore-contrib0.1.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 05 Jun 2013 18:19:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[backbone.layoutmanager updated to version 0.8.8]]></title>

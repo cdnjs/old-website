@@ -736,7 +736,7 @@
                 "AngularUI"
             ],
             "filename": "ui-bootstrap-tpls.min.js",
-            "version": "0.2.0",
+            "version": "0.3.0",
             "repositories": [
                 {
                     "type": "git",
@@ -751,6 +751,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.3.0",
+                    "files": [
+                        "ui-bootstrap-tpls.js",
+                        "ui-bootstrap-tpls.min.js",
+                        "ui-bootstrap.js",
+                        "ui-bootstrap.min.js"
+                    ]
+                },
                 {
                     "version": "0.2.0",
                     "files": [
@@ -6285,6 +6294,38 @@
                         "fileuploader.min.css",
                         "fileuploader.min.js",
                         "loading.gif"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "fingerprintjs",
+            "filename": "fingerprint.min.js",
+            "version": "v0.2.0",
+            "description": "Fast browser fingerprint library. By default uses Murmur hashing and returns a 32bit integer number.",
+            "homepage": "http://valve.github.io/fingerprintjs/",
+            "keywords": [
+                "fingerprint"
+            ],
+            "maintainers": [
+                {
+                    "name": "Valentin Vasilyev",
+                    "email": "iamvalentin@gmail.com",
+                    "web": "https://github.com/Valve"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/Valve/fingerprintjs"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "v0.2.0",
+                    "files": [
+                        "fingerprint.js",
+                        "fingerprint.min.js"
                     ]
                 }
             ]
@@ -15933,6 +15974,58 @@
             ]
         },
         {
+            "name": "opal-jquery",
+            "filename": "opal-jquery.min.js",
+            "version": "0.0.8",
+            "description": "jQuery for Opal",
+            "homepage": "http://opalrb.org",
+            "keywords": [
+                "opal",
+                "opal.js",
+                "opalrb",
+                "ruby",
+                "compiler",
+                "javascript",
+                "language",
+                "opal-jquery",
+                "jquery"
+            ],
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/opal/opal-jquery/blob/master/LICENSE"
+                }
+            ],
+            "maintainers": [
+                {
+                    "name": "Adam Beynon",
+                    "web": "https://github.com/adambeynon"
+                },
+                {
+                    "name": "Elia Schito",
+                    "web": "http://elia.schito.me"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/opal/opal-jquery"
+                }
+            ],
+            "dependencies": {
+                "opal": "0.3.43"
+            },
+            "assets": [
+                {
+                    "version": "0.0.8",
+                    "files": [
+                        "opal-jquery.js",
+                        "opal-jquery.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "opal-parser",
             "filename": "opal-parser.min.js",
             "version": "0.3.43",
@@ -20927,6 +21020,193 @@
             ]
         },
         {
+            "name": "social-likes",
+            "filename": "social-likes.js",
+            "description": "Beautiful “like” buttons with counters for popular social networks.",
+            "homepage": "http://sapegin.github.io/social-likes/",
+            "author": "Artem Sapegin <artem@sapegin.ru> (http://sapegin.me)",
+            "keywords": [
+                "like",
+                "button",
+                "social",
+                "network",
+                "facebook",
+                "twitter",
+                "google",
+                "livejournal"
+            ],
+            "version": "2.0.8",
+            "engines": {
+                "node": ">=0.4.0"
+            },
+            "main": "./r",
+            "devDependencies": {
+                "jsclass": ""
+            },
+            "scripts": {
+                "test": "node test/console.js"
+            },
+            "bugs": "https://github.com/sapegin/social-likes/issue",
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/sapegin/social-likes/blob/master/license.md"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git://github.comsapegin/social-likes.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.0.8",
+                    "files": [
+                        "Contributing.md",
+                        "Readme.md",
+                        "bower.json",
+                        "googleplusonecount.php",
+                        "license.md",
+                        "package.json",
+                        "social-likes.css",
+                        "social-likes.min.js",
+                        "src/Gruntfile.js",
+                        "src/demo.html",
+                        "src/icons/facebook.png",
+                        "src/icons/livejournal.png",
+                        "src/icons/mailru.png",
+                        "src/icons/odnoklassniki.png",
+                        "src/icons/pinterest.png",
+                        "src/icons/plusone.png",
+                        "src/icons/single.png",
+                        "src/icons/twitter.png",
+                        "src/icons/vkontakte.png",
+                        "src/package.json",
+                        "src/social-likes.js",
+                        "src/styles/index.styl",
+                        "src/styles/shugar.styl",
+                        "src/styles/styles.styl",
+                        "src/update-gh-pages.sh"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "social-likes",
+            "version": "0.0.0",
+            "devDependencies": {
+                "grunt": "~0.4.0",
+                "grunt-contrib-jshint": "~0.1.1",
+                "grunt-contrib-uglify": "~0.1.1",
+                "grunt-contrib-watch": "~0.2.0",
+                "grunt-contrib-stylus": "~0.4.0",
+                "grunt-imgo": "~0.1.0",
+                "grunt-csso": "~0.4.1",
+                "matchdep": "~0.1.1"
+            },
+            "assets": [
+                {
+                    "version": "2.0.8",
+                    "files": [
+                        "Contributing.md",
+                        "Readme.md",
+                        "bower.json",
+                        "googleplusonecount.php",
+                        "license.md",
+                        "package.json",
+                        "social-likes.css",
+                        "social-likes.min.js",
+                        "src/Gruntfile.js",
+                        "src/demo.html",
+                        "src/icons/facebook.png",
+                        "src/icons/livejournal.png",
+                        "src/icons/mailru.png",
+                        "src/icons/odnoklassniki.png",
+                        "src/icons/pinterest.png",
+                        "src/icons/plusone.png",
+                        "src/icons/single.png",
+                        "src/icons/twitter.png",
+                        "src/icons/vkontakte.png",
+                        "src/package.json",
+                        "src/social-likes.js",
+                        "src/styles/index.styl",
+                        "src/styles/shugar.styl",
+                        "src/styles/styles.styl",
+                        "src/update-gh-pages.sh"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "social-likes",
+            "filename": "social-likes.min.js",
+            "description": "Beautiful like buttons with counters for popular social networks.",
+            "homepage": "http://sapegin.github.io/social-likes/",
+            "author": {
+                "name": "Artem Sapegin",
+                "email": "artem@sapegin.ru",
+                "url": "http://sapegin.me"
+            },
+            "keywords": [
+                "jquery",
+                "like",
+                "button",
+                "social",
+                "network",
+                "facebook",
+                "twitter",
+                "google",
+                "livejournal"
+            ],
+            "version": "2.0.8",
+            "bugs": "https://github.com/sapegin/social-likes/issue",
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/sapegin/social-likes/blob/master/license.md"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git://github.comsapegin/social-likes.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.0.8",
+                    "files": [
+                        "Contributing.md",
+                        "Readme.md",
+                        "bower.json",
+                        "googleplusonecount.php",
+                        "license.md",
+                        "package.json",
+                        "social-likes.css",
+                        "social-likes.min.js",
+                        "src/Gruntfile.js",
+                        "src/demo.html",
+                        "src/icons/facebook.png",
+                        "src/icons/livejournal.png",
+                        "src/icons/mailru.png",
+                        "src/icons/odnoklassniki.png",
+                        "src/icons/pinterest.png",
+                        "src/icons/plusone.png",
+                        "src/icons/single.png",
+                        "src/icons/twitter.png",
+                        "src/icons/vkontakte.png",
+                        "src/package.json",
+                        "src/social-likes.js",
+                        "src/styles/index.styl",
+                        "src/styles/shugar.styl",
+                        "src/styles/styles.styl",
+                        "src/update-gh-pages.sh"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "socket.io",
             "filename": "socket.io.min.js",
             "version": "0.9.10",
@@ -21635,6 +21915,49 @@
                     "version": "1.3",
                     "files": [
                         "sugar.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "superfish",
+            "filename": "superfish.min.js",
+            "version": "1.7.3",
+            "description": "Superfish is an enhanced Suckerfish-style menu jQuery plugin that takes an existing pure CSS drop-down menu (so it degrades gracefully without JavaScript) and adds much-sought-after enhancements.",
+            "homepage": "http://users.tpg.com.au/j_birch/",
+            "keywords": [
+                "dropdown",
+                "jquery",
+                "menu",
+                "superfish",
+                "super fish"
+            ],
+            "maintainers": [
+                {
+                    "name": "Joel Birch",
+                    "web": "http://users.tpg.com.au/j_birch/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/joeldbirch/superfish"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.7.3",
+                    "files": [
+                        "megafish.css",
+                        "megafish.min.css",
+                        "superfish-navbar.css",
+                        "superfish-navbar.min.css",
+                        "superfish-vertical.css",
+                        "superfish-vertical.min.css",
+                        "superfish.css",
+                        "superfish.js",
+                        "superfish.min.css",
+                        "superfish.min.js"
                     ]
                 }
             ]
@@ -22951,6 +23274,43 @@
                     "version": "0.9.0",
                     "files": [
                         "typeahead.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "underscore-contrib",
+            "filename": "underscore-contrib.min.js",
+            "version": "0.1.1",
+            "description": "The brass buckles on Underscore's utility belt.",
+            "keywords": [
+                "underscore",
+                "utility",
+                "functional"
+            ],
+            "homepage": "https://github.com/documentcloud/underscore-contrib",
+            "author": {
+                "name": "Fogus",
+                "email": "me@fogus.me",
+                "url": "http://www.fogus.me"
+            },
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/documentcloud/underscore-contrib.git"
+            },
+            "assets": [
+                {
+                    "version": "0.1.1",
+                    "files": [
+                        "underscore-contrib.js",
+                        "underscore-contrib.min.js"
+                    ]
+                },
+                {
+                    "version": "0.1.0",
+                    "files": [
+                        "underscore-contrib.js",
+                        "underscore-contrib.min.js"
                     ]
                 }
             ]
