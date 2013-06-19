@@ -10,8 +10,44 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Mon, 17 Jun 2013 03:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2013 10:41:37 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[underscore-contrib updated to version 0.1.4]]></title>
+            <description><![CDATA[The brass buckles on Underscore's utility belt.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/underscore-contrib/0.1.4/underscore-contrib.min.js">//cdnjs.cloudflare.com/ajax/libs/underscore-contrib/0.1.4/underscore-contrib.min.js</a>]]></description>
+            <link>https://github.com/documentcloud/underscore-contrib</link>
+            <guid isPermaLink="false">
+                underscore-contrib0.1.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 18 Jun 2013 20:35:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[aui(5.2-m6) was added]]></title>
+            <description><![CDATA[Atlassian User Interface, the implementation of the Atlassian Design Guidelines: Design principles, components, patterns and guidance for building awesome Atlassian products and add-ons<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/aui/5.2-m6/js/aui-all.min.js">//cdnjs.cloudflare.com/ajax/libs/aui/5.2-m6/js/aui-all.min.js</a>]]></description>
+            <link>https://developer.atlassian.com/design</link>
+            <guid isPermaLink="false">
+                aui5.2-m6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 18 Jun 2013 17:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-ui-router(0.0.1) was added]]></title>
+            <description><![CDATA[State-based routing for AngularJS<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.0.1/angular-ui-router.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.0.1/angular-ui-router.min.js</a>]]></description>
+            <link>http://angular-ui.github.com/</link>
+            <guid isPermaLink="false">
+                angular-ui-router0.0.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 18 Jun 2013 01:34:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ember-data-django-rest-adapter(0.13) was added]]></title>
+            <description><![CDATA[An ember-data adapter for django web applications powered by the django-rest-framework<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember-data-django-rest-adapter/0.13/ember-data-django-rest-adapter.min.js">//cdnjs.cloudflare.com/ajax/libs/ember-data-django-rest-adapter/0.13/ember-data-django-rest-adapter.min.js</a>]]></description>
+            <link>https://github.com/toranb/ember-data-django-rest-adapter</link>
+            <guid isPermaLink="false">
+                ember-data-django-rest-adapter0.13            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 17 Jun 2013 14:20:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[social-likes(2.0.8) was added]]></title>
             <description><![CDATA[Beautiful like buttons with counters for popular social networks.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.8/social-likes.min.js">//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.8/social-likes.min.js</a>]]></description>
@@ -282,15 +318,6 @@
             <pubDate>Wed, 05 Jun 2013 20:17:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[underscore-contrib(0.1.1) was added]]></title>
-            <description><![CDATA[The brass buckles on Underscore's utility belt.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/underscore-contrib/0.1.1/underscore-contrib.min.js">//cdnjs.cloudflare.com/ajax/libs/underscore-contrib/0.1.1/underscore-contrib.min.js</a>]]></description>
-            <link>https://github.com/documentcloud/underscore-contrib</link>
-            <guid isPermaLink="false">
-                underscore-contrib0.1.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 05 Jun 2013 18:19:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[backbone.layoutmanager updated to version 0.8.8]]></title>
             <description><![CDATA[A layout and template manager for Backbone.js applications.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.layoutmanager/0.8.8/backbone.layoutmanager.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.layoutmanager/0.8.8/backbone.layoutmanager.min.js</a>]]></description>
             <link>http://layoutmanager.org</link>
@@ -343,78 +370,6 @@
                 bespoke.js0.2.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 05 Jun 2013 10:42:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[camanjs updated to version 4.1.1]]></title>
-            <description><![CDATA[Pure Javascript (Ca)nvas (Man)ipulation.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/camanjs/4.1.1/caman.full.min.js">//cdnjs.cloudflare.com/ajax/libs/camanjs/4.1.1/caman.full.min.js</a>]]></description>
-            <link>http://camanjs.com/</link>
-            <guid isPermaLink="false">
-                camanjs4.1.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 05 Jun 2013 10:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chosen updated to version 0.9.15]]></title>
-            <description><![CDATA[Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly. It is currently available in both jQuery and Prototype flavors.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chosen/0.9.15/chosen.jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/chosen/0.9.15/chosen.jquery.min.js</a>]]></description>
-            <link>http://harvesthq.github.com/chosen</link>
-            <guid isPermaLink="false">
-                chosen0.9.15            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 05 Jun 2013 10:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[messenger updated to version 1.3.3]]></title>
-            <description><![CDATA[Client-side growl-like notifications with actions and auto-retry.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/messenger/1.3.3/js/messenger.min.js">//cdnjs.cloudflare.com/ajax/libs/messenger/1.3.3/js/messenger.min.js</a>]]></description>
-            <link>http://github.hubspot.com/messenger</link>
-            <guid isPermaLink="false">
-                messenger1.3.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 05 Jun 2013 10:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lunr.js updated to version 0.3.3]]></title>
-            <description><![CDATA[Simple full-text search in your browser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lunr.js/0.3.3/lunr.min.js">//cdnjs.cloudflare.com/ajax/libs/lunr.js/0.3.3/lunr.min.js</a>]]></description>
-            <link>http://lunrjs.com</link>
-            <guid isPermaLink="false">
-                lunr.js0.3.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 04 Jun 2013 13:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[idbwrapper updated to version 1.2.0]]></title>
-            <description><![CDATA[A cross-browser wrapper for IndexedDB<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idbwrapper/1.2.0/idbstore.min.js">//cdnjs.cloudflare.com/ajax/libs/idbwrapper/1.2.0/idbstore.min.js</a>]]></description>
-            <link>https://github.com/jensarps/IDBWrapper</link>
-            <guid isPermaLink="false">
-                idbwrapper1.2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 04 Jun 2013 13:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.easytabs(3.2.0) was added]]></title>
-            <description><![CDATA[EasyTabs is a lightweight jQuery plugin to provide full tab functionality, while leaving the styling up to you.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.easytabs/3.2.0/jquery.easytabs.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.easytabs/3.2.0/jquery.easytabs.min.js</a>]]></description>
-            <link>http://os.alfajango.com/easytabs/</link>
-            <guid isPermaLink="false">
-                jquery.easytabs3.2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 04 Jun 2013 01:44:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.pep(0.4.0) was added]]></title>
-            <description><![CDATA[Kinetic drag for mobile & desktop.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.pep/0.4.0/jquery.pep.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.pep/0.4.0/jquery.pep.min.js</a>]]></description>
-            <link>http://pep.briangonzalez.org</link>
-            <guid isPermaLink="false">
-                jquery.pep0.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 03 Jun 2013 20:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chardin.js(0.1.2) was added]]></title>
-            <description><![CDATA[Simple overlay instructions for your apps.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chardin.js/0.1.2/chardinjs.min.js">//cdnjs.cloudflare.com/ajax/libs/chardin.js/0.1.2/chardinjs.min.js</a>]]></description>
-            <link>http://heelhook.github.io/chardin.js/</link>
-            <guid isPermaLink="false">
-                chardin.js0.1.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 03 Jun 2013 10:03:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

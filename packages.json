@@ -772,6 +772,57 @@
             ]
         },
         {
+            "name": "angular-ui-router",
+            "description": "State-based routing for AngularJS",
+            "version": "0.0.1",
+            "filename": "angular-ui-router.min.js",
+            "homepage": "http://angular-ui.github.com/",
+            "author": {
+                "name": "Karsten Sperling",
+                "url": "https://github.com/ksperling"
+            },
+            "contributors": [
+                {
+                    "name": "AngularUI",
+                    "url": "https://github.com/angular-ui?tab=members"
+                }
+            ],
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/angular-ui/ui-router.git"
+            },
+            "bugs": "https://github.com/angular-ui/ui-router/issues",
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/angular-ui/ui-router/blob/master/LICENSE"
+                }
+            ],
+            "dependencies": {},
+            "devDependencies": {
+                "grunt": "~0.4.1",
+                "grunt-contrib-concat": "~0.1.3",
+                "grunt-contrib-uglify": "~0.2.0",
+                "grunt-contrib-jshint": "~0.3.0",
+                "grunt-contrib-watch": "~0.3.1",
+                "grunt-contrib-connect": "~0.2.0",
+                "grunt-contrib-clean": "~0.4.0",
+                "grunt-karma": "~0.4.3",
+                "jsdoc": "git://github.com/jsdoc3/jsdoc.git#v3.1.0",
+                "shelljs": "~0.1.4",
+                "faithful-exec": "~0.1.0"
+            },
+            "assets": [
+                {
+                    "version": "0.0.1",
+                    "files": [
+                        "angular-ui-router.js",
+                        "angular-ui-router.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "angular-ui",
             "filename": "angular-ui.min.js",
             "description": "AngularUI is the companion suite to the AngularJS framework.",
@@ -1169,6 +1220,126 @@
                     "version": "0.3.0",
                     "files": [
                         "augment.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "aui",
+            "filename": "js/aui-all.min.js",
+            "version": "5.2-m6",
+            "description": "Atlassian User Interface, the implementation of the Atlassian Design Guidelines: Design principles, components, patterns and guidance for building awesome Atlassian products and add-ons",
+            "homepage": "https://developer.atlassian.com/design",
+            "bugs": "https://ecosystem.atlassian.net/browse/AUI",
+            "keywords": [
+                "atlassian",
+                "aui",
+                "adg"
+            ],
+            "maintainers": [
+                {
+                    "name": "Rich Manalang",
+                    "web": "https://twitter.com/rmanalan"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://bitbucket.org/atlassian/aui"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "5.2-m6",
+                    "files": [
+                        "css/arrow.png",
+                        "css/atlassian-icons.eot",
+                        "css/atlassian-icons.svg",
+                        "css/atlassian-icons.ttf",
+                        "css/atlassian-icons.woff",
+                        "css/aui-all.css",
+                        "css/aui-experimental.css",
+                        "css/aui-icon-close.png",
+                        "css/aui-icon-tools.gif",
+                        "css/aui-ie.css",
+                        "css/aui-ie9.css",
+                        "css/aui-message-icon-sprite.png",
+                        "css/aui-toolbar-24px.png",
+                        "css/aui-toolbar-button-active-bg.png",
+                        "css/aui-toolbar-button-inactive-bg.png",
+                        "css/aui.css",
+                        "css/bg-000-trans20.png",
+                        "css/bg-000-trans50.png",
+                        "css/bg-grippy.png",
+                        "css/core/icon-dropdown-active-d.png",
+                        "css/core/icon-dropdown-active.png",
+                        "css/core/icon-dropdown-d.png",
+                        "css/core/icon-dropdown.png",
+                        "css/core/icon-maximize-d.png",
+                        "css/core/icon-maximize.png",
+                        "css/core/icon-minimize-d.png",
+                        "css/core/icon-minimize.png",
+                        "css/core/icon-move-d.png",
+                        "css/core/icon-move.png",
+                        "css/core/icon-search.png",
+                        "css/fav_off_16.png",
+                        "css/fav_on_16.png",
+                        "css/forms/icon-date.png",
+                        "css/forms/icon-help.png",
+                        "css/forms/icon-range.png",
+                        "css/forms/icon-required.png",
+                        "css/forms/icon-users.png",
+                        "css/forms/icons_form.gif",
+                        "css/icons/aui-icon-close.png",
+                        "css/icons/aui-icon-tools.gif",
+                        "css/icons/aui-message-icon-sprite.png",
+                        "css/icons/core/icon-dropdown-active-d.png",
+                        "css/icons/core/icon-dropdown-active.png",
+                        "css/icons/core/icon-dropdown-d.png",
+                        "css/icons/core/icon-dropdown.png",
+                        "css/icons/core/icon-maximize-d.png",
+                        "css/icons/core/icon-maximize.png",
+                        "css/icons/core/icon-minimize-d.png",
+                        "css/icons/core/icon-minimize.png",
+                        "css/icons/core/icon-move-d.png",
+                        "css/icons/core/icon-move.png",
+                        "css/icons/core/icon-search.png",
+                        "css/icons/forms/icon-date.png",
+                        "css/icons/forms/icon-help.png",
+                        "css/icons/forms/icon-range.png",
+                        "css/icons/forms/icon-required.png",
+                        "css/icons/forms/icon-users.png",
+                        "css/icons/messages/icon-close-inverted.png",
+                        "css/icons/messages/icon-close.png",
+                        "css/icons/messages/icon-error-white.png",
+                        "css/icons/messages/icon-error.png",
+                        "css/icons/messages/icon-generic.png",
+                        "css/icons/messages/icon-hint.png",
+                        "css/icons/messages/icon-info.png",
+                        "css/icons/messages/icon-success.png",
+                        "css/icons/messages/icon-warning.png",
+                        "css/icons_form.gif",
+                        "css/messages/icon-close-inverted.png",
+                        "css/messages/icon-close.png",
+                        "css/messages/icon-error-white.png",
+                        "css/messages/icon-error.png",
+                        "css/messages/icon-generic.png",
+                        "css/messages/icon-hint.png",
+                        "css/messages/icon-info.png",
+                        "css/messages/icon-success.png",
+                        "css/messages/icon-warning.png",
+                        "css/toolbar/aui-toolbar-24px.png",
+                        "css/toolbar/aui-toolbar-button-active-bg.png",
+                        "css/toolbar/aui-toolbar-button-inactive-bg.png",
+                        "css/wait.gif",
+                        "js/aui-all.js",
+                        "js/aui-all.min.js",
+                        "js/aui-dependencies.js",
+                        "js/aui-experimental.js",
+                        "js/aui-ie.js",
+                        "js/aui-soy.js",
+                        "js/aui.js",
+                        "js/aui.min.js"
                     ]
                 }
             ]
@@ -5491,6 +5662,44 @@
                     "files": [
                         "jquery.embedly.js",
                         "jquery.embedly.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ember-data-django-rest-adapter",
+            "filename": "ember-data-django-rest-adapter.min.js",
+            "version": "0.13",
+            "description": "An ember-data adapter for django web applications powered by the django-rest-framework",
+            "homepage": "https://github.com/toranb/ember-data-django-rest-adapter",
+            "keywords": [
+                "ember",
+                "ember.js",
+                "ember-data",
+                "django-rest-framework"
+            ],
+            "maintainers": [
+                {
+                    "name": "Toran Billups",
+                    "web": "https://github.com/toranb"
+                },
+                {
+                    "name": "Austin Morton",
+                    "web": "https://github.com/Juvenal1228"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/toranb/ember-data-django-rest-adapter"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.13",
+                    "files": [
+                        "ember-data-django-rest-adapter.js",
+                        "ember-data-django-rest-adapter.min.js"
                     ]
                 }
             ]
@@ -23281,7 +23490,7 @@
         {
             "name": "underscore-contrib",
             "filename": "underscore-contrib.min.js",
-            "version": "0.1.1",
+            "version": "0.1.4",
             "description": "The brass buckles on Underscore's utility belt.",
             "keywords": [
                 "underscore",
@@ -23299,6 +23508,13 @@
                 "url": "https://github.com/documentcloud/underscore-contrib.git"
             },
             "assets": [
+                {
+                    "version": "0.1.4",
+                    "files": [
+                        "underscore-contrib.js",
+                        "underscore-contrib.min.js"
+                    ]
+                },
                 {
                     "version": "0.1.1",
                     "files": [
