@@ -587,6 +587,29 @@
             ]
         },
         {
+            "name": "aight",
+            "filename": "aight.min.js",
+            "version": "1.1.1",
+            "description": "A collection of tools for making reasonable JavaScript and CSS work in IE8",
+            "author": "Shawn Allen",
+            "homepage": "https://github.com/shawnbot/aight",
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/shawnbot/aight.git"
+            },
+            "assets": [
+                {
+                    "version": "1.1.1",
+                    "files": [
+                        "aight.d3.js",
+                        "aight.d3.min.js",
+                        "aight.js",
+                        "aight.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "alloy-ui",
             "filename": "aui-min.js",
             "version": "1.0.1",
@@ -1193,7 +1216,7 @@
         {
             "name": "augment.js",
             "filename": "augment.min.js",
-            "version": "0.4.2",
+            "version": "1.0.0",
             "description": "Enables use of modern JavaScript by augmenting built in objects with the latest JavaScript methods.",
             "homepage": "http://augmentjs.com",
             "keywords": [
@@ -1216,6 +1239,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.0.0",
+                    "files": [
+                        "augment.min.js"
+                    ]
+                },
                 {
                     "version": "0.4.2",
                     "files": [
@@ -9227,9 +9256,10 @@
             "name": "intro.js",
             "filename": "intro.min.js",
             "description": "A better way for new feature introduction and step-by-step users guide for your website and project.",
-            "version": "0.2.1",
+            "version": "0.4.0",
             "keywords": [
                 "intro.js",
+                "tutorial",
                 "step-by-step guide",
                 "introductions"
             ],
@@ -9252,12 +9282,21 @@
             ],
             "licenses": [
                 {
-                    "name": "Personal License",
+                    "name": "MIT",
                     "url": "https://github.com/usablica/intro.js#license"
                 }
             ],
             "homepage": "http://usablica.github.com/intro.js/",
             "assets": [
+                {
+                    "version": "0.4.0",
+                    "files": [
+                        "intro.js",
+                        "intro.min.js",
+                        "introjs.css",
+                        "introjs.min.css"
+                    ]
+                },
                 {
                     "version": "0.2.1",
                     "files": [
@@ -9784,7 +9823,7 @@
         {
             "name": "jquery-backstretch",
             "filename": "jquery.backstretch.min.js",
-            "version": "2.0.3",
+            "version": "2.0.4",
             "description": "Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.",
             "homepage": "http://srobbin.com/jquery-plugins/backstretch/",
             "keywords": [
@@ -9807,6 +9846,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.0.4",
+                    "files": [
+                        "jquery.backstretch.min.js"
+                    ]
+                },
                 {
                     "version": "2.0.3",
                     "files": [
@@ -11130,6 +11175,21 @@
                     "version": "1.2.6",
                     "files": [
                         "jquery.tools.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery-tubeplayer",
+            "filename": "jquery.tubeplayer.min.js",
+            "version": "1.1.6",
+            "description": "A jQuery wrapper around the YouTube Player API.",
+            "homepage": "https://github.com/nirvanatikku/jQuery-TubePlayer-Plugin",
+            "assets": [
+                {
+                    "version": "1.1.6",
+                    "files": [
+                        "jquery.tubeplayer.min.js"
                     ]
                 }
             ]
@@ -19288,6 +19348,38 @@
             ]
         },
         {
+            "name": "quo.js",
+            "filename": "quo.js",
+            "version": "2.3.1",
+            "description": "A micro JavaScript Library for Mobile Devices",
+            "homepage": "http://quojs.tapquo.com",
+            "keywords": [
+                "mobile",
+                "touch"
+            ],
+            "maintainers": [
+                {
+                    "name": "soyjavi",
+                    "email": "javi@tapquo.com",
+                    "web": "http://www.tapquo.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/soyjavi/QuoJS"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.3.1",
+                    "files": [
+                        "quo.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "qwery",
             "description": "blazing fast CSS3 query selector engine",
             "version": "3.4.1",
@@ -19587,11 +19679,59 @@
             "bugs": "https://github.com/facebook/react/issues",
             "assets": [
                 {
+                    "version": "0.3.3",
+                    "files": [
+                        "JSXTransformer.js",
+                        "react.js",
+                        "react.min.js"
+                    ]
+                },
+                {
                     "version": "0.3.2",
                     "files": [
                         "JSXTransformer.js",
                         "react.js",
                         "react.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "reactive-coffee",
+            "filename": "reactive-coffee.min.js",
+            "version": "0.0.0",
+            "description": "A lightweight CoffeeScript library for reactive programming and for declaratively specifying reactive DOM templates in a simple embedded DSL.",
+            "homepage": "http://yang.github.io/reactive-coffee",
+            "keywords": [
+                "reactive",
+                "reactive-programming",
+                "dataflow",
+                "mvc",
+                "mvvm",
+                "model-view",
+                "binding",
+                "data-binding",
+                "view"
+            ],
+            "maintainers": [
+                {
+                    "name": "Yang Zhang",
+                    "web": "http://yz.mit.edu"
+                }
+            ],
+            "repositories": [
+                "https://github.com/yang/reactive-coffee"
+            ],
+            "dependencies": {
+                "underscore": ">=1.4.4",
+                "jquery": ">=1.7.0"
+            },
+            "assets": [
+                {
+                    "version": "0.0.0",
+                    "files": [
+                        "reactive-coffee.js",
+                        "reactive-coffee.min.js"
                     ]
                 }
             ]

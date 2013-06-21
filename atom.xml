@@ -10,8 +10,71 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 21 Jun 2013 00:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2013 04:37:50 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[quo.js(2.3.1) was added]]></title>
+            <description><![CDATA[A micro JavaScript Library for Mobile Devices<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/quo.js/2.3.1/quo.js">//cdnjs.cloudflare.com/ajax/libs/quo.js/2.3.1/quo.js</a>]]></description>
+            <link>http://quojs.tapquo.com</link>
+            <guid isPermaLink="false">
+                quo.js2.3.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 21 Jun 2013 03:47:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[aight(1.1.1) was added]]></title>
+            <description><![CDATA[A collection of tools for making reasonable JavaScript and CSS work in IE8<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/aight/1.1.1/aight.min.js">//cdnjs.cloudflare.com/ajax/libs/aight/1.1.1/aight.min.js</a>]]></description>
+            <link>https://github.com/shawnbot/aight</link>
+            <guid isPermaLink="false">
+                aight1.1.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Jun 2013 23:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[reactive-coffee(0.0.0) was added]]></title>
+            <description><![CDATA[A lightweight CoffeeScript library for reactive programming and for declaratively specifying reactive DOM templates in a simple embedded DSL.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/reactive-coffee/0.0.0/reactive-coffee.min.js">//cdnjs.cloudflare.com/ajax/libs/reactive-coffee/0.0.0/reactive-coffee.min.js</a>]]></description>
+            <link>http://yang.github.io/reactive-coffee</link>
+            <guid isPermaLink="false">
+                reactive-coffee0.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Jun 2013 20:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[augment.js updated to version 1.0.0]]></title>
+            <description><![CDATA[Enables use of modern JavaScript by augmenting built in objects with the latest JavaScript methods.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/augment.js/1.0.0/augment.min.js">//cdnjs.cloudflare.com/ajax/libs/augment.js/1.0.0/augment.min.js</a>]]></description>
+            <link>http://augmentjs.com</link>
+            <guid isPermaLink="false">
+                augment.js1.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Jun 2013 12:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-tubeplayer(1.1.6) was added]]></title>
+            <description><![CDATA[A jQuery wrapper around the YouTube Player API.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-tubeplayer/1.1.6/jquery.tubeplayer.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-tubeplayer/1.1.6/jquery.tubeplayer.min.js</a>]]></description>
+            <link>https://github.com/nirvanatikku/jQuery-TubePlayer-Plugin</link>
+            <guid isPermaLink="false">
+                jquery-tubeplayer1.1.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Jun 2013 07:56:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[intro.js updated to version 0.4.0]]></title>
+            <description><![CDATA[A better way for new feature introduction and step-by-step users guide for your website and project.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/intro.js/0.4.0/intro.min.js">//cdnjs.cloudflare.com/ajax/libs/intro.js/0.4.0/intro.min.js</a>]]></description>
+            <link>http://usablica.github.com/intro.js/</link>
+            <guid isPermaLink="false">
+                intro.js0.4.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 19 Jun 2013 23:19:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-backstretch updated to version 2.0.4]]></title>
+            <description><![CDATA[Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js</a>]]></description>
+            <link>http://srobbin.com/jquery-plugins/backstretch/</link>
+            <guid isPermaLink="false">
+                jquery-backstretch2.0.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 19 Jun 2013 21:06:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jquery.collapsible updated to version 1.2]]></title>
             <description><![CDATA[This plugin enables site owners to control multiple collapsible panels by auto opening any defaults specified, and keeping those opened/closed by users as they left them while browsing your site.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.collapsible/1.2/jquery.collapsible.js">//cdnjs.cloudflare.com/ajax/libs/jquery.collapsible/1.2/jquery.collapsible.js</a>]]></description>
