@@ -62,7 +62,7 @@
         {
             "name": "Colors.js",
             "filename": "colors.min.js",
-            "version": "1.2",
+            "version": "1.2.1",
             "description": "Colors aims to be an easy to use color manipulation library that is lightweight and very functional.",
             "homepage": "http://mbjordan.github.io/Colors/",
             "keywords": [
@@ -83,6 +83,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.2.1",
+                    "files": [
+                        "colors.min.js"
+                    ]
+                },
                 {
                     "version": "1.2",
                     "files": [
@@ -1413,6 +1419,40 @@
                         "js/aui-soy.js",
                         "js/aui.js",
                         "js/aui.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "autosize.js",
+            "filename": "autosize-min.js",
+            "version": "1.17.1",
+            "author": "Jack Moore",
+            "description": "Automatically adjust textarea height based on user input.",
+            "homepage": "http://www.jacklmoore.com",
+            "keywords": [
+                "form",
+                "textarea",
+                "ui",
+                "jQuery"
+            ],
+            "maintainers": [
+                {
+                    "name": "Jack Moore",
+                    "web": "http://www.jacklmoore.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/jackmoore/autosize.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.17.1",
+                    "files": [
+                        "autosize-min.js"
                     ]
                 }
             ]
@@ -4783,6 +4823,8 @@
                 {
                     "version": "3.2.2",
                     "files": [
+                        "d3.js",
+                        "d3.min.js",
                         "d3.v3.js",
                         "d3.v3.min.js"
                     ]
@@ -9738,6 +9780,38 @@
                     "version": "2.0.0",
                     "files": [
                         "state-machine.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jeditable.js",
+            "filename": "jeditable.min.js",
+            "version": "1.7.3",
+            "author": "Mika Tuupola",
+            "description": ". With few lines of JavaScript code I allow you to click and edit the content of different html elements. I am based on Dylan Verheul’s editable.",
+            "homepage": "http://www.appelsiini.net/projects/jeditable",
+            "keywords": [
+                "editable",
+                "jquery"
+            ],
+            "maintainers": [
+                {
+                    "name": "Mika Tuupola",
+                    "web": "http://www.appelsiini.net/projects/jeditable"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/tuupola/jquery_jeditable.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.7.3",
+                    "files": [
+                        "jeditable.min.js"
                     ]
                 }
             ]
@@ -19233,7 +19307,7 @@
         {
             "name": "pubnub",
             "filename": "pubnub.min.js",
-            "version": "3.4.6",
+            "version": "3.5.3",
             "description": "PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.",
             "homepage": "http://www.pubnub.com/",
             "keywords": [
@@ -19264,6 +19338,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.5.3",
+                    "files": [
+                        "pubnub.min.js"
+                    ]
+                },
                 {
                     "version": "3.4.6",
                     "files": [

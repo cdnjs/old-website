@@ -10,8 +10,44 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 28 Jun 2013 00:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2013 01:10:35 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[pubnub updated to version 3.5.3]]></title>
+            <description><![CDATA[PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pubnub/3.5.3/pubnub.min.js">//cdnjs.cloudflare.com/ajax/libs/pubnub/3.5.3/pubnub.min.js</a>]]></description>
+            <link>http://www.pubnub.com/</link>
+            <guid isPermaLink="false">
+                pubnub3.5.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Jun 2013 23:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jeditable.js(1.7.3) was added]]></title>
+            <description><![CDATA[. With few lines of JavaScript code I allow you to click and edit the content of different html elements. I am based on Dylan Verheul’s editable.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jeditable.js/1.7.3/jeditable.min.js">//cdnjs.cloudflare.com/ajax/libs/jeditable.js/1.7.3/jeditable.min.js</a>]]></description>
+            <link>http://www.appelsiini.net/projects/jeditable</link>
+            <guid isPermaLink="false">
+                jeditable.js1.7.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Jun 2013 22:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[autosize.js(1.17.1) was added]]></title>
+            <description><![CDATA[Automatically adjust textarea height based on user input.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/autosize.js/1.17.1/autosize-min.js">//cdnjs.cloudflare.com/ajax/libs/autosize.js/1.17.1/autosize-min.js</a>]]></description>
+            <link>http://www.jacklmoore.com</link>
+            <guid isPermaLink="false">
+                autosize.js1.17.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Jun 2013 21:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colors.js updated to version 1.2.1]]></title>
+            <description><![CDATA[Colors aims to be an easy to use color manipulation library that is lightweight and very functional.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Colors.js/1.2.1/colors.min.js">//cdnjs.cloudflare.com/ajax/libs/Colors.js/1.2.1/colors.min.js</a>]]></description>
+            <link>http://mbjordan.github.io/Colors/</link>
+            <guid isPermaLink="false">
+                Colors.js1.2.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Jun 2013 14:28:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[d3 updated to version 3.2.2]]></title>
             <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.2.2/d3.v3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.2.2/d3.v3.min.js</a>]]></description>
@@ -74,15 +110,6 @@
                 pure0.2.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 25 Jun 2013 22:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colors.js(1.2) was added]]></title>
-            <description><![CDATA[Colors aims to be an easy to use color manipulation library that is lightweight and very functional.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Colors.js/1.2/colors.min.js">//cdnjs.cloudflare.com/ajax/libs/Colors.js/1.2/colors.min.js</a>]]></description>
-            <link>http://mbjordan.github.io/Colors/</link>
-            <guid isPermaLink="false">
-                Colors.js1.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 25 Jun 2013 20:36:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery.selectboxit updated to version 3.6.0]]></title>
