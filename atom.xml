@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Thu, 27 Jun 2013 12:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2013 00:03:49 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[d3 updated to version 3.2.2]]></title>
@@ -110,6 +110,15 @@
                 js-url1.8.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 25 Jun 2013 05:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[r2d3(0.1.1) was added]]></title>
+            <description><![CDATA[R2D3 is a customized build of D3 powered by RaphaelJS. The combination of D3 and Raphael enable developers to easily build data visualizations that work in IE7+ and all modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/r2d3/0.1.1/r2d3.min.js">//cdnjs.cloudflare.com/ajax/libs/r2d3/0.1.1/r2d3.min.js</a>]]></description>
+            <link>https://github.com/mhemesath/r2d3</link>
+            <guid isPermaLink="false">
+                r2d30.1.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 24 Jun 2013 19:29:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery-url-parser updated to version 2.3.1]]></title>
