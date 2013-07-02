@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 28 Jun 2013 01:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2013 03:23:10 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[toastr.js updated to version 1.3.1]]></title>
+            <description><![CDATA[ToastrJS is a JavaScript library for Gnome / Growl type non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/1.3.1/js/toastr.min.js">//cdnjs.cloudflare.com/ajax/libs/toastr.js/1.3.1/js/toastr.min.js</a>]]></description>
+            <link>http://www.toastrjs.com</link>
+            <guid isPermaLink="false">
+                toastr.js1.3.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 02 Jul 2013 01:53:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[pubnub updated to version 3.5.3]]></title>
             <description><![CDATA[PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pubnub/3.5.3/pubnub.min.js">//cdnjs.cloudflare.com/ajax/libs/pubnub/3.5.3/pubnub.min.js</a>]]></description>
@@ -335,158 +344,6 @@
                 aui5.2-m6            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 18 Jun 2013 17:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[angular-ui-router(0.0.1) was added]]></title>
-            <description><![CDATA[State-based routing for AngularJS<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.0.1/angular-ui-router.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.0.1/angular-ui-router.min.js</a>]]></description>
-            <link>http://angular-ui.github.com/</link>
-            <guid isPermaLink="false">
-                angular-ui-router0.0.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 18 Jun 2013 01:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ember-data-django-rest-adapter(0.13) was added]]></title>
-            <description><![CDATA[An ember-data adapter for django web applications powered by the django-rest-framework<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember-data-django-rest-adapter/0.13/ember-data-django-rest-adapter.min.js">//cdnjs.cloudflare.com/ajax/libs/ember-data-django-rest-adapter/0.13/ember-data-django-rest-adapter.min.js</a>]]></description>
-            <link>https://github.com/toranb/ember-data-django-rest-adapter</link>
-            <guid isPermaLink="false">
-                ember-data-django-rest-adapter0.13            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 17 Jun 2013 14:20:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[social-likes(2.0.8) was added]]></title>
-            <description><![CDATA[Beautiful like buttons with counters for popular social networks.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.8/social-likes.min.js">//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.8/social-likes.min.js</a>]]></description>
-            <link>http://sapegin.github.io/social-likes/</link>
-            <guid isPermaLink="false">
-                social-likes2.0.8            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 17 Jun 2013 03:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[social-likes(0.0.0) was added]]></title>
-            <description><![CDATA[undefined<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/social-likes/0.0.0/undefined">//cdnjs.cloudflare.com/ajax/libs/social-likes/0.0.0/undefined</a>]]></description>
-            <guid isPermaLink="false">
-                social-likes0.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 17 Jun 2013 03:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[social-likes(2.0.8) was added]]></title>
-            <description><![CDATA[Beautiful “like” buttons with counters for popular social networks.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.8/social-likes.js">//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.8/social-likes.js</a>]]></description>
-            <link>http://sapegin.github.io/social-likes/</link>
-            <guid isPermaLink="false">
-                social-likes2.0.8            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 17 Jun 2013 03:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.simpleWeather updated to version 2.3.0]]></title>
-            <description><![CDATA[A simple jQuery plugin to display the weather information for any location. The data is pulled from the public Yahoo! Weather feed via the YQL API. Developed by James Fleeting.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.simpleWeather/2.3.0/jquery.simpleWeather.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.simpleWeather/2.3.0/jquery.simpleWeather.min.js</a>]]></description>
-            <link>http://simpleweatherjs.com</link>
-            <guid isPermaLink="false">
-                jquery.simpleWeather2.3.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 17 Jun 2013 01:32:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[font-awesome updated to version 3.2.0]]></title>
-            <description><![CDATA[Font Awesome<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.0/css/font-awesome.min.css">//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.0/css/font-awesome.min.css</a>]]></description>
-            <link>http://fortawesome.github.com/Font-Awesome/</link>
-            <guid isPermaLink="false">
-                font-awesome3.2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 16 Jun 2013 07:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone.modelbinder updated to version 1.0.2]]></title>
-            <description><![CDATA[Simple, flexible and powerful Model-View binding for Backbone.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.modelbinder/1.0.2/Backbone.ModelBinder.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.modelbinder/1.0.2/Backbone.ModelBinder.min.js</a>]]></description>
-            <link>https://github.com/theironcook/Backbone.ModelBinder</link>
-            <guid isPermaLink="false">
-                backbone.modelbinder1.0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 16 Jun 2013 07:46:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[web-socket-js(1.0.0) was added]]></title>
-            <description><![CDATA[HTML5 Web Socket implementation powered by Flash.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/web-socket-js/1.0.0/web_socket.min.js">//cdnjs.cloudflare.com/ajax/libs/web-socket-js/1.0.0/web_socket.min.js</a>]]></description>
-            <link>https://github.com/gimite/web-socket-js</link>
-            <guid isPermaLink="false">
-                web-socket-js1.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 16 Jun 2013 07:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[html2canvas(0.4.0) was added]]></title>
-            <description><![CDATA[This script allows you to take "screenshots" of webpages or parts of it, directly on the users browser.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.0/html2canvas.js">//cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.0/html2canvas.js</a>]]></description>
-            <link>http://html2canvas.hertzen.com/</link>
-            <guid isPermaLink="false">
-                html2canvas0.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 16 Jun 2013 07:23:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone-pageable updated to version 1.3.1]]></title>
-            <description><![CDATA[A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.3.1/backbone-pageable.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.3.1/backbone-pageable.min.js</a>]]></description>
-            <link>https://github.com/wyuenho/backbone-pageable</link>
-            <guid isPermaLink="false">
-                backbone-pageable1.3.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 15 Jun 2013 14:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.blockUI(2.61.0-2013.06.06) was added]]></title>
-            <description><![CDATA[Simulate synchronous ajax by blocking - not locking - the UI. This plugin lets you block user interaction with the page or with a specific element on the page. Also great at displaying modal dialogs.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.blockUI/2.61.0-2013.06.06/jquery.blockUI.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.blockUI/2.61.0-2013.06.06/jquery.blockUI.min.js</a>]]></description>
-            <link>http://jquery.malsup.com/block</link>
-            <guid isPermaLink="false">
-                jquery.blockUI2.61.0-2013.06.06            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 15 Jun 2013 08:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sizzle updated to version 1.10.1]]></title>
-            <description><![CDATA[A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sizzle/1.10.1/sizzle.min.js">//cdnjs.cloudflare.com/ajax/libs/sizzle/1.10.1/sizzle.min.js</a>]]></description>
-            <link>http://sizzlejs.com/</link>
-            <guid isPermaLink="false">
-                sizzle1.10.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 15 Jun 2013 02:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nvd3 updated to version 1.0.0-beta]]></title>
-            <description><![CDATA[Re-usable charts and chart components for d3.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/nvd3/1.0.0-beta/nv.d3.min.js">//cdnjs.cloudflare.com/ajax/libs/nvd3/1.0.0-beta/nv.d3.min.js</a>]]></description>
-            <link>http://nvd3.org/</link>
-            <guid isPermaLink="false">
-                nvd31.0.0-beta            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Jun 2013 23:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[masonry updated to version 3.0.0]]></title>
-            <description><![CDATA[Cascading grid layout library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/masonry/3.0.0/masonry.pkgd.js">//cdnjs.cloudflare.com/ajax/libs/masonry/3.0.0/masonry.pkgd.js</a>]]></description>
-            <link>http://masonry.desandro.com/</link>
-            <guid isPermaLink="false">
-                masonry3.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Jun 2013 13:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fabric.js updated to version 1.2.0]]></title>
-            <description><![CDATA[A powerful and simple Javascript canvas library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/fabric.js/1.2.0/fabric.all.min.js">//cdnjs.cloudflare.com/ajax/libs/fabric.js/1.2.0/fabric.all.min.js</a>]]></description>
-            <link>http://fabricjs.com/</link>
-            <guid isPermaLink="false">
-                fabric.js1.2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Jun 2013 09:21:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone.paginator updated to version 0.8]]></title>
-            <description><![CDATA[Pagination component for backbone.js<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.paginator/0.8/backbone.paginator.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.paginator/0.8/backbone.paginator.min.js</a>]]></description>
-            <link>https://github.com/addyosmani/backbone.paginator</link>
-            <guid isPermaLink="false">
-                backbone.paginator0.8            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Jun 2013 07:42:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
