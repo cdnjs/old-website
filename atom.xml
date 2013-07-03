@@ -10,8 +10,26 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 02 Jul 2013 03:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2013 23:33:05 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jquery updated to version 2.0.3]]></title>
+            <description><![CDATA[jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js</a>]]></description>
+            <link>http://jquery.com/</link>
+            <guid isPermaLink="false">
+                jquery2.0.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 03 Jul 2013 18:08:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gsap updated to version 1.10.0]]></title>
+            <description><![CDATA[GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gsap/1.10.0/TweenMax.min.js">//cdnjs.cloudflare.com/ajax/libs/gsap/1.10.0/TweenMax.min.js</a>]]></description>
+            <link>http://www.greensock.com/gsap-js/</link>
+            <guid isPermaLink="false">
+                gsap1.10.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 03 Jul 2013 16:33:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[toastr.js updated to version 1.3.1]]></title>
             <description><![CDATA[ToastrJS is a JavaScript library for Gnome / Growl type non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/1.3.1/js/toastr.min.js">//cdnjs.cloudflare.com/ajax/libs/toastr.js/1.3.1/js/toastr.min.js</a>]]></description>
@@ -299,51 +317,6 @@
                 jquery-tubeplayer1.1.6            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 20 Jun 2013 07:56:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[intro.js updated to version 0.4.0]]></title>
-            <description><![CDATA[A better way for new feature introduction and step-by-step users guide for your website and project.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/intro.js/0.4.0/intro.min.js">//cdnjs.cloudflare.com/ajax/libs/intro.js/0.4.0/intro.min.js</a>]]></description>
-            <link>http://usablica.github.com/intro.js/</link>
-            <guid isPermaLink="false">
-                intro.js0.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 19 Jun 2013 23:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-backstretch updated to version 2.0.4]]></title>
-            <description><![CDATA[Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js</a>]]></description>
-            <link>http://srobbin.com/jquery-plugins/backstretch/</link>
-            <guid isPermaLink="false">
-                jquery-backstretch2.0.4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 19 Jun 2013 21:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.collapsible updated to version 1.2]]></title>
-            <description><![CDATA[This plugin enables site owners to control multiple collapsible panels by auto opening any defaults specified, and keeping those opened/closed by users as they left them while browsing your site.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.collapsible/1.2/jquery.collapsible.js">//cdnjs.cloudflare.com/ajax/libs/jquery.collapsible/1.2/jquery.collapsible.js</a>]]></description>
-            <link>http://www.snyderplace.com/demos/collapsible.html</link>
-            <guid isPermaLink="false">
-                jquery.collapsible1.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 18 Jun 2013 23:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[underscore-contrib updated to version 0.1.4]]></title>
-            <description><![CDATA[The brass buckles on Underscore's utility belt.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/underscore-contrib/0.1.4/underscore-contrib.min.js">//cdnjs.cloudflare.com/ajax/libs/underscore-contrib/0.1.4/underscore-contrib.min.js</a>]]></description>
-            <link>https://github.com/documentcloud/underscore-contrib</link>
-            <guid isPermaLink="false">
-                underscore-contrib0.1.4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 18 Jun 2013 20:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[aui(5.2-m6) was added]]></title>
-            <description><![CDATA[Atlassian User Interface, the implementation of the Atlassian Design Guidelines: Design principles, components, patterns and guidance for building awesome Atlassian products and add-ons<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/aui/5.2-m6/js/aui-all.min.js">//cdnjs.cloudflare.com/ajax/libs/aui/5.2-m6/js/aui-all.min.js</a>]]></description>
-            <link>https://developer.atlassian.com/design</link>
-            <guid isPermaLink="false">
-                aui5.2-m6            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 18 Jun 2013 17:12:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
