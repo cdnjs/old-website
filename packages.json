@@ -202,6 +202,44 @@
             ]
         },
         {
+            "name": "Kalendae",
+            "filename": "kalendae.standalone.min.js",
+            "description": "Kalendae is an attempt to do something that nobody has yet been able to do: make a date picker that doesn't suck.",
+            "version": "0.4.1",
+            "homepage": "https://github.com/ChiperSoft/Kalendae",
+            "keywords": [
+                "datepicker"
+            ],
+            "author": "ChiperSoft",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git://github.com/ChiperSoft/Kalendae.git"
+                }
+            ],
+            "bugs": "https://github.com/ChiperSoft/Kalendae/issues",
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://github.com/ChiperSoft/Kalendae/blob/master/LICENSE"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.4.1",
+                    "files": [
+                        "arrows.png",
+                        "close.png",
+                        "kalendae.css",
+                        "kalendae.js",
+                        "kalendae.min.js",
+                        "kalendae.standalone.js",
+                        "kalendae.standalone.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "PreloadJS",
             "filename": "preloadjs.min.js",
             "version": "0.3.1",
@@ -797,7 +835,7 @@
                 "AngularUI"
             ],
             "filename": "ui-bootstrap-tpls.min.js",
-            "version": "0.3.0",
+            "version": "0.4.0",
             "repositories": [
                 {
                     "type": "git",
@@ -812,6 +850,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.4.0",
+                    "files": [
+                        "ui-bootstrap-tpls.js",
+                        "ui-bootstrap-tpls.min.js",
+                        "ui-bootstrap.js",
+                        "ui-bootstrap.min.js"
+                    ]
+                },
                 {
                     "version": "0.3.0",
                     "files": [
@@ -1527,6 +1574,49 @@
                     "files": [
                         "backbone-associations-min.js",
                         "backbone-associations.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "backbone-forms",
+            "filename": "backbone-forms.min.js",
+            "version": "0.12.0",
+            "description": "Form framework for BackboneJS with nested forms, editable lists and validation",
+            "homepage": "https://github.com/powmedia/backbone-forms",
+            "keywords": [
+                "forms",
+                "backbone"
+            ],
+            "devDependencies": {
+                "backbone.js": "1.0"
+            },
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/powmedia/backbone-forms"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.12.0",
+                    "files": [
+                        "adapters/backbone.bootstrap-modal.js",
+                        "adapters/backbone.bootstrap-modal.min.js",
+                        "backbone-forms.js",
+                        "backbone-forms.min.js",
+                        "editors/list.js",
+                        "editors/list.min.js",
+                        "templates/adapters/backbone.bootstrap-modal.js",
+                        "templates/adapters/backbone.bootstrap-modal.min.js",
+                        "templates/backbone-forms.js",
+                        "templates/backbone-forms.min.js",
+                        "templates/bootstrap.css",
+                        "templates/bootstrap.js",
+                        "templates/editors/list.js",
+                        "templates/editors/list.min.js",
+                        "templates/old.css",
+                        "templates/old.js"
                     ]
                 }
             ]
@@ -2303,7 +2393,7 @@
         {
             "name": "bacon.js",
             "filename": "Bacon.min.js",
-            "version": "0.4.2",
+            "version": "0.6.1",
             "author": "Juha Paananen",
             "description": "A small functional reactive programming lib for JavaScript.",
             "homepage": "http://baconjs.blogspot.com",
@@ -2328,6 +2418,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.6.1",
+                    "files": [
+                        "Bacon.js",
+                        "Bacon.min.js"
+                    ]
+                },
                 {
                     "version": "0.4.2",
                     "files": [
@@ -13899,6 +13996,47 @@
             ]
         },
         {
+            "name": "jsPlumb",
+            "version": "1.4.1",
+            "filename": "jquery.jsPlumb-1.4.1-all-min.js",
+            "description": "jsPlumb provides a means for a developer to visually connect elements on their web pages.",
+            "homepage": "http://jsplumbtoolkit.com",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/sporritt/jsPlumb.git"
+                }
+            ],
+            "maintainers": [
+                {
+                    "name": "Simon Porritt",
+                    "web": "http://morrisonpitt.com"
+                }
+            ],
+            "keywords": [
+                "framework",
+                "toolkit",
+                "popular",
+                "jquery",
+                "mootools",
+                "yui",
+                "flowchart"
+            ],
+            "assets": [
+                {
+                    "version": "1.4.1",
+                    "files": [
+                        "jquery.jsPlumb-1.4.1-all-min.js",
+                        "jquery.jsPlumb-1.4.1-all.js",
+                        "mootools.jsPlumb-1.4.1-all-min.js",
+                        "mootools.jsPlumb-1.4.1-all.js",
+                        "yui.jsPlumb-1.4.1-all-min.js",
+                        "yui.jsPlumb-1.4.1-all.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "json2",
             "filename": "json2.js",
             "version": "20121008",
@@ -15404,6 +15542,53 @@
                     "files": [
                         "machina.js",
                         "machina.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "magnific-popup.js",
+            "filename": "jquery.magnific-popup.min.js",
+            "version": "0.8.9",
+            "author": "Dmitry Semenov",
+            "description": "Fast, light, mobile-friendly and responsive lightbox plugin with focus on performance. Open inline HTML, ajax loaded content, image, form, iframe (YouTube and Vimeo video, Google Maps), photo gallery. Easily add in/out animation effects with help of CSS3 transitions.",
+            "homepage": "http://dimsemenov.com/plugins/magnific-popup/",
+            "keywords": [
+                "lightbox",
+                "popup",
+                "modal",
+                "window",
+                "dialog",
+                "ui",
+                "gallery",
+                "slideshow",
+                "video",
+                "image",
+                "ajax",
+                "html5",
+                "animation",
+                "jquery",
+                "photo",
+                "responsive",
+                "mobile"
+            ],
+            "maintainers": [
+                {
+                    "name": "Dmitry Semenov",
+                    "web": "http://dimsemenov.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/dimsemenov/Magnific-Popup.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.8.9",
+                    "files": [
+                        "jquery.magnific-popup.min.js"
                     ]
                 }
             ]
@@ -22216,9 +22401,9 @@
         },
         {
             "name": "speakingurl",
-            "version": "0.2.16",
+            "version": "0.2.18",
             "description": "Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.",
-            "homepage": "https://github.com/pid/speakingurl",
+            "homepage": "http://pid.github.io/speakingurl/",
             "github": "https://github.com/pid/speakingurl",
             "keywords": [
                 "slug",
@@ -22242,10 +22427,10 @@
             "dependencies": {},
             "devDependencies": {
                 "grunt": "~0.4.1",
-                "mocha": "~1.10.0",
+                "mocha": "~1.11.0",
                 "should": "~1.2.2",
                 "grunt-contrib-uglify": "~0.2.1",
-                "grunt-contrib-jshint": "~0.5.4",
+                "grunt-contrib-jshint": "~0.6.0",
                 "grunt-contrib-watch": "~0.4.4",
                 "grunt-release": "~0.3.4",
                 "grunt-bumpup": "~0.2.0",
@@ -22308,6 +22493,18 @@
                 "node": ">=0.8.0"
             },
             "assets": [
+                {
+                    "version": "0.2.18",
+                    "files": [
+                        "speakingurl.min.js"
+                    ]
+                },
+                {
+                    "version": "0.2.17",
+                    "files": [
+                        "speakingurl.min.js"
+                    ]
+                },
                 {
                     "version": "0.2.16",
                     "files": [

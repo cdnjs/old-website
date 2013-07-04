@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Wed, 03 Jul 2013 23:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2013 04:00:18 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[magnific-popup.js updated to version 0.8.9]]></title>
+            <description><![CDATA[Fast, light, mobile-friendly and responsive lightbox plugin with focus on performance. Open inline HTML, ajax loaded content, image, form, iframe (YouTube and Vimeo video, Google Maps), photo gallery. Easily add in/out animation effects with help of CSS3 transitions.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/0.8.9/jquery.magnific-popup.min.js">//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/0.8.9/jquery.magnific-popup.min.js</a>]]></description>
+            <link>http://dimsemenov.com/plugins/magnific-popup/</link>
+            <guid isPermaLink="false">
+                magnific-popup.js0.8.9            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 04 Jul 2013 02:56:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jquery updated to version 2.0.3]]></title>
             <description><![CDATA[jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js</a>]]></description>
@@ -31,6 +40,33 @@
             <pubDate>Wed, 03 Jul 2013 16:33:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[bacon.js updated to version 0.6.1]]></title>
+            <description><![CDATA[A small functional reactive programming lib for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.6.1/Bacon.min.js">//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.6.1/Bacon.min.js</a>]]></description>
+            <link>http://baconjs.blogspot.com</link>
+            <guid isPermaLink="false">
+                bacon.js0.6.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 03 Jul 2013 07:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone-forms(0.12.0) was added]]></title>
+            <description><![CDATA[Form framework for BackboneJS with nested forms, editable lists and validation<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-forms/0.12.0/backbone-forms.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-forms/0.12.0/backbone-forms.min.js</a>]]></description>
+            <link>https://github.com/powmedia/backbone-forms</link>
+            <guid isPermaLink="false">
+                backbone-forms0.12.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 03 Jul 2013 00:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[speakingurl updated to version 0.2.18]]></title>
+            <description><![CDATA[Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.2.18/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.2.18/speakingurl.min.js</a>]]></description>
+            <link>http://pid.github.io/speakingurl/</link>
+            <guid isPermaLink="false">
+                speakingurl0.2.18            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 02 Jul 2013 23:09:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[toastr.js updated to version 1.3.1]]></title>
             <description><![CDATA[ToastrJS is a JavaScript library for Gnome / Growl type non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/1.3.1/js/toastr.min.js">//cdnjs.cloudflare.com/ajax/libs/toastr.js/1.3.1/js/toastr.min.js</a>]]></description>
             <link>http://www.toastrjs.com</link>
@@ -38,6 +74,33 @@
                 toastr.js1.3.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 02 Jul 2013 01:53:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kalendae(0.4.1) was added]]></title>
+            <description><![CDATA[Kalendae is an attempt to do something that nobody has yet been able to do: make a date picker that doesn't suck.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Kalendae/0.4.1/kalendae.standalone.min.js">//cdnjs.cloudflare.com/ajax/libs/Kalendae/0.4.1/kalendae.standalone.min.js</a>]]></description>
+            <link>https://github.com/ChiperSoft/Kalendae</link>
+            <guid isPermaLink="false">
+                Kalendae0.4.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 02 Jul 2013 01:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-ui-bootstrap updated to version 0.4.0]]></title>
+            <description><![CDATA[Native AngularJS (Angular) directives for Twitter's Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.4.0/ui-bootstrap-tpls.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.4.0/ui-bootstrap-tpls.min.js</a>]]></description>
+            <link>http://angular-ui.github.com/bootstrap/</link>
+            <guid isPermaLink="false">
+                angular-ui-bootstrap0.4.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 30 Jun 2013 16:30:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jsPlumb(1.4.1) was added]]></title>
+            <description><![CDATA[jsPlumb provides a means for a developer to visually connect elements on their web pages.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsPlumb/1.4.1/jquery.jsPlumb-1.4.1-all-min.js">//cdnjs.cloudflare.com/ajax/libs/jsPlumb/1.4.1/jquery.jsPlumb-1.4.1-all-min.js</a>]]></description>
+            <link>http://jsplumbtoolkit.com</link>
+            <guid isPermaLink="false">
+                jsPlumb1.4.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 28 Jun 2013 19:53:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[pubnub updated to version 3.5.3]]></title>
@@ -209,15 +272,6 @@
                 x-editable1.4.5            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 23 Jun 2013 15:06:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[speakingurl updated to version 0.2.16]]></title>
-            <description><![CDATA[Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.2.16/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.2.16/speakingurl.min.js</a>]]></description>
-            <link>https://github.com/pid/speakingurl</link>
-            <guid isPermaLink="false">
-                speakingurl0.2.16            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 23 Jun 2013 14:03:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[stylus(0.32.1) was added]]></title>
