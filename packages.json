@@ -3938,7 +3938,6 @@
                         "plugins/clipboard/dialogs/paste.js",
                         "plugins/clipboard/dialogs/paste.min.js",
                         "plugins/dialog/dialogDefinition.js",
-                        "plugins/dialog/dialogDefinition.min.js",
                         "plugins/fakeobjects/images/spacer.gif",
                         "plugins/icons.png",
                         "plugins/image/dialogs/image.js",
@@ -9383,8 +9382,7 @@
                 {
                     "version": "r23",
                     "files": [
-                        "html5.js",
-                        "html5.min.js"
+                        "html5.js"
                     ]
                 },
                 {
@@ -17696,7 +17694,6 @@
                         "lib/Rico/Corner.js",
                         "lib/Rico/Corner.min.js",
                         "lib/Rico/license.js",
-                        "lib/Rico/license.min.js",
                         "lib/deprecated.js",
                         "lib/deprecated.min.js",
                         "theme/default/google.css",
@@ -18413,8 +18410,6 @@
                         "lib/Rico/Color.min.js",
                         "lib/Rico/Corner.js",
                         "lib/Rico/Corner.min.js",
-                        "theme/default/framedCloud.css",
-                        "theme/default/framedCloud.min.css",
                         "theme/default/google.css",
                         "theme/default/google.min.css",
                         "theme/default/google.tidy.css",
@@ -22401,7 +22396,7 @@
         },
         {
             "name": "speakingurl",
-            "version": "0.2.18",
+            "version": "0.2.20",
             "description": "Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.",
             "homepage": "http://pid.github.io/speakingurl/",
             "github": "https://github.com/pid/speakingurl",
@@ -22475,6 +22470,9 @@
                     "README.md"
                 ]
             },
+            "volo": {
+                "url": "http://cdnjs.cloudflare.com/ajax/libs/speakingurl/{version}/speakingurl.min.js"
+            },
             "scripts": {
                 "test": "mocha"
             },
@@ -22493,6 +22491,12 @@
                 "node": ">=0.8.0"
             },
             "assets": [
+                {
+                    "version": "0.2.20",
+                    "files": [
+                        "speakingurl.min.js"
+                    ]
+                },
                 {
                     "version": "0.2.18",
                     "files": [
