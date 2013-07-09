@@ -14622,28 +14622,28 @@
         {
             "name": "knockout",
             "filename": "knockout-min.js",
-            "version": "2.2.1",
-            "description": "Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM)",
-            "homepage": "http://knockoutjs.com/",
+            "version": "2.3.0",
+            "description": "Knockout makes it easier to create rich, responsive UIs with JavaScript",
+            "url": "http://knockoutjs.com/",
+            "license": "MIT",
+            "author": "The Knockout.js team",
             "keywords": [
                 "mvvm",
                 "ui",
                 "templating"
             ],
-            "maintainers": [
-                {
-                    "name": "Steven Sanderson",
-                    "email": "steve@codeville.net",
-                    "web": "http://blog.stevensanderson.com/"
-                }
-            ],
-            "repositories": [
-                {
-                    "type": "git",
-                    "url": "https://github.com/SteveSanderson/knockout"
-                }
-            ],
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/knockout/knockout.git"
+            },
+            "bugs": "https://github.com/knockout/knockout/issues",
             "assets": [
+                {
+                    "version": "2.3.0",
+                    "files": [
+                        "knockout-min.js"
+                    ]
+                },
                 {
                     "version": "2.2.1",
                     "files": [
@@ -14756,7 +14756,7 @@
         {
             "name": "leaflet",
             "filename": "leaflet.js",
-            "version": "0.6",
+            "version": "0.6.2",
             "description": "Leaflet is a modern open-source JavaScript library for mobile-friendly interactive maps.",
             "homepage": "http://leafletjs.com/",
             "keywords": [
@@ -14771,10 +14771,26 @@
             "repositories": [
                 {
                     "type": "git",
-                    "url": "https://github.com/cloudmade/leaflet.git"
+                    "url": "https://github.com/Leaflet/Leaflet.git"
                 }
             ],
             "assets": [
+                {
+                    "version": "0.6.2",
+                    "files": [
+                        "images/layers-2x.png",
+                        "images/layers.png",
+                        "images/marker-icon-2x.png",
+                        "images/marker-icon.png",
+                        "images/marker-shadow.png",
+                        "leaflet-src.js",
+                        "leaflet.css",
+                        "leaflet.ie.css",
+                        "leaflet.ie.min.css",
+                        "leaflet.js",
+                        "leaflet.min.css"
+                    ]
+                },
                 {
                     "version": "0.6",
                     "files": [
@@ -14837,6 +14853,37 @@
                     "files": [
                         "leaflet.js",
                         "leaflet.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "leapjs",
+            "filename": "leap.min.js",
+            "version": "0.1.2",
+            "description": "A JavaScript client for the LeapMotion.",
+            "homepage": "http://github.com/leapmotion/leapjs",
+            "keywords": [
+                "graphics",
+                "leap"
+            ],
+            "maintainers": [
+                {
+                    "name": "joshbuddy",
+                    "email": "josh@leapmotion.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/leapmotion/leapjs.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.1.2",
+                    "files": [
+                        "leap.min.js"
                     ]
                 }
             ]
@@ -24487,7 +24534,7 @@
         {
             "name": "underscore.js",
             "filename": "underscore-min.js",
-            "version": "1.4.4",
+            "version": "1.5.0",
             "description": "Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go along with jQuery's tux.",
             "homepage": "http://documentcloud.github.com/underscore/",
             "keywords": [
@@ -24508,6 +24555,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.5.0",
+                    "files": [
+                        "underscore-min.js",
+                        "underscore.js"
+                    ]
+                },
                 {
                     "version": "1.4.4",
                     "files": [
