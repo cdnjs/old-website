@@ -16,6 +16,7 @@ superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new 
   };
 
   indexPage = htmlMinifier.minify(indexPage, htmlCompressionOptions);
+  indexPage = indexPage.replace('&nbsp;', ' ');
 
   fs.writeFileSync('index.html', indexPage, 'utf8');
   fs.writeFileSync('packages.json', JSON.stringify(res.body, null, 4), 'utf8');
