@@ -3,6 +3,7 @@ var _ = require('underscore');
 var fs = require('fs');
 var http = require('http');
 var htmlMinifier = require('html-minifier');
+var uglifyJs = require('uglify-js');
 
 superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new Date().getTime(), function(res, textStatus, xhr){
   var packages = res.body.packages;
@@ -20,6 +21,9 @@ superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new 
   fs.writeFileSync('index.html', indexPage, 'utf8');
   fs.writeFileSync('packages.json', JSON.stringify(res.body, null, 4), 'utf8');
   fs.writeFileSync('packages.min.json', JSON.stringify(res.body), 'utf8');
+
+  var result = uglifyJs.minify(['cdnjs.handlebars.js', 'index.js']);
+  fs.writeFileSync('min.js', result.code, 'utf8');
 });
 
 // I was rushing below r0fl
