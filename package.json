@@ -13,6 +13,7 @@
   "dependencies": {
     "underscore": "1.4.4",
     "superagent": "~0.13.0",
-    "html-minifier": "~0.5.2"
+    "html-minifier": "~0.5.2",
+	"uglify-js": "~2.3.6"
   }
 }
