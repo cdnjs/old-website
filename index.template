@@ -41,13 +41,13 @@
             <div class="row">
                 <div class="span7">
                     <p>
-                        Everyone loves the <a target="_blank" href="http://code.google.com/apis/libraries/devguide.html">Google CDN</a> right? Even <a href="http://www.asp.net/ajaxlibrary/cdn.ashx" target="_blank">Microsoft runs their own CDN</a>.<br />The problem is, they only host the most popular libraries.
+                        Everyone loves the&nbsp;<a target="_blank" href="http://code.google.com/apis/libraries/devguide.html">Google CDN</a>&nbsp;right? Even&nbsp;<a href="http://www.asp.net/ajaxlibrary/cdn.ashx" target="_blank">Microsoft runs their own CDN</a>.<br />The problem is, they only host the most popular libraries.
                         <br />
                         We host it all - JavaScript, CSS, SWF, images, etc!
                     </p>
                     <p style="margin-top: 6px;">
-                        Supports http/https/spdy, we encourage leaving the protocol <a href="http://paulirish.com/2010/the-protocol-relative-url/">off</a>! <br />
-                        Track when libraries are added and updated with our <a href="http://cdnjs.com/rss.xml">RSS feed</a>.
+                        Supports http/https/spdy, we encourage leaving the protocol&nbsp;<a href="http://paulirish.com/2010/the-protocol-relative-url/">off</a>! <br />
+                        Track when libraries are added and updated with our&nbsp;<a href="http://cdnjs.com/rss.xml">RSS feed</a>.
                     </p>
                     <table style="margin-top: 15px; margin-bottom: 15px;">
                         <thead>
