@@ -2,6 +2,9 @@
 # Exit if any errors
 set -e
 
+echo npm install for good mesure
+npm install
+
 echo Getting latest website changes...
 git pull
 
