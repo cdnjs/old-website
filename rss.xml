@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 16 Jul 2013 03:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2013 05:24:54 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[html-inspector updated to version 0.4.1]]></title>
+            <description><![CDATA[HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/html-inspector/0.4.1/html-inspector.js">//cdnjs.cloudflare.com/ajax/libs/html-inspector/0.4.1/html-inspector.js</a>]]></description>
+            <link>https://github.com/philipwalton/html-inspector</link>
+            <guid isPermaLink="false">
+                html-inspector0.4.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 16 Jul 2013 05:17:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[stapes updated to version 0.8.0]]></title>
             <description><![CDATA[A (really) tiny Javascript MVC microframework.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/stapes/0.8.0/stapes.min.js">//cdnjs.cloudflare.com/ajax/libs/stapes/0.8.0/stapes.min.js</a>]]></description>
@@ -154,15 +163,6 @@
                 moment.js2.1.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 11 Jul 2013 09:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[html-inspector(0.4.0) was added]]></title>
-            <description><![CDATA[HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/html-inspector/0.4.0/html-inspector.js">//cdnjs.cloudflare.com/ajax/libs/html-inspector/0.4.0/html-inspector.js</a>]]></description>
-            <link>https://github.com/philipwalton/html-inspector</link>
-            <guid isPermaLink="false">
-                html-inspector0.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 11 Jul 2013 04:28:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[backbone.marionette updated to version 1.0.4-bundled]]></title>
