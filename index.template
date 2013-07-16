@@ -93,13 +93,7 @@
                         At CloudFlare, we believe that open source, community-driven projects like CDNJS are the tools upon which the future of the internet will be built. CloudFlare is proud to provide the global CDN infrastructure that will help power that future.<br /><br />
                         <a href="http://cloudflare.com"><img style="margin-bottom: 20px; " src="img/poweredbycloudflare.png"></a>
                     </div>
-                    <br />
-                    <div style="background: url(earbits-b.png); padding: 7px; border-radius: 3px">
-                    <a href="http://www.earbits.com?#station/music-to-work-to-electronic-for-work" style="color: #fff; text-decoration: none">
-                        <img style="margin-top: -5px" src="earbits.png" alt="earbit.com - free online radio" />
-                        <span style="display:inline-block; line-height: 20px;margin-left: 20px;">Music for hackers</span>
-                    </a>
-                </div>
+                  
                 </div>
             </div>
             <div class="row" ng-app>
