@@ -8,10 +8,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
   <title>cdnjs - the missing cdn</title>
+  <meta property="og:title" content="cdnjs - the missing cdn"/>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="All CDNJS code is open source and driven by the community, we welcome users to fork!">
   <link rel="stylesheet" href="css/styles.css">
-
 </head>
 <body>
     <div class="container">
@@ -60,7 +60,7 @@
                                     <a href="http://ryankirkman.com">Ryan Kirkman</a>
                                 </td>
                                 <td style="width: 200px;">
-                                
+
                                     <a href="http://github.com/lockyc" style="margin-right: 10px;"><img src="https://plus.google.com/s2/photos/profile/116251728973496544370" style="height: 30px; width: 30px; border: 1px solid #444;"></a>
                                     <a href="http://github.com/lockyc">Lachlan Collins</a>
 </td>
@@ -82,7 +82,7 @@
                         At CloudFlare, we believe that open source, community-driven projects like CDNJS are the tools upon which the future of the internet will be built. CloudFlare is proud to provide the global CDN infrastructure that will help power that future.<br /><br />
                         <a href="http://cloudflare.com"><img style="margin-bottom: 20px; " src="img/poweredbycloudflare.png"></a>
                     </div>
-                  
+
                 </div>
             </div>
             <div class="row" ng-app>
@@ -112,7 +112,7 @@
                                                         <input type="text" class="input-block-level" style="margin: 0" readonly value="//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>">
                                                     </p>
                                                     <div class="filesandversions">
-                                                   <p style="margin-top: 10px;"> 
+                                                   <p style="margin-top: 10px;">
                                                     <%= package.description %>
 </p>
     <table class=" table table-bordered" style="margin-top: 20px;" id="LAZY_<%= package.name.replace('.', '') %>">
