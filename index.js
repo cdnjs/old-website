@@ -1,15 +1,7 @@
-$('#example').dataTable({
-	"sDom": "<'row'<'span12'f>r>t<'row'<'span6'i><'span6'p>>",
-	"sPaginationType": "bootstrap",
-	 "bPaginate": false,
-	"oLanguage": {
-	  "sLengthMenu": "_MENU_ records per page"
-	}
-  });
 
-//$('input[readonly]').on('mouseenter', function (event) {
-//  $(this).select();
-//});
+$('input[readonly]').on('mouseenter', function (event) {
+  $(this).select();
+});
 
 var packages = null;
 var template = null;
@@ -43,6 +35,19 @@ $(document).ready(function(){
 })(jQuery);
 
 (function($){
+$('.search').focus();
+  $('.search').on('keyup', function (ev) {
+var val = $(ev.currentTarget).val();
+
+console.log(val);
+if(val.length > 0 ){
+$('[data-library-name]').hide();
+$('[data-library-name*="'+val+'"]').show();
+} else {
+
+$('[data-library-name]').show();
+}
+});
 	load_packages = function(asyncBool) {
 		if (packages == null) {
 			$.ajax({

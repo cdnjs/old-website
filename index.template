@@ -21,10 +21,9 @@
             <div class="navbar ">
                 <div class="navbar-inner">
                     <div class="container">
-                        <a class="brand" href="./index.html">cdnjs</a>
+                        <a class="brand" href="/">cdnjs</a>
                         <div class="nav-collapse collapse">
                             <ul class="nav">
-                                <li class="active"><a href="./index.html">Search</a></li>
                                 <li class=""><a href="http://github.com/cdnjs/cdnjs">Add a library</a></li>
                                 <li class=""><a href="https://github.com/cdnjs/cdnjs/issues?direction=desc&sort=created&state=open">Feedback</a></li>
                                 <li><a href="https://www.cloudflare.com/network-map">Our network</a></li>
@@ -55,11 +54,11 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td style="width: 145px;">
+                                <td style="width: 200px;">
                                     <a href="http://ryankirkman.com" style="margin-right: 10px;"><img src="https://si0.twimg.com/profile_images/2356734808/pj6n40841wh0akh3o9dw_bigger.png" style="height: 30px; width: 30px; border: 1px solid #444;" /></a>
                                     <a href="http://ryankirkman.com">Ryan Kirkman</a>
                                 </td>
-                                <td style="width: 200px;">
+                                <td style="width: 145px;">
                                 
                                     <a href="http://github.com/lockyc" style="margin-right: 10px;"><img src="https://plus.google.com/s2/photos/profile/116251728973496544370" style="height: 30px; width: 30px; border: 1px solid #444;"></a>
                                     <a href="http://github.com/lockyc">Lachlan Collins</a>
@@ -85,7 +84,8 @@
                   
                 </div>
             </div>
-            <div class="row" ng-app>
+<div class=""><div class="dataTables_filter" id="example_filter"><label>Search: <input type="text" class="search" aria-controls="example"></label></div></div>        
+    <div class="row" ng-app>
                 <div class="span12">
                     <div class="">
                         <div class="packages-table-container">
@@ -98,7 +98,7 @@
                                 </thead>
                                 <tbody>
                                     <% _.each(packages, function(package){ if(typeof package.name !== 'undefined') { %>
-                                        <tr id="<%= package.name.replace('.', '') %>" class="odd gradeX">
+                                        <tr data-library-name="<%= package.name %>" id="<%= package.name.replace('.', '') %>" class="odd gradeX">
                                             <td style="white-space: nowrap;">
                                                 <a href="<%= package.homepage %>"><%= package.name %></a>
                                                 <!-- hidden text for searching -->
@@ -136,7 +136,6 @@
         <span class="build-time"><%= new Date() %></span>
     </div>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/datatables/1.9.2/jquery.dataTables.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0-rc.4/handlebars.runtime.min.js"></script>
     <script src="min.js"></script>
     <script src="//static.getclicky.com/js"></script>
