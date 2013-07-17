@@ -104,6 +104,7 @@
                                             <td style="white-space: nowrap;">
                                                 <a itemprop="name" href="<%= package.homepage %>"><%= package.name %></a>
                                                 <meta itemprop="url" content="<%= package.homepage %>" />
+                                                <meta itemprop="version" content="<%= package.version %>" />
                                                 <!-- hidden text for searching -->
                                                 <div style="display: none;">
                                                     <%= package.keywords && package.keywords.join(', ') %>
