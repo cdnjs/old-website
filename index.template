@@ -114,7 +114,7 @@
                                                 <div style="position: relative; padding: 8px;">
                                                     <p itemprop="downloadUrl" class="library-url" style="padding: 0; margin: 0">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %></p>
                                                     <div class="filesandversions">
-                                                   <p itemprop="url" style="margin-top: 10px;">
+                                                   <p itemprop="description" style="margin-top: 10px;">
                                                     <%= package.description %>
 </p>
     <table class=" table table-bordered" style="margin-top: 20px;" id="LAZY_<%= package.name.replace('.', '') %>">
