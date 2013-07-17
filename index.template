@@ -51,7 +51,7 @@
                     </p>
                     <table style="margin-top: 15px; margin-bottom: 15px;">
                         <thead>
-                            <tr><td style="width: 115px;"><strong>Creators</strong></td><td></td></tr>
+                            <tr><td style="width: 115px;"><strong>Creators</strong></td><td><strong>Maintainers</strong></td></tr>
                         </thead>
                         <tbody>
                             <tr>
@@ -60,7 +60,10 @@
                                     <a href="http://ryankirkman.com">Ryan Kirkman</a>
                                 </td>
                                 <td style="width: 200px;">
-                                </td>
+                                
+                                    <a href="http://github.com/lockyc" style="margin-right: 10px;"><img src="https://plus.google.com/s2/photos/profile/116251728973496544370" style="height: 30px; width: 30px; border: 1px solid #444;"></a>
+                                    <a href="http://github.com/lockyc">Lachlan Collins</a>
+</td>
                             </tr>
                             <tr>
                                 <td style="width: 145px;">
@@ -70,16 +73,7 @@
                                 <td style="width: 200px;">
                                 </td>
                             </tr>
-                            <tr><td style="width: 115px;"><strong>Maintainers</strong></td><td></td></tr>
 
-                            <tr>
-                                <td style="width: 145px;">
-                                    <a href="http://github.com/lockyc" style="margin-right: 10px;"><img src="https://plus.google.com/s2/photos/profile/116251728973496544370" style="height: 30px; width: 30px; border: 1px solid #444;"></a>
-                                    <a href="http://github.com/lockyc">Lachlan Collins</a>
-                                </td>
-                                <td style="width: 200px;">
-                                </td>
-                            </tr>
                         </tbody>
                     </table>
                 </div><!--Span7-->
