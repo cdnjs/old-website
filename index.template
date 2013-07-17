@@ -145,7 +145,7 @@
             var hash = window.location.hash;
 
             if(hash) {
-                $(hash + " button").click();
+              $(hash + " button").click();
             }
         });
     </script>
