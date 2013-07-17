@@ -109,8 +109,6 @@
                                                 <a href="<%= package.homepage %>"><%= package.name %></a>
                                                 <!-- hidden text for searching -->
                                                 <div style="display: none;">
-                                                    <%= package.description %>
-                                                    <%= package.homepage %>
                                                     <%= package.keywords && package.keywords.join(', ') %>
                                                 </div>
                                             </td>
@@ -120,7 +118,10 @@
                                                         <input type="text" class="input-block-level" style="margin: 0" readonly value="//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>">
                                                     </p>
                                                     <div class="filesandversions">
-                                                        <table class=" table table-bordered" style="margin-top: 20px;" id="LAZY_<%= package.name.replace('.', '') %>">
+                                                   <p> 
+                                                    <%= package.description %>
+</p>
+    <table class=" table table-bordered" style="margin-top: 20px;" id="LAZY_<%= package.name.replace('.', '') %>">
 
                                                         </table>
                                                     </div>
