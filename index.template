@@ -100,10 +100,10 @@
                                 </thead>
                                 <tbody>
                                     <% _.each(packages, function(package){ if(typeof package.name !== 'undefined') { %>
-                                        <tr data-library-name="<%= package.name %>" id="<%= package.name.replace('.', '') %>" class="odd gradeX">
+                                        <tr itemscope itemtype="http://schema.org/SoftwareApplication" data-library-name="<%= package.name %>" id="<%= package.name.replace('.', '') %>" class="odd gradeX">
                                             <td style="white-space: nowrap;">
-                                                <a href="<%= package.homepage %>"><%= package.name %></a>
-                                                <a href="<%= package.homepage %>">&nbsp;</a>
+                                                <a itemprop="name" href="<%= package.homepage %>"><%= package.name %></a>
+                                                <meta itemprop="url" content="<%= package.homepage %>" />
                                                 <!-- hidden text for searching -->
                                                 <div style="display: none;">
                                                     <%= package.keywords && package.keywords.join(', ') %>
@@ -111,9 +111,9 @@
                                             </td>
                                             <td style="padding: 0; width: 100%;">
                                                 <div style="position: relative; padding: 8px;">
-                                                    <p class="library-url" style="padding: 0; margin: 0">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %></p>
+                                                    <p itemprop="downloadUrl" class="library-url" style="padding: 0; margin: 0">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %></p>
                                                     <div class="filesandversions">
-                                                   <p style="margin-top: 10px;">
+                                                   <p itemprop="url" style="margin-top: 10px;">
                                                     <%= package.description %>
 </p>
     <table class=" table table-bordered" style="margin-top: 20px;" id="LAZY_<%= package.name.replace('.', '') %>">
