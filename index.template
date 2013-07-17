@@ -103,6 +103,7 @@
                                         <tr data-library-name="<%= package.name %>" id="<%= package.name.replace('.', '') %>" class="odd gradeX">
                                             <td style="white-space: nowrap;">
                                                 <a href="<%= package.homepage %>"><%= package.name %></a>
+                                                <a href="<%= package.homepage %>">&nbsp;</a>
                                                 <!-- hidden text for searching -->
                                                 <div style="display: none;">
                                                     <%= package.keywords && package.keywords.join(', ') %>
