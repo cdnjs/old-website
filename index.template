@@ -118,7 +118,7 @@
                                                         <input type="text" class="input-block-level" style="margin: 0" readonly value="//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %>">
                                                     </p>
                                                     <div class="filesandversions">
-                                                   <p> 
+                                                   <p style="margin-top: 10px;"> 
                                                     <%= package.description %>
 </p>
     <table class=" table table-bordered" style="margin-top: 20px;" id="LAZY_<%= package.name.replace('.', '') %>">
