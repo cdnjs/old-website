@@ -4234,6 +4234,7 @@
                     "version": "5.1",
                     "files": [
                         "haml.js",
+                        "haml.map",
                         "haml.min.js"
                     ]
                 }

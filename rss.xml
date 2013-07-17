@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 16 Jul 2013 16:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2013 11:02:33 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[clientside-haml-js(5.1) was added]]></title>
@@ -396,24 +396,6 @@
                 jquery2.0.3            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 03 Jul 2013 18:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bacon.js updated to version 0.6.1]]></title>
-            <description><![CDATA[A small functional reactive programming lib for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.6.1/Bacon.min.js">//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.6.1/Bacon.min.js</a>]]></description>
-            <link>http://baconjs.blogspot.com</link>
-            <guid isPermaLink="false">
-                bacon.js0.6.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 03 Jul 2013 07:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone-forms(0.12.0) was added]]></title>
-            <description><![CDATA[Form framework for BackboneJS with nested forms, editable lists and validation<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-forms/0.12.0/backbone-forms.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-forms/0.12.0/backbone-forms.min.js</a>]]></description>
-            <link>https://github.com/powmedia/backbone-forms</link>
-            <guid isPermaLink="false">
-                backbone-forms0.12.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 03 Jul 2013 00:15:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
