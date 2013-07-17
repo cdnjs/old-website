@@ -9,6 +9,7 @@
 
   <title>cdnjs - the missing cdn</title>
   <meta property="og:title" content="cdnjs - the missing cdn"/>
+  <meta property="og:image" content="logo.png"/>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="All CDNJS code is open source and driven by the community, we welcome users to fork!">
   <link rel="stylesheet" href="css/styles.css">
