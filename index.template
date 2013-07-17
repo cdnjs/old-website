@@ -21,10 +21,10 @@
             <div class="navbar ">
                 <div class="navbar-inner">
                     <div class="container">
-                        <a class="brand" href="./index.html">cdnjs</a>
+                        <a class="brand" href="/">cdnjs</a>
                         <div class="nav-collapse collapse">
                             <ul class="nav">
-                                <li class="active"><a href="./index.html">Search</a></li>
+                                <li class="active"><a href="/">Search</a></li>
                                 <li class=""><a href="http://github.com/cdnjs/cdnjs">Add a library</a></li>
                                 <li class=""><a href="https://github.com/cdnjs/cdnjs/issues?direction=desc&sort=created&state=open">Feedback</a></li>
                                 <li><a href="https://www.cloudflare.com/network-map">Our network</a></li>
