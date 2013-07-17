@@ -1,8 +1,8 @@
 (function() {
   var template = Handlebars.template, templates = Handlebars.templates = Handlebars.templates || {};
 templates['cdnjs'] = template(function (Handlebars,depth0,helpers,partials,data) {
-  this.compilerInfo = [3,'>= 1.0.0-rc.4'];
-helpers = helpers || Handlebars.helpers; data = data || {};
+  this.compilerInfo = [4,'>= 1.0.0'];
+helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
   var buffer = "", stack1, functionType="function", escapeExpression=this.escapeExpression, self=this;
 
 function program1(depth0,data,depth1) {
@@ -21,13 +21,13 @@ function program1(depth0,data,depth1) {
 function program2(depth0,data,depth1,depth2) {
   
   var buffer = "", stack1;
-  buffer += "\n        <tr class=\"library\">\n            <td>\n                <input type=\"text\" class=\"input-block-level\" style=\"margin: 0\" readonly value=\"//cdnjs.cloudflare.com/ajax/libs/"
+  buffer += "\n        <tr class=\"library\">\n            <td>\n                <p>//cdnjs.cloudflare.com/ajax/libs/"
     + escapeExpression(((stack1 = depth2.name),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + "/"
     + escapeExpression(((stack1 = depth1.version),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + "/"
     + escapeExpression((typeof depth0 === functionType ? depth0.apply(depth0) : depth0))
-    + "\">\n            </td>\n        </tr>\n    ";
+    + "</p>\n            </td>\n        </tr>\n    ";
   return buffer;
   }
 

@@ -1,22 +1,49 @@
+function selectText(element) {
+    var doc = document;
+    var text = element;    
 
-$('input[readonly]').on('mouseenter', function (event) {
-  $(this).select();
+    if (doc.body.createTextRange) { // ms
+        var range = doc.body.createTextRange();
+        range.moveToElementText(text);
+        range.select();
+    } else if (window.getSelection) { // moz, opera, webkit
+        var selection = window.getSelection();            
+        var range = doc.createRange();
+        range.selectNodeContents(text);
+        selection.removeAllRanges();
+        selection.addRange(range);
+    }
+}
+$('p.library-url').on('mouseenter', function (event) {
+  selectText($(event.currentTarget)[0]);
 });
+
 
 var packages = null;
 var template = null;
+var strVar="";
+strVar += "    <% _.each(package.assets, function(asset) { %>";
+strVar += "        <tr class=\"version\">";
+strVar += "            <td class=\"versionlabel\"><%= asset.version %><\/td>";
+strVar += "        <\/tr>";
+strVar += "        <% _.each(asset.files, function(file) { %>";
+strVar += "            <tr class=\"library\">";
+strVar += "                <td>";
+strVar += "                    <p  class='library-url'>\/\/cdnjs.cloudflare.com\/ajax\/libs\/<%= package.name %>\/<%= asset.version %>\/<%=file%><\/p>";
+strVar += "                <\/td>";
+strVar += "            <\/tr>";
+strVar += "        <% }); %>";
+strVar += "    <% }); %>";
 
 $(document).ready(function(){
 	$(".btn-version-files").on("click", function(e){
 		e.preventDefault();
 		var package_name = $(e.currentTarget).attr('package-name');
-		if (template == null) {
-			template = Handlebars.templates['cdnjs'];
-		}
-		$("#LAZY_" + package_name.replace('.', '')).html(template(load_versions(package_name)))
+
+		$("#LAZY_" + package_name.replace('.', '')).html(_.template(strVar, {package: load_versions(package_name)}))
 		$(this).siblings('.filesandversions').slideToggle(200);
-		$(this).siblings('.filesandversions').find('input[readonly]').on('mouseenter', function (event) {
-			$(this).select();
+		$(this).siblings('.filesandversions').find('p.library-url').on('mouseenter', function (event) {
+  selectText($(event.currentTarget)[0]);
 		});
 	});
 	load_packages(true);
