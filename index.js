@@ -7,9 +7,9 @@ $('#example').dataTable({
 	}
   });
 
-$('input[readonly]').on('mouseenter', function (event) {
-  $(this).select();
-});
+//$('input[readonly]').on('mouseenter', function (event) {
+//  $(this).select();
+//});
 
 var packages = null;
 var template = null;
