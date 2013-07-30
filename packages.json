@@ -2654,7 +2654,7 @@
         {
             "name": "bacon.js",
             "filename": "Bacon.min.js",
-            "version": "0.6.1",
+            "version": "0.6.8",
             "author": "Juha Paananen",
             "description": "A small functional reactive programming lib for JavaScript.",
             "homepage": "http://baconjs.blogspot.com",
@@ -2679,6 +2679,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.6.8",
+                    "files": [
+                        "Bacon.js",
+                        "Bacon.min.js"
+                    ]
+                },
                 {
                     "version": "0.6.1",
                     "files": [
@@ -5497,6 +5504,7 @@
                 {
                     "version": "1.0.0",
                     "files": [
+                        "PIE.htc",
                         "PIE.js",
                         "PIE.min.js"
                     ]
@@ -6717,6 +6725,7 @@
             "version": "0.8.0.3",
             "description": "The runtime for the Elm language.",
             "homepage": "http://elm-lang.org/",
+            "license": "BSD3",
             "keywords": [
                 "elm",
                 "FRP",
@@ -11937,6 +11946,72 @@
                         "intro.min.js",
                         "introjs.css",
                         "introjs.min.css"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jQuery-Validation-Engine",
+            "filename": "jquery.validationEngine.js",
+            "version": "2.6.2",
+            "description": "jQuery validation engine is a Javascript plugin aimed at the validation of form fields in the browser (IE 6-8, Chrome, Firefox, Safari, Opera 10). The plugin provides visually appealing prompts that grab user attention on the subject matter.",
+            "homepage": "http://www.position-relative.net/",
+            "keywords": [
+                "form",
+                "field",
+                "validation",
+                "jquery"
+            ],
+            "maintainers": [
+                {
+                    "name": "Cedric Dugas",
+                    "web": "http://www.position-absolute.com"
+                },
+                {
+                    "name": "Olivier Refalo",
+                    "web": "http://www.crionics.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/posabsolute/jQuery-Validation-Engine"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.6.2",
+                    "files": [
+                        "contrib/other-validations.js",
+                        "jquery-1.8.2.min.js",
+                        "jquery.validationEngine.js",
+                        "languages/jquery.validationEngine-cz.js",
+                        "languages/jquery.validationEngine-da.js",
+                        "languages/jquery.validationEngine-de.js",
+                        "languages/jquery.validationEngine-en.js",
+                        "languages/jquery.validationEngine-es.js",
+                        "languages/jquery.validationEngine-et.js",
+                        "languages/jquery.validationEngine-fa.js",
+                        "languages/jquery.validationEngine-fi.js",
+                        "languages/jquery.validationEngine-fr.js",
+                        "languages/jquery.validationEngine-hr.js",
+                        "languages/jquery.validationEngine-hu.js",
+                        "languages/jquery.validationEngine-it.js",
+                        "languages/jquery.validationEngine-ja.js",
+                        "languages/jquery.validationEngine-nl.js",
+                        "languages/jquery.validationEngine-no.js",
+                        "languages/jquery.validationEngine-pl.js",
+                        "languages/jquery.validationEngine-pt.js",
+                        "languages/jquery.validationEngine-pt_BR.js",
+                        "languages/jquery.validationEngine-ro.js",
+                        "languages/jquery.validationEngine-ru.js",
+                        "languages/jquery.validationEngine-se.js",
+                        "languages/jquery.validationEngine-tr.js",
+                        "languages/jquery.validationEngine-vi.js",
+                        "languages/jquery.validationEngine-zh_CN.js",
+                        "languages/jquery.validationEngine-zh_TW.js",
+                        "validationEngine.jquery.css",
+                        "validationEngine.jquery.min.css"
                     ]
                 }
             ]
@@ -23042,6 +23117,40 @@
             ]
         },
         {
+            "name": "ractive.js",
+            "filename": "ractive.min.js",
+            "version": "0.3.3",
+            "description": "Next-generation DOM manipulation",
+            "homepage": "http://www.ractivejs.org/",
+            "keywords": [
+                "DOM",
+                "manipulation",
+                "template",
+                "data-binding"
+            ],
+            "maintainers": [
+                {
+                    "name": "Rich Harris",
+                    "web": "http://www.rich-harris.co.uk/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/Rich-Harris/Ractive.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.3.3",
+                    "files": [
+                        "ractive.js",
+                        "ractive.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "rainbow",
             "filename": "js/rainbow.min.js",
             "version": "1.1.8",
@@ -23290,7 +23399,7 @@
         {
             "name": "react",
             "filename": "react.min.js",
-            "version": "0.3.3",
+            "version": "0.4.1",
             "description": "React is a JavaScript library for building user interfaces.",
             "keywords": [
                 "react",
@@ -23301,6 +23410,14 @@
             "homepage": "http://facebook.github.io/react",
             "bugs": "https://github.com/facebook/react/issues",
             "assets": [
+                {
+                    "version": "0.4.1",
+                    "files": [
+                        "JSXTransformer.js",
+                        "react.js",
+                        "react.min.js"
+                    ]
+                },
                 {
                     "version": "0.3.3",
                     "files": [
@@ -23322,8 +23439,8 @@
         {
             "name": "reactive-coffee",
             "filename": "reactive-coffee.min.js",
-            "version": "0.0.1",
-            "description": "A lightweight CoffeeScript library for reactive programming and for declaratively specifying reactive DOM templates in a simple embedded DSL.",
+            "version": "0.0.2",
+            "description": "A lightweight CoffeeScript library/DSL for reactive programming and for declaratively building scalable web UIs.",
             "homepage": "http://yang.github.io/reactive-coffee/",
             "keywords": [
                 "reactive",
@@ -23350,6 +23467,13 @@
                 "jquery": ">=1.7.0"
             },
             "assets": [
+                {
+                    "version": "0.0.2",
+                    "files": [
+                        "reactive-coffee.js",
+                        "reactive-coffee.min.js"
+                    ]
+                },
                 {
                     "version": "0.0.1",
                     "files": [
@@ -24589,7 +24713,7 @@
         {
             "name": "select2",
             "filename": "select2.min.js",
-            "version": "3.4.0",
+            "version": "3.4.1",
             "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. Look and feel of Select2 is based on the excellent Chosen library.",
             "homepage": "http://ivaynberg.github.com/select2/",
             "keywords": [
@@ -24613,6 +24737,92 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.4.1",
+                    "files": [
+                        "select2-spinner.gif",
+                        "select2.css",
+                        "select2.js",
+                        "select2.min.css",
+                        "select2.min.js",
+                        "select2.png",
+                        "select2_locale_ar.js",
+                        "select2_locale_ar.min.js",
+                        "select2_locale_ca.js",
+                        "select2_locale_ca.min.js",
+                        "select2_locale_cs.js",
+                        "select2_locale_cs.min.js",
+                        "select2_locale_da.js",
+                        "select2_locale_da.min.js",
+                        "select2_locale_de.js",
+                        "select2_locale_de.min.js",
+                        "select2_locale_el.js",
+                        "select2_locale_el.min.js",
+                        "select2_locale_es.js",
+                        "select2_locale_es.min.js",
+                        "select2_locale_et.js",
+                        "select2_locale_et.min.js",
+                        "select2_locale_eu.js",
+                        "select2_locale_eu.min.js",
+                        "select2_locale_fi.js",
+                        "select2_locale_fi.min.js",
+                        "select2_locale_fr.js",
+                        "select2_locale_fr.min.js",
+                        "select2_locale_gl.js",
+                        "select2_locale_gl.min.js",
+                        "select2_locale_he.js",
+                        "select2_locale_he.min.js",
+                        "select2_locale_hr.js",
+                        "select2_locale_hr.min.js",
+                        "select2_locale_hu.js",
+                        "select2_locale_hu.min.js",
+                        "select2_locale_id.js",
+                        "select2_locale_id.min.js",
+                        "select2_locale_is.js",
+                        "select2_locale_is.min.js",
+                        "select2_locale_it.js",
+                        "select2_locale_it.min.js",
+                        "select2_locale_ja.js",
+                        "select2_locale_ja.min.js",
+                        "select2_locale_ko.js",
+                        "select2_locale_ko.min.js",
+                        "select2_locale_lt.js",
+                        "select2_locale_lt.min.js",
+                        "select2_locale_lv.js",
+                        "select2_locale_lv.min.js",
+                        "select2_locale_mk.js",
+                        "select2_locale_mk.min.js",
+                        "select2_locale_nl.js",
+                        "select2_locale_nl.min.js",
+                        "select2_locale_no.js",
+                        "select2_locale_no.min.js",
+                        "select2_locale_pl.js",
+                        "select2_locale_pl.min.js",
+                        "select2_locale_pt-BR.js",
+                        "select2_locale_pt-BR.min.js",
+                        "select2_locale_pt-PT.js",
+                        "select2_locale_pt-PT.min.js",
+                        "select2_locale_ro.js",
+                        "select2_locale_ro.min.js",
+                        "select2_locale_ru.js",
+                        "select2_locale_ru.min.js",
+                        "select2_locale_sk.js",
+                        "select2_locale_sk.min.js",
+                        "select2_locale_sv.js",
+                        "select2_locale_sv.min.js",
+                        "select2_locale_tr.js",
+                        "select2_locale_tr.min.js",
+                        "select2_locale_ua.js",
+                        "select2_locale_ua.min.js",
+                        "select2_locale_vi.js",
+                        "select2_locale_vi.min.js",
+                        "select2_locale_zh-CN.js",
+                        "select2_locale_zh-CN.min.js",
+                        "select2_locale_zh-TW.js",
+                        "select2_locale_zh-TW.min.js",
+                        "select2x2.png"
+                    ]
+                },
                 {
                     "version": "3.4.0",
                     "files": [
@@ -24934,7 +25144,7 @@
         {
             "name": "sizzle",
             "filename": "sizzle.min.js",
-            "version": "1.10.2",
+            "version": "1.10.5",
             "description": "A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library.",
             "homepage": "http://sizzlejs.com/",
             "keywords": [
@@ -24955,6 +25165,30 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.10.5",
+                    "files": [
+                        "sizzle.js",
+                        "sizzle.min.js",
+                        "sizzle.min.map"
+                    ]
+                },
+                {
+                    "version": "1.10.4",
+                    "files": [
+                        "sizzle.js",
+                        "sizzle.min.js",
+                        "sizzle.min.map"
+                    ]
+                },
+                {
+                    "version": "1.10.3",
+                    "files": [
+                        "sizzle.js",
+                        "sizzle.min.js",
+                        "sizzle.min.map"
+                    ]
+                },
                 {
                     "version": "1.10.2",
                     "files": [
