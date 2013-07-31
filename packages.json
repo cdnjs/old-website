@@ -11564,6 +11564,21 @@
             ]
         },
         {
+            "name": "html5-history-api",
+            "filename": "history.iegte8.min.js",
+            "version": "4.0.2",
+            "description": "HTML5 History API provides an emulation of HTML5 History API for older browsers",
+            "homepage": "https://github.com/devote/HTML5-History-API",
+            "assets": [
+                {
+                    "version": "4.0.2",
+                    "files": [
+                        "history.iegte8.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "html5shiv",
             "filename": "html5shiv.js",
             "version": "3.6.2",
@@ -11898,7 +11913,7 @@
             "name": "intro.js",
             "filename": "intro.min.js",
             "description": "A better way for new feature introduction and step-by-step users guide for your website and project.",
-            "version": "0.4.0",
+            "version": "0.5.0",
             "keywords": [
                 "intro.js",
                 "tutorial",
@@ -11930,6 +11945,17 @@
             ],
             "homepage": "http://usablica.github.com/intro.js/",
             "assets": [
+                {
+                    "version": "0.5.0",
+                    "files": [
+                        "intro.js",
+                        "intro.min.js",
+                        "introjs-rtl.css",
+                        "introjs-rtl.min.css",
+                        "introjs.css",
+                        "introjs.min.css"
+                    ]
+                },
                 {
                     "version": "0.4.0",
                     "files": [
@@ -15023,7 +15049,7 @@
         {
             "name": "jquery.imagesloaded",
             "filename": "jquery.imagesloaded.min.js",
-            "version": "2.1.0",
+            "version": "3.0.4",
             "description": "jQuery plugin that triggers a callback after all images have been loaded",
             "homepage": "http://desandro.github.com/imagesloaded/",
             "keywords": [
@@ -15037,8 +15063,8 @@
                     "web": "http://desandro.com/"
                 },
                 {
-                    "name": "Matías Hernández Arellano (msdark)",
-                    "web": "http://about.me/msdark"
+                    "name": "Tomas Sardyha",
+                    "web": "http://darsa.in/"
                 }
             ],
             "repositories": [
@@ -15049,10 +15075,48 @@
             ],
             "assets": [
                 {
+                    "version": "3.0.4",
+                    "files": [
+                        "jquery.imagesloaded.js",
+                        "jquery.imagesloaded.min.js"
+                    ]
+                },
+                {
                     "version": "2.1.0",
                     "files": [
                         "jquery.imagesloaded.js",
                         "jquery.imagesloaded.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery.is.js",
+            "version": "0.2.0",
+            "license": "MIT",
+            "homepage": "http://github.com/rthor/isjs",
+            "filename": "jquery.is.min.js",
+            "author": {
+                "name": "Ragnar Þór Valgeirsson (rthor)",
+                "email": "ragnar.valgeirsson@gmail.com",
+                "url": "http://rthor.is"
+            },
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/rthor/isjs.git"
+            },
+            "keywords": [
+                "regexp",
+                "test",
+                "simple"
+            ],
+            "description": "Check your data against regular expressions or known keywords.",
+            "assets": [
+                {
+                    "version": "0.2.0",
+                    "files": [
+                        "jquery.is.js",
+                        "jquery.is.min.js"
                     ]
                 }
             ]
@@ -22705,7 +22769,7 @@
         {
             "name": "pure",
             "filename": "pure-min.css",
-            "version": "0.2.0",
+            "version": "0.2.1",
             "description": "A set of small, responsive CSS modules that you can use in every web project.",
             "homepage": "http://purecss.io/",
             "keywords": [
@@ -22726,6 +22790,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.2.1",
+                    "files": [
+                        "pure-min.css"
+                    ]
+                },
                 {
                     "version": "0.2.0",
                     "files": [
@@ -27622,9 +27692,9 @@
         {
             "name": "twitter-bootstrap",
             "filename": "js/bootstrap.min.js",
-            "version": "2.3.2",
+            "version": "3.0.0-rc1",
             "description": "Javascript plugins for the Twitter Bootstrap toolkit",
-            "homepage": "http://twitter.github.com/bootstrap/",
+            "homepage": "http://getbootstrap.com/",
             "keywords": [
                 "twitter",
                 "bootstrap"
@@ -27637,10 +27707,19 @@
             "repositories": [
                 {
                     "type": "git",
-                    "url": "https://github.com/twitter/bootstrap"
+                    "url": "https://github.com/twbs/bootstrap"
                 }
             ],
             "assets": [
+                {
+                    "version": "3.0.0-rc1",
+                    "files": [
+                        "css/bootstrap.css",
+                        "css/bootstrap.min.css",
+                        "js/bootstrap.js",
+                        "js/bootstrap.min.js"
+                    ]
+                },
                 {
                     "version": "2.3.2",
                     "files": [
@@ -28220,7 +28299,7 @@
         {
             "name": "vertx",
             "filename": "vertxbus.min.js",
-            "version": "1.3.0",
+            "version": "2.0.0",
             "description": "Effortless asynchronous application development for the modern web and enterprise. This library internally uses SockJS to send and receive data to a SockJS vert.x server called the SockJS bridge. http://vertx.io/core_manual_js.html#sockjs-eventbus-bridge",
             "homepage": "http://vertx.io/",
             "keywords": [
@@ -28243,6 +28322,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.0.0",
+                    "files": [
+                        "vertxbus.js",
+                        "vertxbus.min.js"
+                    ]
+                },
                 {
                     "version": "1.3.0",
                     "files": [
