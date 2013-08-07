@@ -6960,7 +6960,7 @@
         {
             "name": "ember-data-django-rest-adapter",
             "filename": "ember-data-django-rest-adapter.min.js",
-            "version": "0.13",
+            "version": "0.13.1",
             "description": "An ember-data adapter for django web applications powered by the django-rest-framework",
             "homepage": "https://github.com/toranb/ember-data-django-rest-adapter",
             "keywords": [
@@ -6986,6 +6986,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.13.1",
+                    "files": [
+                        "ember-data-django-rest-adapter.js",
+                        "ember-data-django-rest-adapter.min.js"
+                    ]
+                },
                 {
                     "version": "0.13",
                     "files": [
@@ -9419,7 +9426,7 @@
         {
             "name": "foundation",
             "filename": "js/foundation.min.js",
-            "version": "4.1.6",
+            "version": "4.2.3",
             "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.",
             "homepage": "http://foundation.zurb.com",
             "keywords": [
@@ -9447,6 +9454,50 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "4.2.3",
+                    "files": [
+                        "css/foundation.css",
+                        "css/foundation.min.css",
+                        "css/normalize.css",
+                        "css/normalize.min.css",
+                        "js/foundation.min.js",
+                        "js/foundation/foundation.alerts.js",
+                        "js/foundation/foundation.alerts.min.js",
+                        "js/foundation/foundation.clearing.js",
+                        "js/foundation/foundation.clearing.min.js",
+                        "js/foundation/foundation.cookie.js",
+                        "js/foundation/foundation.cookie.min.js",
+                        "js/foundation/foundation.dropdown.js",
+                        "js/foundation/foundation.dropdown.min.js",
+                        "js/foundation/foundation.forms.js",
+                        "js/foundation/foundation.forms.min.js",
+                        "js/foundation/foundation.interchange.js",
+                        "js/foundation/foundation.interchange.min.js",
+                        "js/foundation/foundation.joyride.js",
+                        "js/foundation/foundation.joyride.min.js",
+                        "js/foundation/foundation.js",
+                        "js/foundation/foundation.magellan.js",
+                        "js/foundation/foundation.magellan.min.js",
+                        "js/foundation/foundation.orbit.js",
+                        "js/foundation/foundation.orbit.min.js",
+                        "js/foundation/foundation.placeholder.js",
+                        "js/foundation/foundation.placeholder.min.js",
+                        "js/foundation/foundation.reveal.js",
+                        "js/foundation/foundation.reveal.min.js",
+                        "js/foundation/foundation.section.js",
+                        "js/foundation/foundation.section.min.js",
+                        "js/foundation/foundation.tooltips.js",
+                        "js/foundation/foundation.tooltips.min.js",
+                        "js/foundation/foundation.topbar.js",
+                        "js/foundation/foundation.topbar.min.js",
+                        "js/vendor/custom.modernizr.min.js",
+                        "js/vendor/jquery.js",
+                        "js/vendor/jquery.min.js",
+                        "js/vendor/zepto.js",
+                        "js/vendor/zepto.min.js"
+                    ]
+                },
                 {
                     "version": "4.1.6",
                     "files": [
@@ -10033,7 +10084,7 @@
         {
             "name": "garlic.js",
             "filename": "garlic.min.js",
-            "version": "1.2.0",
+            "version": "1.2.2",
             "description": "Garlic.js allows you to automatically persist your forms' text field values locally, until the form is submitted. This way, your users don't lose any precious data if they accidentally close their tab or browser.",
             "homepage": "http://garlicjs.org/",
             "keywords": [
@@ -10055,6 +10106,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.2.2",
+                    "files": [
+                        "garlic-standalone.min.js",
+                        "garlic.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.0",
                     "files": [
@@ -16250,7 +16308,7 @@
         {
             "name": "jquery.wookmark",
             "filename": "jquery.wookmark.min.js",
-            "version": "1.0.1",
+            "version": "1.3.1",
             "description": "Jquery plugin to create a waterfall grid layout. Lays out a series of elements in a dynamic column grid like on wookmark.com",
             "homepage": "http://www.wookmark.com/jquery-plugin",
             "keywords": [
@@ -16263,6 +16321,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.3.1",
+                    "files": [
+                        "jquery.wookmark.min.js"
+                    ]
+                },
                 {
                     "version": "1.0.1",
                     "files": [
@@ -18694,7 +18758,7 @@
         {
             "name": "masonry",
             "filename": "masonry.pkgd.js",
-            "version": "3.0.0",
+            "version": "3.1.1",
             "description": "Cascading grid layout library",
             "homepage": "http://masonry.desandro.com/",
             "keywords": [
@@ -18715,6 +18779,14 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.1.1",
+                    "files": [
+                        "masonry.js",
+                        "masonry.pkgd.js",
+                        "masonry.pkgd.min.js"
+                    ]
+                },
                 {
                     "version": "3.0.0",
                     "files": [
@@ -22045,6 +22117,40 @@
             ]
         },
         {
+            "name": "placeholders",
+            "filename": "placeholders.js",
+            "version": "2.1.0",
+            "description": "A JavaScript polyfill for the HTML5 placeholder attribute",
+            "homepage": "http://jamesallardice.github.io/Placeholders.js/",
+            "keywords": [
+                "html5",
+                "form",
+                "placeholder",
+                "polyfill"
+            ],
+            "maintainers": [
+                {
+                    "name": "James Allardice",
+                    "web": "<admin@jamesallardice.com>"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/jamesallardice/Placeholders.js"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.1.0",
+                    "files": [
+                        "placeholders.js",
+                        "placeholders.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "platform",
             "version": "0.4.0",
             "filename": "platform.min.js",
@@ -24760,6 +24866,44 @@
                     "version": "0.6.3",
                     "files": [
                         "sammy.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "scaleapp",
+            "version": "0.4.0",
+            "filename": "scaleapp.min.js",
+            "description": "scaleApp is a JavaScript framework for scalable One-Page-Applications",
+            "author": "Markus Kohlhase <mail@markus-kohlhase.de>",
+            "homepage": "http://www.scaleapp.org",
+            "bugs": "http://github.com/flosse/scaleApp/issues",
+            "contributors": [
+                "Markus Kohlhase",
+                "Johann Philipp Strathausen"
+            ],
+            "licenses": [
+                {
+                    "type": "MIT"
+                }
+            ],
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/flosse/scaleApp.git"
+            },
+            "maintainers": [
+                {
+                    "name": "Markus Kohlhase",
+                    "email": "mail@markus-kohlhase.de",
+                    "web": "http://github.com/flosse/"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.4.0",
+                    "files": [
+                        "scaleapp.full.min.js",
+                        "scaleapp.min.js"
                     ]
                 }
             ]
