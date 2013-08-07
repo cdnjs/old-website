@@ -1351,7 +1351,7 @@
         {
             "name": "atmosphere",
             "filename": "atmosphere.min.js",
-            "version": "2.0.0.RC2",
+            "version": "2.0.0.RC4",
             "description": "A browser-side JavaScript client for the Atmosphere",
             "homepage": "https://github.com/Atmosphere/atmosphere-javascript",
             "keywords": [
@@ -1375,6 +1375,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.0.0.RC4",
+                    "files": [
+                        "atmosphere.js",
+                        "atmosphere.min.js"
+                    ]
+                },
                 {
                     "version": "2.0.0.RC2",
                     "files": [
@@ -1552,6 +1559,95 @@
                         "js/aui-soy.js",
                         "js/aui.js",
                         "js/aui.min.js"
+                    ]
+                },
+                {
+                    "version": "5.2",
+                    "files": [
+                        "css/arrow.png",
+                        "css/atlassian-icons.eot",
+                        "css/atlassian-icons.svg",
+                        "css/atlassian-icons.ttf",
+                        "css/atlassian-icons.woff",
+                        "css/aui-experimental.css",
+                        "css/aui-icon-close.png",
+                        "css/aui-icon-tools.gif",
+                        "css/aui-ie.css",
+                        "css/aui-ie9.css",
+                        "css/aui-message-icon-sprite.png",
+                        "css/aui-toolbar-24px.png",
+                        "css/aui-toolbar-button-active-bg.png",
+                        "css/aui-toolbar-button-inactive-bg.png",
+                        "css/aui.css",
+                        "css/bg-000-trans20.png",
+                        "css/bg-000-trans50.png",
+                        "css/bg-grippy.png",
+                        "css/core/icon-dropdown-active-d.png",
+                        "css/core/icon-dropdown-active.png",
+                        "css/core/icon-dropdown-d.png",
+                        "css/core/icon-dropdown.png",
+                        "css/core/icon-maximize-d.png",
+                        "css/core/icon-maximize.png",
+                        "css/core/icon-minimize-d.png",
+                        "css/core/icon-minimize.png",
+                        "css/core/icon-move-d.png",
+                        "css/core/icon-move.png",
+                        "css/core/icon-search.png",
+                        "css/fav_off_16.png",
+                        "css/fav_on_16.png",
+                        "css/forms/icon-date.png",
+                        "css/forms/icon-help.png",
+                        "css/forms/icon-range.png",
+                        "css/forms/icon-required.png",
+                        "css/forms/icon-users.png",
+                        "css/forms/icons_form.gif",
+                        "css/icons/aui-icon-close.png",
+                        "css/icons/aui-icon-tools.gif",
+                        "css/icons/aui-message-icon-sprite.png",
+                        "css/icons/core/icon-dropdown-active-d.png",
+                        "css/icons/core/icon-dropdown-active.png",
+                        "css/icons/core/icon-dropdown-d.png",
+                        "css/icons/core/icon-dropdown.png",
+                        "css/icons/core/icon-maximize-d.png",
+                        "css/icons/core/icon-maximize.png",
+                        "css/icons/core/icon-minimize-d.png",
+                        "css/icons/core/icon-minimize.png",
+                        "css/icons/core/icon-move-d.png",
+                        "css/icons/core/icon-move.png",
+                        "css/icons/core/icon-search.png",
+                        "css/icons/forms/icon-date.png",
+                        "css/icons/forms/icon-help.png",
+                        "css/icons/forms/icon-range.png",
+                        "css/icons/forms/icon-required.png",
+                        "css/icons/forms/icon-users.png",
+                        "css/icons/messages/icon-close-inverted.png",
+                        "css/icons/messages/icon-close.png",
+                        "css/icons/messages/icon-error-white.png",
+                        "css/icons/messages/icon-error.png",
+                        "css/icons/messages/icon-generic.png",
+                        "css/icons/messages/icon-hint.png",
+                        "css/icons/messages/icon-info.png",
+                        "css/icons/messages/icon-success.png",
+                        "css/icons/messages/icon-warning.png",
+                        "css/icons_form.gif",
+                        "css/messages/icon-close-inverted.png",
+                        "css/messages/icon-close.png",
+                        "css/messages/icon-error-white.png",
+                        "css/messages/icon-error.png",
+                        "css/messages/icon-generic.png",
+                        "css/messages/icon-hint.png",
+                        "css/messages/icon-info.png",
+                        "css/messages/icon-success.png",
+                        "css/messages/icon-warning.png",
+                        "css/toolbar/aui-toolbar-24px.png",
+                        "css/toolbar/aui-toolbar-button-active-bg.png",
+                        "css/toolbar/aui-toolbar-button-inactive-bg.png",
+                        "css/wait.gif",
+                        "js/aui-datepicker.js",
+                        "js/aui-experimental.js",
+                        "js/aui-ie.js",
+                        "js/aui-soy.js",
+                        "js/aui.js"
                     ]
                 }
             ]
@@ -3944,7 +4040,7 @@
         {
             "name": "chosen",
             "filename": "chosen.jquery.min.js",
-            "version": "0.9.15",
+            "version": "1.0",
             "description": "Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly. It is currently available in both jQuery and Prototype flavors.",
             "homepage": "http://harvesthq.github.com/chosen",
             "repositories": [
@@ -3954,6 +4050,19 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.0",
+                    "files": [
+                        "chosen-sprite.png",
+                        "chosen-sprite@2x.png",
+                        "chosen.css",
+                        "chosen.jquery.js",
+                        "chosen.jquery.min.js",
+                        "chosen.min.css",
+                        "chosen.proto.js",
+                        "chosen.proto.min.js"
+                    ]
+                },
                 {
                     "version": "0.9.15",
                     "files": [
@@ -6570,7 +6679,7 @@
         {
             "name": "dustjs-linkedin",
             "filename": "dust-core.min.js",
-            "version": "1.2.3",
+            "version": "2.0.0",
             "description": "Asynchronous templates for the browser and node.js ( LinkedIn fork )",
             "homepage": "http://linkedin.github.com/dustjs/",
             "keywords": [
@@ -6594,6 +6703,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.0.0",
+                    "files": [
+                        "dust-core.js",
+                        "dust-core.min.js",
+                        "dust-full.js",
+                        "dust-full.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.3",
                     "files": [
@@ -8433,7 +8551,7 @@
         {
             "name": "fancybox",
             "filename": "jquery.fancybox.pack.js",
-            "version": "2.1.4",
+            "version": "2.1.5",
             "description": "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. It is built at the top of the popular JavaScript framework jQuery and is both easy to implement and a snap to customize.",
             "homepage": "http://fancyapps.com/fancybox/",
             "keywords": [
@@ -8457,6 +8575,28 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.1.5",
+                    "files": [
+                        "blank.gif",
+                        "fancybox_loading.gif",
+                        "fancybox_loading@2x.gif",
+                        "fancybox_overlay.png",
+                        "fancybox_sprite.png",
+                        "fancybox_sprite@2x.png",
+                        "helpers/fancybox_buttons.png",
+                        "helpers/jquery.fancybox-buttons.css",
+                        "helpers/jquery.fancybox-buttons.js",
+                        "helpers/jquery.fancybox-media.js",
+                        "helpers/jquery.fancybox-thumbs.css",
+                        "helpers/jquery.fancybox-thumbs.js",
+                        "jquery.fancybox.css",
+                        "jquery.fancybox.js",
+                        "jquery.fancybox.min.css",
+                        "jquery.fancybox.min.js",
+                        "jquery.fancybox.pack.js"
+                    ]
+                },
                 {
                     "version": "2.1.4",
                     "files": [
@@ -10305,7 +10445,7 @@
         {
             "name": "gsap",
             "filename": "TweenMax.min.js",
-            "version": "1.10.1",
+            "version": "1.10.2",
             "description": "GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.",
             "homepage": "http://www.greensock.com/gsap-js/",
             "keywords": [
@@ -10342,6 +10482,30 @@
             "assets": [
                 {
                     "version": "latest",
+                    "files": [
+                        "TimelineLite.min.js",
+                        "TimelineMax.min.js",
+                        "TweenLite.min.js",
+                        "TweenMax.min.js",
+                        "easing/EasePack.min.js",
+                        "jquery.gsap.min.js",
+                        "plugins/AttrPlugin.min.js",
+                        "plugins/BezierPlugin.min.js",
+                        "plugins/CSSPlugin.min.js",
+                        "plugins/CSSRulePlugin.min.js",
+                        "plugins/ColorPropsPlugin.min.js",
+                        "plugins/DirectionalRotationPlugin.min.js",
+                        "plugins/EaselPlugin.min.js",
+                        "plugins/KineticPlugin.min.js",
+                        "plugins/RaphaelPlugin.min.js",
+                        "plugins/RoundPropsPlugin.min.js",
+                        "plugins/ScrollToPlugin.min.js",
+                        "plugins/TextPlugin.min.js",
+                        "utils/Draggable.min.js"
+                    ]
+                },
+                {
+                    "version": "1.10.2",
                     "files": [
                         "TimelineLite.min.js",
                         "TimelineMax.min.js",
@@ -14533,7 +14697,7 @@
         {
             "name": "jquery.atmosphere",
             "filename": "jquery.atmosphere.min.js",
-            "version": "2.0.0.RC2",
+            "version": "2.0.0.RC4",
             "description": "A browser-side jQuery plugin for the Atmosphere",
             "homepage": "https://github.com/Atmosphere/atmosphere-javascript",
             "keywords": [
@@ -14557,6 +14721,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.0.0.RC4",
+                    "files": [
+                        "jquery.atmosphere.js",
+                        "jquery.atmosphere.min.js"
+                    ]
+                },
                 {
                     "version": "2.0.0.RC2",
                     "files": [
@@ -22052,7 +22223,7 @@
             "name": "postal.js",
             "filename": "postal.min.js",
             "description": "Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.",
-            "version": "0.8.4",
+            "version": "0.8.5",
             "url": "http://github.com/postaljs/postal.js",
             "homepage": "http://github.com/postaljs/postal.js",
             "repository": {
@@ -22121,6 +22292,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.8.5",
+                    "files": [
+                        "postal.js",
+                        "postal.min.js"
+                    ]
+                },
                 {
                     "version": "0.8.4",
                     "files": [
@@ -28065,6 +28243,7 @@
                     "version": "1.5.1",
                     "files": [
                         "underscore-min.js",
+                        "underscore-min.map",
                         "underscore.js"
                     ]
                 },
