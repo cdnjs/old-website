@@ -62,8 +62,8 @@
         {
             "name": "Colors.js",
             "filename": "colors.min.js",
-            "version": "1.2.1",
-            "description": "Colors aims to be an easy to use color manipulation library that is lightweight and very functional.",
+            "version": "1.2.2",
+            "description": "Colors is an easy to use color-type manipulation library that is lightweight and very functional.",
             "homepage": "http://mbjordan.github.io/Colors/",
             "keywords": [
                 "color",
@@ -83,6 +83,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.2.2",
+                    "files": [
+                        "colors.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.1",
                     "files": [
@@ -335,6 +341,44 @@
                     "version": "1.32",
                     "files": [
                         "responsiveslides.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Snowstorm",
+            "filename": "snowstorm-min.js",
+            "version": "20101113",
+            "description": "A JavaScript Snow Effect for HTML",
+            "keywords": [
+                "snow",
+                "xmas"
+            ],
+            "contributors": [
+                {
+                    "name": "Scott Schiller",
+                    "url": "http://www.schillmania.com/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/scottschiller/snowstorm/"
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "BSD License",
+                    "url": "https://github.com/scottschiller/Snowstorm/blob/master/license.txt"
+                }
+            ],
+            "homepage": "http://www.schillmania.com/projects/snowstorm/",
+            "assets": [
+                {
+                    "version": "20101113",
+                    "files": [
+                        "snowstorm-min.js",
+                        "snowstorm.js"
                     ]
                 }
             ]
@@ -1322,6 +1366,41 @@
                         "jquery.anythingslider.min.js",
                         "jquery.anythingslider.video.js",
                         "jquery.anythingslider.video.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "architect",
+            "filename": "architect.min.js",
+            "version": "0.0.7",
+            "description": "Architect is a JavaScript library built on top of Web Workers. He will manage and polyfill them workers so you don’t have to.",
+            "homepage": "http://architectjs.org",
+            "keywords": [
+                "architect",
+                "web workers",
+                "worker"
+            ],
+            "maintainers": [
+                {
+                    "name": "Etienne Lemay",
+                    "web": "http://heliom.ca"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/EtienneLem/architect"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.0.7",
+                    "files": [
+                        "architect.min.js",
+                        "workers/ajax_worker.min.js",
+                        "workers/jsonp_worker.min.js",
+                        "workers/proxy_worker.min.js"
                     ]
                 }
             ]
@@ -24939,7 +25018,7 @@
         {
             "name": "leaflet",
             "filename": "leaflet.js",
-            "version": "0.6.3",
+            "version": "0.6.4",
             "description": "Leaflet is a modern open-source JavaScript library for mobile-friendly interactive maps.",
             "homepage": "http://leafletjs.com/",
             "keywords": [
@@ -24958,6 +25037,21 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.6.4",
+                    "files": [
+                        "images/layers-2x.png",
+                        "images/layers.png",
+                        "images/marker-icon-2x.png",
+                        "images/marker-icon.png",
+                        "images/marker-shadow.png",
+                        "leaflet.css",
+                        "leaflet.ie.css",
+                        "leaflet.ie.min.css",
+                        "leaflet.js",
+                        "leaflet.min.css"
+                    ]
+                },
                 {
                     "version": "0.6.3",
                     "files": [
@@ -30928,7 +31022,7 @@
         {
             "name": "reactive-coffee",
             "filename": "reactive-coffee.min.js",
-            "version": "0.0.2",
+            "version": "0.0.3",
             "description": "A lightweight CoffeeScript library/DSL for reactive programming and for declaratively building scalable web UIs.",
             "homepage": "http://yang.github.io/reactive-coffee/",
             "keywords": [
@@ -30956,6 +31050,13 @@
                 "jquery": ">=1.7.0"
             },
             "assets": [
+                {
+                    "version": "0.0.3",
+                    "files": [
+                        "reactive-coffee.js",
+                        "reactive-coffee.min.js"
+                    ]
+                },
                 {
                     "version": "0.0.2",
                     "files": [
@@ -32664,6 +32765,45 @@
                     "version": "3.0.5",
                     "files": [
                         "simplecart.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "simplestatemanager",
+            "filename": "ssm.min.js",
+            "version": "1.0.2",
+            "description": "A responsive state manager which allows you to run different javascript at different browser widths",
+            "homepage": "https://github.com/jonathan-fielding/SimpleStateManager",
+            "keywords": [
+                "responsive",
+                "states",
+                "state"
+            ],
+            "maintainers": [
+                {
+                    "name": "Jonathan Fielding",
+                    "email": "j.fielding@me.com",
+                    "web": "http://www.jonathanfielding.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/jonathan-fielding/SimpleStateManager"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.0.2",
+                    "files": [
+                        "ssm.min.js"
+                    ]
+                },
+                {
+                    "version": "1.0.1",
+                    "files": [
+                        "ssm.min.js"
                     ]
                 }
             ]
