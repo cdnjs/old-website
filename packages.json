@@ -11457,9 +11457,62 @@
                     "version": "7.3",
                     "files": [
                         "highlight.min.js",
+                        "styles/arta.css",
+                        "styles/arta.min.css",
+                        "styles/ascetic.css",
+                        "styles/ascetic.min.css",
+                        "styles/brown_paper.css",
+                        "styles/brown_paper.min.css",
+                        "styles/brown_papersq.png",
+                        "styles/dark.css",
+                        "styles/dark.min.css",
+                        "styles/default.css",
                         "styles/default.min.css",
+                        "styles/far.css",
+                        "styles/far.min.css",
+                        "styles/github.css",
                         "styles/github.min.css",
-                        "styles/solarized_dark.min.css"
+                        "styles/googlecode.css",
+                        "styles/googlecode.min.css",
+                        "styles/idea.css",
+                        "styles/idea.min.css",
+                        "styles/ir_black.css",
+                        "styles/ir_black.min.css",
+                        "styles/magula.css",
+                        "styles/magula.min.css",
+                        "styles/monokai.css",
+                        "styles/monokai.min.css",
+                        "styles/pojoaque.css",
+                        "styles/pojoaque.jpg",
+                        "styles/pojoaque.min.css",
+                        "styles/rainbow.css",
+                        "styles/rainbow.min.css",
+                        "styles/school_book.css",
+                        "styles/school_book.min.css",
+                        "styles/school_book.png",
+                        "styles/solarized_dark.css",
+                        "styles/solarized_dark.min.css",
+                        "styles/solarized_dark.min.min.css",
+                        "styles/solarized_light.css",
+                        "styles/solarized_light.min.css",
+                        "styles/sunburst.css",
+                        "styles/sunburst.min.css",
+                        "styles/tomorrow-night-blue.css",
+                        "styles/tomorrow-night-blue.min.css",
+                        "styles/tomorrow-night-bright.css",
+                        "styles/tomorrow-night-bright.min.css",
+                        "styles/tomorrow-night-eighties.css",
+                        "styles/tomorrow-night-eighties.min.css",
+                        "styles/tomorrow-night.css",
+                        "styles/tomorrow-night.min.css",
+                        "styles/tomorrow.css",
+                        "styles/tomorrow.min.css",
+                        "styles/vs.css",
+                        "styles/vs.min.css",
+                        "styles/xcode.css",
+                        "styles/xcode.min.css",
+                        "styles/zenburn.css",
+                        "styles/zenburn.min.css"
                     ]
                 }
             ]
@@ -15321,7 +15374,7 @@
         },
         {
             "name": "jquery.is.js",
-            "version": "0.2.0",
+            "version": "0.2.1",
             "license": "MIT",
             "homepage": "http://github.com/rthor/isjs",
             "filename": "jquery.is.min.js",
@@ -15341,6 +15394,13 @@
             ],
             "description": "Check your data against regular expressions or known keywords.",
             "assets": [
+                {
+                    "version": "0.2.1",
+                    "files": [
+                        "jquery.is.js",
+                        "jquery.is.min.js"
+                    ]
+                },
                 {
                     "version": "0.2.0",
                     "files": [
