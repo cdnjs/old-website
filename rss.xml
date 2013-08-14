@@ -10,8 +10,71 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 13 Aug 2013 19:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2013 12:39:42 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jquery-instagram updated to version 0.3.0]]></title>
+            <description><![CDATA[Instagram jQuery plugin<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-instagram/0.3.0/instagram.js">//cdnjs.cloudflare.com/ajax/libs/jquery-instagram/0.3.0/instagram.js</a>]]></description>
+            <link>https://github.com/potomak/jquery-instagram</link>
+            <guid isPermaLink="false">
+                jquery-instagram0.3.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 14 Aug 2013 12:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[authy-forms.js updated to version 2.1]]></title>
+            <description><![CDATA[Authy Form Helpers help you build your Registration and Verification forms to use Authy quicker<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/authy-forms.js/2.1/form.authy.min.js">//cdnjs.cloudflare.com/ajax/libs/authy-forms.js/2.1/form.authy.min.js</a>]]></description>
+            <link>https://www.authy.com</link>
+            <guid isPermaLink="false">
+                authy-forms.js2.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 13 Aug 2013 16:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[typeahead.js updated to version 0.9.3]]></title>
+            <description><![CDATA[a fast and fully-featured autocomplete library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js">//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js</a>]]></description>
+            <link>http://twitter.github.com/typeahead.js/</link>
+            <guid isPermaLink="false">
+                typeahead.js0.9.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 13 Aug 2013 14:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[condition(1.1.1) was added]]></title>
+            <description><![CDATA[Advanced condition library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/condition/1.1.1/condition.min.js">//cdnjs.cloudflare.com/ajax/libs/condition/1.1.1/condition.min.js</a>]]></description>
+            <link>https://github.com/nathggns/condition.js</link>
+            <guid isPermaLink="false">
+                condition1.1.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 13 Aug 2013 12:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[js-url updated to version 1.8.3]]></title>
+            <description><![CDATA[A simple, lightweight url parser for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/js-url/1.8.3/url.min.js">//cdnjs.cloudflare.com/ajax/libs/js-url/1.8.3/url.min.js</a>]]></description>
+            <link>https://github.com/websanova/js-url</link>
+            <guid isPermaLink="false">
+                js-url1.8.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 12 Aug 2013 17:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dropzone updated to version 3.6.2]]></title>
+            <description><![CDATA[Drag'n'drop file uploads with image previews<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/dropzone/3.6.2/dropzone.min.js">//cdnjs.cloudflare.com/ajax/libs/dropzone/3.6.2/dropzone.min.js</a>]]></description>
+            <link>http://www.dropzonejs.com/</link>
+            <guid isPermaLink="false">
+                dropzone3.6.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 12 Aug 2013 13:22:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bootstrap-tour updated to version 0.5.0]]></title>
+            <description><![CDATA[Quick and easy way to build your product tours with Twitter Bootstrap Popovers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.5.0/js/bootstrap-tour.min.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.5.0/js/bootstrap-tour.min.js</a>]]></description>
+            <link>http://bootstraptour.com</link>
+            <guid isPermaLink="false">
+                bootstrap-tour0.5.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 11 Aug 2013 19:36:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[visibility.js updated to version 1.0.0]]></title>
             <description><![CDATA[A wrapper for the Page Visibility API<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/visibility.js/1.0.0/visibility.min.js">//cdnjs.cloudflare.com/ajax/libs/visibility.js/1.0.0/visibility.min.js</a>]]></description>
@@ -29,6 +92,60 @@
                 fullcalendar1.6.3            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 11 Aug 2013 02:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[simplestatemanager updated to version 1.3.0]]></title>
+            <description><![CDATA[A responsive state manager which allows you to run different javascript at different browser widths<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/simplestatemanager/1.3.0/ssm.min.js">//cdnjs.cloudflare.com/ajax/libs/simplestatemanager/1.3.0/ssm.min.js</a>]]></description>
+            <link>https://github.com/jonathan-fielding/SimpleStateManager</link>
+            <guid isPermaLink="false">
+                simplestatemanager1.3.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 10 Aug 2013 17:07:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[can.js updated to version 1.1.7]]></title>
+            <description><![CDATA[CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/can.js/1.1.7/can.jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/can.js/1.1.7/can.jquery.min.js</a>]]></description>
+            <link>http://canjs.us/</link>
+            <guid isPermaLink="false">
+                can.js1.1.7            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 10 Aug 2013 14:22:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bacon.js updated to version 0.6.10]]></title>
+            <description><![CDATA[A small functional reactive programming lib for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.6.10/Bacon.min.js">//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.6.10/Bacon.min.js</a>]]></description>
+            <link>http://baconjs.blogspot.com</link>
+            <guid isPermaLink="false">
+                bacon.js0.6.10            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 10 Aug 2013 02:17:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ace updated to version 1.1.01]]></title>
+            <description><![CDATA[Ace is a standalone code editor written in JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ace/1.1.01/ace.js">//cdnjs.cloudflare.com/ajax/libs/ace/1.1.01/ace.js</a>]]></description>
+            <link>http://ace.ajax.org/</link>
+            <guid isPermaLink="false">
+                ace1.1.01            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 09 Aug 2013 06:33:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[x-editable updated to version 1.4.6]]></title>
+            <description><![CDATA[In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.4.6/bootstrap-editable/js/bootstrap-editable.min.js">//cdnjs.cloudflare.com/ajax/libs/x-editable/1.4.6/bootstrap-editable/js/bootstrap-editable.min.js</a>]]></description>
+            <link>http://vitalets.github.io/x-editable/</link>
+            <guid isPermaLink="false">
+                x-editable1.4.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 07 Aug 2013 20:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[require-text updated to version 2.0.10]]></title>
+            <description><![CDATA[A RequireJS/AMD loader plugin for loading text resources.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/require-text/2.0.10/text.js">//cdnjs.cloudflare.com/ajax/libs/require-text/2.0.10/text.js</a>]]></description>
+            <link>https://github.com/requirejs/text</link>
+            <guid isPermaLink="false">
+                require-text2.0.10            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 07 Aug 2013 18:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery.cycle updated to version 3.03]]></title>
@@ -83,15 +200,6 @@
                 Colors.js1.2.2            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 06 Aug 2013 17:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[simplestatemanager updated to version 1.0.2]]></title>
-            <description><![CDATA[A responsive state manager which allows you to run different javascript at different browser widths<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/simplestatemanager/1.0.2/ssm.min.js">//cdnjs.cloudflare.com/ajax/libs/simplestatemanager/1.0.2/ssm.min.js</a>]]></description>
-            <link>https://github.com/jonathan-fielding/SimpleStateManager</link>
-            <guid isPermaLink="false">
-                simplestatemanager1.0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 06 Aug 2013 12:24:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[postal.js updated to version 0.8.5]]></title>
@@ -218,51 +326,6 @@
                 jquery.wookmark1.3.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 01 Aug 2013 08:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fancybox updated to version 2.1.5]]></title>
-            <description><![CDATA[fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. It is built at the top of the popular JavaScript framework jQuery and is both easy to implement and a snap to customize.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js">//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js</a>]]></description>
-            <link>http://fancyapps.com/fancybox/</link>
-            <guid isPermaLink="false">
-                fancybox2.1.5            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 31 Jul 2013 11:46:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.atmosphere updated to version 2.0.0.RC4]]></title>
-            <description><![CDATA[A browser-side jQuery plugin for the Atmosphere<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.atmosphere/2.0.0.RC4/jquery.atmosphere.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.atmosphere/2.0.0.RC4/jquery.atmosphere.min.js</a>]]></description>
-            <link>https://github.com/Atmosphere/atmosphere-javascript</link>
-            <guid isPermaLink="false">
-                jquery.atmosphere2.0.0.RC4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 31 Jul 2013 08:39:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[atmosphere updated to version 2.0.0.RC4]]></title>
-            <description><![CDATA[A browser-side JavaScript client for the Atmosphere<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/atmosphere/2.0.0.RC4/atmosphere.min.js">//cdnjs.cloudflare.com/ajax/libs/atmosphere/2.0.0.RC4/atmosphere.min.js</a>]]></description>
-            <link>https://github.com/Atmosphere/atmosphere-javascript</link>
-            <guid isPermaLink="false">
-                atmosphere2.0.0.RC4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 31 Jul 2013 08:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chosen updated to version 1.0]]></title>
-            <description><![CDATA[Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly. It is currently available in both jQuery and Prototype flavors.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chosen/1.0/chosen.jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/chosen/1.0/chosen.jquery.min.js</a>]]></description>
-            <link>http://harvesthq.github.com/chosen</link>
-            <guid isPermaLink="false">
-                chosen1.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 31 Jul 2013 08:17:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[dustjs-linkedin updated to version 2.0.0]]></title>
-            <description><![CDATA[Asynchronous templates for the browser and node.js ( LinkedIn fork )<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/dustjs-linkedin/2.0.0/dust-core.min.js">//cdnjs.cloudflare.com/ajax/libs/dustjs-linkedin/2.0.0/dust-core.min.js</a>]]></description>
-            <link>http://linkedin.github.com/dustjs/</link>
-            <guid isPermaLink="false">
-                dustjs-linkedin2.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 31 Jul 2013 08:02:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
