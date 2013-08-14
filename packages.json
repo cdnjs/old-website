@@ -16998,12 +16998,12 @@
         },
         {
             "name": "fullcalendar",
-            "version": "1.6.2",
+            "version": "1.6.3",
             "dependencies": {
-                "jquery": "~1.9.1"
+                "jquery": "~1.10.2"
             },
             "optionalDependencies": {
-                "jquery-ui": "~1.10.2"
+                "jquery-ui": "~1.10.3"
             },
             "title": "FullCalendar",
             "description": "Full-sized drag & drop event calendar",
@@ -17031,6 +17031,16 @@
             "copyright": "2013 Adam Shaw",
             "filename": "fullcalendar.min.js",
             "assets": [
+                {
+                    "version": "1.6.3",
+                    "files": [
+                        "fullcalendar.css",
+                        "fullcalendar.js",
+                        "fullcalendar.min.js",
+                        "fullcalendar.print.css",
+                        "gcal.js"
+                    ]
+                },
                 {
                     "version": "1.6.2",
                     "files": [
@@ -22282,7 +22292,7 @@
         {
             "name": "jquery.cycle",
             "filename": "jquery.cycle.all.min.js",
-            "version": "2.9999.8",
+            "version": "3.03",
             "description": "Cycle is an easy-to-use slideshow plugin that provides many options and effects for creating beautiful slideshows.",
             "homepage": "http://jquery.malsup.com/cycle/",
             "keywords": [
@@ -22305,6 +22315,15 @@
             ],
             "assets": [
                 {
+                    "version": "3.03",
+                    "files": [
+                        "jquery.cycle.all.js",
+                        "jquery.cycle.all.min.js",
+                        "jquery.cycle.lite.js",
+                        "jquery.cycle.lite.min.js"
+                    ]
+                },
+                {
                     "version": "2.9999.8",
                     "files": [
                         "jquery.cycle.all.js",
@@ -22326,7 +22345,7 @@
         {
             "name": "jquery.cycle2",
             "filename": "jquery.cycle2.min.js",
-            "version": "20130409",
+            "version": "20130801",
             "description": "The successor to Cycle. Cycle2 is a mobile and desktop friendly slideshow built around ease-of-use with a declarative API. It supports responsive designs, dynamic slideshow manipulation, swipe events, and lots of options!",
             "homepage": "http://jquery.malsup.com/cycle2/",
             "keywords": [
@@ -22347,6 +22366,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "20130801",
+                    "files": [
+                        "jquery.cycle2.min.js"
+                    ]
+                },
                 {
                     "version": "20130409",
                     "files": [
@@ -35946,7 +35971,7 @@
         {
             "name": "visibility.js",
             "filename": "visibility.min.js",
-            "version": "0.6.2",
+            "version": "1.0.0",
             "description": "A wrapper for the Page Visibility API",
             "homepage": "https://github.com/ai/visibility.js",
             "keywords": [
@@ -35975,6 +36000,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.0.0",
+                    "files": [
+                        "visibility.fallback.min.js",
+                        "visibility.min.js"
+                    ]
+                },
                 {
                     "version": "0.6.2",
                     "files": [
