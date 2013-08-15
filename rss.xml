@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Wed, 14 Aug 2013 12:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2013 17:49:01 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[twitter-bootstrap updated to version 3.0.0-rc2]]></title>
+            <description><![CDATA[Javascript plugins for the Twitter Bootstrap toolkit<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0-rc2/js/bootstrap.min.js">//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0-rc2/js/bootstrap.min.js</a>]]></description>
+            <link>http://getbootstrap.com/</link>
+            <guid isPermaLink="false">
+                twitter-bootstrap3.0.0-rc2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 14 Aug 2013 15:20:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jquery-instagram updated to version 0.3.0]]></title>
             <description><![CDATA[Instagram jQuery plugin<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-instagram/0.3.0/instagram.js">//cdnjs.cloudflare.com/ajax/libs/jquery-instagram/0.3.0/instagram.js</a>]]></description>
@@ -146,6 +155,15 @@
                 require-text2.0.10            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 07 Aug 2013 18:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gmaps.js updated to version 0.4.4]]></title>
+            <description><![CDATA[google maps api with less pain and more fun<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.4/gmaps.min.js">//cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.4/gmaps.min.js</a>]]></description>
+            <link>http://hpneo.github.com/gmaps/</link>
+            <guid isPermaLink="false">
+                gmaps.js0.4.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 07 Aug 2013 18:23:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery.cycle updated to version 3.03]]></title>

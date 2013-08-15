@@ -17713,7 +17713,7 @@
         {
             "filename": "gmaps.min.js",
             "name": "gmaps.js",
-            "version": "0.3",
+            "version": "0.4.4",
             "description": "google maps api with less pain and more fun",
             "keywords": [
                 "google maps",
@@ -17739,6 +17739,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.4.4",
+                    "files": [
+                        "gmaps.js",
+                        "gmaps.min.js"
+                    ]
+                },
                 {
                     "version": "0.3",
                     "files": [
@@ -35584,7 +35591,7 @@
         {
             "name": "twitter-bootstrap",
             "filename": "js/bootstrap.min.js",
-            "version": "3.0.0-rc1",
+            "version": "3.0.0-rc2",
             "description": "Javascript plugins for the Twitter Bootstrap toolkit",
             "homepage": "http://getbootstrap.com/",
             "keywords": [
@@ -35603,6 +35610,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.0.0-rc2",
+                    "files": [
+                        "css/bootstrap.css",
+                        "css/bootstrap.min.css",
+                        "js/bootstrap.js",
+                        "js/bootstrap.min.js"
+                    ]
+                },
                 {
                     "version": "3.0.0-rc1",
                     "files": [
