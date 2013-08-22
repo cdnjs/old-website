@@ -130,6 +130,45 @@
             ]
         },
         {
+            "name": "CoolQueue.io",
+            "filename": "coolqueue.io.min.js",
+            "version": "1.0.0",
+            "description": "Offline failsafe for socket.io",
+            "main": "coolqueue.io.js",
+            "keywords": [
+                "queue",
+                "socket.io",
+                "offline",
+                "failsafe",
+                "persistent"
+            ],
+            "license": "MIT",
+            "maintainers": [
+                {
+                    "name": "Peter Willemsen <peter@codebuffet.co>",
+                    "web": "http://www.codebuffet.co"
+                }
+            ],
+            "dependencies": {
+                "jStorage": ">=0.3.0"
+            },
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/peterwilli/CoolQueue.io"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.0.0",
+                    "files": [
+                        "coolqueue.io.js",
+                        "coolqueue.io.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "EaselJS",
             "filename": "easeljs.min.js",
             "version": "0.6.1",
@@ -1453,6 +1492,38 @@
                     "version": "0.1.0",
                     "files": [
                         "angularfire.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "animate.css",
+            "filename": "animate.min.css",
+            "version": "2.0",
+            "description": "Plug and play, app-like animations for your websites and web apps.",
+            "homepage": "http://daneden.me/animate/",
+            "keywords": [
+                "animation",
+                "css"
+            ],
+            "maintainers": [
+                {
+                    "name": "Daniel Eden",
+                    "web": "http://daneden.me"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/daneden/animate.css"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.0",
+                    "files": [
+                        "animate.css",
+                        "animate.min.css"
                     ]
                 }
             ]
@@ -25109,6 +25180,45 @@
             ]
         },
         {
+            "name": "knockout-bootstrap",
+            "filename": "knockout-bootstrap.js",
+            "version": "0.2.1",
+            "description": "Knockout Bindings for Bootstrap Widgets",
+            "main": "src/knockout-bootstrap.js",
+            "directories": {
+                "example": "examples"
+            },
+            "scripts": {
+                "test": "echo \"Error: no test specified\" && exit 1"
+            },
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/billpull/knockout-bootstrap.git"
+            },
+            "keywords": [
+                "knockout",
+                "bootstrap",
+                "knockout-bootstrap",
+                "bindings"
+            ],
+            "dependencies": {
+                "jQuery": ">= 1.7.4",
+                "twitter-bootstrap": ">= 2.1.1"
+            },
+            "author": "Bill Pullen",
+            "license": "MIT",
+            "readmeFilename": "README.md",
+            "assets": [
+                {
+                    "version": "0.2.1",
+                    "files": [
+                        "knockout-bootstrap.js",
+                        "knockout-bootstrap.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "knockout-validation",
             "filename": "knockout.validation.min.js",
             "version": "1.0.2",
@@ -31343,7 +31453,7 @@
         {
             "name": "reactive-coffee",
             "filename": "reactive-coffee.min.js",
-            "version": "0.0.3",
+            "version": "0.0.4",
             "description": "A lightweight CoffeeScript library/DSL for reactive programming and for declaratively building scalable web UIs.",
             "homepage": "http://yang.github.io/reactive-coffee/",
             "keywords": [
@@ -31371,6 +31481,13 @@
                 "jquery": ">=1.7.0"
             },
             "assets": [
+                {
+                    "version": "0.0.4",
+                    "files": [
+                        "reactive-coffee.js",
+                        "reactive-coffee.min.js"
+                    ]
+                },
                 {
                     "version": "0.0.3",
                     "files": [
@@ -31403,14 +31520,14 @@
         },
         {
             "name": "remoteStorage",
-            "version": "0.6.9",
-            "filename": "remoteStorage.min.js",
+            "version": "0.8.0",
+            "filename": "remotestorage.min.js",
             "description": "Client-side Javascript library to make apps remoteStorage-compatible.",
-            "homepage": "http://remotestoragejs.com",
+            "homepage": "http://remotestorage.io/",
             "repositories": [
                 {
                     "type": "git",
-                    "url": "https://github.com/unhosted/remoteStorage.js"
+                    "url": "https://github.com/remotestorage/remotestorage.js"
                 }
             ],
             "maintainers": [
@@ -31433,14 +31550,19 @@
                 "remoteStorage",
                 "unhosted",
                 "storage",
-                "cloud",
+                "personal cloud",
                 "read-write-web",
-                "webdav",
                 "webfinger",
                 "oauth",
-                "xrd"
+                "CORS"
             ],
             "assets": [
+                {
+                    "version": "0.8.0",
+                    "files": [
+                        "remotestorage.min.js"
+                    ]
+                },
                 {
                     "version": "0.6.9",
                     "files": [
@@ -32216,7 +32338,7 @@
             "filename": "rx.min.js",
             "title": "Reactive Extensions for JavaScript (RxJS)",
             "description": "Library for composing asynchronous and event-based operations in JavaScript",
-            "version": "2.1.2",
+            "version": "2.1.10",
             "homepage": "http://rx.codeplex.com",
             "author": {
                 "name": "Cloud Programmability Team",
@@ -32232,15 +32354,37 @@
                     "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
                 }
             ],
-            "dependencies": {},
-            "devDependencies": {
-                "grunt": "~0.4.0",
-                "grunt-contrib-jshint": "~0.1.1",
-                "grunt-contrib-nodeunit": "~0.1.2"
-            },
-            "keywords": [],
-            "main": "rx.node.js",
+            "keywords": [
+                "LINQ",
+                "FRP",
+                "Reactive",
+                "Events"
+            ],
             "assets": [
+                {
+                    "version": "2.1.10",
+                    "files": [
+                        "rx.aggregates.js",
+                        "rx.aggregates.min.js",
+                        "rx.binding.js",
+                        "rx.binding.min.js",
+                        "rx.coincidence.js",
+                        "rx.coincidence.min.js",
+                        "rx.experimental.js",
+                        "rx.experimental.min.js",
+                        "rx.joinpatterns.js",
+                        "rx.joinpatterns.min.js",
+                        "rx.js",
+                        "rx.min.js",
+                        "rx.modern.js",
+                        "rx.modern.min.js",
+                        "rx.node.js",
+                        "rx.testing.js",
+                        "rx.testing.min.js",
+                        "rx.time.js",
+                        "rx.time.min.js"
+                    ]
+                },
                 {
                     "version": "2.1.2",
                     "files": [
@@ -32979,6 +33123,44 @@
                     "version": "1.0.2",
                     "files": [
                         "selectivizr-min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "selectize.js",
+            "filename": "selectize.min.js",
+            "version": "0.6.14",
+            "description": "A jQuery-based select UI control with autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.",
+            "homepage": "http://brianreavis.github.io/selectize.js/",
+            "keywords": [
+                "select",
+                "jquery",
+                "dropdown",
+                "ui",
+                "ajax"
+            ],
+            "maintainers": [
+                {
+                    "name": "Brian Reavis",
+                    "email": "brian@thirdroute.com",
+                    "web": "https://github.com/brianreavis"
+                }
+            ],
+            "bugs": "https://github.com/brianreavis/selectize.js/issues",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/brianreavis/selectize.js"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.6.14",
+                    "files": [
+                        "selectize.css",
+                        "selectize.js",
+                        "selectize.min.js"
                     ]
                 }
             ]
@@ -35635,7 +35817,7 @@
         {
             "name": "twitter-bootstrap",
             "filename": "js/bootstrap.min.js",
-            "version": "3.0.0-rc2",
+            "version": "3.0.0",
             "description": "Javascript plugins for the Twitter Bootstrap toolkit",
             "homepage": "http://getbootstrap.com/",
             "keywords": [
@@ -35668,6 +35850,21 @@
                     "files": [
                         "css/bootstrap.css",
                         "css/bootstrap.min.css",
+                        "js/bootstrap.js",
+                        "js/bootstrap.min.js"
+                    ]
+                },
+                {
+                    "version": "3.0.0",
+                    "files": [
+                        "css/bootstrap-theme.css",
+                        "css/bootstrap-theme.min.css",
+                        "css/bootstrap.css",
+                        "css/bootstrap.min.css",
+                        "fonts/glyphicons-halflings-regular.eot",
+                        "fonts/glyphicons-halflings-regular.svg",
+                        "fonts/glyphicons-halflings-regular.ttf",
+                        "fonts/glyphicons-halflings-regular.woff",
                         "js/bootstrap.js",
                         "js/bootstrap.min.js"
                     ]
