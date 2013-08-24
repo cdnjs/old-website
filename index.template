@@ -99,7 +99,7 @@
                                 </thead>
                                 <tbody>
                                     <% _.each(packages, function(package){ if(typeof package.name !== 'undefined') { %>
-                                        <tr itemscope itemtype="http://schema.org/SoftwareApplication" data-library-name="<%= package.name %>" id="<%= package.name.replace('.', '') %>" class="odd gradeX">
+                                        <tr itemscope itemtype="http://schema.org/SoftwareApplication" data-library-name="<%= package.name %>" data-library-keywords="<%= package.keywords && package.keywords.join(" ") %>" id="<%= package.name.replace('.', '') %>" class="odd gradeX">
                                             <td style="white-space: nowrap;">
                                                 <a itemprop="name" href="<%= package.homepage %>"><%= package.name %></a>
                                                 <meta itemprop="url" content="<%= package.homepage %>" />
