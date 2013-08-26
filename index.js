@@ -70,6 +70,7 @@ console.log(val);
 if(val.length > 0 ){
 $('[data-library-name]').hide();
 $('[data-library-name*="'+val+'"]').show();
+$('[data-library-keywords*="'+val+'"]').show();
 } else {
 
 $('[data-library-name]').show();

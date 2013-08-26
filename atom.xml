@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Thu, 22 Aug 2013 17:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2013 17:08:31 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[spinejs updated to version 1.2.0]]></title>
+            <description><![CDATA[Spine is a lightweight framework for building JavaScript web applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/spinejs/1.2.0/all.min.js">//cdnjs.cloudflare.com/ajax/libs/spinejs/1.2.0/all.min.js</a>]]></description>
+            <link>http://spinejs.com/</link>
+            <guid isPermaLink="false">
+                spinejs1.2.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 23 Aug 2013 08:51:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[twitter-bootstrap updated to version 3.0.0]]></title>
             <description><![CDATA[Javascript plugins for the Twitter Bootstrap toolkit<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/js/bootstrap.min.js">//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/js/bootstrap.min.js</a>]]></description>
@@ -207,15 +216,6 @@
                 bacon.js0.6.10            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 10 Aug 2013 02:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ace updated to version 1.1.01]]></title>
-            <description><![CDATA[Ace is a standalone code editor written in JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ace/1.1.01/ace.js">//cdnjs.cloudflare.com/ajax/libs/ace/1.1.01/ace.js</a>]]></description>
-            <link>http://ace.ajax.org/</link>
-            <guid isPermaLink="false">
-                ace1.1.01            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 09 Aug 2013 06:33:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

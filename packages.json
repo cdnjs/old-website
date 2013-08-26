@@ -34056,10 +34056,10 @@
         },
         {
             "name": "spinejs",
-            "filename": "spine.min.js",
-            "version": "0.0.4",
+            "filename": "all.min.js",
+            "version": "1.2.0",
             "description": "Spine is a lightweight framework for building JavaScript web applications",
-            "homepage": "http://maccman.github.com/spine/",
+            "homepage": "http://spinejs.com/",
             "keywords": [
                 "mvc",
                 "models",
@@ -34079,10 +34079,38 @@
             "repositories": [
                 {
                     "type": "git",
-                    "url": "https://github.com/maccman/spine"
+                    "url": "https://github.com/spine/spine"
                 }
             ],
             "assets": [
+                {
+                    "version": "1.2.0",
+                    "files": [
+                        "ajax.js",
+                        "ajax.min.js",
+                        "ajax.min.map",
+                        "all.min.js",
+                        "all.min.map",
+                        "list.js",
+                        "list.min.js",
+                        "list.min.map",
+                        "local.js",
+                        "local.min.js",
+                        "local.min.map",
+                        "manager.js",
+                        "manager.min.js",
+                        "manager.min.map",
+                        "relation.js",
+                        "relation.min.js",
+                        "relation.min.map",
+                        "route.js",
+                        "route.min.js",
+                        "route.min.map",
+                        "spine.js",
+                        "spine.min.js",
+                        "spine.min.map"
+                    ]
+                },
                 {
                     "version": "0.0.4",
                     "files": [
