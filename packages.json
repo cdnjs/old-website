@@ -2776,7 +2776,7 @@
         {
             "name": "backbone.modelbinder",
             "filename": "Backbone.ModelBinder.min.js",
-            "version": "1.0.2",
+            "version": "1.0.4",
             "description": "Simple, flexible and powerful Model-View binding for Backbone.",
             "homepage": "https://github.com/theironcook/Backbone.ModelBinder",
             "keywords": [
@@ -2798,6 +2798,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.0.4",
+                    "files": [
+                        "Backbone.CollectionBinder.js",
+                        "Backbone.CollectionBinder.min.js",
+                        "Backbone.ModelBinder.js",
+                        "Backbone.ModelBinder.min.js"
+                    ]
+                },
                 {
                     "version": "1.0.2",
                     "files": [
@@ -6978,7 +6987,7 @@
         {
             "name": "dropzone",
             "filename": "dropzone.min.js",
-            "version": "3.6.2",
+            "version": "3.7.1",
             "description": "Drag'n'drop file uploads with image previews",
             "homepage": "http://www.dropzonejs.com/",
             "keywords": [
@@ -6999,6 +7008,23 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.7.1",
+                    "files": [
+                        "css/basic.css",
+                        "css/basic.min.css",
+                        "css/dropzone.css",
+                        "css/dropzone.min.css",
+                        "css/stylus/basic.styl",
+                        "css/stylus/dropzone.styl",
+                        "dropzone-amd-module.js",
+                        "dropzone-amd-module.min.js",
+                        "dropzone.js",
+                        "dropzone.min.js",
+                        "images/spritemap.png",
+                        "images/spritemap@2x.png"
+                    ]
+                },
                 {
                     "version": "3.6.2",
                     "files": [
@@ -7478,7 +7504,7 @@
         {
             "name": "ember.js",
             "filename": "ember.min.js",
-            "version": "1.0.0-rc.6",
+            "version": "1.0.0-rc.7",
             "description": "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
             "homepage": "http://emberjs.com/",
             "keywords": [
@@ -7503,6 +7529,13 @@
                     "files": [
                         "ember-1.0.pre.js",
                         "ember-1.0.pre.min.js"
+                    ]
+                },
+                {
+                    "version": "1.0.0-rc.7",
+                    "files": [
+                        "ember.js",
+                        "ember.min.js"
                     ]
                 },
                 {
@@ -19235,6 +19268,37 @@
             ]
         },
         {
+            "name": "howler",
+            "filename": "howler.min.js",
+            "version": "1.1.11",
+            "description": "Javascript audio library for the modern web.",
+            "homepage": "http://howlerjs.com/",
+            "keywords": [
+                "audio"
+            ],
+            "maintainers": [
+                {
+                    "name": "James Simpson",
+                    "web": "http://goldfirestudios.com/about"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git://github.com/goldfire/howler.js.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.1.11",
+                    "files": [
+                        "howler.js",
+                        "howler.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "html-inspector",
             "filename": "html-inspector.js",
             "version": "0.4.1",
@@ -20636,6 +20700,59 @@
                         "js/footable.plugin.template.min.js",
                         "js/footable.sortable.js",
                         "js/footable.sortable.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery-form-validator",
+            "filename": "jquery.form-validator.min.js",
+            "title": "jQuery Form Validator",
+            "description": "This plugin makes it easy to validate user input while keeping your HTML markup clean from javascript code. Even though this plugin has a wide range of validation functions it's designed to require as little bandwidth as possible. This is achieved by grouping together validation functions in \"modules\", making it possible for the programmer to load only those functions that's needed to validate a particular form.",
+            "keywords": [
+                "form",
+                "validation",
+                "validator"
+            ],
+            "version": "2.1.6",
+            "author": {
+                "name": "Victor Jonsson",
+                "url": "http://victorjonsson.se",
+                "email": "kontakt@victorjonsson.se"
+            },
+            "homepage": "http://formvalidator.net",
+            "demo": "http://formvalidator.net",
+            "download": "http://formvalidator.net",
+            "bugs": "https://github.com/victorjonsson/jQuery-Form-Validator/issues",
+            "licenses": [
+                {
+                    "type": "Dual licensed under the MIT or GPL Version 2 licenses",
+                    "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+                }
+            ],
+            "dependencies": {
+                "jquery": ">=1.5"
+            },
+            "assets": [
+                {
+                    "version": "2.1.6",
+                    "files": [
+                        "date.dev.js",
+                        "date.js",
+                        "file.dev.js",
+                        "file.js",
+                        "form-test.html",
+                        "jquery.form-validator.js",
+                        "jquery.form-validator.min.js",
+                        "location.dev.js",
+                        "location.js",
+                        "qunit.html",
+                        "security.dev.js",
+                        "security.js",
+                        "sweden.dev.js",
+                        "sweden.js",
+                        "uk.dev.js",
+                        "uk.js"
                     ]
                 }
             ]
@@ -22468,7 +22585,7 @@
         {
             "name": "jquery.caroufredsel",
             "filename": "jquery.carouFredSel.packed.js",
-            "version": "6.1.0",
+            "version": "6.2.1",
             "description": "jQuery.carouFredSel is a plugin that turns any kind of HTML element into a carousel.",
             "homepage": "http://caroufredsel.dev7studios.com/",
             "keywords": [
@@ -22483,6 +22600,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "6.2.1",
+                    "files": [
+                        "jquery.carouFredSel.packed.js"
+                    ]
+                },
                 {
                     "version": "6.1.0",
                     "files": [
@@ -23382,7 +23505,7 @@
         {
             "name": "jquery.selectboxit",
             "filename": "jquery.selectBoxIt.min.js",
-            "version": "3.6.0",
+            "version": "3.7.0",
             "description": "A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.",
             "homepage": "http://www.selectboxit.com",
             "keywords": [
@@ -23397,6 +23520,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.7.0",
+                    "files": [
+                        "jquery.selectBoxIt.css",
+                        "jquery.selectBoxIt.min.js"
+                    ]
+                },
                 {
                     "version": "3.6.0",
                     "files": [
@@ -25214,6 +25344,34 @@
                     "files": [
                         "knockout-bootstrap.js",
                         "knockout-bootstrap.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "knockout-sortable",
+            "filename": "knockout-sortable.min.js",
+            "version": "0.8.1",
+            "description": "Knockout-sortable is a binding for Knockout.js designed to connect observableArrays with JQueryUI's Sortable functionality.",
+            "url": "http://github.com/rniemeyer/knockout-sortable",
+            "license": "MIT",
+            "author": "The Knockout-sortable team",
+            "keywords": [
+                "mvvm",
+                "ui",
+                "templating",
+                "sorting"
+            ],
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/rniemeyer/knockout-sortable.git"
+            },
+            "bugs": "https://github.com/rniemeyer/knockout-sortable/issues",
+            "assets": [
+                {
+                    "version": "0.8.1",
+                    "files": [
+                        "knockout-sortable.min.js"
                     ]
                 }
             ]
@@ -32093,7 +32251,7 @@
         {
             "name": "reveal.js",
             "filename": "js/reveal.min.js",
-            "version": "2.3",
+            "version": "2.4",
             "description": "A framework for easily creating beautiful presentations using HTML",
             "homepage": "http://lab.hakim.se/reveal-js/",
             "keywords": [
@@ -32113,6 +32271,64 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.4",
+                    "files": [
+                        "css/print/paper.css",
+                        "css/print/pdf.css",
+                        "css/reveal.css",
+                        "css/reveal.min.css",
+                        "css/theme/README.md",
+                        "css/theme/beige.css",
+                        "css/theme/default.css",
+                        "css/theme/moon.css",
+                        "css/theme/night.css",
+                        "css/theme/serif.css",
+                        "css/theme/simple.css",
+                        "css/theme/sky.css",
+                        "css/theme/solarized.css",
+                        "css/theme/source/beige.scss",
+                        "css/theme/source/default.scss",
+                        "css/theme/source/moon.scss",
+                        "css/theme/source/night.scss",
+                        "css/theme/source/serif.scss",
+                        "css/theme/source/simple.scss",
+                        "css/theme/source/sky.scss",
+                        "css/theme/source/solarized.scss",
+                        "css/theme/template/mixins.scss",
+                        "css/theme/template/settings.scss",
+                        "css/theme/template/theme.scss",
+                        "js/reveal.js",
+                        "js/reveal.min.js",
+                        "lib/css/zenburn.css",
+                        "lib/font/league_gothic-webfont.eot",
+                        "lib/font/league_gothic-webfont.svg",
+                        "lib/font/league_gothic-webfont.ttf",
+                        "lib/font/league_gothic-webfont.woff",
+                        "lib/js/classList.js",
+                        "lib/js/head.min.js",
+                        "lib/js/html5shiv.js",
+                        "plugin/highlight/highlight.js",
+                        "plugin/markdown/example.html",
+                        "plugin/markdown/example.md",
+                        "plugin/markdown/markdown.js",
+                        "plugin/markdown/marked.js",
+                        "plugin/multiplex/client.js",
+                        "plugin/multiplex/index.js",
+                        "plugin/multiplex/master.js",
+                        "plugin/notes-server/client.js",
+                        "plugin/notes-server/index.js",
+                        "plugin/notes-server/notes.html",
+                        "plugin/notes/notes.html",
+                        "plugin/notes/notes.js",
+                        "plugin/postmessage/example.html",
+                        "plugin/postmessage/postmessage.js",
+                        "plugin/print-pdf/print-pdf.js",
+                        "plugin/remotes/remotes.js",
+                        "plugin/search/search.js",
+                        "plugin/zoom-js/zoom.js"
+                    ]
+                },
                 {
                     "version": "2.3",
                     "files": [
