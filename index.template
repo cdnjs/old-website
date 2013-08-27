@@ -145,10 +145,9 @@
             var hash = window.location.hash;
 
             if(hash) {
-              var $sel = $(hash + " button")
-              $sel.click();
+              $(hash + " button").click();
               // Fix for Firefox.
-              $(document).scrollTop($sel.position().top);
+              $(document).scrollTop($(hash).position().top);
             }
         });
     </script>
