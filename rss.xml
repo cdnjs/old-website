@@ -10,8 +10,214 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 27 Aug 2013 12:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2013 11:24:04 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[fuse.js updated to version 1.0.0]]></title>
+            <description><![CDATA[Lightweight fuzzy-search, in JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/fuse.js/1.0.0/fuse.min.js">//cdnjs.cloudflare.com/ajax/libs/fuse.js/1.0.0/fuse.min.js</a>]]></description>
+            <link>http://kiro.me/projects/fuse.html</link>
+            <guid isPermaLink="false">
+                fuse.js1.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 03 Sep 2013 11:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tagmanager updated to version 3.0.0]]></title>
+            <description><![CDATA[A tags manager, with this plugin a input field is used to collect tags and rendered as tags.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/tagmanager/3.0.0/tagmanager.js">//cdnjs.cloudflare.com/ajax/libs/tagmanager/3.0.0/tagmanager.js</a>]]></description>
+            <link>https://github.com/max-favilli/tagmanager</link>
+            <guid isPermaLink="false">
+                tagmanager3.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 03 Sep 2013 06:18:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gsap updated to version 1.10.3]]></title>
+            <description><![CDATA[GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gsap/1.10.3/TweenMax.min.js">//cdnjs.cloudflare.com/ajax/libs/gsap/1.10.3/TweenMax.min.js</a>]]></description>
+            <link>http://www.greensock.com/gsap-js/</link>
+            <guid isPermaLink="false">
+                gsap1.10.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 03 Sep 2013 02:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-form-validator updated to version 2.1.9]]></title>
+            <description><![CDATA[This plugin makes it easy to validate user input while keeping your HTML markup clean from javascript code. Even though this plugin has a wide range of validation functions it's designed to require as little bandwidth as possible. This is achieved by grouping together validation functions in "modules", making it possible for the programmer to load only those functions that's needed to validate a particular form.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.9/jquery.form-validator.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.9/jquery.form-validator.min.js</a>]]></description>
+            <link>http://formvalidator.net</link>
+            <guid isPermaLink="false">
+                jquery-form-validator2.1.9            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 01 Sep 2013 12:58:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fullcalendar updated to version 1.6.4]]></title>
+            <description><![CDATA[Full-sized drag & drop event calendar<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/1.6.4/fullcalendar.min.js">//cdnjs.cloudflare.com/ajax/libs/fullcalendar/1.6.4/fullcalendar.min.js</a>]]></description>
+            <link>http://arshaw.com/fullcalendar/</link>
+            <guid isPermaLink="false">
+                fullcalendar1.6.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 01 Sep 2013 07:59:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[html-inspector updated to version 0.5.1]]></title>
+            <description><![CDATA[HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/html-inspector/0.5.1/html-inspector.js">//cdnjs.cloudflare.com/ajax/libs/html-inspector/0.5.1/html-inspector.js</a>]]></description>
+            <link>https://github.com/philipwalton/html-inspector</link>
+            <guid isPermaLink="false">
+                html-inspector0.5.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 31 Aug 2013 21:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.waitforimages(1.5.0) was added]]></title>
+            <description><![CDATA[undefined<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.waitforimages/1.5.0/jquery.waitforimages.js">//cdnjs.cloudflare.com/ajax/libs/jquery.waitforimages/1.5.0/jquery.waitforimages.js</a>]]></description>
+            <link>https://github.com/alexanderdickson/waitForImages</link>
+            <guid isPermaLink="false">
+                jquery.waitforimages1.5.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 30 Aug 2013 23:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jschannel(1.0.0-git-commit1-8c4f7eb) was added]]></title>
+            <description><![CDATA[JSChannel is a small JavaScript abstraction layer on top of HTML5 cross-document messaging. It builds rich messaging semantics out of window.postMessage().<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jschannel/1.0.0-git-commit1-8c4f7eb/jschannel.min.js">//cdnjs.cloudflare.com/ajax/libs/jschannel/1.0.0-git-commit1-8c4f7eb/jschannel.min.js</a>]]></description>
+            <link>http://mozilla.github.io/jschannel/docs/</link>
+            <guid isPermaLink="false">
+                jschannel1.0.0-git-commit1-8c4f7eb            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 30 Aug 2013 03:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-countdown updated to version 1.6.3]]></title>
+            <description><![CDATA[Countdown for jQuery.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-countdown/1.6.3/jquery.countdown.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-countdown/1.6.3/jquery.countdown.min.js</a>]]></description>
+            <link>http://keith-wood.name/countdown.html</link>
+            <guid isPermaLink="false">
+                jquery-countdown1.6.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 27 Aug 2013 13:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.finderselect(0.6.0) was added]]></title>
+            <description><![CDATA[Add File Explorer selecting functions to any element<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.finderselect/0.6.0/jquery.finderselect.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.finderselect/0.6.0/jquery.finderselect.min.js</a>]]></description>
+            <link>http://evulse.github.io/finderSelect/</link>
+            <guid isPermaLink="false">
+                jquery.finderselect0.6.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 27 Aug 2013 05:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kartograph-js(0.8.1) was added]]></title>
+            <description><![CDATA[JavaScript library for SVG mapping<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.8.1/undefined">//cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.8.1/undefined</a>]]></description>
+            <link>http://kartograph.org</link>
+            <guid isPermaLink="false">
+                kartograph-js0.8.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 26 Aug 2013 11:25:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kartograph-js(0.7.1) was added]]></title>
+            <description><![CDATA[JavaScript library for SVG mapping<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.7.1/kartograph.min.js">//cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.7.1/kartograph.min.js</a>]]></description>
+            <link>http://kartograph.org</link>
+            <guid isPermaLink="false">
+                kartograph-js0.7.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 26 Aug 2013 11:25:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[chroma-js(0.4.12) was added]]></title>
+            <description><![CDATA[JavaScript library for color conversions<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chroma-js/0.4.12/chroma.min.js">//cdnjs.cloudflare.com/ajax/libs/chroma-js/0.4.12/chroma.min.js</a>]]></description>
+            <link>https://github.com/gka/chroma.js</link>
+            <guid isPermaLink="false">
+                chroma-js0.4.12            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 26 Aug 2013 11:07:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone.marionette updated to version 1.1.0-bundled]]></title>
+            <description><![CDATA[Make your Backbone.js apps dance with a composite application architecture!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.1.0-bundled/backbone.marionette.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.1.0-bundled/backbone.marionette.min.js</a>]]></description>
+            <link>http://github.com/marionettejs/backbone.marionette</link>
+            <guid isPermaLink="false">
+                backbone.marionette1.1.0-bundled            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 25 Aug 2013 20:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rxjs updated to version 2.1.11]]></title>
+            <description><![CDATA[Library for composing asynchronous and event-based operations in JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rxjs/2.1.11/rx.min.js">//cdnjs.cloudflare.com/ajax/libs/rxjs/2.1.11/rx.min.js</a>]]></description>
+            <link>http://rx.codeplex.com</link>
+            <guid isPermaLink="false">
+                rxjs2.1.11            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 25 Aug 2013 05:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[notifxi(0.2.2) was added]]></title>
+            <description><![CDATA[A queued notification class for javascript that utilizes Bootstrap and jQuery.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/notifxi/0.2.2/notifxi.min.js">//cdnjs.cloudflare.com/ajax/libs/notifxi/0.2.2/notifxi.min.js</a>]]></description>
+            <guid isPermaLink="false">
+                notifxi0.2.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 24 Aug 2013 22:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[toxiclibsjs(0.1.3) was added]]></title>
+            <description><![CDATA[Toxiclibsjs is an open-source library for computational design tasks with JavaScript. This library is a port of http://toxiclibs.org for java and processing. http://haptic-data.com/toxiclibsjs<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/toxiclibsjs/0.1.3/toxiclibs.min.js">//cdnjs.cloudflare.com/ajax/libs/toxiclibsjs/0.1.3/toxiclibs.min.js</a>]]></description>
+            <link>https://github.com/hapticdata/toxiclibsjs</link>
+            <guid isPermaLink="false">
+                toxiclibsjs0.1.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 24 Aug 2013 16:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bootstrap-switch updated to version 1.8]]></title>
+            <description><![CDATA[bootstrapSwitch adds switches to your bootstrap ecosystem<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/1.8/js/bootstrap-switch.min.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/1.8/js/bootstrap-switch.min.js</a>]]></description>
+            <link>http://www.larentis.eu/switch/</link>
+            <guid isPermaLink="false">
+                bootstrap-switch1.8            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 24 Aug 2013 05:59:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[topcoat(0.6) was added]]></title>
+            <description><![CDATA[CSS for clean and fast web apps.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/topcoat/0.6/css/topcoat-desktop-dark.min.css">//cdnjs.cloudflare.com/ajax/libs/topcoat/0.6/css/topcoat-desktop-dark.min.css</a>]]></description>
+            <link>http://topcoat.io/</link>
+            <guid isPermaLink="false">
+                topcoat0.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 24 Aug 2013 01:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[F2(1.2.1) was added]]></title>
+            <description><![CDATA[An open framework for the financial services industry.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/F2/1.2.1/f2.min.js">//cdnjs.cloudflare.com/ajax/libs/F2/1.2.1/f2.min.js</a>]]></description>
+            <link>http://www.openf2.org</link>
+            <guid isPermaLink="false">
+                F21.2.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 23 Aug 2013 22:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rxjs-jquery updated to version 1.0.1]]></title>
+            <description><![CDATA[Library for composing asynchronous and event-based operations in JavaScript extending the jQuery library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rxjs-jquery/1.0.1/rx.jquery.js">//cdnjs.cloudflare.com/ajax/libs/rxjs-jquery/1.0.1/rx.jquery.js</a>]]></description>
+            <link>https://github.com/Reactive-Extensions/rxjs-jquery</link>
+            <guid isPermaLink="false">
+                rxjs-jquery1.0.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 23 Aug 2013 22:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rxjs-dom(2.0.3) was added]]></title>
+            <description><![CDATA[HTML DOM Bindings for the Reactive Extensions for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rxjs-dom/2.0.3/rx.dom.js">//cdnjs.cloudflare.com/ajax/libs/rxjs-dom/2.0.3/rx.dom.js</a>]]></description>
+            <link>https://github.com/Reactive-Extensions/rxjs-dom</link>
+            <guid isPermaLink="false">
+                rxjs-dom2.0.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 23 Aug 2013 22:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[nprogress(0.1.2) was added]]></title>
+            <description><![CDATA[Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/nprogress/0.1.2/nprogress.min.js">//cdnjs.cloudflare.com/ajax/libs/nprogress/0.1.2/nprogress.min.js</a>]]></description>
+            <link>http://ricostacruz.com/nprogress/</link>
+            <guid isPermaLink="false">
+                nprogress0.1.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 23 Aug 2013 18:26:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[spinejs updated to version 1.2.0]]></title>
             <description><![CDATA[Spine is a lightweight framework for building JavaScript web applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/spinejs/1.2.0/all.min.js">//cdnjs.cloudflare.com/ajax/libs/spinejs/1.2.0/all.min.js</a>]]></description>
@@ -20,6 +226,15 @@
                 spinejs1.2.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 23 Aug 2013 08:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[polymer updated to version 0.0.20130816]]></title>
+            <description><![CDATA[Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/polymer/0.0.20130816/polymer.min.js">//cdnjs.cloudflare.com/ajax/libs/polymer/0.0.20130816/polymer.min.js</a>]]></description>
+            <link>http://polymer-project.org/</link>
+            <guid isPermaLink="false">
+                polymer0.0.20130816            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 22 Aug 2013 19:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[twitter-bootstrap updated to version 3.0.0]]></title>
@@ -31,190 +246,84 @@
             <pubDate>Thu, 22 Aug 2013 17:36:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[backbone.modelbinder updated to version 1.0.4]]></title>
-            <description><![CDATA[Simple, flexible and powerful Model-View binding for Backbone.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.modelbinder/1.0.4/Backbone.ModelBinder.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.modelbinder/1.0.4/Backbone.ModelBinder.min.js</a>]]></description>
-            <link>https://github.com/theironcook/Backbone.ModelBinder</link>
+            <title><![CDATA[codemirror updated to version 3.16.0]]></title>
+            <description><![CDATA[In-browser code editing made bearable<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/codemirror/3.16.0/codemirror.min.js">//cdnjs.cloudflare.com/ajax/libs/codemirror/3.16.0/codemirror.min.js</a>]]></description>
+            <link>http://codemirror.net</link>
             <guid isPermaLink="false">
-                backbone.modelbinder1.0.4            </guid>
+                codemirror3.16.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 20 Aug 2013 08:46:22 GMT</pubDate>
+            <pubDate>Thu, 22 Aug 2013 15:20:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[dropbox.js updated to version 0.10.1]]></title>
-            <description><![CDATA[Client library for the Dropbox API<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/dropbox.js/0.10.1/dropbox.min.js">//cdnjs.cloudflare.com/ajax/libs/dropbox.js/0.10.1/dropbox.min.js</a>]]></description>
-            <link>https://dropbox.com/developers</link>
+            <title><![CDATA[js-signals updated to version 1.0.0]]></title>
+            <description><![CDATA[Custom Event/Messaging system for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/js-signals/1.0.0/js-signals.min.js">//cdnjs.cloudflare.com/ajax/libs/js-signals/1.0.0/js-signals.min.js</a>]]></description>
+            <link>http://millermedeiros.github.com/js-signals/</link>
             <guid isPermaLink="false">
-                dropbox.js0.10.1            </guid>
+                js-signals1.0.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 20 Aug 2013 00:28:50 GMT</pubDate>
+            <pubDate>Thu, 22 Aug 2013 11:18:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[knockout-sortable(0.8.1) was added]]></title>
-            <description><![CDATA[Knockout-sortable is a binding for Knockout.js designed to connect observableArrays with JQueryUI's Sortable functionality.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/knockout-sortable/0.8.1/knockout-sortable.min.js">//cdnjs.cloudflare.com/ajax/libs/knockout-sortable/0.8.1/knockout-sortable.min.js</a>]]></description>
+            <title><![CDATA[paper.js updated to version 0.9.9]]></title>
+            <description><![CDATA[Paper.js is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/paper.js/0.9.9/paper.js">//cdnjs.cloudflare.com/ajax/libs/paper.js/0.9.9/paper.js</a>]]></description>
+            <link>http://paperjs.org/</link>
             <guid isPermaLink="false">
-                knockout-sortable0.8.1            </guid>
+                paper.js0.9.9            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 19 Aug 2013 18:41:59 GMT</pubDate>
+            <pubDate>Thu, 22 Aug 2013 11:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[dropzone updated to version 3.7.1]]></title>
-            <description><![CDATA[Drag'n'drop file uploads with image previews<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/dropzone/3.7.1/dropzone.min.js">//cdnjs.cloudflare.com/ajax/libs/dropzone/3.7.1/dropzone.min.js</a>]]></description>
-            <link>http://www.dropzonejs.com/</link>
+            <title><![CDATA[js-url updated to version 1.8.4]]></title>
+            <description><![CDATA[A simple, lightweight url parser for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/js-url/1.8.4/url.min.js">//cdnjs.cloudflare.com/ajax/libs/js-url/1.8.4/url.min.js</a>]]></description>
+            <link>https://github.com/websanova/js-url</link>
             <guid isPermaLink="false">
-                dropzone3.7.1            </guid>
+                js-url1.8.4            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 19 Aug 2013 18:40:51 GMT</pubDate>
+            <pubDate>Thu, 22 Aug 2013 02:52:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[reveal.js updated to version 2.4]]></title>
-            <description><![CDATA[A framework for easily creating beautiful presentations using HTML<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/reveal.js/2.4/js/reveal.min.js">//cdnjs.cloudflare.com/ajax/libs/reveal.js/2.4/js/reveal.min.js</a>]]></description>
-            <link>http://lab.hakim.se/reveal-js/</link>
+            <title><![CDATA[queue-async(1.0.4) was added]]></title>
+            <description><![CDATA[A little helper for asynchronous JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.4/queue.min.js">//cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.4/queue.min.js</a>]]></description>
             <guid isPermaLink="false">
-                reveal.js2.4            </guid>
+                queue-async1.0.4            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 19 Aug 2013 14:58:59 GMT</pubDate>
+            <pubDate>Wed, 21 Aug 2013 16:32:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ember.js updated to version 1.0.0-rc.7]]></title>
-            <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember.js/1.0.0-rc.7/ember.min.js">//cdnjs.cloudflare.com/ajax/libs/ember.js/1.0.0-rc.7/ember.min.js</a>]]></description>
-            <link>http://emberjs.com/</link>
+            <title><![CDATA[jStorage updated to version 0.4.4]]></title>
+            <description><![CDATA[Simple local storage wrapper to save data on the browser side, supporting * all major browsers - IE6+, Firefox2+, Safari4+, Chrome4+ and Opera 10.5+<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jStorage/0.4.4/jstorage.min.js">//cdnjs.cloudflare.com/ajax/libs/jStorage/0.4.4/jstorage.min.js</a>]]></description>
+            <link>http://jstorage.info/</link>
             <guid isPermaLink="false">
-                ember.js1.0.0-rc.7            </guid>
+                jStorage0.4.4            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 19 Aug 2013 13:55:53 GMT</pubDate>
+            <pubDate>Wed, 21 Aug 2013 07:42:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jquery.caroufredsel updated to version 6.2.1]]></title>
-            <description><![CDATA[jQuery.carouFredSel is a plugin that turns any kind of HTML element into a carousel.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.caroufredsel/6.2.1/jquery.carouFredSel.packed.js">//cdnjs.cloudflare.com/ajax/libs/jquery.caroufredsel/6.2.1/jquery.carouFredSel.packed.js</a>]]></description>
-            <link>http://caroufredsel.dev7studios.com/</link>
+            <title><![CDATA[jquery.tocify(1.7.0) was added]]></title>
+            <description><![CDATA[A jQuery plugin that dynamically generates a table of contents<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.tocify/1.7.0/jquery.tocify.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.tocify/1.7.0/jquery.tocify.min.js</a>]]></description>
+            <link>http://gregfranko.com/jquery.tocify.js/</link>
             <guid isPermaLink="false">
-                jquery.caroufredsel6.2.1            </guid>
+                jquery.tocify1.7.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 19 Aug 2013 04:15:21 GMT</pubDate>
+            <pubDate>Tue, 20 Aug 2013 21:57:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jquery.selectboxit updated to version 3.7.0]]></title>
-            <description><![CDATA[A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.7.0/jquery.selectBoxIt.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.7.0/jquery.selectBoxIt.min.js</a>]]></description>
-            <link>http://www.selectboxit.com</link>
+            <title><![CDATA[bootstrap-datepicker updated to version 1.2.0]]></title>
+            <description><![CDATA[A datepicker for Twitter Bootstrap<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.2.0/js/bootstrap-datepicker.min.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.2.0/js/bootstrap-datepicker.min.js</a>]]></description>
+            <link>https://github.com/eternicode/bootstrap-datepicker</link>
             <guid isPermaLink="false">
-                jquery.selectboxit3.7.0            </guid>
+                bootstrap-datepicker1.2.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 18 Aug 2013 23:58:58 GMT</pubDate>
+            <pubDate>Tue, 20 Aug 2013 14:19:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jquery-form-validator updated to version 2.1.6]]></title>
-            <description><![CDATA[This plugin makes it easy to validate user input while keeping your HTML markup clean from javascript code. Even though this plugin has a wide range of validation functions it's designed to require as little bandwidth as possible. This is achieved by grouping together validation functions in "modules", making it possible for the programmer to load only those functions that's needed to validate a particular form.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.6/jquery.form-validator.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.6/jquery.form-validator.min.js</a>]]></description>
-            <link>http://formvalidator.net</link>
+            <title><![CDATA[backbone.fetch-cache updated to version 1.0.2]]></title>
+            <description><![CDATA[Caches calls to Backbone.[Model | Collection].fetch<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.fetch-cache/1.0.2/backbone.fetch-cache.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.fetch-cache/1.0.2/backbone.fetch-cache.min.js</a>]]></description>
+            <link>https://github.com/mrappleton/backbone-fetch-cache</link>
             <guid isPermaLink="false">
-                jquery-form-validator2.1.6            </guid>
+                backbone.fetch-cache1.0.2            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 18 Aug 2013 13:05:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[howler updated to version 1.1.11]]></title>
-            <description><![CDATA[Javascript audio library for the modern web.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/howler/1.1.11/howler.min.js">//cdnjs.cloudflare.com/ajax/libs/howler/1.1.11/howler.min.js</a>]]></description>
-            <link>http://howlerjs.com/</link>
-            <guid isPermaLink="false">
-                howler1.1.11            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 17 Aug 2013 20:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[animate.css(2.0) was added]]></title>
-            <description><![CDATA[Plug and play, app-like animations for your websites and web apps.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/animate.css/2.0/animate.min.css">//cdnjs.cloudflare.com/ajax/libs/animate.css/2.0/animate.min.css</a>]]></description>
-            <link>http://daneden.me/animate/</link>
-            <guid isPermaLink="false">
-                animate.css2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 16 Aug 2013 14:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[remoteStorage updated to version 0.8.0]]></title>
-            <description><![CDATA[Client-side Javascript library to make apps remoteStorage-compatible.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/remoteStorage/0.8.0/remotestorage.min.js">//cdnjs.cloudflare.com/ajax/libs/remoteStorage/0.8.0/remotestorage.min.js</a>]]></description>
-            <link>http://remotestorage.io/</link>
-            <guid isPermaLink="false">
-                remoteStorage0.8.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 16 Aug 2013 11:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[gist-embed(1.3) was added]]></title>
-            <description><![CDATA[Ultra powered gist embedding for your website<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gist-embed/1.3/gist-embed.min.js">//cdnjs.cloudflare.com/ajax/libs/gist-embed/1.3/gist-embed.min.js</a>]]></description>
-            <link>http://blairvanderhoof.com/gist-embed/</link>
-            <guid isPermaLink="false">
-                gist-embed1.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 16 Aug 2013 00:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[selectize.js(0.6.14) was added]]></title>
-            <description><![CDATA[A jQuery-based select UI control with autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/selectize.js/0.6.14/selectize.min.js">//cdnjs.cloudflare.com/ajax/libs/selectize.js/0.6.14/selectize.min.js</a>]]></description>
-            <link>http://brianreavis.github.io/selectize.js/</link>
-            <guid isPermaLink="false">
-                selectize.js0.6.14            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 15 Aug 2013 14:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CoolQueue.io(1.0.0) was added]]></title>
-            <description><![CDATA[Offline failsafe for socket.io<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/CoolQueue.io/1.0.0/coolqueue.io.min.js">//cdnjs.cloudflare.com/ajax/libs/CoolQueue.io/1.0.0/coolqueue.io.min.js</a>]]></description>
-            <guid isPermaLink="false">
-                CoolQueue.io1.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 15 Aug 2013 10:53:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[reactive-coffee updated to version 0.0.4]]></title>
-            <description><![CDATA[A lightweight CoffeeScript library/DSL for reactive programming and for declaratively building scalable web UIs.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/reactive-coffee/0.0.4/reactive-coffee.min.js">//cdnjs.cloudflare.com/ajax/libs/reactive-coffee/0.0.4/reactive-coffee.min.js</a>]]></description>
-            <link>http://yang.github.io/reactive-coffee/</link>
-            <guid isPermaLink="false">
-                reactive-coffee0.0.4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 15 Aug 2013 04:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[knockout-bootstrap updated to version 0.2.1]]></title>
-            <description><![CDATA[Knockout Bindings for Bootstrap Widgets<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/knockout-bootstrap/0.2.1/knockout-bootstrap.js">//cdnjs.cloudflare.com/ajax/libs/knockout-bootstrap/0.2.1/knockout-bootstrap.js</a>]]></description>
-            <guid isPermaLink="false">
-                knockout-bootstrap0.2.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 15 Aug 2013 01:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-instagram updated to version 0.3.0]]></title>
-            <description><![CDATA[Instagram jQuery plugin<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-instagram/0.3.0/instagram.js">//cdnjs.cloudflare.com/ajax/libs/jquery-instagram/0.3.0/instagram.js</a>]]></description>
-            <link>https://github.com/potomak/jquery-instagram</link>
-            <guid isPermaLink="false">
-                jquery-instagram0.3.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 14 Aug 2013 12:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[authy-forms.js updated to version 2.1]]></title>
-            <description><![CDATA[Authy Form Helpers help you build your Registration and Verification forms to use Authy quicker<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/authy-forms.js/2.1/form.authy.min.js">//cdnjs.cloudflare.com/ajax/libs/authy-forms.js/2.1/form.authy.min.js</a>]]></description>
-            <link>https://www.authy.com</link>
-            <guid isPermaLink="false">
-                authy-forms.js2.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 13 Aug 2013 16:46:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[typeahead.js updated to version 0.9.3]]></title>
-            <description><![CDATA[a fast and fully-featured autocomplete library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js">//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js</a>]]></description>
-            <link>http://twitter.github.com/typeahead.js/</link>
-            <guid isPermaLink="false">
-                typeahead.js0.9.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 13 Aug 2013 14:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[condition(1.1.1) was added]]></title>
-            <description><![CDATA[Advanced condition library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/condition/1.1.1/condition.min.js">//cdnjs.cloudflare.com/ajax/libs/condition/1.1.1/condition.min.js</a>]]></description>
-            <link>https://github.com/nathggns/condition.js</link>
-            <guid isPermaLink="false">
-                condition1.1.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 13 Aug 2013 12:44:06 GMT</pubDate>
+            <pubDate>Tue, 20 Aug 2013 13:42:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

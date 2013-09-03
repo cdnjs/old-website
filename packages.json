@@ -202,6 +202,40 @@
             ]
         },
         {
+            "name": "F2",
+            "description": "An open framework for the financial services industry.",
+            "version": "1.2.1",
+            "keywords": [
+                "openf2"
+            ],
+            "filename": "f2.min.js",
+            "homepage": "http://www.openf2.org",
+            "author": "Markit On Demand, Inc",
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/OpenF2/F2.git"
+            },
+            "licenses": [
+                {
+                    "type": "Apache-2.0",
+                    "url": "http://www.apache.org/licenses/LICENSE-2.0"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.2.1",
+                    "files": [
+                        "f2.basic.min.js",
+                        "f2.js",
+                        "f2.min.js",
+                        "f2.no-bootstrap.min.js",
+                        "f2.no-easyXDM.min.js",
+                        "f2.no-jquery-or-bootstrap.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "FitText.js",
             "filename": "jquery.fittext.min.js",
             "version": "1.1",
@@ -2458,7 +2492,7 @@
         {
             "name": "backbone.fetch-cache",
             "filename": "backbone.fetch-cache.min.js",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "author": "Andy Appleton",
             "description": "Caches calls to Backbone.[Model | Collection].fetch",
             "homepage": "https://github.com/mrappleton/backbone-fetch-cache",
@@ -2474,6 +2508,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.0.2",
+                    "files": [
+                        "backbone.fetch-cache.js",
+                        "backbone.fetch-cache.min.js"
+                    ]
+                },
                 {
                     "version": "1.0.0",
                     "files": [
@@ -2692,7 +2733,7 @@
         {
             "name": "backbone.marionette",
             "filename": "backbone.marionette.min.js",
-            "version": "1.0.4-bundled",
+            "version": "1.1.0-bundled",
             "description": "Make your Backbone.js apps dance with a composite application architecture!",
             "homepage": "http://github.com/marionettejs/backbone.marionette",
             "keywords": [
@@ -2716,6 +2757,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.1.0-bundled",
+                    "files": [
+                        "backbone.marionette.js",
+                        "backbone.marionette.min.js"
+                    ]
+                },
                 {
                     "version": "1.0.4-bundled",
                     "files": [
@@ -2891,6 +2939,63 @@
                     "version": "0.5",
                     "files": [
                         "backbone.paginator.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "backbone.projections",
+            "filename": "backbone.projections.min.js",
+            "version": "1.0.0",
+            "description": "Various projections for Backbone.Collection",
+            "main": "lib/index.js",
+            "dependencies": {
+                "backbone": "~1.0.0",
+                "underscore": "~1.5.0"
+            },
+            "devDependencies": {
+                "coffee-script": "~1.6.x",
+                "mocha": "",
+                "chai": "",
+                "jsdom": "",
+                "jquery": "",
+                "jqueryify": "",
+                "semver": "",
+                "phantomjs": "",
+                "mocha-phantomjs": "~1.1.2",
+                "module-deps": "",
+                "browser-pack": "",
+                "through": "",
+                "umd": ""
+            },
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/andreypopp/backbone.projections.git"
+            },
+            "homepage": "https://github.com/andreypopp/backbone.projections",
+            "keywords": [
+                "browser",
+                "backbone",
+                "model",
+                "collection",
+                "projection",
+                "capped",
+                "filtered",
+                "data",
+                "mvc"
+            ],
+            "author": {
+                "name": "Andrey Popp",
+                "email": "8mayday@gmail.com",
+                "url": "http://andreypopp.com"
+            },
+            "license": "MIT",
+            "assets": [
+                {
+                    "version": "1.0.0",
+                    "files": [
+                        "backbone.projections.js",
+                        "backbone.projections.min.js"
                     ]
                 }
             ]
@@ -3493,7 +3598,7 @@
         {
             "name": "bootstrap-datepicker",
             "filename": "js/bootstrap-datepicker.min.js",
-            "version": "1.0.2",
+            "version": "1.2.0",
             "description": "A datepicker for Twitter Bootstrap",
             "homepage": "https://github.com/eternicode/bootstrap-datepicker",
             "keywords": [
@@ -3514,6 +3619,103 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.2.0",
+                    "files": [
+                        "css/datepicker.css",
+                        "css/datepicker.min.css",
+                        "js/bootstrap-datepicker.js",
+                        "js/bootstrap-datepicker.min.js",
+                        "js/locales/bootstrap-datepicker.ar.js",
+                        "js/locales/bootstrap-datepicker.ar.min.js",
+                        "js/locales/bootstrap-datepicker.bg.js",
+                        "js/locales/bootstrap-datepicker.bg.min.js",
+                        "js/locales/bootstrap-datepicker.ca.js",
+                        "js/locales/bootstrap-datepicker.ca.min.js",
+                        "js/locales/bootstrap-datepicker.cs.js",
+                        "js/locales/bootstrap-datepicker.cs.min.js",
+                        "js/locales/bootstrap-datepicker.da.js",
+                        "js/locales/bootstrap-datepicker.da.min.js",
+                        "js/locales/bootstrap-datepicker.de.js",
+                        "js/locales/bootstrap-datepicker.de.min.js",
+                        "js/locales/bootstrap-datepicker.el.js",
+                        "js/locales/bootstrap-datepicker.el.min.js",
+                        "js/locales/bootstrap-datepicker.es.js",
+                        "js/locales/bootstrap-datepicker.es.min.js",
+                        "js/locales/bootstrap-datepicker.et.js",
+                        "js/locales/bootstrap-datepicker.et.min.js",
+                        "js/locales/bootstrap-datepicker.fi.js",
+                        "js/locales/bootstrap-datepicker.fi.min.js",
+                        "js/locales/bootstrap-datepicker.fr.js",
+                        "js/locales/bootstrap-datepicker.fr.min.js",
+                        "js/locales/bootstrap-datepicker.he.js",
+                        "js/locales/bootstrap-datepicker.he.min.js",
+                        "js/locales/bootstrap-datepicker.hr.js",
+                        "js/locales/bootstrap-datepicker.hr.min.js",
+                        "js/locales/bootstrap-datepicker.hu.js",
+                        "js/locales/bootstrap-datepicker.hu.min.js",
+                        "js/locales/bootstrap-datepicker.id.js",
+                        "js/locales/bootstrap-datepicker.id.min.js",
+                        "js/locales/bootstrap-datepicker.is.js",
+                        "js/locales/bootstrap-datepicker.is.min.js",
+                        "js/locales/bootstrap-datepicker.it.js",
+                        "js/locales/bootstrap-datepicker.it.min.js",
+                        "js/locales/bootstrap-datepicker.ja.js",
+                        "js/locales/bootstrap-datepicker.ja.min.js",
+                        "js/locales/bootstrap-datepicker.ka.js",
+                        "js/locales/bootstrap-datepicker.ka.min.js",
+                        "js/locales/bootstrap-datepicker.kr.js",
+                        "js/locales/bootstrap-datepicker.kr.min.js",
+                        "js/locales/bootstrap-datepicker.lt.js",
+                        "js/locales/bootstrap-datepicker.lt.min.js",
+                        "js/locales/bootstrap-datepicker.lv.js",
+                        "js/locales/bootstrap-datepicker.lv.min.js",
+                        "js/locales/bootstrap-datepicker.mk.js",
+                        "js/locales/bootstrap-datepicker.mk.min.js",
+                        "js/locales/bootstrap-datepicker.ms.js",
+                        "js/locales/bootstrap-datepicker.ms.min.js",
+                        "js/locales/bootstrap-datepicker.nb.js",
+                        "js/locales/bootstrap-datepicker.nb.min.js",
+                        "js/locales/bootstrap-datepicker.nl.js",
+                        "js/locales/bootstrap-datepicker.nl.min.js",
+                        "js/locales/bootstrap-datepicker.no.js",
+                        "js/locales/bootstrap-datepicker.no.min.js",
+                        "js/locales/bootstrap-datepicker.pl.js",
+                        "js/locales/bootstrap-datepicker.pl.min.js",
+                        "js/locales/bootstrap-datepicker.pt-BR.js",
+                        "js/locales/bootstrap-datepicker.pt-BR.min.js",
+                        "js/locales/bootstrap-datepicker.pt.js",
+                        "js/locales/bootstrap-datepicker.pt.min.js",
+                        "js/locales/bootstrap-datepicker.ro.js",
+                        "js/locales/bootstrap-datepicker.ro.min.js",
+                        "js/locales/bootstrap-datepicker.rs-latin.js",
+                        "js/locales/bootstrap-datepicker.rs-latin.min.js",
+                        "js/locales/bootstrap-datepicker.rs.js",
+                        "js/locales/bootstrap-datepicker.rs.min.js",
+                        "js/locales/bootstrap-datepicker.ru.js",
+                        "js/locales/bootstrap-datepicker.ru.min.js",
+                        "js/locales/bootstrap-datepicker.sk.js",
+                        "js/locales/bootstrap-datepicker.sk.min.js",
+                        "js/locales/bootstrap-datepicker.sl.js",
+                        "js/locales/bootstrap-datepicker.sl.min.js",
+                        "js/locales/bootstrap-datepicker.sq.js",
+                        "js/locales/bootstrap-datepicker.sq.min.js",
+                        "js/locales/bootstrap-datepicker.sv.js",
+                        "js/locales/bootstrap-datepicker.sv.min.js",
+                        "js/locales/bootstrap-datepicker.sw.js",
+                        "js/locales/bootstrap-datepicker.sw.min.js",
+                        "js/locales/bootstrap-datepicker.th.js",
+                        "js/locales/bootstrap-datepicker.th.min.js",
+                        "js/locales/bootstrap-datepicker.tr.js",
+                        "js/locales/bootstrap-datepicker.tr.min.js",
+                        "js/locales/bootstrap-datepicker.uk.js",
+                        "js/locales/bootstrap-datepicker.uk.min.js",
+                        "js/locales/bootstrap-datepicker.zh-CN.js",
+                        "js/locales/bootstrap-datepicker.zh-CN.min.js",
+                        "js/locales/bootstrap-datepicker.zh-TW.js",
+                        "js/locales/bootstrap-datepicker.zh-TW.min.js"
+                    ]
+                },
                 {
                     "version": "1.1.3",
                     "files": [
@@ -3957,9 +4159,9 @@
         },
         {
             "name": "bootstrap-switch",
-            "filename": "bootstrap-switch.min.js",
+            "filename": "js/bootstrap-switch.min.js",
             "description": "bootstrapSwitch adds switches to your bootstrap ecosystem",
-            "version": "1.5",
+            "version": "1.8",
             "homepage": "http://www.larentis.eu/switch/",
             "keywords": [
                 "bootstrap",
@@ -3987,6 +4189,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.8",
+                    "files": [
+                        "css/bootstrap-switch.css",
+                        "js/bootstrap-switch.min.js"
+                    ]
+                },
                 {
                     "version": "1.5",
                     "files": [
@@ -4499,6 +4708,51 @@
                         "chosen.min.css",
                         "chosen.proto.js",
                         "chosen.proto.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "chroma-js",
+            "filename": "chroma.min.js",
+            "description": "JavaScript library for color conversions",
+            "version": "0.4.12",
+            "author": "Gregor Aisch",
+            "homepage": "https://github.com/gka/chroma.js",
+            "keywords": [
+                "color"
+            ],
+            "maintainers": [
+                {
+                    "name": "Klemen Slavič",
+                    "email": "klemen@celtra.com",
+                    "web": "http://about.me/klemen.slavic"
+                },
+                {
+                    "name": "Gregor Aisch",
+                    "email": "mail@driven-by-data.net",
+                    "web": "http://driven-by-data.net"
+                }
+            ],
+            "bugs": "https://github.com/gka/chroma.js/issues",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/gka/chroma.js.git"
+            },
+            "main": "chroma.js",
+            "scripts": {
+                "compile": "./build.sh"
+            },
+            "devDependencies": {
+                "uglify-js": "2.x",
+                "coffee-script": "1.2",
+                "vows": "0.7.x"
+            },
+            "assets": [
+                {
+                    "version": "0.4.12",
+                    "files": [
+                        "chroma.min.js"
                     ]
                 }
             ]
@@ -5268,7 +5522,7 @@
         {
             "name": "codemirror",
             "filename": "codemirror.min.js",
-            "version": "3.12.0",
+            "version": "3.16.0",
             "main": "codemirror.js",
             "description": "In-browser code editing made bearable",
             "licenses": [
@@ -5311,6 +5565,410 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "3.16.0",
+                    "files": [
+                        "addon/comment/comment.js",
+                        "addon/comment/comment.min.js",
+                        "addon/comment/continuecomment.js",
+                        "addon/comment/continuecomment.min.js",
+                        "addon/dialog/dialog.css",
+                        "addon/dialog/dialog.js",
+                        "addon/dialog/dialog.min.css",
+                        "addon/dialog/dialog.min.js",
+                        "addon/display/fullscreen.css",
+                        "addon/display/fullscreen.js",
+                        "addon/display/fullscreen.min.css",
+                        "addon/display/fullscreen.min.js",
+                        "addon/display/placeholder.js",
+                        "addon/display/placeholder.min.js",
+                        "addon/edit/closebrackets.js",
+                        "addon/edit/closebrackets.min.js",
+                        "addon/edit/closetag.js",
+                        "addon/edit/closetag.min.js",
+                        "addon/edit/continuelist.js",
+                        "addon/edit/continuelist.min.js",
+                        "addon/edit/matchbrackets.js",
+                        "addon/edit/matchbrackets.min.js",
+                        "addon/edit/matchtags.js",
+                        "addon/edit/matchtags.min.js",
+                        "addon/edit/trailingspace.js",
+                        "addon/edit/trailingspace.min.js",
+                        "addon/fold/brace-fold.js",
+                        "addon/fold/brace-fold.min.js",
+                        "addon/fold/comment-fold.js",
+                        "addon/fold/comment-fold.min.js",
+                        "addon/fold/foldcode.js",
+                        "addon/fold/foldcode.min.js",
+                        "addon/fold/foldgutter.js",
+                        "addon/fold/foldgutter.min.js",
+                        "addon/fold/indent-fold.js",
+                        "addon/fold/indent-fold.min.js",
+                        "addon/fold/xml-fold.js",
+                        "addon/fold/xml-fold.min.js",
+                        "addon/hint/anyword-hint.js",
+                        "addon/hint/anyword-hint.min.js",
+                        "addon/hint/html-hint.js",
+                        "addon/hint/html-hint.min.js",
+                        "addon/hint/javascript-hint.js",
+                        "addon/hint/javascript-hint.min.js",
+                        "addon/hint/pig-hint.js",
+                        "addon/hint/pig-hint.min.js",
+                        "addon/hint/python-hint.js",
+                        "addon/hint/python-hint.min.js",
+                        "addon/hint/show-hint.css",
+                        "addon/hint/show-hint.js",
+                        "addon/hint/show-hint.min.css",
+                        "addon/hint/show-hint.min.js",
+                        "addon/hint/xml-hint.js",
+                        "addon/hint/xml-hint.min.js",
+                        "addon/lint/coffeescript-lint.js",
+                        "addon/lint/coffeescript-lint.min.js",
+                        "addon/lint/javascript-lint.js",
+                        "addon/lint/javascript-lint.min.js",
+                        "addon/lint/json-lint.js",
+                        "addon/lint/json-lint.min.js",
+                        "addon/lint/lint.css",
+                        "addon/lint/lint.js",
+                        "addon/lint/lint.min.css",
+                        "addon/lint/lint.min.js",
+                        "addon/merge/dep/diff_match_patch.js",
+                        "addon/merge/dep/diff_match_patch.min.js",
+                        "addon/merge/merge.css",
+                        "addon/merge/merge.js",
+                        "addon/merge/merge.min.css",
+                        "addon/merge/merge.min.js",
+                        "addon/mode/loadmode.js",
+                        "addon/mode/loadmode.min.js",
+                        "addon/mode/multiplex.js",
+                        "addon/mode/multiplex.min.js",
+                        "addon/mode/multiplex_test.js",
+                        "addon/mode/multiplex_test.min.js",
+                        "addon/mode/overlay.js",
+                        "addon/mode/overlay.min.js",
+                        "addon/runmode/colorize.js",
+                        "addon/runmode/colorize.min.js",
+                        "addon/runmode/runmode-standalone.js",
+                        "addon/runmode/runmode-standalone.min.js",
+                        "addon/runmode/runmode.js",
+                        "addon/runmode/runmode.min.js",
+                        "addon/runmode/runmode.node.js",
+                        "addon/runmode/runmode.node.min.js",
+                        "addon/scroll/scrollpastend.js",
+                        "addon/scroll/scrollpastend.min.js",
+                        "addon/search/match-highlighter.js",
+                        "addon/search/match-highlighter.min.js",
+                        "addon/search/search.js",
+                        "addon/search/search.min.js",
+                        "addon/search/searchcursor.js",
+                        "addon/search/searchcursor.min.js",
+                        "addon/selection/active-line.js",
+                        "addon/selection/active-line.min.js",
+                        "addon/selection/mark-selection.js",
+                        "addon/selection/mark-selection.min.js",
+                        "addon/tern/tern.css",
+                        "addon/tern/tern.js",
+                        "addon/tern/tern.min.css",
+                        "addon/tern/tern.min.js",
+                        "addon/tern/worker.js",
+                        "addon/tern/worker.min.js",
+                        "codemirror.css",
+                        "codemirror.js",
+                        "codemirror.min.css",
+                        "codemirror.min.js",
+                        "keymap/emacs.js",
+                        "keymap/emacs.min.js",
+                        "keymap/extra.js",
+                        "keymap/extra.min.js",
+                        "keymap/vim.js",
+                        "keymap/vim.min.js",
+                        "mode/apl/apl.js",
+                        "mode/apl/apl.min.js",
+                        "mode/apl/index.html",
+                        "mode/asterisk/asterisk.js",
+                        "mode/asterisk/asterisk.min.js",
+                        "mode/asterisk/index.html",
+                        "mode/clike/clike.js",
+                        "mode/clike/clike.min.js",
+                        "mode/clike/index.html",
+                        "mode/clike/scala.html",
+                        "mode/clojure/clojure.js",
+                        "mode/clojure/clojure.min.js",
+                        "mode/clojure/index.html",
+                        "mode/cobol/cobol.js",
+                        "mode/cobol/cobol.min.js",
+                        "mode/cobol/index.html",
+                        "mode/coffeescript/coffeescript.js",
+                        "mode/coffeescript/coffeescript.min.js",
+                        "mode/coffeescript/index.html",
+                        "mode/commonlisp/commonlisp.js",
+                        "mode/commonlisp/commonlisp.min.js",
+                        "mode/commonlisp/index.html",
+                        "mode/css/css.js",
+                        "mode/css/css.min.js",
+                        "mode/css/index.html",
+                        "mode/css/scss.html",
+                        "mode/css/scss_test.js",
+                        "mode/css/scss_test.min.js",
+                        "mode/css/test.js",
+                        "mode/css/test.min.js",
+                        "mode/d/d.js",
+                        "mode/d/d.min.js",
+                        "mode/d/index.html",
+                        "mode/diff/diff.js",
+                        "mode/diff/diff.min.js",
+                        "mode/diff/index.html",
+                        "mode/ecl/ecl.js",
+                        "mode/ecl/ecl.min.js",
+                        "mode/ecl/index.html",
+                        "mode/erlang/erlang.js",
+                        "mode/erlang/erlang.min.js",
+                        "mode/erlang/index.html",
+                        "mode/gas/gas.js",
+                        "mode/gas/gas.min.js",
+                        "mode/gas/index.html",
+                        "mode/gfm/gfm.js",
+                        "mode/gfm/gfm.min.js",
+                        "mode/gfm/index.html",
+                        "mode/gfm/test.js",
+                        "mode/gfm/test.min.js",
+                        "mode/go/go.js",
+                        "mode/go/go.min.js",
+                        "mode/go/index.html",
+                        "mode/groovy/groovy.js",
+                        "mode/groovy/groovy.min.js",
+                        "mode/groovy/index.html",
+                        "mode/haml/haml.js",
+                        "mode/haml/haml.min.js",
+                        "mode/haml/index.html",
+                        "mode/haml/test.js",
+                        "mode/haml/test.min.js",
+                        "mode/haskell/haskell.js",
+                        "mode/haskell/haskell.min.js",
+                        "mode/haskell/index.html",
+                        "mode/haxe/haxe.js",
+                        "mode/haxe/haxe.min.js",
+                        "mode/haxe/index.html",
+                        "mode/htmlembedded/htmlembedded.js",
+                        "mode/htmlembedded/htmlembedded.min.js",
+                        "mode/htmlembedded/index.html",
+                        "mode/htmlmixed/htmlmixed.js",
+                        "mode/htmlmixed/htmlmixed.min.js",
+                        "mode/htmlmixed/index.html",
+                        "mode/http/http.js",
+                        "mode/http/http.min.js",
+                        "mode/http/index.html",
+                        "mode/index.html",
+                        "mode/jade/index.html",
+                        "mode/jade/jade.js",
+                        "mode/jade/jade.min.js",
+                        "mode/javascript/index.html",
+                        "mode/javascript/javascript.js",
+                        "mode/javascript/javascript.min.js",
+                        "mode/javascript/test.js",
+                        "mode/javascript/test.min.js",
+                        "mode/javascript/typescript.html",
+                        "mode/jinja2/index.html",
+                        "mode/jinja2/jinja2.js",
+                        "mode/jinja2/jinja2.min.js",
+                        "mode/less/index.html",
+                        "mode/less/less.js",
+                        "mode/less/less.min.js",
+                        "mode/livescript/index.html",
+                        "mode/livescript/livescript.js",
+                        "mode/livescript/livescript.ls",
+                        "mode/livescript/livescript.min.js",
+                        "mode/lua/index.html",
+                        "mode/lua/lua.js",
+                        "mode/lua/lua.min.js",
+                        "mode/markdown/index.html",
+                        "mode/markdown/markdown.js",
+                        "mode/markdown/markdown.min.js",
+                        "mode/markdown/test.js",
+                        "mode/markdown/test.min.js",
+                        "mode/meta.js",
+                        "mode/meta.min.js",
+                        "mode/mirc/index.html",
+                        "mode/mirc/mirc.js",
+                        "mode/mirc/mirc.min.js",
+                        "mode/nginx/index.html",
+                        "mode/nginx/nginx.js",
+                        "mode/nginx/nginx.min.js",
+                        "mode/ntriples/index.html",
+                        "mode/ntriples/ntriples.js",
+                        "mode/ntriples/ntriples.min.js",
+                        "mode/ocaml/index.html",
+                        "mode/ocaml/ocaml.js",
+                        "mode/ocaml/ocaml.min.js",
+                        "mode/pascal/index.html",
+                        "mode/pascal/pascal.js",
+                        "mode/pascal/pascal.min.js",
+                        "mode/perl/index.html",
+                        "mode/perl/perl.js",
+                        "mode/perl/perl.min.js",
+                        "mode/php/index.html",
+                        "mode/php/php.js",
+                        "mode/php/php.min.js",
+                        "mode/pig/index.html",
+                        "mode/pig/pig.js",
+                        "mode/pig/pig.min.js",
+                        "mode/properties/index.html",
+                        "mode/properties/properties.js",
+                        "mode/properties/properties.min.js",
+                        "mode/python/index.html",
+                        "mode/python/python.js",
+                        "mode/python/python.min.js",
+                        "mode/q/index.html",
+                        "mode/q/q.js",
+                        "mode/q/q.min.js",
+                        "mode/r/index.html",
+                        "mode/r/r.js",
+                        "mode/r/r.min.js",
+                        "mode/rpm/changes/changes.js",
+                        "mode/rpm/changes/changes.min.js",
+                        "mode/rpm/changes/index.html",
+                        "mode/rpm/spec/index.html",
+                        "mode/rpm/spec/spec.css",
+                        "mode/rpm/spec/spec.js",
+                        "mode/rpm/spec/spec.min.css",
+                        "mode/rpm/spec/spec.min.js",
+                        "mode/rst/index.html",
+                        "mode/rst/rst.js",
+                        "mode/rst/rst.min.js",
+                        "mode/ruby/index.html",
+                        "mode/ruby/ruby.js",
+                        "mode/ruby/ruby.min.js",
+                        "mode/rust/index.html",
+                        "mode/rust/rust.js",
+                        "mode/rust/rust.min.js",
+                        "mode/sass/index.html",
+                        "mode/sass/sass.js",
+                        "mode/sass/sass.min.js",
+                        "mode/scheme/index.html",
+                        "mode/scheme/scheme.js",
+                        "mode/scheme/scheme.min.js",
+                        "mode/shell/index.html",
+                        "mode/shell/shell.js",
+                        "mode/shell/shell.min.js",
+                        "mode/sieve/index.html",
+                        "mode/sieve/sieve.js",
+                        "mode/sieve/sieve.min.js",
+                        "mode/smalltalk/index.html",
+                        "mode/smalltalk/smalltalk.js",
+                        "mode/smalltalk/smalltalk.min.js",
+                        "mode/smarty/index.html",
+                        "mode/smarty/smarty.js",
+                        "mode/smarty/smarty.min.js",
+                        "mode/smartymixed/index.html",
+                        "mode/smartymixed/smartymixed.js",
+                        "mode/smartymixed/smartymixed.min.js",
+                        "mode/sparql/index.html",
+                        "mode/sparql/sparql.js",
+                        "mode/sparql/sparql.min.js",
+                        "mode/sql/index.html",
+                        "mode/sql/sql.js",
+                        "mode/sql/sql.min.js",
+                        "mode/stex/index.html",
+                        "mode/stex/stex.js",
+                        "mode/stex/stex.min.js",
+                        "mode/stex/test.js",
+                        "mode/stex/test.min.js",
+                        "mode/tcl/index.html",
+                        "mode/tcl/tcl.js",
+                        "mode/tcl/tcl.min.js",
+                        "mode/tiddlywiki/index.html",
+                        "mode/tiddlywiki/tiddlywiki.css",
+                        "mode/tiddlywiki/tiddlywiki.js",
+                        "mode/tiddlywiki/tiddlywiki.min.css",
+                        "mode/tiddlywiki/tiddlywiki.min.js",
+                        "mode/tiki/index.html",
+                        "mode/tiki/tiki.css",
+                        "mode/tiki/tiki.js",
+                        "mode/tiki/tiki.min.css",
+                        "mode/tiki/tiki.min.js",
+                        "mode/turtle/index.html",
+                        "mode/turtle/turtle.js",
+                        "mode/turtle/turtle.min.js",
+                        "mode/vb/index.html",
+                        "mode/vb/vb.js",
+                        "mode/vb/vb.min.js",
+                        "mode/vbscript/index.html",
+                        "mode/vbscript/vbscript.js",
+                        "mode/vbscript/vbscript.min.js",
+                        "mode/velocity/index.html",
+                        "mode/velocity/velocity.js",
+                        "mode/velocity/velocity.min.js",
+                        "mode/verilog/index.html",
+                        "mode/verilog/verilog.js",
+                        "mode/verilog/verilog.min.js",
+                        "mode/xml/index.html",
+                        "mode/xml/xml.js",
+                        "mode/xml/xml.min.js",
+                        "mode/xquery/index.html",
+                        "mode/xquery/test.js",
+                        "mode/xquery/test.min.js",
+                        "mode/xquery/xquery.js",
+                        "mode/xquery/xquery.min.js",
+                        "mode/yaml/index.html",
+                        "mode/yaml/yaml.js",
+                        "mode/yaml/yaml.min.js",
+                        "mode/z80/index.html",
+                        "mode/z80/z80.js",
+                        "mode/z80/z80.min.js",
+                        "theme/3024-day.css",
+                        "theme/3024-day.min.css",
+                        "theme/3024-night.css",
+                        "theme/3024-night.min.css",
+                        "theme/ambiance-mobile.css",
+                        "theme/ambiance-mobile.min.css",
+                        "theme/ambiance.css",
+                        "theme/ambiance.min.css",
+                        "theme/base16-dark.css",
+                        "theme/base16-dark.min.css",
+                        "theme/base16-light.css",
+                        "theme/base16-light.min.css",
+                        "theme/blackboard.css",
+                        "theme/blackboard.min.css",
+                        "theme/cobalt.css",
+                        "theme/cobalt.min.css",
+                        "theme/eclipse.css",
+                        "theme/eclipse.min.css",
+                        "theme/elegant.css",
+                        "theme/elegant.min.css",
+                        "theme/erlang-dark.css",
+                        "theme/erlang-dark.min.css",
+                        "theme/lesser-dark.css",
+                        "theme/lesser-dark.min.css",
+                        "theme/midnight.css",
+                        "theme/midnight.min.css",
+                        "theme/monokai.css",
+                        "theme/monokai.min.css",
+                        "theme/neat.css",
+                        "theme/neat.min.css",
+                        "theme/night.css",
+                        "theme/night.min.css",
+                        "theme/paraiso-dark.css",
+                        "theme/paraiso-dark.min.css",
+                        "theme/paraiso-light.css",
+                        "theme/paraiso-light.min.css",
+                        "theme/rubyblue.css",
+                        "theme/rubyblue.min.css",
+                        "theme/solarized.css",
+                        "theme/solarized.min.css",
+                        "theme/the-matrix.css",
+                        "theme/the-matrix.min.css",
+                        "theme/tomorrow-night-eighties.css",
+                        "theme/tomorrow-night-eighties.min.css",
+                        "theme/twilight.css",
+                        "theme/twilight.min.css",
+                        "theme/vibrant-ink.css",
+                        "theme/vibrant-ink.min.css",
+                        "theme/xq-dark.css",
+                        "theme/xq-dark.min.css",
+                        "theme/xq-light.css",
+                        "theme/xq-light.min.css"
+                    ]
+                },
                 {
                     "version": "3.12.0",
                     "files": [
@@ -17341,7 +17999,7 @@
         },
         {
             "name": "fullcalendar",
-            "version": "1.6.3",
+            "version": "1.6.4",
             "dependencies": {
                 "jquery": "~1.10.2"
             },
@@ -17374,6 +18032,16 @@
             "copyright": "2013 Adam Shaw",
             "filename": "fullcalendar.min.js",
             "assets": [
+                {
+                    "version": "1.6.4",
+                    "files": [
+                        "fullcalendar.css",
+                        "fullcalendar.js",
+                        "fullcalendar.min.js",
+                        "fullcalendar.print.css",
+                        "gcal.js"
+                    ]
+                },
                 {
                     "version": "1.6.3",
                     "files": [
@@ -17418,6 +18086,38 @@
                         "fullcalendar.print.min.css",
                         "gcal.js",
                         "gcal.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "fuse.js",
+            "filename": "fuse.min.js",
+            "version": "1.0.0",
+            "description": "Lightweight fuzzy-search, in JavaScript",
+            "homepage": "http://kiro.me/projects/fuse.html",
+            "keywords": [
+                "fuse",
+                "fuse.js"
+            ],
+            "maintainers": [
+                {
+                    "name": "Kirollos Risk",
+                    "web": "https://github.com/krisk"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/krisk/Fuse"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.0.0",
+                    "files": [
+                        "fuse.js",
+                        "fuse.min.js"
                     ]
                 }
             ]
@@ -17861,7 +18561,7 @@
         {
             "filename": "gmaps.min.js",
             "name": "gmaps.js",
-            "version": "0.4.4",
+            "version": "0.4.5",
             "description": "google maps api with less pain and more fun",
             "keywords": [
                 "google maps",
@@ -17887,6 +18587,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.4.5",
+                    "files": [
+                        "gmaps.js",
+                        "gmaps.min.js"
+                    ]
+                },
                 {
                     "version": "0.4.4",
                     "files": [
@@ -18020,7 +18727,7 @@
         {
             "name": "gsap",
             "filename": "TweenMax.min.js",
-            "version": "1.10.2",
+            "version": "1.10.3",
             "description": "GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.",
             "homepage": "http://www.greensock.com/gsap-js/",
             "keywords": [
@@ -18057,6 +18764,30 @@
             "assets": [
                 {
                     "version": "latest",
+                    "files": [
+                        "TimelineLite.min.js",
+                        "TimelineMax.min.js",
+                        "TweenLite.min.js",
+                        "TweenMax.min.js",
+                        "easing/EasePack.min.js",
+                        "jquery.gsap.min.js",
+                        "plugins/AttrPlugin.min.js",
+                        "plugins/BezierPlugin.min.js",
+                        "plugins/CSSPlugin.min.js",
+                        "plugins/CSSRulePlugin.min.js",
+                        "plugins/ColorPropsPlugin.min.js",
+                        "plugins/DirectionalRotationPlugin.min.js",
+                        "plugins/EaselPlugin.min.js",
+                        "plugins/KineticPlugin.min.js",
+                        "plugins/RaphaelPlugin.min.js",
+                        "plugins/RoundPropsPlugin.min.js",
+                        "plugins/ScrollToPlugin.min.js",
+                        "plugins/TextPlugin.min.js",
+                        "utils/Draggable.min.js"
+                    ]
+                },
+                {
+                    "version": "1.10.3",
                     "files": [
                         "TimelineLite.min.js",
                         "TimelineMax.min.js",
@@ -19301,7 +20032,7 @@
         {
             "name": "html-inspector",
             "filename": "html-inspector.js",
-            "version": "0.4.1",
+            "version": "0.5.1",
             "description": "HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.",
             "homepage": "https://github.com/philipwalton/html-inspector",
             "license": "MIT",
@@ -19321,6 +20052,18 @@
             },
             "bugs": "https://github.com/philipwalton/html-inspector/issues",
             "assets": [
+                {
+                    "version": "0.5.1",
+                    "files": [
+                        "html-inspector.js"
+                    ]
+                },
+                {
+                    "version": "0.5.0",
+                    "files": [
+                        "html-inspector.js"
+                    ]
+                },
                 {
                     "version": "0.4.1",
                     "files": [
@@ -19833,6 +20576,46 @@
             ]
         },
         {
+            "name": "ixjs",
+            "filename": "ix.min.js",
+            "title": "Interactive Extensions for JavaScript (RxJS)",
+            "description": "A set of libraries to compose pull-based collections and LINQ-style query operators in JavaScript",
+            "version": "1.0.6",
+            "homepage": "http://rx.codeplex.com",
+            "author": {
+                "name": "Cloud Programmability Team",
+                "url": "https://github.com/Reactive-Extensions/IxJS/blob/master/authors.txt"
+            },
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/Reactive-Extensions/IxJS.git"
+            },
+            "licenses": [
+                {
+                    "type": "Apache License, Version 2.0",
+                    "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+                }
+            ],
+            "keywords": [
+                "LINQ",
+                "Array",
+                "Query",
+                "Enumerable"
+            ],
+            "assets": [
+                {
+                    "version": "1.0.6",
+                    "files": [
+                        "ix.js",
+                        "ix.min.js",
+                        "ix.node.js",
+                        "l2o.js",
+                        "l2o.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "jQuery-Validation-Engine",
             "filename": "jquery.validationEngine.js",
             "version": "2.6.2",
@@ -19946,8 +20729,8 @@
         {
             "name": "jStorage",
             "filename": "jstorage.min.js",
-            "version": "0.3.0",
-            "description": "Simple wrapper plugin for Prototype, MooTools, and jQuery to store data on browser side.",
+            "version": "0.4.4",
+            "description": "Simple local storage wrapper to save data on the browser side, supporting * all major browsers - IE6+, Firefox2+, Safari4+, Chrome4+ and Opera 10.5+",
             "homepage": "http://jstorage.info/",
             "keywords": [
                 "storage",
@@ -19969,6 +20752,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.4.4",
+                    "files": [
+                        "jstorage.min.js"
+                    ]
+                },
                 {
                     "version": "0.3.0",
                     "files": [
@@ -20584,7 +21373,7 @@
         {
             "name": "jquery-countdown",
             "filename": "jquery.countdown.min.js",
-            "version": "1.6.1",
+            "version": "1.6.3",
             "description": "Countdown for jQuery.",
             "homepage": "http://keith-wood.name/countdown.html",
             "keywords": [
@@ -20602,6 +21391,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.6.3",
+                    "files": [
+                        "jquery.countdown.min.js"
+                    ]
+                },
                 {
                     "version": "1.6.1",
                     "files": [
@@ -20714,7 +21509,7 @@
                 "validation",
                 "validator"
             ],
-            "version": "2.1.6",
+            "version": "2.1.9",
             "author": {
                 "name": "Victor Jonsson",
                 "url": "http://victorjonsson.se",
@@ -20734,6 +21529,27 @@
                 "jquery": ">=1.5"
             },
             "assets": [
+                {
+                    "version": "2.1.9",
+                    "files": [
+                        "date.dev.js",
+                        "date.js",
+                        "file.dev.js",
+                        "file.js",
+                        "form-test.html",
+                        "jquery.form-validator.js",
+                        "jquery.form-validator.min.js",
+                        "location.dev.js",
+                        "location.js",
+                        "qunit.html",
+                        "security.dev.js",
+                        "security.js",
+                        "sweden.dev.js",
+                        "sweden.js",
+                        "uk.dev.js",
+                        "uk.js"
+                    ]
+                },
                 {
                     "version": "2.1.6",
                     "files": [
@@ -22899,6 +23715,42 @@
             ]
         },
         {
+            "name": "jquery.finderselect",
+            "filename": "jquery.finderselect.min.js",
+            "version": "0.6.0",
+            "description": "Add File Explorer selecting functions to any element",
+            "homepage": "http://evulse.github.io/finderSelect/",
+            "keywords": [
+                "select",
+                "selectable",
+                "highlight",
+                "command",
+                "click",
+                "shift"
+            ],
+            "maintainers": [
+                {
+                    "name": "Michael Angell",
+                    "web": "https://github.com/evulse"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/evulse/finderselect"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.6.0",
+                    "files": [
+                        "jquery.finderselect.js",
+                        "jquery.finderselect.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "jquery.form",
             "filename": "jquery.form.js",
             "version": "3.32",
@@ -22986,6 +23838,35 @@
                     "version": "1.2",
                     "files": [
                         "jquery.formalize.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery.gridster",
+            "filename": "jquery.gridster.min.js",
+            "version": "0.1.0",
+            "description": "Gridster is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns",
+            "url": "http://gridster.net/",
+            "license": "MIT",
+            "author": "Ducksboard",
+            "keywords": [
+                "grids",
+                "ui",
+                "templating",
+                "jquer"
+            ],
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/ducksboard/gridster.js.git"
+            },
+            "bugs": "https://github.com/ducksboard/gridster.js/issues",
+            "assets": [
+                {
+                    "version": "0.1.0",
+                    "files": [
+                        "jquery.gridster.min.css",
+                        "jquery.gridster.min.js"
                     ]
                 }
             ]
@@ -23955,6 +24836,33 @@
             ]
         },
         {
+            "name": "jquery.tocify",
+            "filename": "jquery.tocify.min.js",
+            "version": "1.7.0",
+            "description": "A jQuery plugin that dynamically generates a table of contents",
+            "homepage": "http://gregfranko.com/jquery.tocify.js/",
+            "keywords": [
+                "jquery",
+                "toc",
+                "table of contents"
+            ],
+            "maintainers": [
+                {
+                    "name": "Greg Franko",
+                    "web": "http://gregfranko.com/"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.7.0",
+                    "files": [
+                        "jquery.tocify.css",
+                        "jquery.tocify.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "jquery.touchswipe",
             "filename": "jquery.touchSwipe.min.js",
             "version": "1.6.4",
@@ -24030,6 +24938,32 @@
                     "version": "0.1.3",
                     "files": [
                         "jquery.transit.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "waitForImages jQuery Plugin",
+            "name": "jquery.waitforimages",
+            "filename": "jquery.waitforimages.js",
+            "author": {
+                "name": "Alex Dickson",
+                "email": "alex@alexanderdickson.com",
+                "url": "http://alexanderdickson.com"
+            },
+            "version": "1.5.0",
+            "homepage": "https://github.com/alexanderdickson/waitForImages",
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/alexanderdickson/waitForImages"
+            },
+            "license": "MIT",
+            "assets": [
+                {
+                    "version": "1.5.0",
+                    "files": [
+                        "jquery.waitforimages.js",
+                        "jquery.waitforimages.min.js"
                     ]
                 }
             ]
@@ -24607,7 +25541,7 @@
         {
             "name": "js-signals",
             "filename": "js-signals.min.js",
-            "version": "0.8.1",
+            "version": "1.0.0",
             "description": "Custom Event/Messaging system for JavaScript.",
             "homepage": "http://millermedeiros.github.com/js-signals/",
             "keywords": [
@@ -24628,6 +25562,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.0.0",
+                    "files": [
+                        "js-signals.js",
+                        "js-signals.min.js"
+                    ]
+                },
                 {
                     "version": "0.8.1",
                     "files": [
@@ -24658,7 +25599,7 @@
         {
             "name": "js-url",
             "filename": "url.min.js",
-            "version": "1.8.3",
+            "version": "1.8.4",
             "description": "A simple, lightweight url parser for JavaScript",
             "homepage": "https://github.com/websanova/js-url",
             "keywords": [
@@ -24679,6 +25620,13 @@
             ],
             "license": "MIT, GPL",
             "assets": [
+                {
+                    "version": "1.8.4",
+                    "files": [
+                        "url.js",
+                        "url.min.js"
+                    ]
+                },
                 {
                     "version": "1.8.3",
                     "files": [
@@ -24746,6 +25694,34 @@
                         "mootools.jsPlumb-1.4.1-all.js",
                         "yui.jsPlumb-1.4.1-all-min.js",
                         "yui.jsPlumb-1.4.1-all.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jschannel",
+            "description": "JSChannel is a small JavaScript abstraction layer on top of HTML5 cross-document messaging. It builds rich messaging semantics out of window.postMessage().",
+            "filename": "jschannel.min.js",
+            "version": "1.0.0-git-commit1-8c4f7eb",
+            "keywords": [
+                "postMessage",
+                "cross-domain",
+                "iframe",
+                "mozilla",
+                "messaging"
+            ],
+            "homepage": "http://mozilla.github.io/jschannel/docs/",
+            "bugs": "https://github.com/mozilla/jschannel/issues",
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/mozilla/jschannel.git"
+            },
+            "assets": [
+                {
+                    "version": "1.0.0-git-commit1-8c4f7eb",
+                    "files": [
+                        "jschannel.js",
+                        "jschannel.min.js"
                     ]
                 }
             ]
@@ -25083,6 +26059,53 @@
                     "files": [
                         "jsxgraphcore.js",
                         "jsxgraphcore.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "kartograph-js",
+            "description": "JavaScript library for SVG mapping",
+            "version": "0.7.1",
+            "filename": "kartograph.min.js",
+            "author": "Gregor Aisch",
+            "homepage": "http://kartograph.org",
+            "keywords": [
+                "svg",
+                "map",
+                "raphael"
+            ],
+            "maintainers": [
+                {
+                    "name": "Gregor Aisch",
+                    "email": "mail@driven-by-data.net",
+                    "web": "http://driven-by-data.net"
+                }
+            ],
+            "bugs": "https://github.com/kartograph/kartograph.js/issues",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git://github.com/kartograph/kartograph.js.git"
+                }
+            ],
+            "main": "kartograph.js",
+            "scripts": {
+                "compile": "./build.sh"
+            },
+            "dependencies": {
+                "jquery": "1.x",
+                "raphael": "2.x"
+            },
+            "devDependencies": {
+                "uglify-js": "2.x",
+                "coffee-script": "1.2"
+            },
+            "assets": [
+                {
+                    "version": "0.7.1",
+                    "files": [
+                        "kartograph.min.js"
                     ]
                 }
             ]
@@ -27734,6 +28757,87 @@
             ]
         },
         {
+            "name": "notifxi",
+            "version": "0.2.2",
+            "description": "A queued notification class for javascript that utilizes Bootstrap and jQuery.",
+            "keywords": [
+                "notification",
+                "notify",
+                "jquery",
+                "jquery-plugin",
+                "plugin",
+                "bootstrap",
+                "simple",
+                "flexible",
+                "weaponxi",
+                "alert",
+                "queued",
+                "queue",
+                "notifications",
+                "automatic"
+            ],
+            "dependencies": {},
+            "devDependencies": {
+                "grunt": "~0.4.1",
+                "grunt-readme-generator": "~0.3.41",
+                "grunt-contrib-uglify": "~0.2.2"
+            },
+            "filename": "notifxi.min.js",
+            "scripts": {
+                "test": "echo \"See test folder... index.html\" && exit 1"
+            },
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/aponxi/bower-notifxi.git"
+            },
+            "author": "Logan Howlett",
+            "license": "MIT",
+            "bugs": "https://github.com/aponxi/bower-notifxi/issues",
+            "assets": [
+                {
+                    "version": "0.2.2",
+                    "files": [
+                        "notifxi.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "nprogress",
+            "filename": "nprogress.min.js",
+            "version": "0.1.2",
+            "description": "Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium.",
+            "homepage": "http://ricostacruz.com/nprogress/",
+            "keywords": [
+                "progress",
+                "load",
+                "ajax"
+            ],
+            "maintainers": [
+                {
+                    "name": "Rico Sta. Cruz",
+                    "web": "http://ricostacruz.com/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/rstacruz/nprogress.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.1.2",
+                    "files": [
+                        "nprogress.css",
+                        "nprogress.js",
+                        "nprogress.min.css",
+                        "nprogress.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "numeral.js",
             "filename": "numeral.min.js",
             "version": "1.4.5",
@@ -29594,6 +30698,52 @@
             ]
         },
         {
+            "name": "kartograph-js",
+            "description": "JavaScript library for SVG mapping",
+            "version": "0.8.1",
+            "author": "Gregor Aisch",
+            "homepage": "http://kartograph.org",
+            "keywords": [
+                "svg",
+                "map",
+                "raphael"
+            ],
+            "maintainers": [
+                {
+                    "name": "Gregor Aisch",
+                    "email": "mail@driven-by-data.net",
+                    "web": "http://driven-by-data.net"
+                }
+            ],
+            "bugs": "https://github.com/kartograph/kartograph.js/issues",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git://github.com/kartograph/kartograph.js.git"
+                }
+            ],
+            "main": "kartograph.js",
+            "scripts": {
+                "compile": "./build.sh"
+            },
+            "dependencies": {
+                "jquery": "1.x",
+                "raphael": "2.x"
+            },
+            "devDependencies": {
+                "uglify-js": "2.x",
+                "coffee-script": "1.2"
+            },
+            "assets": [
+                {
+                    "version": "0.7.1",
+                    "files": [
+                        "kartograph.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "pagedown",
             "filename": "Markdown.Converter.js",
             "version": "1.0",
@@ -29631,7 +30781,7 @@
         {
             "name": "paper.js",
             "filename": "paper.js",
-            "version": "0.22",
+            "version": "0.9.9",
             "description": "Paper.js is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas.",
             "homepage": "http://paperjs.org/",
             "keywords": [
@@ -29647,6 +30797,13 @@
             "assets": [
                 {
                     "version": "0.22",
+                    "files": [
+                        "paper.js",
+                        "paper.min.js"
+                    ]
+                },
+                {
+                    "version": "0.9.9",
                     "files": [
                         "paper.js",
                         "paper.min.js"
@@ -30062,7 +31219,7 @@
         {
             "name": "polymer",
             "filename": "polymer.min.js",
-            "version": "0.0.20130711",
+            "version": "0.0.20130816",
             "description": "Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.",
             "homepage": "http://polymer-project.org/",
             "keywords": [
@@ -30077,10 +31234,19 @@
             "repositories": [
                 {
                     "type": "git",
-                    "url": "https://github.com/Polymer/polymer-all/"
+                    "url": "https://github.com/Polymer/polymer.git"
                 }
             ],
             "assets": [
+                {
+                    "version": "0.0.20130816",
+                    "files": [
+                        "platform.min.js",
+                        "platform.min.js.map",
+                        "polymer.min.js",
+                        "polymer.min.js.map"
+                    ]
+                },
                 {
                     "version": "0.0.20130711",
                     "files": [
@@ -31140,6 +32306,42 @@
                         "jquery.qtip.js",
                         "jquery.qtip.min.css",
                         "jquery.qtip.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "queue-async",
+            "version": "1.0.4",
+            "description": "A little helper for asynchronous JavaScript.",
+            "filename": "queue.min.js",
+            "keywords": [
+                "asynchronous",
+                "async",
+                "queue"
+            ],
+            "author": {
+                "name": "Mike Bostock",
+                "url": "http://bost.ocks.org/mike"
+            },
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/mbostock/queue.git"
+            },
+            "main": "queue.js",
+            "devDependencies": {
+                "uglify-js": "~2.2.5",
+                "vows": "~0.7.0"
+            },
+            "scripts": {
+                "test": "node_modules/.bin/vows; echo"
+            },
+            "assets": [
+                {
+                    "version": "1.0.4",
+                    "files": [
+                        "queue.js",
+                        "queue.min.js"
                     ]
                 }
             ]
@@ -32503,11 +33705,55 @@
             ]
         },
         {
+            "name": "rxjs-dom",
+            "filename": "rx.dom.js",
+            "title": "Reactive Extensions for JavaScript bindings for the HTML DOM",
+            "description": "HTML DOM Bindings for the Reactive Extensions for JavaScript",
+            "version": "2.0.3",
+            "homepage": "https://github.com/Reactive-Extensions/rxjs-dom",
+            "author": {
+                "name": "MS Open Tech",
+                "url": "https://github.com/Reactive-Extensions/rxjs-dom/blob/master/authors.txt"
+            },
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/Reactive-Extensions/rxjs-dom.git"
+            },
+            "licenses": [
+                {
+                    "type": "Apache License, Version 2.0",
+                    "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+                }
+            ],
+            "keywords": [
+                "Reactive",
+                "LINQ",
+                "Collections",
+                "RxJS",
+                "Rx",
+                "DOM",
+                "HTML",
+                "HTML5",
+                "WebSockets",
+                "WebWorkers"
+            ],
+            "assets": [
+                {
+                    "version": "2.0.3",
+                    "files": [
+                        "rx.dom.js",
+                        "rx.dom.min.js",
+                        "rx.dom.node.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "rxjs-jquery",
             "filename": "rx.jquery.js",
             "title": "Reactive Extensions for JavaScript bindings for jQuery",
             "description": "Library for composing asynchronous and event-based operations in JavaScript extending the jQuery library",
-            "version": "0.0.2",
+            "version": "1.0.1",
             "homepage": "https://github.com/Reactive-Extensions/rxjs-jquery",
             "author": {
                 "name": "MS Open Tech",
@@ -32523,13 +33769,6 @@
                     "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
                 }
             ],
-            "dependencies": {},
-            "devDependencies": {
-                "grunt": "~0.4.0",
-                "grunt-contrib-uglify": "~0.1.2",
-                "grunt-contrib-concat": "~0.1.3",
-                "grunt-contrib-qunit": "~0.2.0"
-            },
             "keywords": [
                 "Reactive",
                 "LINQ",
@@ -32538,8 +33777,15 @@
                 "RxJS",
                 "Rx"
             ],
-            "main": "rx.jquery.js",
             "assets": [
+                {
+                    "version": "1.0.1",
+                    "files": [
+                        "rx.jquery.js",
+                        "rx.jquery.min.js",
+                        "rx.jquery.node.js"
+                    ]
+                },
                 {
                     "version": "0.0.2",
                     "files": [
@@ -32554,7 +33800,7 @@
             "filename": "rx.min.js",
             "title": "Reactive Extensions for JavaScript (RxJS)",
             "description": "Library for composing asynchronous and event-based operations in JavaScript",
-            "version": "2.1.10",
+            "version": "2.1.11",
             "homepage": "http://rx.codeplex.com",
             "author": {
                 "name": "Cloud Programmability Team",
@@ -32577,6 +33823,30 @@
                 "Events"
             ],
             "assets": [
+                {
+                    "version": "2.1.11",
+                    "files": [
+                        "rx.aggregates.js",
+                        "rx.aggregates.min.js",
+                        "rx.binding.js",
+                        "rx.binding.min.js",
+                        "rx.coincidence.js",
+                        "rx.coincidence.min.js",
+                        "rx.experimental.js",
+                        "rx.experimental.min.js",
+                        "rx.joinpatterns.js",
+                        "rx.joinpatterns.min.js",
+                        "rx.js",
+                        "rx.min.js",
+                        "rx.modern.js",
+                        "rx.modern.min.js",
+                        "rx.node.js",
+                        "rx.testing.js",
+                        "rx.testing.min.js",
+                        "rx.time.js",
+                        "rx.time.min.js"
+                    ]
+                },
                 {
                     "version": "2.1.10",
                     "files": [
@@ -34992,6 +36262,59 @@
             ]
         },
         {
+            "name": "tagmanager",
+            "version": "3.0.0",
+            "filename": "tagmanager.js",
+            "title": "Tag Manager",
+            "author": {
+                "name": "Max Favilli",
+                "url": "http://maxfavilli.com"
+            },
+            "licenses": [
+                {
+                    "type": "MPL",
+                    "url": "http://www.mozilla.org/MPL/2.0/index.txt"
+                }
+            ],
+            "dependencies": {
+                "jquery": "1"
+            },
+            "description": "A tags manager, with this plugin a input field is used to collect tags and rendered as tags.",
+            "keywords": [
+                "tags",
+                "manager",
+                "input",
+                "form"
+            ],
+            "homepage": "https://github.com/max-favilli/tagmanager",
+            "maintainers": [
+                {
+                    "name": "Max Favilli",
+                    "url": "https://github.com/max-favilli"
+                },
+                {
+                    "name": "Johnny Shields",
+                    "url": "https://github.com/johnnyshields"
+                }
+            ],
+            "files": [
+                "README.md",
+                "tagmanager.css",
+                "tagmanager.js",
+                "license.txt"
+            ],
+            "assets": [
+                {
+                    "version": "3.0.0",
+                    "files": [
+                        "tagmanager.css",
+                        "tagmanager.js",
+                        "tagmanager.less"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "thorax",
             "version": "2.0.0rc6",
             "filename": "thorax.js",
@@ -35912,6 +37235,43 @@
             ]
         },
         {
+            "name": "topcoat",
+            "filename": "css/topcoat-desktop-dark.min.css",
+            "version": "0.6",
+            "description": "CSS for clean and fast web apps.",
+            "homepage": "http://topcoat.io/",
+            "keywords": [
+                "framework",
+                "css",
+                "clean"
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/topcoat/topcoat.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.6",
+                    "files": [
+                        "css/topcoat-desktop-dark.min.css",
+                        "css/topcoat-desktop-light.min.css",
+                        "css/topcoat-mobile-dark.min.css",
+                        "css/topcoat-mobile-light.min.css",
+                        "font/SourceSansPro-Light.otf",
+                        "font/SourceSansPro-Regular.otf",
+                        "font/SourceSansPro-Semibold.otf",
+                        "img/bg_dark.png",
+                        "img/hamburger_dark.svg",
+                        "img/hamburger_light.svg",
+                        "img/search.svg",
+                        "img/search_light.svg"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "topojson",
             "filename": "topojson.min.js",
             "version": "1.1.0",
@@ -35957,6 +37317,31 @@
             ]
         },
         {
+            "name": "toxiclibsjs",
+            "filename": "toxiclibs.min.js",
+            "version": "0.1.3",
+            "description": "Toxiclibsjs is an open-source library for computational design tasks with JavaScript. This library is a port of http://toxiclibs.org for java and processing. http://haptic-data.com/toxiclibsjs",
+            "homepage": "https://github.com/hapticdata/toxiclibsjs",
+            "keywords": [
+                "toxiclibsjs",
+                "processing"
+            ],
+            "repositories": [
+                {
+                    "type": "plain file",
+                    "url": "https://raw.github.com/hapticdata/toxiclibsjs/master/build/toxiclibs.min.js"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.1.3",
+                    "files": [
+                        "toxiclibs.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "treesaver",
             "filename": "treesaver-0.10.0.js",
             "version": "0.10.0",
@@ -35984,6 +37369,38 @@
                     "files": [
                         "treesaver-0.10.0.js",
                         "treesaver-0.10.0.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "turbolinks",
+            "filename": "turbolinks.min.js",
+            "version": "1.3.0",
+            "description": "Turbolinks makes following links in your web application faster. Instead of letting the browser recompile the JavaScript and CSS between each page change, it keeps the current page instance alive and replaces only the body and the title in the head. Think CGI vs persistent process.",
+            "homepage": "https://github.com/rails/turbolinks/",
+            "keywords": [
+                "rails",
+                "popular"
+            ],
+            "maintainers": [
+                {
+                    "name": "The Ruby on Rails Project"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/rails/turbolinks.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.3.0",
+                    "files": [
+                        "turbolinks.js",
+                        "turbolinks.min.js",
+                        "turbolinks.min.map"
                     ]
                 }
             ]
