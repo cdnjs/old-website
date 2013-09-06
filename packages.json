@@ -2169,7 +2169,7 @@
             ],
             "dependencies": {
                 "underscore": ">=1.4.3",
-                "backbone": ">=0.9.10"
+                "backbone": ">=1.0.0"
             },
             "devDependencies": {
                 "phantomjs": "0.2.2"
@@ -2177,7 +2177,7 @@
             "jam": {
                 "dependencies": {
                     "underscore": ">=1.4.3",
-                    "backbone": ">=0.9.10"
+                    "backbone": ">=1.0.0"
                 },
                 "main": "backbone-associations.js",
                 "include": [
@@ -2191,7 +2191,7 @@
                 "test": "phantomjs test/lib/runner.js test/test-suite.html?noglobals=true"
             },
             "main": "backbone-associations.js",
-            "version": "0.5.1",
+            "version": "0.5.2",
             "repository": "git://github.com/dhruvaray/backbone-associations.git",
             "licenses": [
                 {
@@ -2211,6 +2211,13 @@
             ],
             "github": "https://github.com/dhruvaray/backbone-associations/",
             "assets": [
+                {
+                    "version": "0.5.2",
+                    "files": [
+                        "backbone-associations-min.js",
+                        "backbone-associations.js"
+                    ]
+                },
                 {
                     "version": "0.5.1",
                     "files": [
@@ -3462,6 +3469,34 @@
                         "blanket.min.js",
                         "blanket_jasmine.js",
                         "blanket_jasmine.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "boexfi",
+            "filename": "",
+            "version": "",
+            "description": "Some sample files used in the implementation of BoxOpi website.",
+            "homepage": "http://www.boxopi.tk/",
+            "keywords": [
+                "boxopi",
+                "boexfi",
+                "js",
+                "css"
+            ],
+            "maintainers": [
+                {
+                    "name": "BoxOpi",
+                    "web": "http://www.fb.com/boxopi"
+                }
+            ],
+            "repositories": [],
+            "assets": [
+                {
+                    "version": "1.0",
+                    "files": [
+                        "js/mijs.js"
                     ]
                 }
             ]
@@ -6233,6 +6268,39 @@
                     "version": "1.1.2",
                     "files": [
                         "coffee-script.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "commandz",
+            "filename": "commandz.min.js",
+            "version": "0.1.1",
+            "description": "⌘Z undo and redo commands. Add commands history support to your web app.",
+            "homepage": "https://github.com/EtienneLem/commandz",
+            "keywords": [
+                "commandz",
+                "commands",
+                "commands manager",
+                "history"
+            ],
+            "maintainers": [
+                {
+                    "name": "Etienne Lemay",
+                    "web": "http://heliom.ca"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/EtienneLem/commandz"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.1.1",
+                    "files": [
+                        "commandz.min.js"
                     ]
                 }
             ]
@@ -24193,6 +24261,53 @@
                     "version": "0.6.8",
                     "files": [
                         "jquery.nanoscroller.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery.nicescroll",
+            "filename": "jquery.nicescroll.min.js",
+            "description": "Nicescroll is a jquery plugin, for nice customizabled scrollbars with a very similar ios/mobile style. It supports DIVs, IFrames and document page (body) scrollbars. Compatible with Firefox 4+, Chrome 5+, Safari 4+ (win/mac), Opera 10+, IE 6+ (all A-grade browsers). Compatible with iOS devices as iPad, Android, Blackberry, Windows Phone, and many many mobile and touch devices.",
+            "version": "3.5.1",
+            "homepage": "https://github.com/inuyaksa/jquery.nicescroll",
+            "keywords": [
+                "nicescroll",
+                "jquery",
+                "interface",
+                "window",
+                "dom",
+                "div",
+                "scroll",
+                "ios",
+                "mobile",
+                "desktop",
+                "scrollbar",
+                "touch",
+                "android"
+            ],
+            "maintainers": [
+                {
+                    "name": "Inu Yaksa"
+                }
+            ],
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/inuyaksa/jquery.nicescroll.git"
+            },
+            "bugs": "https://github.com/inuyaksa/jquery.nicescroll/issues",
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://raw.github.com/inuyaksa/jquery.nicescroll/master/MIT.LICENSE"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "3.5.1",
+                    "files": [
+                        "jquery.nicescroll.js",
+                        "jquery.nicescroll.min.js"
                     ]
                 }
             ]
