@@ -4,12 +4,14 @@ var fs = require('fs');
 var http = require('http');
 var htmlMinifier = require('html-minifier');
 var uglifyJs = require('uglify-js');
-
+console.log('Get packages.json')
 superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new Date().getTime(), function(res, textStatus, xhr){
+  console.log('Got packages.json')
   var packages = res.body.packages;
   var indexTemplate = fs.readFileSync('index.template', 'utf8');
-  var indexPage = _.template(indexTemplate, {packages: packages});
-
+  var homeTemplate = fs.readFileSync('home.template.html', 'utf8');
+  var homePage = _.template(homeTemplate, {packages: packages});
+  var indexPage = _.template(indexTemplate, {page: homePage});
   var htmlCompressionOptions = {
   	removeComments: true,
   	collapseBooleanAttributes: true,
@@ -25,6 +27,7 @@ superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new 
 
   var result = uglifyJs.minify(['cdnjs.handlebars.js', 'index.js']);
   fs.writeFileSync('min.js', result.code, 'utf8');
+  makeLibraryPages(packages, indexTemplate);
 });
 
 // I was rushing below r0fl
@@ -42,3 +45,16 @@ var request2 = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function
 
 
 
+var makeLibraryPages = function(packages, indexTemplate) {
+  var packageTemplate = fs.readFileSync('package.template.html', 'utf8');
+  _.each(packages, function(package) {
+    console.log(package);
+    if(!fs.existsSync('libraries/' + package.name)) {
+      fs.mkdirSync('libraries/' + package.name);
+    }
+    var packageFile = _.template(packageTemplate, {package: package});
+    var packagePage = _.template(indexTemplate, {page: packageFile});
+
+    fs.writeFileSync('libraries/' + package.name + '/index.html', packagePage, 'utf8');
+  })
+};
