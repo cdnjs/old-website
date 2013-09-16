@@ -22588,6 +22588,63 @@
             ]
         },
         {
+            "name": "jquery-maskmoney",
+            "title": "jQuery maskMoney",
+            "filename": "jquery.maskMoney.js",
+            "description": "jQuery plugin to mask data entry in the input text in the form of money (currency)",
+            "keywords": [
+                "form",
+                "input",
+                "mask"
+            ],
+            "version": "2.1.2",
+            "author": {
+                "name": "Diego Plentz",
+                "email": "diego@plentz.org",
+                "url": "http://plentz.org"
+            },
+            "maintainers": [
+                {
+                    "name": "Diego Plentz",
+                    "email": "diego@plentz.org",
+                    "url": "http://plentz.org"
+                },
+                {
+                    "name": "Plínio Balduino",
+                    "email": "pbalduino+github@gmail.com",
+                    "url": "https://github.com/pbalduino"
+                }
+            ],
+            "licenses": [
+                {
+                    "type": "MIT",
+                    "url": "https://raw.github.com/plentz/jquery-maskmoney/master/LICENSE"
+                }
+            ],
+            "bugs": "https://github.com/plentz/jquery-maskmoney/issues",
+            "homepage": "http://plentz.github.com/jquery-maskmoney",
+            "docs": "http://plentz.github.com/jquery-maskmoney",
+            "demo": "http://plentz.github.com/jquery-maskmoney",
+            "download": "https://raw.github.com/plentz/jquery-maskmoney/master/jquery.maskMoney.js",
+            "dependencies": {
+                "jquery": ">=1.6"
+            },
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "git@github.com:plentz/jquery-maskmoney.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.1.2",
+                    "files": [
+                        "jquery.maskMoney.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "jquery-migrate",
             "filename": "jquery-migrate.min.js",
             "version": "1.2.1",
@@ -24691,7 +24748,7 @@
         {
             "name": "jquery.lazyload",
             "filename": "jquery.lazyload.min.js",
-            "version": "1.8.4",
+            "version": "1.9.0",
             "description": "Lazy Load delays loading of images in long web pages. Images outside of viewport wont be loaded before user scrolls to them.",
             "homepage": "http://www.appelsiini.net/projects/lazyload",
             "keywords": [
@@ -24715,6 +24772,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.9.0",
+                    "files": [
+                        "jquery.lazyload.js",
+                        "jquery.lazyload.min.js"
+                    ]
+                },
                 {
                     "version": "1.8.4",
                     "files": [
@@ -64789,6 +64853,37 @@
                     "version": "0.0.3",
                     "files": [
                         "scion-min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "screenfull.js",
+            "filename": "screenfull.min.js",
+            "version": "1.0.4",
+            "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API",
+            "homepage": "https://github.com/sindresorhus/screenfull.js",
+            "keywords": [
+                "screenfull",
+                "fullscreen"
+            ],
+            "maintainers": [
+                {
+                    "name": "Sindre Sorhus",
+                    "web": "http://sindresorhus.com/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/sindresorhus/screenfull.js"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.0.4",
+                    "files": [
+                        "screenfull.min.js"
                     ]
                 }
             ]
