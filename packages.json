@@ -23355,7 +23355,7 @@
         {
             "name": "jquery-mockjax",
             "filename": "jquery.mockjax.js",
-            "version": "1.5.1",
+            "version": "1.5.2",
             "description": "Mockjax. The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.",
             "homepage": "http://code.appendto.com/plugins/jquery-mockjax/",
             "keywords": [
@@ -23397,6 +23397,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.5.2",
+                    "files": [
+                        "jquery.mockjax.js",
+                        "jquery.mockjax.min.js"
+                    ]
+                },
                 {
                     "version": "1.5.1",
                     "files": [
@@ -63063,7 +63070,7 @@
         {
             "name": "pure",
             "filename": "pure-min.css",
-            "version": "0.2.1",
+            "version": "0.3.0",
             "description": "A set of small, responsive CSS modules that you can use in every web project.",
             "homepage": "http://purecss.io/",
             "keywords": [
@@ -63084,6 +63091,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.3.0",
+                    "files": [
+                        "pure-min.css",
+                        "pure-nr-min.css"
+                    ]
+                },
                 {
                     "version": "0.2.1",
                     "files": [
