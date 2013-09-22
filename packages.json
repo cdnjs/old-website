@@ -60,11 +60,72 @@
             ]
         },
         {
+            "name": "Base64",
+            "filename": "base64.min.js",
+            "version": "0.1.3",
+            "description": "Base64 encoding and decoding",
+            "author": "David Chambers <dc@davidchambers.me>",
+            "main": "./base64.js",
+            "licenses": [
+                {
+                    "type": "WTFPL",
+                    "url": "https://raw.github.com/davidchambers/Base64.js/master/LICENSE"
+                }
+            ],
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/davidchambers/Base64.js.git"
+            },
+            "devDependencies": {
+                "coffee-script": "1.4.x",
+                "mocha": "1.8.x",
+                "uglify-js": "2.2.x"
+            },
+            "assets": [
+                {
+                    "version": "0.1.3",
+                    "files": [
+                        "base64.js",
+                        "base64.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Chart.js",
+            "filename": "Chart.min.js",
+            "version": "0.2.0",
+            "description": "Simple HTML5 Charts using the canvas element",
+            "keywords": [
+                "charts"
+            ],
+            "homepage": "https://github.com/nnnick/Chart.js",
+            "author": "nnnick",
+            "main": [
+                "Chart.min.js"
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/nnnick/Chart.js.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.2.0",
+                    "files": [
+                        "Chart.js",
+                        "Chart.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Colors.js",
             "filename": "colors.min.js",
-            "version": "1.2.2",
+            "version": "1.2.3",
             "description": "Colors is an easy to use color-type manipulation library that is lightweight and very functional.",
-            "homepage": "http://mbjordan.github.io/Colors/",
+            "homepage": "http://matthewbjordan.me/Colors/",
             "keywords": [
                 "color",
                 "color manipulation",
@@ -83,6 +144,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.2.3",
+                    "files": [
+                        "colors.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.2",
                     "files": [
@@ -204,7 +271,7 @@
         {
             "name": "F2",
             "description": "An open framework for the financial services industry.",
-            "version": "1.2.1",
+            "version": "1.3.0",
             "keywords": [
                 "openf2"
             ],
@@ -223,6 +290,22 @@
             ],
             "assets": [
                 {
+                    "version": "1.3.0",
+                    "files": [
+                        "f2.basic.js",
+                        "f2.basic.min.js",
+                        "f2.js",
+                        "f2.min.js",
+                        "f2.min.map",
+                        "f2.no-bootstrap.js",
+                        "f2.no-bootstrap.min.js",
+                        "f2.no-easyXDM.js",
+                        "f2.no-easyXDM.min.js",
+                        "f2.no-jquery-or-bootstrap.js",
+                        "f2.no-jquery-or-bootstrap.min.js"
+                    ]
+                },
+                {
                     "version": "1.2.1",
                     "files": [
                         "f2.basic.min.js",
@@ -231,6 +314,40 @@
                         "f2.no-bootstrap.min.js",
                         "f2.no-easyXDM.min.js",
                         "f2.no-jquery-or-bootstrap.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Faker",
+            "filename": "MinFaker.js",
+            "description": "Generate massive amounts of fake contextual data",
+            "version": "0.5.11",
+            "author": "Marak Squires <marak.squires@gmail.com>",
+            "repository": {
+                "type": "git",
+                "url": "http://github.com/Marak/Faker.js.git"
+            },
+            "scripts": {
+                "test": "node_modules/.bin/mocha test/*.*.js"
+            },
+            "devDependencies": {
+                "jshint": "0.9.0",
+                "istanbul": "0.1.25",
+                "mocha": "1.7.4",
+                "node-minify": "*",
+                "optimist": "0.3.5",
+                "sinon": "1.4.2"
+            },
+            "engine": [
+                "node >=0.1.90"
+            ],
+            "main": "index",
+            "assets": [
+                {
+                    "version": "0.5.11",
+                    "files": [
+                        "MinFaker.js"
                     ]
                 }
             ]
@@ -1969,6 +2086,42 @@
             ]
         },
         {
+            "name": "annyang",
+            "version": "0.2.0",
+            "description": "A javascript library for adding voice commands to your site, using speech recognition",
+            "homepage": "https://www.talater.com/annyang/",
+            "filename": "annyang.min.js",
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/TalAter/annyang.git"
+            },
+            "keywords": [
+                "annyang",
+                "annyang.js",
+                "speechrecognition",
+                "webkitspeechrecognition",
+                "voice",
+                "speech",
+                "recognition"
+            ],
+            "author": "Tal Ater <tal@talater.com> (https://www.talater.com/)",
+            "license": "MIT",
+            "devDependencies": {
+                "grunt": "~0.4.1",
+                "grunt-contrib-uglify": "~0.2.4",
+                "grunt-contrib-jshint": "~0.6.4",
+                "grunt-contrib-watch": "~0.5.3"
+            },
+            "assets": [
+                {
+                    "version": "0.2.0",
+                    "files": [
+                        "annyang.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "anythingslider",
             "filename": "jquery.anythingslider.min.js",
             "version": "1.9.1",
@@ -2199,10 +2352,10 @@
         },
         {
             "name": "aui",
-            "filename": "js/aui-all.min.js",
-            "version": "5.2-m6",
+            "filename": "js/aui.js",
+            "version": "5.3-m3",
             "description": "Atlassian User Interface, the implementation of the Atlassian Design Guidelines: Design principles, components, patterns and guidance for building awesome Atlassian products and add-ons",
-            "homepage": "https://developer.atlassian.com/design",
+            "homepage": "https://docs.atlassian.com/aui/5.3-m3",
             "bugs": "https://ecosystem.atlassian.net/browse/AUI",
             "keywords": [
                 "atlassian",
@@ -2222,6 +2375,98 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "5.3-m3",
+                    "files": [
+                        "css/arrow.png",
+                        "css/atlassian-icons.eot",
+                        "css/atlassian-icons.svg",
+                        "css/atlassian-icons.ttf",
+                        "css/atlassian-icons.woff",
+                        "css/aui-experimental.css",
+                        "css/aui-icon-close.png",
+                        "css/aui-icon-tools.gif",
+                        "css/aui-ie.css",
+                        "css/aui-ie9.css",
+                        "css/aui-message-icon-sprite.png",
+                        "css/aui-toolbar-24px.png",
+                        "css/aui-toolbar-button-active-bg.png",
+                        "css/aui-toolbar-button-inactive-bg.png",
+                        "css/aui.css",
+                        "css/bg-000-trans20.png",
+                        "css/bg-000-trans50.png",
+                        "css/bg-grippy.png",
+                        "css/core/icon-dropdown-active-d.png",
+                        "css/core/icon-dropdown-active.png",
+                        "css/core/icon-dropdown-d.png",
+                        "css/core/icon-dropdown.png",
+                        "css/core/icon-maximize-d.png",
+                        "css/core/icon-maximize.png",
+                        "css/core/icon-minimize-d.png",
+                        "css/core/icon-minimize.png",
+                        "css/core/icon-move-d.png",
+                        "css/core/icon-move.png",
+                        "css/core/icon-search.png",
+                        "css/fav_off_16.png",
+                        "css/fav_on_16.png",
+                        "css/forms/icon-date.png",
+                        "css/forms/icon-help.png",
+                        "css/forms/icon-range.png",
+                        "css/forms/icon-required.png",
+                        "css/forms/icon-users.png",
+                        "css/forms/icons_form.gif",
+                        "css/icons/aui-icon-close.png",
+                        "css/icons/aui-icon-tools.gif",
+                        "css/icons/aui-message-icon-sprite.png",
+                        "css/icons/core/icon-dropdown-active-d.png",
+                        "css/icons/core/icon-dropdown-active.png",
+                        "css/icons/core/icon-dropdown-d.png",
+                        "css/icons/core/icon-dropdown.png",
+                        "css/icons/core/icon-maximize-d.png",
+                        "css/icons/core/icon-maximize.png",
+                        "css/icons/core/icon-minimize-d.png",
+                        "css/icons/core/icon-minimize.png",
+                        "css/icons/core/icon-move-d.png",
+                        "css/icons/core/icon-move.png",
+                        "css/icons/core/icon-search.png",
+                        "css/icons/forms/icon-date.png",
+                        "css/icons/forms/icon-help.png",
+                        "css/icons/forms/icon-range.png",
+                        "css/icons/forms/icon-required.png",
+                        "css/icons/forms/icon-users.png",
+                        "css/icons/messages/icon-close-inverted.png",
+                        "css/icons/messages/icon-close.png",
+                        "css/icons/messages/icon-error-white.png",
+                        "css/icons/messages/icon-error.png",
+                        "css/icons/messages/icon-generic.png",
+                        "css/icons/messages/icon-hint.png",
+                        "css/icons/messages/icon-info.png",
+                        "css/icons/messages/icon-success.png",
+                        "css/icons/messages/icon-warning.png",
+                        "css/icons_form.gif",
+                        "css/images/select2-spinner.gif",
+                        "css/images/select2.png",
+                        "css/images/select2x2.png",
+                        "css/messages/icon-close-inverted.png",
+                        "css/messages/icon-close.png",
+                        "css/messages/icon-error-white.png",
+                        "css/messages/icon-error.png",
+                        "css/messages/icon-generic.png",
+                        "css/messages/icon-hint.png",
+                        "css/messages/icon-info.png",
+                        "css/messages/icon-success.png",
+                        "css/messages/icon-warning.png",
+                        "css/toolbar/aui-toolbar-24px.png",
+                        "css/toolbar/aui-toolbar-button-active-bg.png",
+                        "css/toolbar/aui-toolbar-button-inactive-bg.png",
+                        "css/wait.gif",
+                        "js/aui-datepicker.js",
+                        "js/aui-experimental.js",
+                        "js/aui-ie.js",
+                        "js/aui-soy.js",
+                        "js/aui.js"
+                    ]
+                },
                 {
                     "version": "5.2-m6",
                     "files": [
@@ -10167,19 +10412,25 @@
         },
         {
             "name": "fabric.js",
-            "filename": "fabric.all.min.js",
-            "version": "1.2.0",
+            "filename": "fabric.min.js",
+            "version": "1.3.0",
             "description": "A powerful and simple Javascript canvas library",
             "homepage": "http://fabricjs.com/",
             "keywords": [
                 "canvas",
                 "graphics",
-                "js"
+                "js",
+                "svg",
+                "html5"
             ],
             "maintainers": [
                 {
                     "name": "Juriy Zaytsev",
                     "web": "https://github.com/kangax"
+                },
+                {
+                    "name": "Stefan Kienzle",
+                    "web": "https://github.com/Kienz"
                 }
             ],
             "bugs": "https://github.com/kangax/fabric.js/issues",
@@ -10196,6 +10447,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.3.0",
+                    "files": [
+                        "fabric.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.0",
                     "files": [
@@ -20067,9 +20324,18 @@
                 {
                     "version": "0.99",
                     "files": [
+                        "head.core.js",
                         "head.core.min.js",
+                        "head.core.min.js.map",
+                        "head.css3.js",
+                        "head.css3.min.js",
+                        "head.css3.min.js.map",
+                        "head.js",
+                        "head.load.js",
                         "head.load.min.js",
-                        "head.min.js"
+                        "head.load.min.js.map",
+                        "head.min.js",
+                        "head.min.js.map"
                     ]
                 },
                 {
@@ -22076,6 +22342,40 @@
             ]
         },
         {
+            "name": "jquery-dateFormat",
+            "filename": "jquery.dateFormat.js",
+            "version": "1.0",
+            "description": "jQuery plugin for formatting dates like java.util.Date.toString",
+            "homepage": "http://archive.plugins.jquery.com/project/jquery-dateFormat",
+            "keywords": [
+                "jquery",
+                "dateformat",
+                "date",
+                "format"
+            ],
+            "maintainers": [
+                {
+                    "name": "Pablo Cantero",
+                    "web": "http://www.pablocantero.com/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/phstc/jquery-dateFormat.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.0",
+                    "files": [
+                        "jquery.dateFormat.js",
+                        "jquery.dateFormat.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "jquery-easing",
             "filename": "jquery.easing.min.js",
             "version": "1.3",
@@ -23466,13 +23766,19 @@
         {
             "name": "jquery-smooth-scroll",
             "filename": "jquery.smooth-scroll.min.js",
-            "version": "1.4.10",
+            "version": "1.4.11",
             "description": "Automatically make same-page links scroll smoothly",
             "repository": {
                 "type": "git",
                 "url": "https://github.com/kswedberg/jquery-smooth-scroll"
             },
             "assets": [
+                {
+                    "version": "1.4.11",
+                    "files": [
+                        "jquery.smooth-scroll.min.js"
+                    ]
+                },
                 {
                     "version": "1.4.10",
                     "files": [
@@ -24597,6 +24903,36 @@
                     "version": "1.2",
                     "files": [
                         "jquery.formalize.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery.formset",
+            "filename": "jquery.formset.min.js",
+            "version": "1.2",
+            "description": "Helps create more usable Django formsets by adding and removing forms on the client-side.",
+            "homepage": "https://code.google.com/p/django-dynamic-formset/",
+            "dependencies": {
+                "jquery": ">=1.2.6"
+            },
+            "maintainers": [
+                {
+                    "name": "Stanislaus Madueke",
+                    "web": "http://blog.stanisla.us/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "svn",
+                    "url": "http://django-dynamic-formset.googlecode.com/svn/trunk/django-dynamic-formset"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.2",
+                    "files": [
+                        "jquery.formset.min.js"
                     ]
                 }
             ]
@@ -26618,7 +26954,7 @@
         },
         {
             "name": "json3",
-            "version": "3.2.4",
+            "version": "3.2.5",
             "filename": "json3.min.js",
             "description": "A modern JSON implementation compatible with nearly all JavaScript platforms.",
             "homepage": "http://bestiejs.github.com/json3",
@@ -26654,6 +26990,13 @@
                 "url": "git://github.com/bestiejs/json3.git"
             },
             "assets": [
+                {
+                    "version": "3.2.5",
+                    "files": [
+                        "json3.js",
+                        "json3.min.js"
+                    ]
+                },
                 {
                     "version": "3.2.4",
                     "files": [
@@ -58570,7 +58913,7 @@
         {
             "name": "moment.js",
             "filename": "moment.min.js",
-            "version": "2.1.0",
+            "version": "2.2.1",
             "description": "A lightweight (4.3k) javascript date library for parsing, manipulating, and formatting dates.",
             "homepage": "http://momentjs.com/",
             "keywords": [
@@ -58590,6 +58933,72 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.2.1",
+                    "files": [
+                        "lang/ar-ma.js",
+                        "lang/ar.js",
+                        "lang/bg.js",
+                        "lang/br.js",
+                        "lang/ca.js",
+                        "lang/cs.js",
+                        "lang/cv.js",
+                        "lang/da.js",
+                        "lang/de.js",
+                        "lang/el.js",
+                        "lang/en-ca.js",
+                        "lang/en-gb.js",
+                        "lang/eo.js",
+                        "lang/es.js",
+                        "lang/et.js",
+                        "lang/eu.js",
+                        "lang/fa.js",
+                        "lang/fi.js",
+                        "lang/fr-ca.js",
+                        "lang/fr.js",
+                        "lang/gl.js",
+                        "lang/he.js",
+                        "lang/hi.js",
+                        "lang/hr.js",
+                        "lang/hu.js",
+                        "lang/id.js",
+                        "lang/is.js",
+                        "lang/it.js",
+                        "lang/ja.js",
+                        "lang/ka.js",
+                        "lang/ko.js",
+                        "lang/lv.js",
+                        "lang/ml.js",
+                        "lang/mr.js",
+                        "lang/ms-my.js",
+                        "lang/nb.js",
+                        "lang/ne.js",
+                        "lang/nl.js",
+                        "lang/nn.js",
+                        "lang/pl.js",
+                        "lang/pt-br.js",
+                        "lang/pt.js",
+                        "lang/ro.js",
+                        "lang/ru.js",
+                        "lang/sk.js",
+                        "lang/sl.js",
+                        "lang/sq.js",
+                        "lang/sv.js",
+                        "lang/th.js",
+                        "lang/tr.js",
+                        "lang/tzm-la.js",
+                        "lang/tzm.js",
+                        "lang/uk.js",
+                        "lang/zh-cn.js",
+                        "lang/zh-tw.js",
+                        "langs.js",
+                        "langs.min.js",
+                        "moment+langs.js",
+                        "moment+langs.min.js",
+                        "moment.js",
+                        "moment.min.js"
+                    ]
+                },
                 {
                     "version": "2.1.0",
                     "files": [
@@ -59544,7 +59953,7 @@
         {
             "name": "ocanvas",
             "filename": "ocanvas.min.js",
-            "version": "2.5.0",
+            "version": "2.5.1",
             "description": "oCanvas is a JavaScript library that makes development with HTML5 canvas easy, by using an object-based approach.",
             "homepage": "http://ocanvas.org/",
             "keywords": [
@@ -59565,6 +59974,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.5.1",
+                    "files": [
+                        "ocanvas.min.js"
+                    ]
+                },
                 {
                     "version": "2.5.0",
                     "files": [
@@ -64151,7 +64566,7 @@
         {
             "name": "reveal.js",
             "filename": "js/reveal.min.js",
-            "version": "2.4",
+            "version": "2.5",
             "description": "A framework for easily creating beautiful presentations using HTML",
             "homepage": "http://lab.hakim.se/reveal-js/",
             "keywords": [
@@ -64171,6 +64586,66 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.5",
+                    "files": [
+                        "css/print/paper.css",
+                        "css/print/pdf.css",
+                        "css/reveal.css",
+                        "css/reveal.min.css",
+                        "css/theme/README.md",
+                        "css/theme/beige.css",
+                        "css/theme/default.css",
+                        "css/theme/moon.css",
+                        "css/theme/night.css",
+                        "css/theme/serif.css",
+                        "css/theme/simple.css",
+                        "css/theme/sky.css",
+                        "css/theme/solarized.css",
+                        "css/theme/source/beige.scss",
+                        "css/theme/source/default.scss",
+                        "css/theme/source/moon.scss",
+                        "css/theme/source/night.scss",
+                        "css/theme/source/serif.scss",
+                        "css/theme/source/simple.scss",
+                        "css/theme/source/sky.scss",
+                        "css/theme/source/solarized.scss",
+                        "css/theme/template/mixins.scss",
+                        "css/theme/template/settings.scss",
+                        "css/theme/template/theme.scss",
+                        "js/reveal.js",
+                        "js/reveal.min.js",
+                        "lib/css/zenburn.css",
+                        "lib/font/league_gothic-webfont.eot",
+                        "lib/font/league_gothic-webfont.svg",
+                        "lib/font/league_gothic-webfont.ttf",
+                        "lib/font/league_gothic-webfont.woff",
+                        "lib/js/classList.js",
+                        "lib/js/head.min.js",
+                        "lib/js/html5shiv.js",
+                        "plugin/highlight/highlight.js",
+                        "plugin/leap/leap.js",
+                        "plugin/markdown/example.html",
+                        "plugin/markdown/example.md",
+                        "plugin/markdown/markdown.js",
+                        "plugin/markdown/marked.js",
+                        "plugin/math/math.js",
+                        "plugin/multiplex/client.js",
+                        "plugin/multiplex/index.js",
+                        "plugin/multiplex/master.js",
+                        "plugin/notes-server/client.js",
+                        "plugin/notes-server/index.js",
+                        "plugin/notes-server/notes.html",
+                        "plugin/notes/notes.html",
+                        "plugin/notes/notes.js",
+                        "plugin/postmessage/example.html",
+                        "plugin/postmessage/postmessage.js",
+                        "plugin/print-pdf/print-pdf.js",
+                        "plugin/remotes/remotes.js",
+                        "plugin/search/search.js",
+                        "plugin/zoom-js/zoom.js"
+                    ]
+                },
                 {
                     "version": "2.4",
                     "files": [
@@ -64407,7 +64882,7 @@
             "filename": "rx.dom.js",
             "title": "Reactive Extensions for JavaScript bindings for the HTML DOM",
             "description": "HTML DOM Bindings for the Reactive Extensions for JavaScript",
-            "version": "2.0.3",
+            "version": "2.0.7",
             "homepage": "https://github.com/Reactive-Extensions/rxjs-dom",
             "author": {
                 "name": "MS Open Tech",
@@ -64433,9 +64908,18 @@
                 "HTML",
                 "HTML5",
                 "WebSockets",
-                "WebWorkers"
+                "WebWorkers",
+                "Geolocation"
             ],
             "assets": [
+                {
+                    "version": "2.0.7",
+                    "files": [
+                        "rx.dom.js",
+                        "rx.dom.min.js",
+                        "rx.dom.node.js"
+                    ]
+                },
                 {
                     "version": "2.0.3",
                     "files": [
@@ -64451,7 +64935,7 @@
             "filename": "rx.jquery.js",
             "title": "Reactive Extensions for JavaScript bindings for jQuery",
             "description": "Library for composing asynchronous and event-based operations in JavaScript extending the jQuery library",
-            "version": "1.0.1",
+            "version": "1.1.3",
             "homepage": "https://github.com/Reactive-Extensions/rxjs-jquery",
             "author": {
                 "name": "MS Open Tech",
@@ -64477,6 +64961,14 @@
             ],
             "assets": [
                 {
+                    "version": "1.1.3",
+                    "files": [
+                        "rx.jquery.js",
+                        "rx.jquery.min.js",
+                        "rx.jquery.node.js"
+                    ]
+                },
+                {
                     "version": "1.0.1",
                     "files": [
                         "rx.jquery.js",
@@ -64498,7 +64990,7 @@
             "filename": "rx.min.js",
             "title": "Reactive Extensions for JavaScript (RxJS)",
             "description": "Library for composing asynchronous and event-based operations in JavaScript",
-            "version": "2.1.15",
+            "version": "2.1.18",
             "homepage": "http://rx.codeplex.com",
             "author": {
                 "name": "Cloud Programmability Team",
@@ -64521,6 +65013,30 @@
                 "Events"
             ],
             "assets": [
+                {
+                    "version": "2.1.18",
+                    "files": [
+                        "rx.aggregates.js",
+                        "rx.aggregates.min.js",
+                        "rx.binding.js",
+                        "rx.binding.min.js",
+                        "rx.coincidence.js",
+                        "rx.coincidence.min.js",
+                        "rx.experimental.js",
+                        "rx.experimental.min.js",
+                        "rx.joinpatterns.js",
+                        "rx.joinpatterns.min.js",
+                        "rx.js",
+                        "rx.min.js",
+                        "rx.modern.js",
+                        "rx.modern.min.js",
+                        "rx.node.js",
+                        "rx.testing.js",
+                        "rx.testing.min.js",
+                        "rx.time.js",
+                        "rx.time.min.js"
+                    ]
+                },
                 {
                     "version": "2.1.15",
                     "files": [
@@ -66922,6 +67438,39 @@
                         "superfish.js",
                         "superfish.min.css",
                         "superfish.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "svg.js",
+            "filename": "svg.min.js",
+            "version": "0.32",
+            "description": "A lightweight JavaScript library for manipulating and animating svg using an uncluttered syntax.",
+            "homepage": "http://svgjs.com/",
+            "keywords": [
+                "vector",
+                "graphics",
+                "lightweight"
+            ],
+            "maintainers": [
+                {
+                    "name": "Wout Fierens",
+                    "web": "http://mick-wout.com/"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/wout/svg.js/"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.32",
+                    "files": [
+                        "svg.js",
+                        "svg.min.js"
                     ]
                 }
             ]
