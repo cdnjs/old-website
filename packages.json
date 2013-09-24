@@ -28227,9 +28227,9 @@
         },
         {
             "name": "lodash.js",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "filename": "lodash.min.js",
-            "description": "A utility library delivering consistency, customization, performance, and extras.",
+            "description": "A utility library delivering consistency, customization, performance, & extras.",
             "homepage": "http://lodash.com/",
             "license": "MIT",
             "main": "lodash",
@@ -28261,6 +28261,23 @@
                 "rhino"
             ],
             "assets": [
+                {
+                    "version": "2.1.0",
+                    "files": [
+                        "lodash.backbone.js",
+                        "lodash.backbone.min.js",
+                        "lodash.compat.js",
+                        "lodash.compat.min.js",
+                        "lodash.js",
+                        "lodash.legacy.js",
+                        "lodash.legacy.min.js",
+                        "lodash.min.js",
+                        "lodash.mobile.js",
+                        "lodash.mobile.min.js",
+                        "lodash.underscore.js",
+                        "lodash.underscore.min.js"
+                    ]
+                },
                 {
                     "version": "2.0.0",
                     "files": [
