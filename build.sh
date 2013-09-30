@@ -12,6 +12,6 @@ echo Re-generating website...
 node build.js
 
 echo Uploading website...
-git add
+git add .
 git commit -am "Updated packages."
 git push
