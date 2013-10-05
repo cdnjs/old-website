@@ -2,7 +2,8 @@
 <div class="row" ng-app>
   <div class="span12">
      <h1><%= package.name %></h1>
-     <p><a href="<%= package.homepage %>"><%= package.homepage %></a>
+     <% var link = package.homepage || package.url; %>
+     <p><a href="<%= link %>"><%= link %></a>
      <p><%= package.description %></p>
 
            <% _.each(package.assets, function(asset) { %>
