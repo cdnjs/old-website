@@ -61,3 +61,7 @@ table.table thead .sorting_desc_disabled { background: url('images/sort_desc_dis
 input[readonly] {
   cursor: text;
 }
+
+#search-box {
+  margin-left: 10px;
+}
