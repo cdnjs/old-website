@@ -34,14 +34,14 @@ superagent.get(packagesurl, function(res, textStatus, xhr){
 
 // I was rushing below r0fl
 var file = fs.createWriteStream("rss.xml");
-var request = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function(response) {
+var request = http.get("http://s3.amazonaws.com/cdnjs-artifacts/rss", function(response) {
   response.pipe(file);
 });
 
 
 
 var file2 = fs.createWriteStream("atom.xml");
-var request2 = http.get("http://s3.amazonaws.com/cdnjs-artifacts//rss", function(response) {
+var request2 = http.get("http://s3.amazonaws.com/cdnjs-artifacts/rss", function(response) {
   response.pipe(file2);
 });
 
