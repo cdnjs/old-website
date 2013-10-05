@@ -5,7 +5,9 @@ var http = require('http');
 var htmlMinifier = require('html-minifier');
 var uglifyJs = require('uglify-js');
 console.log('Get packages.json')
-superagent.get('https://s3.amazonaws.com/cdnjs-artifacts//packages.json?' + new Date().getTime(), function(res, textStatus, xhr){
+var packagesurl = 'https://s3.amazonaws.com/cdnjs-artifacts/packages.json?' + new Date().getTime();
+console.log(packagesurl);
+superagent.get(packagesurl, function(res, textStatus, xhr){
   console.log('Got packages.json')
   var packages = res.body.packages;
   var indexTemplate = fs.readFileSync('index.template', 'utf8');
