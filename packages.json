@@ -238,7 +238,7 @@
         {
             "name": "EaselJS",
             "filename": "easeljs.min.js",
-            "version": "0.6.1",
+            "version": "0.7.0",
             "description": "A Javascript library that makes working with the HTML5 Canvas element easy.",
             "homepage": "http://www.createjs.com/#!/EaselJS",
             "keywords": [
@@ -260,6 +260,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.7.0",
+                    "files": [
+                        "easeljs.min.js",
+                        "movieclip.min.js"
+                    ]
+                },
                 {
                     "version": "0.6.1",
                     "files": [
@@ -464,7 +471,7 @@
         {
             "name": "PreloadJS",
             "filename": "preloadjs.min.js",
-            "version": "0.3.1",
+            "version": "0.4.0",
             "description": "A Javascript library that lets you manage and co-ordinate the loading of assets.",
             "homepage": "http://www.createjs.com/#!/PreloadJS",
             "keywords": [
@@ -486,6 +493,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.4.0",
+                    "files": [
+                        "preloadjs.min.js"
+                    ]
+                },
                 {
                     "version": "0.3.1",
                     "files": [
@@ -576,7 +589,7 @@
         {
             "name": "SoundJS",
             "filename": "soundjs.min.js",
-            "version": "0.4.1",
+            "version": "0.5.0",
             "description": "A Javascript library that provides a simple API, and powerful features to make working with audio a breeze.",
             "homepage": "http://www.createjs.com/#!/SoundJS",
             "keywords": [
@@ -597,6 +610,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.5.0",
+                    "files": [
+                        "soundjs.min.js"
+                    ]
+                },
                 {
                     "version": "0.4.1",
                     "files": [
@@ -3855,7 +3874,7 @@
         {
             "name": "bacon.js",
             "filename": "Bacon.min.js",
-            "version": "0.6.10",
+            "version": "0.6.19",
             "author": "Juha Paananen",
             "description": "A small functional reactive programming lib for JavaScript.",
             "homepage": "http://baconjs.blogspot.com",
@@ -3876,10 +3895,17 @@
             "repositories": [
                 {
                     "type": "git",
-                    "url": "https://github.com/raimohanska/bacon.js.git"
+                    "url": "https://github.com/baconjs/bacon.js.git"
                 }
             ],
             "assets": [
+                {
+                    "version": "0.6.19",
+                    "files": [
+                        "Bacon.js",
+                        "Bacon.min.js"
+                    ]
+                },
                 {
                     "version": "0.6.10",
                     "files": [
@@ -4317,6 +4343,26 @@
                     "version": "0.2",
                     "files": [
                         "bonsai.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bootbox.js",
+            "filename": "bootbox.min.js",
+            "version": "4.0.0",
+            "description": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/makeusabrew/bootbox.git"
+            },
+            "author": "Nick Payne <nick@kurai.co.uk>",
+            "homepage": "http://bootboxjs.com",
+            "assets": [
+                {
+                    "version": "4.0.0",
+                    "files": [
+                        "bootbox.min.js"
                     ]
                 }
             ]
@@ -8086,7 +8132,7 @@
         {
             "name": "dc",
             "filename": "dc.min.js",
-            "version": "1.5.0",
+            "version": "1.6.0",
             "description": "A multi-dimensional charting built to work natively with crossfilter rendered using d3.js ",
             "keywords": [
                 "visualization",
@@ -8110,6 +8156,14 @@
                 "d3": "3.x"
             },
             "assets": [
+                {
+                    "version": "1.6.0",
+                    "files": [
+                        "dc.css",
+                        "dc.js",
+                        "dc.min.js"
+                    ]
+                },
                 {
                     "version": "1.5.0",
                     "files": [
@@ -8346,6 +8400,42 @@
                     "files": [
                         "dollar.js",
                         "dollar.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "doony",
+            "filename": "js/doony.min.js",
+            "version": "1.1",
+            "description": "UI improvements for Jenkins",
+            "homepage": "http://doony.org",
+            "license": "MIT",
+            "keywords": [
+                "jenkins",
+                "ui"
+            ],
+            "maintainers": [
+                {
+                    "name": "Kevin Burke"
+                },
+                {
+                    "name": "Kyle Conroy"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/kevinburke/doony"
+                }
+            ],
+            "bugs": "https://github.com/kevinburke/doony/issues",
+            "assets": [
+                {
+                    "version": "1.1",
+                    "files": [
+                        "css/doony.min.css",
+                        "js/doony.min.js"
                     ]
                 }
             ]
@@ -28038,6 +28128,41 @@
                     "files": [
                         "lazyload-min.js",
                         "lazyload.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "leaflet.markercluster",
+            "filename": "leaflet.markercluster.js",
+            "version": "0.2",
+            "description": "Marker Clustering plugin for Leaflet.",
+            "homepage": "https://github.com/Leaflet/Leaflet.markercluster",
+            "keywords": [
+                "maps",
+                "mobile"
+            ],
+            "maintainers": [
+                {
+                    "name": "Dave Leaver",
+                    "url": "https://github.com/danzel"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/Leaflet/Leaflet.markercluster.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.2",
+                    "files": [
+                        "MarkerCluster.Default.css",
+                        "MarkerCluster.Default.ie.css",
+                        "MarkerCluster.css",
+                        "leaflet.markercluster-src.js",
+                        "leaflet.markercluster.js"
                     ]
                 }
             ]
@@ -62611,7 +62736,7 @@
         {
             "name": "polymer",
             "filename": "polymer.min.js",
-            "version": "0.0.20130905",
+            "version": "0.0.20131003",
             "description": "Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.",
             "homepage": "http://polymer-project.org/",
             "keywords": [
@@ -62630,6 +62755,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.0.20131003",
+                    "files": [
+                        "platform.min.js",
+                        "platform.min.js.map",
+                        "polymer.min.js",
+                        "polymer.min.js.map"
+                    ]
+                },
                 {
                     "version": "0.0.20130905",
                     "files": [
@@ -63908,7 +64042,7 @@
         {
             "name": "ractive.js",
             "filename": "ractive.min.js",
-            "version": "0.3.6",
+            "version": "0.3.7",
             "description": "Next-generation DOM manipulation",
             "homepage": "http://www.ractivejs.org/",
             "keywords": [
@@ -63930,6 +64064,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.3.7",
+                    "files": [
+                        "ractive-legacy.min.js",
+                        "ractive.min.js"
+                    ]
+                },
                 {
                     "version": "0.3.6",
                     "files": [
@@ -65725,6 +65866,46 @@
             ]
         },
         {
+            "name": "sbt",
+            "version": "0.09.26",
+            "filename": "main.js",
+            "description": "Social Business Toolkit minified&aggregated files",
+            "author": "IBM",
+            "homepage": "http://www.openntf.org/internal/home.nsf/project.xsp?action=openDocument&name=Social%20Business%20Toolkit%20SDK",
+            "bugs": "https://github.com/OpenNTF/SocialSDK/issues",
+            "contributors": [
+                "Philippe Riand",
+                "Mark Wallace",
+                "Bhavesh Shah",
+                "Niklas Heidloff"
+            ],
+            "licenses": [
+                {
+                    "type": "Apache 2.0"
+                }
+            ],
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/OpenNTF/SocialSDK.git"
+            },
+            "maintainers": [
+                {
+                    "name": "Lorenzo Boccaccia",
+                    "email": "lorenzob@ie.ibm.com",
+                    "web": "https://github.com/LorenzoBoccaccia"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.09.26",
+                    "files": [
+                        "baseLayer.js",
+                        "main.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "scaleapp",
             "version": "0.4.1",
             "filename": "scaleapp.min.js",
@@ -66356,6 +66537,49 @@
                         "selectize.css",
                         "selectize.js",
                         "selectize.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "semantic-ui",
+            "filename": "javascript/semantic.min.js",
+            "version": "0.3.4",
+            "description": "Semantic empowers designers and developers by creating a language for sharing UI",
+            "homepage": "http://semantic-ui.com/",
+            "keywords": [
+                "semantic",
+                "ui"
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/jlukic/Semantic-UI"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.3.4",
+                    "files": [
+                        "css/semantic.min.css",
+                        "fonts/basic.icons.eot",
+                        "fonts/basic.icons.svg",
+                        "fonts/basic.icons.ttf",
+                        "fonts/basic.icons.woff",
+                        "fonts/icons.eot",
+                        "fonts/icons.otf",
+                        "fonts/icons.svg",
+                        "fonts/icons.ttf",
+                        "fonts/icons.woff",
+                        "images/loader-large-inverted.gif",
+                        "images/loader-large.gif",
+                        "images/loader-medium-inverted.gif",
+                        "images/loader-medium.gif",
+                        "images/loader-mini-inverted.gif",
+                        "images/loader-mini.gif",
+                        "images/loader-small-inverted.gif",
+                        "images/loader-small.gif",
+                        "javascript/semantic.min.js"
                     ]
                 }
             ]
@@ -67180,7 +67404,7 @@
         },
         {
             "name": "speakingurl",
-            "version": "0.2.21",
+            "version": "0.3.0",
             "description": "Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.",
             "homepage": "http://pid.github.io/speakingurl/",
             "github": "http://github.com/pid/speakingurl",
@@ -67279,6 +67503,12 @@
                 "node": ">=0.8.0"
             },
             "assets": [
+                {
+                    "version": "0.3.0",
+                    "files": [
+                        "speakingurl.min.js"
+                    ]
+                },
                 {
                     "version": "0.2.21",
                     "files": [
@@ -70595,12 +70825,11 @@
         },
         {
             "name": "tweenjs",
-            "filename": "tween.min.js",
-            "version": "0.4.1",
+            "filename": "tweenjs.min.js",
+            "version": "0.5.0",
             "description": "TweenJS is a Javascript library for tweening and animating HTML5 and Javascript properties.",
             "homepage": "http://www.createjs.com/#!/TweenJS",
             "keywords": [
-                "WebGL",
                 "canvas",
                 "html5",
                 "animation"
@@ -70618,6 +70847,12 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.5.0",
+                    "files": [
+                        "tweenjs.min.js"
+                    ]
+                },
                 {
                     "version": "0.4.1",
                     "files": [
@@ -71665,7 +71900,7 @@
         {
             "name": "x-editable",
             "filename": "bootstrap-editable/js/bootstrap-editable.min.js",
-            "version": "1.4.6",
+            "version": "1.5.0",
             "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.",
             "homepage": "http://vitalets.github.io/x-editable/",
             "keywords": [
@@ -71687,6 +71922,66 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.5.0",
+                    "files": [
+                        "CHANGELOG.txt",
+                        "README.md",
+                        "bootstrap-editable/css/bootstrap-editable.css",
+                        "bootstrap-editable/img/clear.png",
+                        "bootstrap-editable/img/loading.gif",
+                        "bootstrap-editable/js/bootstrap-editable.js",
+                        "bootstrap-editable/js/bootstrap-editable.min.js",
+                        "bootstrap3-editable/css/bootstrap-editable.css",
+                        "bootstrap3-editable/img/clear.png",
+                        "bootstrap3-editable/img/loading.gif",
+                        "bootstrap3-editable/js/bootstrap-editable.js",
+                        "bootstrap3-editable/js/bootstrap-editable.min.js",
+                        "inputs-ext/address/address.css",
+                        "inputs-ext/address/address.js",
+                        "inputs-ext/typeaheadjs/lib/typeahead.js",
+                        "inputs-ext/typeaheadjs/lib/typeahead.js-bootstrap.css",
+                        "inputs-ext/typeaheadjs/typeaheadjs.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.css",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.min.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysihtml5-0.3.0.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysihtml5-0.3.0.min.js",
+                        "inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysiwyg-color.css",
+                        "inputs-ext/wysihtml5/wysihtml5.js",
+                        "jquery-editable/css/jquery-editable.css",
+                        "jquery-editable/img/clear.png",
+                        "jquery-editable/img/loading.gif",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/animated-overlay.gif",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_flat_0_aaaaaa_40x100.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_flat_55_fbec88_40x100.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_glass_75_d0e5f5_1x400.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_glass_85_dfeffc_1x400.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_glass_95_fef1ec_1x400.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_inset-hard_100_f5f8f9_1x100.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-bg_inset-hard_100_fcfdfd_1x100.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_217bc0_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_2e83ff_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_469bdd_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_6da8d5_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_cd0a0a_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_d8e7f3_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/images/ui-icons_f9bd01_256x240.png",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/jquery-ui-1.10.3.custom.css",
+                        "jquery-editable/jquery-ui-datepicker/css/redmond/jquery-ui-1.10.3.custom.min.css",
+                        "jquery-editable/jquery-ui-datepicker/js/jquery-ui-1.10.3.custom.js",
+                        "jquery-editable/jquery-ui-datepicker/js/jquery-ui-1.10.3.custom.min.js",
+                        "jquery-editable/js/jquery-editable-poshytip.js",
+                        "jquery-editable/js/jquery-editable-poshytip.min.js",
+                        "jqueryui-editable/css/jqueryui-editable.css",
+                        "jqueryui-editable/img/clear.png",
+                        "jqueryui-editable/img/loading.gif",
+                        "jqueryui-editable/js/jqueryui-editable.js",
+                        "jqueryui-editable/js/jqueryui-editable.min.js"
+                    ]
+                },
                 {
                     "version": "1.4.6",
                     "files": [
