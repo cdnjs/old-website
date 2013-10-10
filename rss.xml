@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Thu, 10 Oct 2013 05:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2013 16:06:51 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rxjs updated to version 2.1.20]]></title>
+            <description><![CDATA[Library for composing asynchronous and event-based operations in JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rxjs/2.1.20/rx.min.js">//cdnjs.cloudflare.com/ajax/libs/rxjs/2.1.20/rx.min.js</a>]]></description>
+            <link>http://rx.codeplex.com</link>
+            <guid isPermaLink="false">
+                rxjs2.1.20            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 15:47:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[oj(0.1.6) was added]]></title>
             <description><![CDATA[A unified templating language for the people. Thirsty people.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oj/0.1.6/oj.min.js">//cdnjs.cloudflare.com/ajax/libs/oj/0.1.6/oj.min.js</a>]]></description>
