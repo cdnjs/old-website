@@ -10,8 +10,26 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Wed, 09 Oct 2013 04:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2013 04:51:11 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[waypoints updated to version 2.0.3]]></title>
+            <description><![CDATA[Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js">//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js</a>]]></description>
+            <link>http://imakewebthings.github.com/jquery-waypoints</link>
+            <guid isPermaLink="false">
+                waypoints2.0.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 09 Oct 2013 23:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mathjs updated to version 0.14.0]]></title>
+            <description><![CDATA[Math.js is an extensive math library for JavaScript and Node.js. It features real and complex numbers, units, matrices, a large set of mathematical functions, and a flexible expression parser.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mathjs/0.14.0/math.min.js">//cdnjs.cloudflare.com/ajax/libs/mathjs/0.14.0/math.min.js</a>]]></description>
+            <link>http://mathjs.org</link>
+            <guid isPermaLink="false">
+                mathjs0.14.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 09 Oct 2013 10:09:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[pubnub updated to version 3.5.4]]></title>
             <description><![CDATA[PubNub, a new kind of Cloud-Hosted Broadcasting Service for Mass Communication.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pubnub/3.5.4/pubnub.min.js">//cdnjs.cloudflare.com/ajax/libs/pubnub/3.5.4/pubnub.min.js</a>]]></description>
@@ -20,15 +38,6 @@
                 pubnub3.5.4            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 09 Oct 2013 04:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[math.js updated to version 0.13.0]]></title>
-            <description><![CDATA[Math.js is an extensive math library for JavaScript and Node.js. It features real and complex numbers, units, matrices, a large set of mathematical functions, and a flexible expression parser.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/math.js/0.13.0/math.min.js">//cdnjs.cloudflare.com/ajax/libs/math.js/0.13.0/math.min.js</a>]]></description>
-            <link>http://mathjs.org</link>
-            <guid isPermaLink="false">
-                math.js0.13.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 09 Oct 2013 02:35:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[leaflet.markercluster(0.2) was added]]></title>
@@ -299,15 +308,6 @@
             <pubDate>Fri, 27 Sep 2013 05:17:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[zclip updated to version 1.1.2]]></title>
-            <description><![CDATA[zClip is a lightweight jQuery "copy to clipboard" plugin built using the popular Zero Clipboard library. This plugin uses an invisible Adobe Flash movie that is fully compatible with Flash Player 10 and below.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/zclip/1.1.2/jquery.zclip.min.js">//cdnjs.cloudflare.com/ajax/libs/zclip/1.1.2/jquery.zclip.min.js</a>]]></description>
-            <link>https://github.com/terinjokes/zClip</link>
-            <guid isPermaLink="false">
-                zclip1.1.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 26 Sep 2013 00:52:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[require-i18n updated to version 2.0.4]]></title>
             <description><![CDATA[Load string bundles used in internationalization (i18n) that are made up of separate country/language/locale-specific bundles.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/require-i18n/2.0.4/i18n.js">//cdnjs.cloudflare.com/ajax/libs/require-i18n/2.0.4/i18n.js</a>]]></description>
             <link>http://github.com/requirejs/i18n</link>
@@ -315,15 +315,6 @@
                 require-i18n2.0.4            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 24 Sep 2013 00:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[scaleapp updated to version 0.4.1]]></title>
-            <description><![CDATA[scaleApp is a JavaScript framework for scalable and maintainable One-Page-Applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/scaleapp/0.4.1/scaleapp.min.js">//cdnjs.cloudflare.com/ajax/libs/scaleapp/0.4.1/scaleapp.min.js</a>]]></description>
-            <link>http://www.scaleapp.org</link>
-            <guid isPermaLink="false">
-                scaleapp0.4.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 23 Sep 2013 00:17:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

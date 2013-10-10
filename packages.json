@@ -29327,64 +29327,6 @@
             ]
         },
         {
-            "name": "math.js",
-            "filename": "math.min.js",
-            "version": "0.13.0",
-            "description": "Math.js is an extensive math library for JavaScript and Node.js. It features real and complex numbers, units, matrices, a large set of mathematical functions, and a flexible expression parser.",
-            "author": "Jos de Jong <wjosdejong@gmail.com>",
-            "contributors": [
-                {
-                    "name": "Jos de Jong",
-                    "email": "wjosdejong@gmail.com"
-                }
-            ],
-            "homepage": "http://mathjs.org",
-            "repository": {
-                "type": "git",
-                "url": "git://github.com/josdejong/mathjs.git"
-            },
-            "keywords": [
-                "math",
-                "mathematics",
-                "functions",
-                "numeric",
-                "parser",
-                "expression",
-                "real",
-                "complex",
-                "matrix",
-                "unit"
-            ],
-            "dependencies": {},
-            "devDependencies": {
-                "jake": ">= 0.5.9",
-                "browserify": "2.x",
-                "mocha": "1.x",
-                "numbers": "0.4.0",
-                "uglify-js": ">= 2.2.5",
-                "dateable": ">= 0.1.2",
-                "underscore": "1.4.x",
-                "seed-random": ">= 1.0.1"
-            },
-            "scripts": {
-                "test": "mocha test --recursive --reporter spec"
-            },
-            "bin": {
-                "mathjs": "./bin/cli.js"
-            },
-            "engines": {
-                "node": "*"
-            },
-            "assets": [
-                {
-                    "version": "0.13.0",
-                    "files": [
-                        "math.min.js"
-                    ]
-                }
-            ]
-        },
-        {
             "name": "mathjax",
             "filename": "MathJax.js",
             "version": "2.2",
@@ -59048,6 +58990,52 @@
             ]
         },
         {
+            "name": "mathjs",
+            "version": "0.14.0",
+            "filename": "math.min.js",
+            "homepage": "http://mathjs.org",
+            "description": "Math.js is an extensive math library for JavaScript and Node.js. It features real and complex numbers, units, matrices, a large set of mathematical functions, and a flexible expression parser.",
+            "author": "Jos de Jong <wjosdejong@gmail.com>",
+            "contributors": [
+                {
+                    "name": "Jos de Jong",
+                    "email": "wjosdejong@gmail.com"
+                }
+            ],
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/josdejong/mathjs.git"
+            },
+            "keywords": [
+                "math",
+                "mathematics",
+                "functions",
+                "numeric",
+                "parser",
+                "expression",
+                "real",
+                "complex",
+                "matrix",
+                "unit"
+            ],
+            "assets": [
+                {
+                    "version": "0.14.0",
+                    "files": [
+                        "math.js",
+                        "math.min.js"
+                    ]
+                },
+                {
+                    "version": "0.13.0",
+                    "files": [
+                        "math.js",
+                        "math.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "mediaelement",
             "filename": "js/mediaelement.min.js",
             "version": "2.11.3",
@@ -59486,6 +59474,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.3.1",
+                    "files": [
+                        "moment-with-langs.js",
+                        "moment-with-langs.min.js",
+                        "moment.js",
+                        "moment.min.js"
+                    ]
+                },
                 {
                     "version": "2.2.1",
                     "files": [
@@ -71779,7 +71776,7 @@
         {
             "name": "waypoints",
             "filename": "waypoints.min.js",
-            "version": "2.0.2",
+            "version": "2.0.3",
             "description": "Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.",
             "homepage": "http://imakewebthings.github.com/jquery-waypoints",
             "keywords": [
@@ -71799,6 +71796,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.0.3",
+                    "files": [
+                        "waypoints.js",
+                        "waypoints.min.js"
+                    ]
+                },
                 {
                     "version": "2.0.2",
                     "files": [
