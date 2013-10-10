@@ -10,8 +10,89 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Thu, 10 Oct 2013 04:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2013 05:36:27 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[oj(0.1.6) was added]]></title>
+            <description><![CDATA[A unified templating language for the people. Thirsty people.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oj/0.1.6/oj.min.js">//cdnjs.cloudflare.com/ajax/libs/oj/0.1.6/oj.min.js</a>]]></description>
+            <link>http://ojjs.org</link>
+            <guid isPermaLink="false">
+                oj0.1.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 03:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[oj.mustache(0.7.2) was added]]></title>
+            <description><![CDATA[Mustache plugin for OJ<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oj.mustache/0.7.2/oj.mustache.min.js">//cdnjs.cloudflare.com/ajax/libs/oj.mustache/0.7.2/oj.mustache.min.js</a>]]></description>
+            <link>http://ojjs.org</link>
+            <guid isPermaLink="false">
+                oj.mustache0.7.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 03:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[oj.markdown(0.2.9) was added]]></title>
+            <description><![CDATA[Markdown plugin for oj<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oj.markdown/0.2.9/oj.markdown.min.js">//cdnjs.cloudflare.com/ajax/libs/oj.markdown/0.2.9/oj.markdown.min.js</a>]]></description>
+            <link>http://ojjs.org</link>
+            <guid isPermaLink="false">
+                oj.markdown0.2.9            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 03:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[oj.YouTubeVideo(0.0.1) was added]]></title>
+            <description><![CDATA[YouTube video plugin for OJ<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oj.YouTubeVideo/0.0.1/oj.YouTubeVideo.min.js">//cdnjs.cloudflare.com/ajax/libs/oj.YouTubeVideo/0.0.1/oj.YouTubeVideo.min.js</a>]]></description>
+            <link>http://ojjs.org/docs#YouTubeVideo</link>
+            <guid isPermaLink="false">
+                oj.YouTubeVideo0.0.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 03:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[oj.VimeoVideo(0.0.4) was added]]></title>
+            <description><![CDATA[Vimeo Video plugin for OJ<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oj.VimeoVideo/0.0.4/oj.VimeoVideo.min.js">//cdnjs.cloudflare.com/ajax/libs/oj.VimeoVideo/0.0.4/oj.VimeoVideo.min.js</a>]]></description>
+            <link>http://ojjs.org/docs#VimeoVideo</link>
+            <guid isPermaLink="false">
+                oj.VimeoVideo0.0.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 03:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[oj.TwitterButton(0.0.4) was added]]></title>
+            <description><![CDATA[Twitter button plugin for OJ<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oj.TwitterButton/0.0.4/oj.TwitterButton.min.js">//cdnjs.cloudflare.com/ajax/libs/oj.TwitterButton/0.0.4/oj.TwitterButton.min.js</a>]]></description>
+            <link>http://ojjs.org/docs#TwitterButton</link>
+            <guid isPermaLink="false">
+                oj.TwitterButton0.0.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 03:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[oj.JSFiddle(0.0.1) was added]]></title>
+            <description><![CDATA[JSFiddle plugin for OJ<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oj.JSFiddle/0.0.1/oj.JSFiddle.min.js">//cdnjs.cloudflare.com/ajax/libs/oj.JSFiddle/0.0.1/oj.JSFiddle.min.js</a>]]></description>
+            <link>http://ojjs.org/plugins#JSFiddle</link>
+            <guid isPermaLink="false">
+                oj.JSFiddle0.0.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 03:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[oj.GitHubButton(0.0.2) was added]]></title>
+            <description><![CDATA[GitHub buttons plugin for OJ<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oj.GitHubButton/0.0.2/oj.GitHubButton.min.js">//cdnjs.cloudflare.com/ajax/libs/oj.GitHubButton/0.0.2/oj.GitHubButton.min.js</a>]]></description>
+            <link>http://ojjs.org/docs#GitHubButton</link>
+            <guid isPermaLink="false">
+                oj.GitHubButton0.0.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 03:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[oj.AceEditor(0.0.6) was added]]></title>
+            <description><![CDATA[Ace Editor plugin for OJ<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oj.AceEditor/0.0.6/oj.AceEditor.min.js">//cdnjs.cloudflare.com/ajax/libs/oj.AceEditor/0.0.6/oj.AceEditor.min.js</a>]]></description>
+            <link>http://ojjs.org</link>
+            <guid isPermaLink="false">
+                oj.AceEditor0.0.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 03:20:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[waypoints updated to version 2.0.3]]></title>
             <description><![CDATA[Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js">//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js</a>]]></description>

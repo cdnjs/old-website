@@ -60661,6 +60661,379 @@
             ]
         },
         {
+            "name": "oj.AceEditor",
+            "version": "0.0.6",
+            "description": "Ace Editor plugin for OJ",
+            "homepage": "http://ojjs.org",
+            "keywords": [
+                "oj",
+                "ace",
+                "editor"
+            ],
+            "author": "Evan Moran <evan@evanmoran.com>",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ojjs/oj.AceEditor.git"
+            },
+            "filename": "oj.AceEditor.min.js",
+            "assets": [
+                {
+                    "version": "latest",
+                    "files": [
+                        "oj.AceEditor.js",
+                        "oj.AceEditor.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.6",
+                    "files": [
+                        "oj.AceEditor.js",
+                        "oj.AceEditor.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.5",
+                    "files": [
+                        "oj.AceEditor.js",
+                        "oj.AceEditor.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.4",
+                    "files": [
+                        "oj.AceEditor.js",
+                        "oj.AceEditor.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.3",
+                    "files": [
+                        "oj.AceEditor.js",
+                        "oj.AceEditor.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.2",
+                    "files": [
+                        "oj.AceEditor.js",
+                        "oj.AceEditor.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "oj.GitHubButton",
+            "version": "0.0.2",
+            "description": "GitHub buttons plugin for OJ",
+            "homepage": "http://ojjs.org/docs#GitHubButton",
+            "keywords": [
+                "oj",
+                "plugin",
+                "github",
+                "button"
+            ],
+            "author": "Evan Moran <evan@evanmoran.com>",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ojjs/oj.GitHubButton.git"
+            },
+            "filename": "oj.GitHubButton.min.js",
+            "assets": [
+                {
+                    "version": "latest",
+                    "files": [
+                        "oj.GitHubButton.js",
+                        "oj.GitHubButton.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.2",
+                    "files": [
+                        "oj.GitHubButton.js",
+                        "oj.GitHubButton.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "oj.JSFiddle",
+            "version": "0.0.1",
+            "description": "JSFiddle plugin for OJ",
+            "homepage": "http://ojjs.org/plugins#JSFiddle",
+            "keywords": [
+                "oj",
+                "plugin",
+                "jsfiddle"
+            ],
+            "author": "Evan Moran <evan@evanmoran.com>",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ojjs/oj.JSFiddle.git"
+            },
+            "filename": "oj.JSFiddle.min.js",
+            "assets": [
+                {
+                    "version": "latest",
+                    "files": [
+                        "oj.JSFiddle.js",
+                        "oj.JSFiddle.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.1",
+                    "files": [
+                        "oj.JSFiddle.js",
+                        "oj.JSFiddle.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "oj.TwitterButton",
+            "version": "0.0.4",
+            "description": "Twitter button plugin for OJ",
+            "homepage": "http://ojjs.org/docs#TwitterButton",
+            "keywords": [
+                "oj",
+                "plugin",
+                "twitter",
+                "follow"
+            ],
+            "author": "Evan Moran <evan@evanmoran.com>",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ojjs/oj.TwitterButton.git"
+            },
+            "filename": "oj.TwitterButton.min.js",
+            "assets": [
+                {
+                    "version": "latest",
+                    "files": [
+                        "oj.TwitterButton.js",
+                        "oj.TwitterButton.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.4",
+                    "files": [
+                        "oj.TwitterButton.js",
+                        "oj.TwitterButton.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "oj.VimeoVideo",
+            "version": "0.0.4",
+            "description": "Vimeo Video plugin for OJ",
+            "homepage": "http://ojjs.org/docs#VimeoVideo",
+            "keywords": [
+                "oj",
+                "plugin",
+                "vimeo",
+                "video"
+            ],
+            "author": "Evan Moran <evan@evanmoran.com>",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ojjs/oj.VimeoVideo.git"
+            },
+            "filename": "oj.VimeoVideo.min.js",
+            "assets": [
+                {
+                    "version": "latest",
+                    "files": [
+                        "oj.VimeoVideo.js",
+                        "oj.VimeoVideo.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.4",
+                    "files": [
+                        "oj.VimeoVideo.js",
+                        "oj.VimeoVideo.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.3",
+                    "files": [
+                        "oj.VimeoVideo.js",
+                        "oj.VimeoVideo.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.2",
+                    "files": [
+                        "oj.VimeoVideo.js",
+                        "oj.VimeoVideo.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "oj.YouTubeVideo",
+            "version": "0.0.1",
+            "description": "YouTube video plugin for OJ",
+            "homepage": "http://ojjs.org/docs#YouTubeVideo",
+            "keywords": [
+                "oj",
+                "plugin",
+                "youtube",
+                "video"
+            ],
+            "author": "Evan Moran <evan@evanmoran.com>",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ojjs/oj.YouTubeVideo.git"
+            },
+            "filename": "oj.YouTubeVideo.min.js",
+            "assets": [
+                {
+                    "version": "latest",
+                    "files": [
+                        "oj.YouTubeVideo.js",
+                        "oj.YouTubeVideo.min.js"
+                    ]
+                },
+                {
+                    "version": "0.0.1",
+                    "files": [
+                        "oj.YouTubeVideo.js",
+                        "oj.YouTubeVideo.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "oj.markdown",
+            "version": "0.2.9",
+            "description": "Markdown plugin for oj",
+            "homepage": "http://ojjs.org",
+            "keywords": [
+                "oj",
+                "markdown",
+                "marked"
+            ],
+            "author": "Evan Moran <evan@evanmoran.com>",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ojjs/oj.markdown.git"
+            },
+            "filename": "oj.markdown.min.js",
+            "assets": [
+                {
+                    "version": "latest",
+                    "files": [
+                        "oj.markdown.js",
+                        "oj.markdown.min.js"
+                    ]
+                },
+                {
+                    "version": "0.2.9",
+                    "files": [
+                        "oj.markdown.js",
+                        "oj.markdown.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "oj.mustache",
+            "version": "0.7.2",
+            "description": "Mustache plugin for OJ",
+            "homepage": "http://ojjs.org",
+            "keywords": [
+                "oj",
+                "mustache"
+            ],
+            "author": "Evan Moran <evan@evanmoran.com>",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ojjs/oj.mustache.git"
+            },
+            "filename": "oj.mustache.min.js",
+            "assets": [
+                {
+                    "version": "latest",
+                    "files": [
+                        "oj.mustache.js",
+                        "oj.mustache.min.js"
+                    ]
+                },
+                {
+                    "version": "0.7.2",
+                    "files": [
+                        "oj.mustache.js",
+                        "oj.mustache.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "oj",
+            "version": "0.1.6",
+            "description": "A unified templating language for the people. Thirsty people.",
+            "homepage": "http://ojjs.org",
+            "keywords": [
+                "templating",
+                "html",
+                "css",
+                "js",
+                "jquery",
+                "backbone"
+            ],
+            "author": "Evan Moran <evan@evanmoran.com>",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/ojjs/oj.git"
+            },
+            "filename": "oj.min.js",
+            "assets": [
+                {
+                    "version": "latest",
+                    "files": [
+                        "oj.js",
+                        "oj.min.js"
+                    ]
+                },
+                {
+                    "version": "0.1.6",
+                    "files": [
+                        "oj.js",
+                        "oj.min.js"
+                    ]
+                },
+                {
+                    "version": "0.1.5",
+                    "files": [
+                        "oj.js",
+                        "oj.min.js"
+                    ]
+                },
+                {
+                    "version": "0.1.4",
+                    "files": [
+                        "oj.js",
+                        "oj.min.js"
+                    ]
+                },
+                {
+                    "version": "0.1.3",
+                    "files": [
+                        "oj.js",
+                        "oj.min.js"
+                    ]
+                },
+                {
+                    "version": "0.1.2",
+                    "files": [
+                        "oj.js",
+                        "oj.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "opal-jquery",
             "filename": "opal-jquery.min.js",
             "version": "0.0.8",
