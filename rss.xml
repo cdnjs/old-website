@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Mon, 14 Oct 2013 15:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2013 07:19:32 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[taskforce(1.0) was added]]></title>
+            <description><![CDATA[Protest in Washington DC.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/taskforce/1.0/widget.min.js">//cdnjs.cloudflare.com/ajax/libs/taskforce/1.0/widget.min.js</a>]]></description>
+            <link>https://github.com/tfrce/widget</link>
+            <guid isPermaLink="false">
+                taskforce1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 15 Oct 2013 07:13:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mousetrap updated to version 1.4.5]]></title>
             <description><![CDATA[Mousetrap is a standalone library with no external dependencies. It weighs in at around 1.7kb minified and gzipped and 3kb minified.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mousetrap/1.4.5/mousetrap.min.js">//cdnjs.cloudflare.com/ajax/libs/mousetrap/1.4.5/mousetrap.min.js</a>]]></description>
@@ -74,6 +83,15 @@
                 polymer0.0.20131010            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 10 Oct 2013 23:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[textAngular(1.0.2) was added]]></title>
+            <description><![CDATA[A radically powerful Text-Editor/Wysiwyg editor for Angular.js! Create multiple editor instances, two-way-bind HTML content, watch editors for changes and more!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/textAngular/1.0.2/text-angular.min.js">//cdnjs.cloudflare.com/ajax/libs/textAngular/1.0.2/text-angular.min.js</a>]]></description>
+            <link>http://textAngular.com</link>
+            <guid isPermaLink="false">
+                textAngular1.0.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2013 20:30:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[rxjs updated to version 2.1.20]]></title>
@@ -415,15 +433,6 @@
                 PreloadJS0.4.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 02 Oct 2013 04:06:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[idbwrapper updated to version 1.4.0]]></title>
-            <description><![CDATA[A cross-browser wrapper for IndexedDB<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idbwrapper/1.4.0/idbstore.min.js">//cdnjs.cloudflare.com/ajax/libs/idbwrapper/1.4.0/idbstore.min.js</a>]]></description>
-            <link>https://github.com/jensarps/IDBWrapper</link>
-            <guid isPermaLink="false">
-                idbwrapper1.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2013 15:52:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
