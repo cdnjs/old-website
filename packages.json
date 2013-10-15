@@ -3170,7 +3170,7 @@
         {
             "name": "backbone.fetch-cache",
             "filename": "backbone.fetch-cache.min.js",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "author": "Andy Appleton",
             "description": "Caches calls to Backbone.[Model | Collection].fetch",
             "homepage": "https://github.com/mrappleton/backbone-fetch-cache",
@@ -3186,6 +3186,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.1.2",
+                    "files": [
+                        "backbone.fetch-cache.js",
+                        "backbone.fetch-cache.min.js"
+                    ]
+                },
                 {
                     "version": "1.1.1",
                     "files": [
@@ -4186,6 +4193,43 @@
                         "blanket.min.js",
                         "blanket_jasmine.js",
                         "blanket_jasmine.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bluebird",
+            "description": "Full featured Promises/A+ implementation with exceptionally good performance",
+            "filename": "bluebird.min.js",
+            "version": "0.7.10-1",
+            "keywords": [
+                "promise",
+                "performance",
+                "fast",
+                "promises-aplus",
+                "async"
+            ],
+            "homepage": "https://github.com/petkaantonov/bluebird",
+            "repository": {
+                "type": "git",
+                "url": "git://github.com/petkaantonov/bluebird.git"
+            },
+            "license": "MIT",
+            "author": {
+                "name": "Petka Antonov",
+                "email": "petka_antonov@hotmail.com",
+                "url": "http://github.com/petkaantonov/"
+            },
+            "assets": [
+                {
+                    "version": "0.7.10-1",
+                    "files": [
+                        "bluebird.js",
+                        "bluebird.min.js",
+                        "bluebird_debug.js",
+                        "bluebird_debug.min.js",
+                        "bluebird_sync.js",
+                        "bluebird_sync.min.js"
                     ]
                 }
             ]
@@ -18590,7 +18634,7 @@
         {
             "name": "foundation",
             "filename": "js/foundation.min.js",
-            "version": "4.3.1",
+            "version": "4.3.2",
             "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.",
             "homepage": "http://foundation.zurb.com",
             "keywords": [
@@ -18618,6 +18662,54 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "4.3.2",
+                    "files": [
+                        "css/foundation.css",
+                        "css/foundation.min.css",
+                        "css/normalize.css",
+                        "css/normalize.min.css",
+                        "js/foundation.min.js",
+                        "js/foundation/foundation.abide.js",
+                        "js/foundation/foundation.abide.min.js",
+                        "js/foundation/foundation.alerts.js",
+                        "js/foundation/foundation.alerts.min.js",
+                        "js/foundation/foundation.clearing.js",
+                        "js/foundation/foundation.clearing.min.js",
+                        "js/foundation/foundation.cookie.js",
+                        "js/foundation/foundation.cookie.min.js",
+                        "js/foundation/foundation.dropdown.js",
+                        "js/foundation/foundation.dropdown.min.js",
+                        "js/foundation/foundation.forms.js",
+                        "js/foundation/foundation.forms.min.js",
+                        "js/foundation/foundation.interchange.js",
+                        "js/foundation/foundation.interchange.min.js",
+                        "js/foundation/foundation.joyride.js",
+                        "js/foundation/foundation.joyride.min.js",
+                        "js/foundation/foundation.js",
+                        "js/foundation/foundation.magellan.js",
+                        "js/foundation/foundation.magellan.min.js",
+                        "js/foundation/foundation.min.js",
+                        "js/foundation/foundation.orbit.js",
+                        "js/foundation/foundation.orbit.min.js",
+                        "js/foundation/foundation.placeholder.js",
+                        "js/foundation/foundation.placeholder.min.js",
+                        "js/foundation/foundation.reveal.js",
+                        "js/foundation/foundation.reveal.min.js",
+                        "js/foundation/foundation.section.js",
+                        "js/foundation/foundation.section.min.js",
+                        "js/foundation/foundation.tooltips.js",
+                        "js/foundation/foundation.tooltips.min.js",
+                        "js/foundation/foundation.topbar.js",
+                        "js/foundation/foundation.topbar.min.js",
+                        "js/vendor/custom.modernizr.js",
+                        "js/vendor/custom.modernizr.min.js",
+                        "js/vendor/jquery.js",
+                        "js/vendor/jquery.min.js",
+                        "js/vendor/zepto.js",
+                        "js/vendor/zepto.min.js"
+                    ]
+                },
                 {
                     "version": "4.3.1",
                     "files": [
@@ -21623,6 +21715,256 @@
                     "files": [
                         "impress.js",
                         "impress.min.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ink",
+            "filename": "js/ink-all.min.js",
+            "version": "2.2.1",
+            "description": "An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping",
+            "homepage": "http://ink.sapo.pt/",
+            "keywords": [
+                "responsive",
+                "framework",
+                "ui"
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/sapo/Ink"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.2.1",
+                    "files": [
+                        "css/docs.css",
+                        "css/ink-ie7-min.css",
+                        "css/ink-ie7.css",
+                        "css/ink-min.css",
+                        "css/ink.css",
+                        "css/quick-start.css",
+                        "font/FontAwesome.otf",
+                        "font/fontawesome-webfont.eot",
+                        "font/fontawesome-webfont.svg",
+                        "font/fontawesome-webfont.ttf",
+                        "font/fontawesome-webfont.woff",
+                        "font/ubuntu-b-webfont.eot",
+                        "font/ubuntu-b-webfont.svg",
+                        "font/ubuntu-b-webfont.ttf",
+                        "font/ubuntu-b-webfont.woff",
+                        "font/ubuntu-bi-webfont.eot",
+                        "font/ubuntu-bi-webfont.svg",
+                        "font/ubuntu-bi-webfont.ttf",
+                        "font/ubuntu-bi-webfont.woff",
+                        "font/ubuntu-c-webfont.eot",
+                        "font/ubuntu-c-webfont.svg",
+                        "font/ubuntu-c-webfont.ttf",
+                        "font/ubuntu-c-webfont.woff",
+                        "font/ubuntu-l-webfont.eot",
+                        "font/ubuntu-l-webfont.svg",
+                        "font/ubuntu-l-webfont.ttf",
+                        "font/ubuntu-l-webfont.woff",
+                        "font/ubuntu-li-webfont.eot",
+                        "font/ubuntu-li-webfont.svg",
+                        "font/ubuntu-li-webfont.ttf",
+                        "font/ubuntu-li-webfont.woff",
+                        "font/ubuntu-m-webfont.eot",
+                        "font/ubuntu-m-webfont.svg",
+                        "font/ubuntu-m-webfont.ttf",
+                        "font/ubuntu-m-webfont.woff",
+                        "font/ubuntu-mi-webfont.eot",
+                        "font/ubuntu-mi-webfont.svg",
+                        "font/ubuntu-mi-webfont.ttf",
+                        "font/ubuntu-mi-webfont.woff",
+                        "font/ubuntu-r-webfont.eot",
+                        "font/ubuntu-r-webfont.svg",
+                        "font/ubuntu-r-webfont.ttf",
+                        "font/ubuntu-r-webfont.woff",
+                        "font/ubuntu-ri-webfont.eot",
+                        "font/ubuntu-ri-webfont.svg",
+                        "font/ubuntu-ri-webfont.ttf",
+                        "font/ubuntu-ri-webfont.woff",
+                        "font/ubuntumono-b-webfont.eot",
+                        "font/ubuntumono-b-webfont.svg",
+                        "font/ubuntumono-b-webfont.ttf",
+                        "font/ubuntumono-b-webfont.woff",
+                        "font/ubuntumono-bi-webfont.eot",
+                        "font/ubuntumono-bi-webfont.svg",
+                        "font/ubuntumono-bi-webfont.ttf",
+                        "font/ubuntumono-bi-webfont.woff",
+                        "font/ubuntumono-r-webfont.eot",
+                        "font/ubuntumono-r-webfont.svg",
+                        "font/ubuntumono-r-webfont.ttf",
+                        "font/ubuntumono-r-webfont.woff",
+                        "font/ubuntumono-ri-webfont.eot",
+                        "font/ubuntumono-ri-webfont.svg",
+                        "font/ubuntumono-ri-webfont.ttf",
+                        "font/ubuntumono-ri-webfont.woff",
+                        "js/autoload.js",
+                        "js/example.json",
+                        "js/holder.js",
+                        "js/html5shiv-printshiv.js",
+                        "js/html5shiv.js",
+                        "js/ink-all.js",
+                        "js/ink-all.min.js",
+                        "js/ink-ui.js",
+                        "js/ink-ui.min.js",
+                        "js/ink.aux.js",
+                        "js/ink.carousel.js",
+                        "js/ink.close.js",
+                        "js/ink.datepicker.js",
+                        "js/ink.datepicker.pt.js",
+                        "js/ink.draggable.js",
+                        "js/ink.droppable.js",
+                        "js/ink.formvalidator-2.js",
+                        "js/ink.formvalidator.js",
+                        "js/ink.gallery.js",
+                        "js/ink.imagequery.js",
+                        "js/ink.js",
+                        "js/ink.min.js",
+                        "js/ink.modal.js",
+                        "js/ink.pagination.js",
+                        "js/ink.progressbar.js",
+                        "js/ink.smoothscroller.js",
+                        "js/ink.sortablelist.js",
+                        "js/ink.spy.js",
+                        "js/ink.sticky.js",
+                        "js/ink.table.js",
+                        "js/ink.tabs.js",
+                        "js/ink.toggle.js",
+                        "js/ink.tooltip.js",
+                        "js/ink.treeview.js",
+                        "js/modernizr.js",
+                        "js/prettify.js",
+                        "package.json"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ink",
+            "filename": "js/ink-all.min.js",
+            "version": "2.2.1",
+            "description": "An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping",
+            "homepage": "http://ink.sapo.pt/",
+            "keywords": [
+                "responsive",
+                "framework",
+                "ui"
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/sapo/Ink"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "2.2.1",
+                    "files": [
+                        "css/docs.css",
+                        "css/ink-ie7-min.css",
+                        "css/ink-ie7.css",
+                        "css/ink-min.css",
+                        "css/ink.css",
+                        "css/quick-start.css",
+                        "font/FontAwesome.otf",
+                        "font/fontawesome-webfont.eot",
+                        "font/fontawesome-webfont.svg",
+                        "font/fontawesome-webfont.ttf",
+                        "font/fontawesome-webfont.woff",
+                        "font/ubuntu-b-webfont.eot",
+                        "font/ubuntu-b-webfont.svg",
+                        "font/ubuntu-b-webfont.ttf",
+                        "font/ubuntu-b-webfont.woff",
+                        "font/ubuntu-bi-webfont.eot",
+                        "font/ubuntu-bi-webfont.svg",
+                        "font/ubuntu-bi-webfont.ttf",
+                        "font/ubuntu-bi-webfont.woff",
+                        "font/ubuntu-c-webfont.eot",
+                        "font/ubuntu-c-webfont.svg",
+                        "font/ubuntu-c-webfont.ttf",
+                        "font/ubuntu-c-webfont.woff",
+                        "font/ubuntu-l-webfont.eot",
+                        "font/ubuntu-l-webfont.svg",
+                        "font/ubuntu-l-webfont.ttf",
+                        "font/ubuntu-l-webfont.woff",
+                        "font/ubuntu-li-webfont.eot",
+                        "font/ubuntu-li-webfont.svg",
+                        "font/ubuntu-li-webfont.ttf",
+                        "font/ubuntu-li-webfont.woff",
+                        "font/ubuntu-m-webfont.eot",
+                        "font/ubuntu-m-webfont.svg",
+                        "font/ubuntu-m-webfont.ttf",
+                        "font/ubuntu-m-webfont.woff",
+                        "font/ubuntu-mi-webfont.eot",
+                        "font/ubuntu-mi-webfont.svg",
+                        "font/ubuntu-mi-webfont.ttf",
+                        "font/ubuntu-mi-webfont.woff",
+                        "font/ubuntu-r-webfont.eot",
+                        "font/ubuntu-r-webfont.svg",
+                        "font/ubuntu-r-webfont.ttf",
+                        "font/ubuntu-r-webfont.woff",
+                        "font/ubuntu-ri-webfont.eot",
+                        "font/ubuntu-ri-webfont.svg",
+                        "font/ubuntu-ri-webfont.ttf",
+                        "font/ubuntu-ri-webfont.woff",
+                        "font/ubuntumono-b-webfont.eot",
+                        "font/ubuntumono-b-webfont.svg",
+                        "font/ubuntumono-b-webfont.ttf",
+                        "font/ubuntumono-b-webfont.woff",
+                        "font/ubuntumono-bi-webfont.eot",
+                        "font/ubuntumono-bi-webfont.svg",
+                        "font/ubuntumono-bi-webfont.ttf",
+                        "font/ubuntumono-bi-webfont.woff",
+                        "font/ubuntumono-r-webfont.eot",
+                        "font/ubuntumono-r-webfont.svg",
+                        "font/ubuntumono-r-webfont.ttf",
+                        "font/ubuntumono-r-webfont.woff",
+                        "font/ubuntumono-ri-webfont.eot",
+                        "font/ubuntumono-ri-webfont.svg",
+                        "font/ubuntumono-ri-webfont.ttf",
+                        "font/ubuntumono-ri-webfont.woff",
+                        "js/autoload.js",
+                        "js/example.json",
+                        "js/holder.js",
+                        "js/html5shiv-printshiv.js",
+                        "js/html5shiv.js",
+                        "js/ink-all.js",
+                        "js/ink-all.min.js",
+                        "js/ink-ui.js",
+                        "js/ink-ui.min.js",
+                        "js/ink.aux.js",
+                        "js/ink.carousel.js",
+                        "js/ink.close.js",
+                        "js/ink.datepicker.js",
+                        "js/ink.datepicker.pt.js",
+                        "js/ink.draggable.js",
+                        "js/ink.droppable.js",
+                        "js/ink.formvalidator-2.js",
+                        "js/ink.formvalidator.js",
+                        "js/ink.gallery.js",
+                        "js/ink.imagequery.js",
+                        "js/ink.js",
+                        "js/ink.min.js",
+                        "js/ink.modal.js",
+                        "js/ink.pagination.js",
+                        "js/ink.progressbar.js",
+                        "js/ink.smoothscroller.js",
+                        "js/ink.sortablelist.js",
+                        "js/ink.spy.js",
+                        "js/ink.sticky.js",
+                        "js/ink.table.js",
+                        "js/ink.tabs.js",
+                        "js/ink.toggle.js",
+                        "js/ink.tooltip.js",
+                        "js/ink.treeview.js",
+                        "js/modernizr.js",
+                        "js/prettify.js",
+                        "package.json"
                     ]
                 }
             ]
@@ -25541,7 +25883,7 @@
         {
             "name": "jquery.nanoscroller",
             "filename": "jquery.nanoscroller.min.js",
-            "version": "0.7.2",
+            "version": "0.7.4",
             "description": "A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars",
             "homepage": "http://jamesflorentino.github.com/nanoScrollerJS/",
             "keywords": [
@@ -25567,6 +25909,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.7.4",
+                    "files": [
+                        "jquery.nanoscroller.js",
+                        "jquery.nanoscroller.min.js",
+                        "nanoscroller.css",
+                        "nanoscroller.min.css"
+                    ]
+                },
                 {
                     "version": "0.7.2",
                     "files": [
@@ -29014,7 +29365,7 @@
         {
             "name": "loglevel",
             "description": "Minimal lightweight logging for JavaScript, adding reliable log level methods to any available console.log methods",
-            "version": "0.4.0",
+            "version": "0.5.0",
             "homepage": "https://github.com/pimterry/loglevel",
             "author": {
                 "name": "Tim Perry",
@@ -29044,6 +29395,12 @@
                 "browser"
             ],
             "assets": [
+                {
+                    "version": "0.5.0",
+                    "files": [
+                        "loglevel.min.js"
+                    ]
+                },
                 {
                     "version": "0.4.0",
                     "files": [
@@ -60019,7 +60376,7 @@
         {
             "name": "mousetrap",
             "filename": "mousetrap.min.js",
-            "version": "1.2.2",
+            "version": "1.4.5",
             "description": "Mousetrap is a standalone library with no external dependencies. It weighs in at around 1.7kb minified and gzipped and 3kb minified.",
             "homepage": "http://craig.is/killing/mice",
             "keywords": [
@@ -60039,6 +60396,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.4.5",
+                    "files": [
+                        "mousetrap.js",
+                        "mousetrap.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.2",
                     "files": [
@@ -60195,13 +60559,19 @@
         {
             "name": "noUiSlider",
             "filename": "jquery.nouislider.min.js",
-            "version": "3.1.1",
-            "description": "A jQuery plugin that turns an html object into a nice (range) slider.",
+            "version": "4.2.0",
+            "description": "A lightweight, highly customizable range slider without bloat. Touch support on all modern devices and responsive design ready!",
             "homepage": "http://refreshless.com/nouislider/",
             "keywords": [
                 "jquery",
                 "slider",
-                "range"
+                "nouislider",
+                "form",
+                "range",
+                "handles",
+                "touch",
+                "input",
+                "slide"
             ],
             "maintainers": [
                 {
@@ -60217,6 +60587,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "4.2.0",
+                    "files": [
+                        "jquery.nouislider.min.css",
+                        "jquery.nouislider.min.js"
+                    ]
+                },
                 {
                     "version": "3.1.1",
                     "files": [
@@ -60491,7 +60868,7 @@
         {
             "name": "nvd3",
             "filename": "nv.d3.min.js",
-            "version": "1.0.0-beta",
+            "version": "1.1.13-beta",
             "description": "Re-usable charts and chart components for d3.",
             "keywords": [
                 "d3",
@@ -60509,6 +60886,15 @@
                 "url": "http://github.com/novus/nvd3.git"
             },
             "assets": [
+                {
+                    "version": "1.1.13-beta",
+                    "files": [
+                        "nv.d3.css",
+                        "nv.d3.js",
+                        "nv.d3.min.css",
+                        "nv.d3.min.js"
+                    ]
+                },
                 {
                     "version": "1.0.0-beta",
                     "files": [
@@ -62700,6 +63086,87 @@
             ]
         },
         {
+            "name": "pace",
+            "filename": "pace.min.js",
+            "version": "0.4.10",
+            "description": "Automatic page load progress bar",
+            "homepage": "http://github.hubspot.com/pace/docs/welcome",
+            "keywords": [
+                "progress",
+                "load",
+                "ajax"
+            ],
+            "maintainers": [
+                {
+                    "name": "Zack Bloom",
+                    "email": "zbloom@hubspot.com"
+                },
+                {
+                    "name": "Adam Schwartz",
+                    "email": "aschwartz@hubspot.com"
+                }
+            ],
+            "license": "MIT",
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/HubSpot/pace.git"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "0.4.10",
+                    "files": [
+                        "pace.js",
+                        "pace.min.js",
+                        "themes/pace-theme-barber-shop.css",
+                        "themes/pace-theme-big-counter.css",
+                        "themes/pace-theme-bounce.css",
+                        "themes/pace-theme-corner-indicator.css",
+                        "themes/pace-theme-fill-left.css",
+                        "themes/pace-theme-flash.css",
+                        "themes/pace-theme-flat-top.css",
+                        "themes/pace-theme-mac-osx.css",
+                        "themes/pace-theme-minimal.css"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "packery",
+            "filename": "packery.pkgd.min.js",
+            "version": "1.1.2",
+            "description": "The bin-packing layout library",
+            "homepage": "http://packery.metafizzy.co/",
+            "keywords": [
+                "bin-packing",
+                "layout",
+                "float",
+                "masonry",
+                "nogaps"
+            ],
+            "maintainers": [
+                {
+                    "name": "David DeSandro",
+                    "web": "http://desandro.com"
+                }
+            ],
+            "repositories": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/metafizzy/packery"
+                }
+            ],
+            "assets": [
+                {
+                    "version": "1.1.2",
+                    "files": [
+                        "packery.pkgd.min.js"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "pagedown",
             "filename": "Markdown.Converter.js",
             "version": "1.0",
@@ -63175,7 +63642,7 @@
         {
             "name": "polymer",
             "filename": "polymer.min.js",
-            "version": "0.0.20131003",
+            "version": "0.0.20131010",
             "description": "Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.",
             "homepage": "http://polymer-project.org/",
             "keywords": [
@@ -63194,6 +63661,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "0.0.20131010",
+                    "files": [
+                        "platform.min.js",
+                        "platform.min.js.map",
+                        "polymer.min.js",
+                        "polymer.min.js.map"
+                    ]
+                },
                 {
                     "version": "0.0.20131003",
                     "files": [
@@ -63243,7 +63719,7 @@
         {
             "name": "portal",
             "filename": "portal.min.js",
-            "version": "1.0",
+            "version": "1.0.1",
             "description": "The Portal is a server agnostic JavaScript library that not just provides a socket for browser-based applications that need two-way communication with servers, but also aims to utilize a full duplex connection for modern web application development.",
             "homepage": "http://github.com/flowersinthesand/portal",
             "keywords": [
@@ -63269,6 +63745,13 @@
             "assets": [
                 {
                     "version": "1.0rc3",
+                    "files": [
+                        "portal.js",
+                        "portal.min.js"
+                    ]
+                },
+                {
+                    "version": "1.0.1",
                     "files": [
                         "portal.js",
                         "portal.min.js"
@@ -68031,7 +68514,7 @@
                 "utility"
             ],
             "description": "An animated CSS3 loading spinner with VML fallback for IE.",
-            "version": "1.2.7",
+            "version": "1.3.2",
             "homepage": "http://fgnass.github.com/spin.js/",
             "author": "Felix Gnass (http://fgnass.github.com/)",
             "maintainers": [
@@ -68048,6 +68531,12 @@
                 "url": "git://github.com/fgnass/spin.js.git"
             },
             "assets": [
+                {
+                    "version": "1.3.2",
+                    "files": [
+                        "spin.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.7",
                     "files": [
@@ -68946,7 +69435,7 @@
         {
             "name": "three.js",
             "filename": "three.min.js",
-            "version": "r58",
+            "version": "r61",
             "description": "three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.",
             "homepage": "http://threejs.org/",
             "keywords": [
@@ -68966,6 +69455,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "r61",
+                    "files": [
+                        "three.js",
+                        "three.min.js"
+                    ]
+                },
                 {
                     "version": "r58",
                     "files": [
