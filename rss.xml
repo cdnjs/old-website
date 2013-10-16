@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 15 Oct 2013 07:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2013 07:43:48 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[taskforce(1.0) was added]]></title>
