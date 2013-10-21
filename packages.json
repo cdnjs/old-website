@@ -60559,7 +60559,7 @@
         {
             "name": "noUiSlider",
             "filename": "jquery.nouislider.min.js",
-            "version": "4.2.0",
+            "version": "4.2.2",
             "description": "A lightweight, highly customizable range slider without bloat. Touch support on all modern devices and responsive design ready!",
             "homepage": "http://refreshless.com/nouislider/",
             "keywords": [
@@ -60587,6 +60587,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "4.2.2",
+                    "files": [
+                        "jquery.nouislider.min.css",
+                        "jquery.nouislider.min.js"
+                    ]
+                },
                 {
                     "version": "4.2.0",
                     "files": [

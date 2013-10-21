@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 15 Oct 2013 07:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2013 11:09:15 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[noUiSlider updated to version 4.2.2]]></title>
+            <description><![CDATA[A lightweight, highly customizable range slider without bloat. Touch support on all modern devices and responsive design ready!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/noUiSlider/4.2.2/jquery.nouislider.min.js">//cdnjs.cloudflare.com/ajax/libs/noUiSlider/4.2.2/jquery.nouislider.min.js</a>]]></description>
+            <link>http://refreshless.com/nouislider/</link>
+            <guid isPermaLink="false">
+                noUiSlider4.2.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 19 Oct 2013 09:23:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[taskforce(1.0) was added]]></title>
             <description><![CDATA[Protest in Washington DC.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/taskforce/1.0/widget.min.js">//cdnjs.cloudflare.com/ajax/libs/taskforce/1.0/widget.min.js</a>]]></description>
@@ -56,15 +65,6 @@
                 jquery.nanoscroller0.7.4            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 13 Oct 2013 06:53:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[noUiSlider updated to version 4.2.0]]></title>
-            <description><![CDATA[A lightweight, highly customizable range slider without bloat. Touch support on all modern devices and responsive design ready!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/noUiSlider/4.2.0/jquery.nouislider.min.js">//cdnjs.cloudflare.com/ajax/libs/noUiSlider/4.2.0/jquery.nouislider.min.js</a>]]></description>
-            <link>http://refreshless.com/nouislider/</link>
-            <guid isPermaLink="false">
-                noUiSlider4.2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 12 Oct 2013 11:54:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[portal updated to version 1.0.1]]></title>
@@ -308,131 +308,6 @@
                 bacon.js0.6.19            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 05 Oct 2013 19:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[min.js(0.2.3) was added]]></title>
-            <description><![CDATA[A super tiny JavaScript library to execute simple DOM querying and hooking event listeners. Aims to return the raw DOM node for you to manipulate directly, using HTML5 (et al) tech like element.classList or element.innerHTML, etc.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/min.js/0.2.3/$.min.js">//cdnjs.cloudflare.com/ajax/libs/min.js/0.2.3/$.min.js</a>]]></description>
-            <guid isPermaLink="false">
-                min.js0.2.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 05 Oct 2013 05:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[semantic-ui(0.3.4) was added]]></title>
-            <description><![CDATA[Semantic empowers designers and developers by creating a language for sharing UI<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.3.4/javascript/semantic.min.js">//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.3.4/javascript/semantic.min.js</a>]]></description>
-            <link>http://semantic-ui.com/</link>
-            <guid isPermaLink="false">
-                semantic-ui0.3.4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 04 Oct 2013 12:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sbt(0.09.26) was added]]></title>
-            <description><![CDATA[Social Business Toolkit minified&aggregated files<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sbt/0.09.26/main.js">//cdnjs.cloudflare.com/ajax/libs/sbt/0.09.26/main.js</a>]]></description>
-            <link>http://www.openntf.org/internal/home.nsf/project.xsp?action=openDocument&amp;name=Social%20Business%20Toolkit%20SDK</link>
-            <guid isPermaLink="false">
-                sbt0.09.26            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 04 Oct 2013 09:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.selectboxit updated to version 3.8.0]]></title>
-            <description><![CDATA[A jQuery plugin that progressively enhances an HTML Select Box into a single option dropdown list. The dropdown list can be optionally styled with jQuery ThemeRoller and optionally animated with jQueryUI show/hide effects.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.8.0/jquery.selectBoxIt.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.8.0/jquery.selectBoxIt.min.js</a>]]></description>
-            <link>http://www.selectboxit.com</link>
-            <guid isPermaLink="false">
-                jquery.selectboxit3.8.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 04 Oct 2013 06:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[x-editable updated to version 1.5.0]]></title>
-            <description><![CDATA[In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/bootstrap-editable/js/bootstrap-editable.min.js">//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/bootstrap-editable/js/bootstrap-editable.min.js</a>]]></description>
-            <link>http://vitalets.github.io/x-editable/</link>
-            <guid isPermaLink="false">
-                x-editable1.5.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 03 Oct 2013 18:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lodash.js updated to version 2.2.1]]></title>
-            <description><![CDATA[A utility library delivering consistency, customization, performance, & extras.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.2.1/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.2.1/lodash.min.js</a>]]></description>
-            <link>http://lodash.com/</link>
-            <guid isPermaLink="false">
-                lodash.js2.2.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 03 Oct 2013 07:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nvd3 updated to version 1.1.13-beta]]></title>
-            <description><![CDATA[Re-usable charts and chart components for d3.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.13-beta/nv.d3.min.js">//cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.13-beta/nv.d3.min.js</a>]]></description>
-            <link>http://nvd3.org/</link>
-            <guid isPermaLink="false">
-                nvd31.1.13-beta            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2013 21:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone.fetch-cache updated to version 1.1.2]]></title>
-            <description><![CDATA[Caches calls to Backbone.[Model | Collection].fetch<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.fetch-cache/1.1.2/backbone.fetch-cache.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.fetch-cache/1.1.2/backbone.fetch-cache.min.js</a>]]></description>
-            <link>https://github.com/mrappleton/backbone-fetch-cache</link>
-            <guid isPermaLink="false">
-                backbone.fetch-cache1.1.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2013 20:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[foundation updated to version 4.3.2]]></title>
-            <description><![CDATA[The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/foundation/4.3.2/js/foundation.min.js">//cdnjs.cloudflare.com/ajax/libs/foundation/4.3.2/js/foundation.min.js</a>]]></description>
-            <link>http://foundation.zurb.com</link>
-            <guid isPermaLink="false">
-                foundation4.3.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2013 20:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[three.js updated to version r61]]></title>
-            <description><![CDATA[three.js is a lightweight 3D library with a very low level of complexity. The library provides <canvas>, <svg> and WebGL renderers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/three.js/r61/three.min.js">//cdnjs.cloudflare.com/ajax/libs/three.js/r61/three.min.js</a>]]></description>
-            <link>http://threejs.org/</link>
-            <guid isPermaLink="false">
-                three.jsr61            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2013 19:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EaselJS updated to version 0.7.0]]></title>
-            <description><![CDATA[A Javascript library that makes working with the HTML5 Canvas element easy.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/EaselJS/0.7.0/easeljs.min.js">//cdnjs.cloudflare.com/ajax/libs/EaselJS/0.7.0/easeljs.min.js</a>]]></description>
-            <link>http://www.createjs.com/#!/EaselJS</link>
-            <guid isPermaLink="false">
-                EaselJS0.7.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2013 04:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tweenjs updated to version 0.5.0]]></title>
-            <description><![CDATA[TweenJS is a Javascript library for tweening and animating HTML5 and Javascript properties.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/tweenjs/0.5.0/tweenjs.min.js">//cdnjs.cloudflare.com/ajax/libs/tweenjs/0.5.0/tweenjs.min.js</a>]]></description>
-            <link>http://www.createjs.com/#!/TweenJS</link>
-            <guid isPermaLink="false">
-                tweenjs0.5.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2013 04:09:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SoundJS updated to version 0.5.0]]></title>
-            <description><![CDATA[A Javascript library that provides a simple API, and powerful features to make working with audio a breeze.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/SoundJS/0.5.0/soundjs.min.js">//cdnjs.cloudflare.com/ajax/libs/SoundJS/0.5.0/soundjs.min.js</a>]]></description>
-            <link>http://www.createjs.com/#!/SoundJS</link>
-            <guid isPermaLink="false">
-                SoundJS0.5.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2013 04:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PreloadJS updated to version 0.4.0]]></title>
-            <description><![CDATA[A Javascript library that lets you manage and co-ordinate the loading of assets.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/PreloadJS/0.4.0/preloadjs.min.js">//cdnjs.cloudflare.com/ajax/libs/PreloadJS/0.4.0/preloadjs.min.js</a>]]></description>
-            <link>http://www.createjs.com/#!/PreloadJS</link>
-            <guid isPermaLink="false">
-                PreloadJS0.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2013 04:06:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
