@@ -3247,7 +3247,7 @@
         {
             "name": "backbone.js",
             "filename": "backbone-min.js",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "description": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.",
             "homepage": "http://documentcloud.github.com/backbone/",
             "keywords": [
@@ -3271,6 +3271,14 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.1.0",
+                    "files": [
+                        "backbone-min.js",
+                        "backbone-min.map",
+                        "backbone.js"
+                    ]
+                },
                 {
                     "version": "1.0.0",
                     "files": [
@@ -5108,7 +5116,7 @@
         {
             "name": "breezejs",
             "filename": "breeze.min.js",
-            "version": "1.2.5",
+            "version": "1.4.4",
             "description": "BreezeJS is a JavaScript library for managing data in data rich-client HTML/JS applications. Core features include client-side querying, caching, change-tracking, validation, batch saves.",
             "homepage": "http://www.breezejs.com",
             "keywords": [
@@ -5137,6 +5145,14 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.4.4",
+                    "files": [
+                        "breeze.base.debug.js",
+                        "breeze.base.min.js",
+                        "breeze.min.js"
+                    ]
+                },
                 {
                     "version": "1.2.5",
                     "files": [
@@ -9196,7 +9212,7 @@
         {
             "name": "ember.js",
             "filename": "ember.min.js",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "description": "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
             "homepage": "http://emberjs.com/",
             "keywords": [
@@ -9216,6 +9232,24 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.2.0-beta.1",
+                    "files": [
+                        "ember.debug.js",
+                        "ember.js",
+                        "ember.min.js",
+                        "ember.prod.js"
+                    ]
+                },
+                {
+                    "version": "1.1.0",
+                    "files": [
+                        "ember.debug.js",
+                        "ember.js",
+                        "ember.min.js",
+                        "ember.prod.js"
+                    ]
+                },
                 {
                     "version": "1.0.pre",
                     "files": [
@@ -64834,7 +64868,7 @@
         {
             "name": "qunit",
             "filename": "qunit.min.js",
-            "version": "1.11.0",
+            "version": "1.12.0",
             "description": "An easy-to-use JavaScript Unit Testing framework.",
             "homepage": "http://qunitjs.com/",
             "keywords": [
@@ -64856,6 +64890,15 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "1.12.0",
+                    "files": [
+                        "qunit.css",
+                        "qunit.js",
+                        "qunit.min.css",
+                        "qunit.min.js"
+                    ]
+                },
                 {
                     "version": "1.11.0",
                     "files": [
@@ -65679,7 +65722,7 @@
         {
             "name": "require.js",
             "filename": "require.min.js",
-            "version": "2.1.8",
+            "version": "2.1.9",
             "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node",
             "homepage": "http://requirejs.org/",
             "keywords": [
@@ -65701,6 +65744,13 @@
                 }
             ],
             "assets": [
+                {
+                    "version": "2.1.9",
+                    "files": [
+                        "require.js",
+                        "require.min.js"
+                    ]
+                },
                 {
                     "version": "2.1.8",
                     "files": [
@@ -68364,7 +68414,7 @@
         },
         {
             "name": "speakingurl",
-            "version": "0.3.0",
+            "version": "0.4.1",
             "description": "Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.",
             "homepage": "http://pid.github.io/speakingurl/",
             "github": "http://github.com/pid/speakingurl",
@@ -68405,13 +68455,13 @@
             "dependencies": {},
             "devDependencies": {
                 "grunt": "~0.4.1",
-                "mocha": "~1.12.0",
-                "should": "~1.2.2",
+                "mocha": "~1.13.0",
+                "should": "~2.0.1",
                 "grunt-contrib-uglify": "~0.2.2",
                 "grunt-contrib-jshint": "~0.6.0",
                 "grunt-contrib-watch": "~0.5.1",
-                "grunt-release": "~0.5.1",
-                "grunt-bumpup": "~0.2.0",
+                "grunt-release": "~0.6.0",
+                "grunt-bumpup": "~0.4.1",
                 "grunt-text-replace": "~0.3.6"
             },
             "testling": {
@@ -68463,6 +68513,24 @@
                 "node": ">=0.8.0"
             },
             "assets": [
+                {
+                    "version": "0.4.1",
+                    "files": [
+                        "speakingurl.min.js"
+                    ]
+                },
+                {
+                    "version": "0.4.0",
+                    "files": [
+                        "speakingurl.min.js"
+                    ]
+                },
+                {
+                    "version": "0.3.1",
+                    "files": [
+                        "speakingurl.min.js"
+                    ]
+                },
                 {
                     "version": "0.3.0",
                     "files": [

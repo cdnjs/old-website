@@ -10,8 +10,44 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Sat, 19 Oct 2013 11:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2013 02:52:17 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[qunit updated to version 1.12.0]]></title>
+            <description><![CDATA[An easy-to-use JavaScript Unit Testing framework.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/qunit/1.12.0/qunit.min.js">//cdnjs.cloudflare.com/ajax/libs/qunit/1.12.0/qunit.min.js</a>]]></description>
+            <link>http://qunitjs.com/</link>
+            <guid isPermaLink="false">
+                qunit1.12.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 23 Oct 2013 00:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[speakingurl updated to version 0.4.1]]></title>
+            <description><![CDATA[Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.4.1/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.4.1/speakingurl.min.js</a>]]></description>
+            <link>http://pid.github.io/speakingurl/</link>
+            <guid isPermaLink="false">
+                speakingurl0.4.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 22 Oct 2013 10:46:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ember.js updated to version 1.1.0]]></title>
+            <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember.js/1.1.0/ember.min.js">//cdnjs.cloudflare.com/ajax/libs/ember.js/1.1.0/ember.min.js</a>]]></description>
+            <link>http://emberjs.com/</link>
+            <guid isPermaLink="false">
+                ember.js1.1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 21 Oct 2013 21:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[breezejs updated to version 1.4.4]]></title>
+            <description><![CDATA[BreezeJS is a JavaScript library for managing data in data rich-client HTML/JS applications. Core features include client-side querying, caching, change-tracking, validation, batch saves.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/breezejs/1.4.4/breeze.min.js">//cdnjs.cloudflare.com/ajax/libs/breezejs/1.4.4/breeze.min.js</a>]]></description>
+            <link>http://www.breezejs.com</link>
+            <guid isPermaLink="false">
+                breezejs1.4.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 20 Oct 2013 21:48:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[noUiSlider updated to version 4.2.2]]></title>
             <description><![CDATA[A lightweight, highly customizable range slider without bloat. Touch support on all modern devices and responsive design ready!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/noUiSlider/4.2.2/jquery.nouislider.min.js">//cdnjs.cloudflare.com/ajax/libs/noUiSlider/4.2.2/jquery.nouislider.min.js</a>]]></description>
@@ -20,6 +56,15 @@
                 noUiSlider4.2.2            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 19 Oct 2013 09:23:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[require.js updated to version 2.1.9]]></title>
+            <description><![CDATA[RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.9/require.min.js">//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.9/require.min.js</a>]]></description>
+            <link>http://requirejs.org/</link>
+            <guid isPermaLink="false">
+                require.js2.1.9            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 17 Oct 2013 23:38:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[taskforce(1.0) was added]]></title>
@@ -74,6 +119,15 @@
                 portal1.0.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 11 Oct 2013 17:40:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone.js updated to version 1.1.0]]></title>
+            <description><![CDATA[Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.0/backbone-min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.0/backbone-min.js</a>]]></description>
+            <link>http://documentcloud.github.com/backbone/</link>
+            <guid isPermaLink="false">
+                backbone.js1.1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 11 Oct 2013 16:15:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[polymer updated to version 0.0.20131010]]></title>
@@ -209,105 +263,6 @@
                 pubnub3.5.4            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 09 Oct 2013 04:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[leaflet.markercluster(0.2) was added]]></title>
-            <description><![CDATA[Marker Clustering plugin for Leaflet.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.2/leaflet.markercluster.js">//cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.2/leaflet.markercluster.js</a>]]></description>
-            <link>https://github.com/Leaflet/Leaflet.markercluster</link>
-            <guid isPermaLink="false">
-                leaflet.markercluster0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 08 Oct 2013 23:33:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bootbox.js(4.0.0) was added]]></title>
-            <description><![CDATA[Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.0.0/bootbox.min.js">//cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.0.0/bootbox.min.js</a>]]></description>
-            <link>http://bootboxjs.com</link>
-            <guid isPermaLink="false">
-                bootbox.js4.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 08 Oct 2013 15:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[doony(1.1) was added]]></title>
-            <description><![CDATA[UI improvements for Jenkins<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/doony/1.1/js/doony.min.js">//cdnjs.cloudflare.com/ajax/libs/doony/1.1/js/doony.min.js</a>]]></description>
-            <link>http://doony.org</link>
-            <guid isPermaLink="false">
-                doony1.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 08 Oct 2013 04:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bluebird(0.7.10-1) was added]]></title>
-            <description><![CDATA[Full featured Promises/A+ implementation with exceptionally good performance<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bluebird/0.7.10-1/bluebird.min.js">//cdnjs.cloudflare.com/ajax/libs/bluebird/0.7.10-1/bluebird.min.js</a>]]></description>
-            <link>https://github.com/petkaantonov/bluebird</link>
-            <guid isPermaLink="false">
-                bluebird0.7.10-1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 08 Oct 2013 02:46:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ink(2.2.1) was added]]></title>
-            <description><![CDATA[An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ink/2.2.1/js/ink-all.min.js">//cdnjs.cloudflare.com/ajax/libs/ink/2.2.1/js/ink-all.min.js</a>]]></description>
-            <link>http://ink.sapo.pt/</link>
-            <guid isPermaLink="false">
-                ink2.2.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 07 Oct 2013 17:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ink(2.2.1) was added]]></title>
-            <description><![CDATA[An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ink/2.2.1/js/ink-all.min.js">//cdnjs.cloudflare.com/ajax/libs/ink/2.2.1/js/ink-all.min.js</a>]]></description>
-            <link>http://ink.sapo.pt/</link>
-            <guid isPermaLink="false">
-                ink2.2.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 07 Oct 2013 17:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ractive.js updated to version 0.3.7]]></title>
-            <description><![CDATA[Next-generation DOM manipulation<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ractive.js/0.3.7/ractive.min.js">//cdnjs.cloudflare.com/ajax/libs/ractive.js/0.3.7/ractive.min.js</a>]]></description>
-            <link>http://www.ractivejs.org/</link>
-            <guid isPermaLink="false">
-                ractive.js0.3.7            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 07 Oct 2013 11:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[packery(1.1.2) was added]]></title>
-            <description><![CDATA[The bin-packing layout library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/packery/1.1.2/packery.pkgd.min.js">//cdnjs.cloudflare.com/ajax/libs/packery/1.1.2/packery.pkgd.min.js</a>]]></description>
-            <link>http://packery.metafizzy.co/</link>
-            <guid isPermaLink="false">
-                packery1.1.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 06 Oct 2013 22:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[speakingurl updated to version 0.3.0]]></title>
-            <description><![CDATA[Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.3.0/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.3.0/speakingurl.min.js</a>]]></description>
-            <link>http://pid.github.io/speakingurl/</link>
-            <guid isPermaLink="false">
-                speakingurl0.3.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 06 Oct 2013 19:47:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[dc updated to version 1.6.0]]></title>
-            <description><![CDATA[A multi-dimensional charting built to work natively with crossfilter rendered using d3.js <br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/dc/1.6.0/dc.min.js">//cdnjs.cloudflare.com/ajax/libs/dc/1.6.0/dc.min.js</a>]]></description>
-            <link>http://nickqizhu.github.com/dc.js/</link>
-            <guid isPermaLink="false">
-                dc1.6.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 06 Oct 2013 10:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bacon.js updated to version 0.6.19]]></title>
-            <description><![CDATA[A small functional reactive programming lib for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.6.19/Bacon.min.js">//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.6.19/Bacon.min.js</a>]]></description>
-            <link>http://baconjs.blogspot.com</link>
-            <guid isPermaLink="false">
-                bacon.js0.6.19            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 05 Oct 2013 19:59:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
