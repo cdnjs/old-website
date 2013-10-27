@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 25 Oct 2013 22:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2013 13:44:28 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mathjs updated to version 0.15.0]]></title>
+            <description><![CDATA[Math.js is an extensive math library for JavaScript and Node.js. It features real and complex numbers, units, matrices, a large set of mathematical functions, and a flexible expression parser.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mathjs/0.15.0/math.min.js">//cdnjs.cloudflare.com/ajax/libs/mathjs/0.15.0/math.min.js</a>]]></description>
+            <link>http://mathjs.org</link>
+            <guid isPermaLink="false">
+                mathjs0.15.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 26 Oct 2013 13:38:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[knockout updated to version 3.0.0]]></title>
             <description><![CDATA[Knockout makes it easier to create rich, responsive UIs with JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/knockout/3.0.0/knockout-min.js">//cdnjs.cloudflare.com/ajax/libs/knockout/3.0.0/knockout-min.js</a>]]></description>
