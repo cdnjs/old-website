@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 29 Oct 2013 05:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2013 17:01:41 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[d3 updated to version 3.3.9]]></title>
+            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.3.9/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.3.9/d3.min.js</a>]]></description>
+            <link>http://mbostock.github.com/d3/</link>
+            <guid isPermaLink="false">
+                d33.3.9            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 29 Oct 2013 14:49:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[moment.js updated to version 2.4.0]]></title>
             <description><![CDATA[A lightweight (4.3k) javascript date library for parsing, manipulating, and formatting dates.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.4.0/moment.min.js">//cdnjs.cloudflare.com/ajax/libs/moment.js/2.4.0/moment.min.js</a>]]></description>
@@ -200,15 +209,6 @@
                 react0.5.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 16 Oct 2013 19:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[taskforce(1.0) was added]]></title>
-            <description><![CDATA[Protest in Washington DC.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/taskforce/1.0/widget.min.js">//cdnjs.cloudflare.com/ajax/libs/taskforce/1.0/widget.min.js</a>]]></description>
-            <link>https://github.com/tfrce/widget</link>
-            <guid isPermaLink="false">
-                taskforce1.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 15 Oct 2013 07:13:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
