@@ -55,7 +55,7 @@ var makeLibraryPages = function(packages, indexTemplate) {
       fs.mkdirSync('libraries/' + package.name);
     }
     var packageFile = _.template(packageTemplate, {package: package});
-    var packagePage = _.template(indexTemplate, {page: packageFile});
+    var packagePage = _.template(indexTemplate, {page: packageFile, package: package});
 
     fs.writeFileSync('libraries/' + package.name + '/index.html', packagePage, 'utf8');
   })
