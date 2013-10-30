@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 29 Oct 2013 17:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2013 00:42:05 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[react updated to version 0.5.1]]></title>
+            <description><![CDATA[React is a JavaScript library for building user interfaces.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/react/0.5.1/react.min.js">//cdnjs.cloudflare.com/ajax/libs/react/0.5.1/react.min.js</a>]]></description>
+            <link>http://facebook.github.io/react</link>
+            <guid isPermaLink="false">
+                react0.5.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 29 Oct 2013 20:10:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[d3 updated to version 3.3.9]]></title>
             <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.3.9/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.3.9/d3.min.js</a>]]></description>
@@ -200,15 +209,6 @@
                 rimg0.4.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 17 Oct 2013 06:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react updated to version 0.5.0]]></title>
-            <description><![CDATA[React is a JavaScript library for building user interfaces.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/react/0.5.0/react.min.js">//cdnjs.cloudflare.com/ajax/libs/react/0.5.0/react.min.js</a>]]></description>
-            <link>http://facebook.github.io/react</link>
-            <guid isPermaLink="false">
-                react0.5.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 16 Oct 2013 19:10:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
