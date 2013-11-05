@@ -10,16 +10,87 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 01 Nov 2013 02:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2013 18:27:00 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jasny-bootstrap updated to version 3.0.0-p7]]></title>
-            <description><![CDATA[An extended version of Twitter Bootstrap<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.0.0-p7/js/bootstrap.min.js">//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.0.0-p7/js/bootstrap.min.js</a>]]></description>
+            <title><![CDATA[speakingurl updated to version 0.5.0]]></title>
+            <description><![CDATA[Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.5.0/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.5.0/speakingurl.min.js</a>]]></description>
+            <link>http://pid.github.io/speakingurl/</link>
+            <guid isPermaLink="false">
+                speakingurl0.5.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 05 Nov 2013 12:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[requirejs-handlebars(0.0.2) was added]]></title>
+            <description><![CDATA[A RequireJS/AMD loader plugin for Handlebars.js micro-templates<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/requirejs-handlebars/0.0.2/hbars.js">//cdnjs.cloudflare.com/ajax/libs/requirejs-handlebars/0.0.2/hbars.js</a>]]></description>
+            <link>http://github.com/jfparadis/requirejs-handlebars</link>
+            <guid isPermaLink="false">
+                requirejs-handlebars0.0.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 05 Nov 2013 04:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[requirejs-mustache(0.0.2) was added]]></title>
+            <description><![CDATA[A RequireJS/AMD loader plugin for Mustache.js micro-templates<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/requirejs-mustache/0.0.2/stache.js">//cdnjs.cloudflare.com/ajax/libs/requirejs-mustache/0.0.2/stache.js</a>]]></description>
+            <link>http://github.com/jfparadis/requirejs-mustache</link>
+            <guid isPermaLink="false">
+                requirejs-mustache0.0.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 05 Nov 2013 04:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[requirejs-tpl(0.0.2) was added]]></title>
+            <description><![CDATA[A RequireJS/AMD loader plugin for Underscore.js micro-templates<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/requirejs-tpl/0.0.2/tpl.js">//cdnjs.cloudflare.com/ajax/libs/requirejs-tpl/0.0.2/tpl.js</a>]]></description>
+            <link>http://github.com/jfparadis/requirejs-tpl</link>
+            <guid isPermaLink="false">
+                requirejs-tpl0.0.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 05 Nov 2013 04:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[headjs updated to version 1.0.0]]></title>
+            <description><![CDATA[Achieve responsive design. Load scripts on demand. Target CSS for different screens, paths, states and browsers. Make it the only script in your HEAD. A concise solution to universal issues.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/headjs/1.0.0/head.min.js">//cdnjs.cloudflare.com/ajax/libs/headjs/1.0.0/head.min.js</a>]]></description>
+            <link>http://headjs.com</link>
+            <guid isPermaLink="false">
+                headjs1.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 04 Nov 2013 22:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[handlebars.js updated to version 1.1.0]]></title>
+            <description><![CDATA[Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.0/handlebars.min.js">//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.0/handlebars.min.js</a>]]></description>
+            <link>http://www.handlebarsjs.com</link>
+            <guid isPermaLink="false">
+                handlebars.js1.1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 04 Nov 2013 04:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[oauth-io(0.9.0) was added]]></title>
+            <description><![CDATA[OAuth.io SDK - Authorize your user on 90+ providers using OAuth<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oauth-io/0.9.0/oauth.js">//cdnjs.cloudflare.com/ajax/libs/oauth-io/0.9.0/oauth.js</a>]]></description>
+            <guid isPermaLink="false">
+                oauth-io0.9.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 03 Nov 2013 19:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral.js updated to version 1.5.2]]></title>
+            <description><![CDATA[A lightweight javascript library to format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral.js/1.5.2/numeral.min.js">//cdnjs.cloudflare.com/ajax/libs/numeral.js/1.5.2/numeral.min.js</a>]]></description>
+            <link>http://numeraljs.com/</link>
+            <guid isPermaLink="false">
+                numeral.js1.5.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 02 Nov 2013 20:03:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jasny-bootstrap updated to version 3.0.1-p7]]></title>
+            <description><![CDATA[An extended version of Twitter Bootstrap<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.0.1-p7/js/bootstrap.min.js">//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.0.1-p7/js/bootstrap.min.js</a>]]></description>
             <link>http://jasny.github.com/bootstrap/</link>
             <guid isPermaLink="false">
-                jasny-bootstrap3.0.0-p7            </guid>
+                jasny-bootstrap3.0.1-p7            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 31 Oct 2013 01:17:18 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2013 15:31:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[gsap updated to version 1.11.1]]></title>
@@ -47,6 +118,15 @@
                 d33.3.9            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 29 Oct 2013 14:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[font-awesome updated to version 4.0.1]]></title>
+            <description><![CDATA[Font Awesome<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.1/css/font-awesome.min.css">//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.1/css/font-awesome.min.css</a>]]></description>
+            <link>http://fortawesome.github.io/Font-Awesome/</link>
+            <guid isPermaLink="false">
+                font-awesome4.0.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 28 Oct 2013 13:15:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[moment.js updated to version 2.4.0]]></title>
@@ -146,51 +226,6 @@
                 qunit1.12.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 23 Oct 2013 00:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[speakingurl updated to version 0.4.1]]></title>
-            <description><![CDATA[Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.4.1/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.4.1/speakingurl.min.js</a>]]></description>
-            <link>http://pid.github.io/speakingurl/</link>
-            <guid isPermaLink="false">
-                speakingurl0.4.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 22 Oct 2013 10:46:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[dropbox.js updated to version 0.10.2]]></title>
-            <description><![CDATA[Client library for the Dropbox API<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/dropbox.js/0.10.2/dropbox.min.js">//cdnjs.cloudflare.com/ajax/libs/dropbox.js/0.10.2/dropbox.min.js</a>]]></description>
-            <link>https://dropbox.com/developers</link>
-            <guid isPermaLink="false">
-                dropbox.js0.10.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 22 Oct 2013 09:30:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[breezejs updated to version 1.4.4]]></title>
-            <description><![CDATA[BreezeJS is a JavaScript library for managing data in data rich-client HTML/JS applications. Core features include client-side querying, caching, change-tracking, validation, batch saves.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/breezejs/1.4.4/breeze.min.js">//cdnjs.cloudflare.com/ajax/libs/breezejs/1.4.4/breeze.min.js</a>]]></description>
-            <link>http://www.breezejs.com</link>
-            <guid isPermaLink="false">
-                breezejs1.4.4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 20 Oct 2013 21:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hydra.js updated to version 3.3.2]]></title>
-            <description><![CDATA[Framework that gives you the tools to write your application using modules or widgets and make easy to work with them.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/hydra.js/3.3.2/hydra.min.js">//cdnjs.cloudflare.com/ajax/libs/hydra.js/3.3.2/hydra.min.js</a>]]></description>
-            <link>http://tcorral.github.com/Hydra.js/</link>
-            <guid isPermaLink="false">
-                hydra.js3.3.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 20 Oct 2013 19:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[noUiSlider updated to version 4.2.2]]></title>
-            <description><![CDATA[A lightweight, highly customizable range slider without bloat. Touch support on all modern devices and responsive design ready!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/noUiSlider/4.2.2/jquery.nouislider.min.js">//cdnjs.cloudflare.com/ajax/libs/noUiSlider/4.2.2/jquery.nouislider.min.js</a>]]></description>
-            <link>http://refreshless.com/nouislider/</link>
-            <guid isPermaLink="false">
-                noUiSlider4.2.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 19 Oct 2013 09:23:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
