@@ -10,8 +10,44 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 05 Nov 2013 18:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2013 18:29:34 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[twitter-bootstrap updated to version 3.0.2]]></title>
+            <description><![CDATA[Javascript plugins for the Twitter Bootstrap toolkit<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/js/bootstrap.min.js">//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/js/bootstrap.min.js</a>]]></description>
+            <link>http://getbootstrap.com/</link>
+            <guid isPermaLink="false">
+                twitter-bootstrap3.0.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 07 Nov 2013 18:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[signet updated to version 0.4.4]]></title>
+            <description><![CDATA[Display a unique seal in the developer console of your page.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/signet/0.4.4/signet.min.js">//cdnjs.cloudflare.com/ajax/libs/signet/0.4.4/signet.min.js</a>]]></description>
+            <link>http://github.hubspot.com/signet</link>
+            <guid isPermaLink="false">
+                signet0.4.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 07 Nov 2013 02:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone-pageable updated to version 1.4.1]]></title>
+            <description><![CDATA[A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.4.1/backbone-pageable.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.4.1/backbone-pageable.min.js</a>]]></description>
+            <link>https://github.com/wyuenho/backbone-pageable</link>
+            <guid isPermaLink="false">
+                backbone-pageable1.4.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 06 Nov 2013 15:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[handlebars.js updated to version 1.1.2]]></title>
+            <description><![CDATA[Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js">//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js</a>]]></description>
+            <link>http://www.handlebarsjs.com</link>
+            <guid isPermaLink="false">
+                handlebars.js1.1.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 06 Nov 2013 00:18:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[speakingurl updated to version 0.5.0]]></title>
             <description><![CDATA[Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.5.0/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.5.0/speakingurl.min.js</a>]]></description>
@@ -56,15 +92,6 @@
                 headjs1.0.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 04 Nov 2013 22:40:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[handlebars.js updated to version 1.1.0]]></title>
-            <description><![CDATA[Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.0/handlebars.min.js">//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.0/handlebars.min.js</a>]]></description>
-            <link>http://www.handlebarsjs.com</link>
-            <guid isPermaLink="false">
-                handlebars.js1.1.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 04 Nov 2013 04:51:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[oauth-io(0.9.0) was added]]></title>
@@ -199,33 +226,6 @@
                 two.js0.3.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 25 Oct 2013 16:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[codemirror updated to version 3.19.0]]></title>
-            <description><![CDATA[In-browser code editing made bearable<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/codemirror/3.19.0/codemirror.min.js">//cdnjs.cloudflare.com/ajax/libs/codemirror/3.19.0/codemirror.min.js</a>]]></description>
-            <link>http://codemirror.net</link>
-            <guid isPermaLink="false">
-                codemirror3.19.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 23 Oct 2013 04:15:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[topcoat updated to version 0.8.0]]></title>
-            <description><![CDATA[CSS for clean and fast web apps.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/topcoat/0.8.0/css/topcoat-mobile-dark.min.css">//cdnjs.cloudflare.com/ajax/libs/topcoat/0.8.0/css/topcoat-mobile-dark.min.css</a>]]></description>
-            <link>http://topcoat.io/</link>
-            <guid isPermaLink="false">
-                topcoat0.8.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 23 Oct 2013 04:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[qunit updated to version 1.12.0]]></title>
-            <description><![CDATA[An easy-to-use JavaScript Unit Testing framework.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/qunit/1.12.0/qunit.min.js">//cdnjs.cloudflare.com/ajax/libs/qunit/1.12.0/qunit.min.js</a>]]></description>
-            <link>http://qunitjs.com/</link>
-            <guid isPermaLink="false">
-                qunit1.12.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 23 Oct 2013 00:38:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
