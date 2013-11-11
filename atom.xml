@@ -10,8 +10,82 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Thu, 07 Nov 2013 18:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2013 16:34:02 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jquery.tablesorter updated to version 2.13.3]]></title>
+            <description><![CDATA[tablesorter is a jQuery plugin for turning a standard HTML table with THEAD and TBODY tags into a sortable table without page refreshes. tablesorter can successfully parse and sort many types of data including linked data in a cell.
+
+This forked version adds lots of new enhancements including: alphanumeric sorting, pager callback functons, multiple widgets providing column styling, ui theme application, sticky headers, column filters and resizer, as well as extended documentation with a lot more demos.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.13.3/jquery.tablesorter.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.13.3/jquery.tablesorter.min.js</a>]]></description>
+            <link>http://mottie.github.com/tablesorter/docs/</link>
+            <guid isPermaLink="false">
+                jquery.tablesorter2.13.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 11 Nov 2013 15:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[raphael updated to version 2.1.2]]></title>
+            <description><![CDATA[Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js">//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js</a>]]></description>
+            <link>http://raphaeljs.com/</link>
+            <guid isPermaLink="false">
+                raphael2.1.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 11 Nov 2013 08:25:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-i18n updated to version 1.2.0]]></title>
+            <description><![CDATA[Locales for AngularJS<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-i18n/1.2.0/angular-locale_en-us.js">//cdnjs.cloudflare.com/ajax/libs/angular-i18n/1.2.0/angular-locale_en-us.js</a>]]></description>
+            <link>http://angularjs.org</link>
+            <guid isPermaLink="false">
+                angular-i18n1.2.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 11 Nov 2013 08:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular.js updated to version 1.2.0]]></title>
+            <description><![CDATA[AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.0/angular.min.js">//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.0/angular.min.js</a>]]></description>
+            <link>http://angularjs.org</link>
+            <guid isPermaLink="false">
+                angular.js1.2.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 11 Nov 2013 07:49:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lodash.js updated to version 2.3.0]]></title>
+            <description><![CDATA[A utility library delivering consistency, customization, performance, & extras.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.3.0/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.3.0/lodash.min.js</a>]]></description>
+            <link>http://lodash.com/</link>
+            <guid isPermaLink="false">
+                lodash.js2.3.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 11 Nov 2013 07:22:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[minicart(3.0.1) was added]]></title>
+            <description><![CDATA[The Mini Cart is a great way to improve your PayPal shopping cart integration.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/minicart/3.0.1/minicart.min.js">//cdnjs.cloudflare.com/ajax/libs/minicart/3.0.1/minicart.min.js</a>]]></description>
+            <link>http://www.minicartjs.com</link>
+            <guid isPermaLink="false">
+                minicart3.0.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 10 Nov 2013 19:28:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[highlight.js updated to version 7.4]]></title>
+            <description><![CDATA[Easy-to-use, Javascript-based syntax highlighter<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/7.4/highlight.min.js">//cdnjs.cloudflare.com/ajax/libs/highlight.js/7.4/highlight.min.js</a>]]></description>
+            <link>http://highlightjs.org</link>
+            <guid isPermaLink="false">
+                highlight.js7.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 08 Nov 2013 08:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[polymer updated to version 0.0.20131107]]></title>
+            <description><![CDATA[Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/polymer/0.0.20131107/polymer.min.js">//cdnjs.cloudflare.com/ajax/libs/polymer/0.0.20131107/polymer.min.js</a>]]></description>
+            <link>http://polymer-project.org/</link>
+            <guid isPermaLink="false">
+                polymer0.0.20131107            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 07 Nov 2013 22:17:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[twitter-bootstrap updated to version 3.0.2]]></title>
             <description><![CDATA[Javascript plugins for the Twitter Bootstrap toolkit<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/js/bootstrap.min.js">//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/js/bootstrap.min.js</a>]]></description>
@@ -31,6 +105,14 @@
             <pubDate>Thu, 07 Nov 2013 02:35:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Base64 updated to version 0.2.0]]></title>
+            <description><![CDATA[Base64 encoding and decoding<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Base64/0.2.0/base64.min.js">//cdnjs.cloudflare.com/ajax/libs/Base64/0.2.0/base64.min.js</a>]]></description>
+            <guid isPermaLink="false">
+                Base640.2.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 06 Nov 2013 21:42:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[backbone-pageable updated to version 1.4.1]]></title>
             <description><![CDATA[A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.4.1/backbone-pageable.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.4.1/backbone-pageable.min.js</a>]]></description>
             <link>https://github.com/wyuenho/backbone-pageable</link>
@@ -38,6 +120,24 @@
                 backbone-pageable1.4.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 06 Nov 2013 15:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[store.js updated to version 1.3.14]]></title>
+            <description><![CDATA[A localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/store.js/1.3.14/store.min.js">//cdnjs.cloudflare.com/ajax/libs/store.js/1.3.14/store.min.js</a>]]></description>
+            <link>https://github.com/marcuswestin/store.js</link>
+            <guid isPermaLink="false">
+                store.js1.3.14            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 06 Nov 2013 06:56:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.form updated to version 3.45]]></title>
+            <description><![CDATA[A simple way to AJAX-ify any form on your page; with file upload and progress support.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.45/jquery.form.js">//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.45/jquery.form.js</a>]]></description>
+            <link>http://jquery.malsup.com/form/</link>
+            <guid isPermaLink="false">
+                jquery.form3.45            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 06 Nov 2013 06:37:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[handlebars.js updated to version 1.1.2]]></title>
@@ -145,87 +245,6 @@
                 d33.3.9            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 29 Oct 2013 14:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[font-awesome updated to version 4.0.1]]></title>
-            <description><![CDATA[Font Awesome<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.1/css/font-awesome.min.css">//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.1/css/font-awesome.min.css</a>]]></description>
-            <link>http://fortawesome.github.io/Font-Awesome/</link>
-            <guid isPermaLink="false">
-                font-awesome4.0.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 28 Oct 2013 13:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[moment.js updated to version 2.4.0]]></title>
-            <description><![CDATA[A lightweight (4.3k) javascript date library for parsing, manipulating, and formatting dates.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.4.0/moment.min.js">//cdnjs.cloudflare.com/ajax/libs/moment.js/2.4.0/moment.min.js</a>]]></description>
-            <link>http://momentjs.com/</link>
-            <guid isPermaLink="false">
-                moment.js2.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 28 Oct 2013 11:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rxjs updated to version 2.2.3]]></title>
-            <description><![CDATA[Library for composing asynchronous and event-based operations in JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rxjs/2.2.3/rx.min.js">//cdnjs.cloudflare.com/ajax/libs/rxjs/2.2.3/rx.min.js</a>]]></description>
-            <link>https://github.com/Reactive-Extensions/RxJS</link>
-            <guid isPermaLink="false">
-                rxjs2.2.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 28 Oct 2013 01:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[luminateExtend(1.5.1) was added]]></title>
-            <description><![CDATA[A JavaScript library for use with the Luminate Online product suite and API.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/luminateExtend/1.5.1/luminateExtend.js">//cdnjs.cloudflare.com/ajax/libs/luminateExtend/1.5.1/luminateExtend.js</a>]]></description>
-            <link>https://github.com/noahcooper/luminateExtend</link>
-            <guid isPermaLink="false">
-                luminateExtend1.5.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 27 Oct 2013 21:49:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mathjs updated to version 0.15.0]]></title>
-            <description><![CDATA[Math.js is an extensive math library for JavaScript and Node.js. It features real and complex numbers, units, matrices, a large set of mathematical functions, and a flexible expression parser.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mathjs/0.15.0/math.min.js">//cdnjs.cloudflare.com/ajax/libs/mathjs/0.15.0/math.min.js</a>]]></description>
-            <link>http://mathjs.org</link>
-            <guid isPermaLink="false">
-                mathjs0.15.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 26 Oct 2013 13:38:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[knockout updated to version 3.0.0]]></title>
-            <description><![CDATA[Knockout makes it easier to create rich, responsive UIs with JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/knockout/3.0.0/knockout-min.js">//cdnjs.cloudflare.com/ajax/libs/knockout/3.0.0/knockout-min.js</a>]]></description>
-            <link>http://knockoutjs.com/</link>
-            <guid isPermaLink="false">
-                knockout3.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 25 Oct 2013 21:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ember.js updated to version 1.1.2]]></title>
-            <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember.js/1.1.2/ember.min.js">//cdnjs.cloudflare.com/ajax/libs/ember.js/1.1.2/ember.min.js</a>]]></description>
-            <link>http://emberjs.com/</link>
-            <guid isPermaLink="false">
-                ember.js1.1.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 25 Oct 2013 21:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[polymer updated to version 0.0.20131025]]></title>
-            <description><![CDATA[Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/polymer/0.0.20131025/polymer.min.js">//cdnjs.cloudflare.com/ajax/libs/polymer/0.0.20131025/polymer.min.js</a>]]></description>
-            <link>http://polymer-project.org/</link>
-            <guid isPermaLink="false">
-                polymer0.0.20131025            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 25 Oct 2013 20:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[two.js updated to version 0.3.0]]></title>
-            <description><![CDATA[A two-dimensional drawing api meant for modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/two.js/0.3.0/two.min.js">//cdnjs.cloudflare.com/ajax/libs/two.js/0.3.0/two.min.js</a>]]></description>
-            <link>http://jonobr1.github.com/two.js</link>
-            <guid isPermaLink="false">
-                two.js0.3.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 25 Oct 2013 16:05:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
