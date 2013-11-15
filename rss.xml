@@ -10,8 +10,53 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Mon, 11 Nov 2013 16:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2013 21:50:39 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rimg updated to version 0.9.0]]></title>
+            <description><![CDATA[A responsive image solution for browsers that support mediaqueries. Pure javascript and no server-side code..<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rimg/0.9.0/rimg.min.js">//cdnjs.cloudflare.com/ajax/libs/rimg/0.9.0/rimg.min.js</a>]]></description>
+            <link>http://joeyvandijk.github.io/rimg</link>
+            <guid isPermaLink="false">
+                rimg0.9.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 14 Nov 2013 09:06:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[headjs updated to version 1.0.2]]></title>
+            <description><![CDATA[Achieve responsive design. Load scripts on demand. Target CSS for different screens, paths, states and browsers. Make it the only script in your HEAD. A concise solution to universal issues.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/headjs/1.0.2/head.min.js">//cdnjs.cloudflare.com/ajax/libs/headjs/1.0.2/head.min.js</a>]]></description>
+            <link>http://headjs.com</link>
+            <guid isPermaLink="false">
+                headjs1.0.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 13 Nov 2013 12:28:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[knockout.mapping updated to version 2.4.1]]></title>
+            <description><![CDATA[Object mapping plugin for Knockout<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/knockout.mapping/2.4.1/knockout.mapping.js">//cdnjs.cloudflare.com/ajax/libs/knockout.mapping/2.4.1/knockout.mapping.js</a>]]></description>
+            <link>http://knockoutjs.com/documentation/plugins-mapping.html</link>
+            <guid isPermaLink="false">
+                knockout.mapping2.4.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 13 Nov 2013 11:43:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[seajs updated to version 2.1.1]]></title>
+            <description><![CDATA[A Module Loader for the Web<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/seajs/2.1.1/sea.js">//cdnjs.cloudflare.com/ajax/libs/seajs/2.1.1/sea.js</a>]]></description>
+            <link>http://seajs.org/</link>
+            <guid isPermaLink="false">
+                seajs2.1.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 13 Nov 2013 02:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.blockUI updated to version 2.66.0-2013.10.09]]></title>
+            <description><![CDATA[Simulate synchronous ajax by blocking - not locking - the UI. This plugin lets you block user interaction with the page or with a specific element on the page. Also great at displaying modal dialogs.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.blockUI/2.66.0-2013.10.09/jquery.blockUI.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.blockUI/2.66.0-2013.10.09/jquery.blockUI.min.js</a>]]></description>
+            <link>http://jquery.malsup.com/block</link>
+            <guid isPermaLink="false">
+                jquery.blockUI2.66.0-2013.10.09            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 12 Nov 2013 17:47:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jquery.tablesorter updated to version 2.13.3]]></title>
             <description><![CDATA[tablesorter is a jQuery plugin for turning a standard HTML table with THEAD and TBODY tags into a sortable table without page refreshes. tablesorter can successfully parse and sort many types of data including linked data in a cell.
@@ -149,6 +194,15 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <pubDate>Wed, 06 Nov 2013 00:18:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[proj4js updated to version 2.0.0]]></title>
+            <description><![CDATA[Proj4js is a JavaScript library to transform point coordinates from one coordinate system to another, including datum transformations.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/proj4js/2.0.0/proj4.js">//cdnjs.cloudflare.com/ajax/libs/proj4js/2.0.0/proj4.js</a>]]></description>
+            <link>http://trac.osgeo.org/proj4js/</link>
+            <guid isPermaLink="false">
+                proj4js2.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 05 Nov 2013 20:27:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[speakingurl updated to version 0.5.0]]></title>
             <description><![CDATA[Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.5.0/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.5.0/speakingurl.min.js</a>]]></description>
             <link>http://pid.github.io/speakingurl/</link>
@@ -185,15 +239,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <pubDate>Tue, 05 Nov 2013 04:32:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[headjs updated to version 1.0.0]]></title>
-            <description><![CDATA[Achieve responsive design. Load scripts on demand. Target CSS for different screens, paths, states and browsers. Make it the only script in your HEAD. A concise solution to universal issues.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/headjs/1.0.0/head.min.js">//cdnjs.cloudflare.com/ajax/libs/headjs/1.0.0/head.min.js</a>]]></description>
-            <link>http://headjs.com</link>
-            <guid isPermaLink="false">
-                headjs1.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 04 Nov 2013 22:40:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[oauth-io(0.9.0) was added]]></title>
             <description><![CDATA[OAuth.io SDK - Authorize your user on 90+ providers using OAuth<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oauth-io/0.9.0/oauth.js">//cdnjs.cloudflare.com/ajax/libs/oauth-io/0.9.0/oauth.js</a>]]></description>
             <guid isPermaLink="false">
@@ -218,33 +263,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
                 jasny-bootstrap3.0.1-p7            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 01 Nov 2013 15:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[gsap updated to version 1.11.1]]></title>
-            <description><![CDATA[GreenSock Animation Platform (GSAP) is a suite of tools for scripted animation, including TweenLite, TweenMax, TimelineLite, TimelineMax, various easing equations (EasePack), plugins for things like animating along Bezier paths, tweening RaphaelJS objects, etc. and it also includes a jQuery plugin that hijacks the native jQuery.animate() method so that animations perform much better and additional properties can be tweened, like colors, transforms (2D and 3D), boxShadow, borderRadius, clip, and lots more. GSAP has no dependencies on jQuery and it can animate ANY numeric property of ANY object.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gsap/1.11.1/TweenMax.min.js">//cdnjs.cloudflare.com/ajax/libs/gsap/1.11.1/TweenMax.min.js</a>]]></description>
-            <link>http://www.greensock.com/gsap-js/</link>
-            <guid isPermaLink="false">
-                gsap1.11.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 30 Oct 2013 17:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react updated to version 0.5.1]]></title>
-            <description><![CDATA[React is a JavaScript library for building user interfaces.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/react/0.5.1/react.min.js">//cdnjs.cloudflare.com/ajax/libs/react/0.5.1/react.min.js</a>]]></description>
-            <link>http://facebook.github.io/react</link>
-            <guid isPermaLink="false">
-                react0.5.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 29 Oct 2013 20:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[d3 updated to version 3.3.9]]></title>
-            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.3.9/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.3.9/d3.min.js</a>]]></description>
-            <link>http://mbostock.github.com/d3/</link>
-            <guid isPermaLink="false">
-                d33.3.9            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 29 Oct 2013 14:49:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
