@@ -10,8 +10,71 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Thu, 14 Nov 2013 21:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2013 23:16:36 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[semantic-ui updated to version 0.9.3]]></title>
+            <description><![CDATA[Semantic empowers designers and developers by creating a language for sharing UI<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.9.3/javascript/semantic.min.js">//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.9.3/javascript/semantic.min.js</a>]]></description>
+            <link>http://semantic-ui.com/</link>
+            <guid isPermaLink="false">
+                semantic-ui0.9.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 18 Nov 2013 19:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[idbwrapper updated to version 1.4.1]]></title>
+            <description><![CDATA[A cross-browser wrapper for IndexedDB<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idbwrapper/1.4.1/idbstore.min.js">//cdnjs.cloudflare.com/ajax/libs/idbwrapper/1.4.1/idbstore.min.js</a>]]></description>
+            <link>https://github.com/jensarps/IDBWrapper</link>
+            <guid isPermaLink="false">
+                idbwrapper1.4.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 18 Nov 2013 17:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-mousewheel updated to version 3.1.6]]></title>
+            <description><![CDATA[A jQuery plugin that adds cross-browser mouse wheel support.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.6/jquery.mousewheel.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.6/jquery.mousewheel.min.js</a>]]></description>
+            <link>https://github.com/brandonaaron/jquery-mousewheel</link>
+            <guid isPermaLink="false">
+                jquery-mousewheel3.1.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 18 Nov 2013 05:42:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jszip(2.0.0) was added]]></title>
+            <description><![CDATA[Create, read and edit .zip files with Javascript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jszip/2.0.0/jszip.js">//cdnjs.cloudflare.com/ajax/libs/jszip/2.0.0/jszip.js</a>]]></description>
+            <link>http://stuk.github.io/jszip/</link>
+            <guid isPermaLink="false">
+                jszip2.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 17 Nov 2013 23:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[conditionizr.js updated to version 4.0.0]]></title>
+            <description><![CDATA[Detecting front-end environments and conditionally loading assets. Retina, touch, legacy IE, modern browsers, custom tests.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/conditionizr.js/4.0.0/conditionizr.min.js">//cdnjs.cloudflare.com/ajax/libs/conditionizr.js/4.0.0/conditionizr.min.js</a>]]></description>
+            <link>http://conditionizr.com</link>
+            <guid isPermaLink="false">
+                conditionizr.js4.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 17 Nov 2013 22:54:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-form-validator updated to version 2.1.27]]></title>
+            <description><![CDATA[This plugin makes it easy to validate user input while keeping your HTML markup clean from javascript code. Even though this plugin has a wide range of validation functions it's designed to require as little bandwidth as possible. This is achieved by grouping together validation functions in "modules", making it possible for the programmer to load only those functions that's needed to validate a particular form.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.27/jquery.form-validator.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.27/jquery.form-validator.min.js</a>]]></description>
+            <link>http://formvalidator.net</link>
+            <guid isPermaLink="false">
+                jquery-form-validator2.1.27            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 17 Nov 2013 10:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular.js updated to version 1.2.1]]></title>
+            <description><![CDATA[AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.1/angular.min.js">//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.1/angular.min.js</a>]]></description>
+            <link>http://angularjs.org</link>
+            <guid isPermaLink="false">
+                angular.js1.2.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 17 Nov 2013 03:19:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rimg updated to version 0.9.0]]></title>
             <description><![CDATA[A responsive image solution for browsers that support mediaqueries. Pure javascript and no server-side code..<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rimg/0.9.0/rimg.min.js">//cdnjs.cloudflare.com/ajax/libs/rimg/0.9.0/rimg.min.js</a>]]></description>
@@ -20,6 +83,15 @@
                 rimg0.9.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 14 Nov 2013 09:06:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[html-inspector updated to version 0.7.0]]></title>
+            <description><![CDATA[HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/html-inspector/0.7.0/html-inspector.js">//cdnjs.cloudflare.com/ajax/libs/html-inspector/0.7.0/html-inspector.js</a>]]></description>
+            <link>https://github.com/philipwalton/html-inspector</link>
+            <guid isPermaLink="false">
+                html-inspector0.7.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 13 Nov 2013 18:36:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[headjs updated to version 1.0.2]]></title>
@@ -47,6 +119,15 @@
                 seajs2.1.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 13 Nov 2013 02:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-serialize-object(2.0.0) was added]]></title>
+            <description><![CDATA[serialize form fields into an object or JSON<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-serialize-object/2.0.0/jquery.serialize-object.compiled.js">//cdnjs.cloudflare.com/ajax/libs/jquery-serialize-object/2.0.0/jquery.serialize-object.compiled.js</a>]]></description>
+            <link>http://ianlunn.co.uk/articles/recreate-nikebetterworld-parallax/</link>
+            <guid isPermaLink="false">
+                jquery-serialize-object2.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 12 Nov 2013 23:18:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery.blockUI updated to version 2.66.0-2013.10.09]]></title>
@@ -87,15 +168,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <pubDate>Mon, 11 Nov 2013 08:03:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[angular.js updated to version 1.2.0]]></title>
-            <description><![CDATA[AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.0/angular.min.js">//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.0/angular.min.js</a>]]></description>
-            <link>http://angularjs.org</link>
-            <guid isPermaLink="false">
-                angular.js1.2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 11 Nov 2013 07:49:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[lodash.js updated to version 2.3.0]]></title>
             <description><![CDATA[A utility library delivering consistency, customization, performance, & extras.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.3.0/lodash.min.js">//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.3.0/lodash.min.js</a>]]></description>
             <link>http://lodash.com/</link>
@@ -121,6 +193,15 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
                 highlight.js7.4            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 08 Nov 2013 08:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[less.js updated to version 1.5.0]]></title>
+            <description><![CDATA[LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. LESS runs on both the client-side (IE 6+, Webkit, Firefox) and server-side, with Node.js.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/less.js/1.5.0/less.min.js">//cdnjs.cloudflare.com/ajax/libs/less.js/1.5.0/less.min.js</a>]]></description>
+            <link>http://lesscss.org/</link>
+            <guid isPermaLink="false">
+                less.js1.5.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 08 Nov 2013 08:06:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[polymer updated to version 0.0.20131107]]></title>
@@ -237,32 +318,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
                 requirejs-tpl0.0.2            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 05 Nov 2013 04:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[oauth-io(0.9.0) was added]]></title>
-            <description><![CDATA[OAuth.io SDK - Authorize your user on 90+ providers using OAuth<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/oauth-io/0.9.0/oauth.js">//cdnjs.cloudflare.com/ajax/libs/oauth-io/0.9.0/oauth.js</a>]]></description>
-            <guid isPermaLink="false">
-                oauth-io0.9.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 03 Nov 2013 19:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[numeral.js updated to version 1.5.2]]></title>
-            <description><![CDATA[A lightweight javascript library to format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral.js/1.5.2/numeral.min.js">//cdnjs.cloudflare.com/ajax/libs/numeral.js/1.5.2/numeral.min.js</a>]]></description>
-            <link>http://numeraljs.com/</link>
-            <guid isPermaLink="false">
-                numeral.js1.5.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 02 Nov 2013 20:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jasny-bootstrap updated to version 3.0.1-p7]]></title>
-            <description><![CDATA[An extended version of Twitter Bootstrap<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.0.1-p7/js/bootstrap.min.js">//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.0.1-p7/js/bootstrap.min.js</a>]]></description>
-            <link>http://jasny.github.com/bootstrap/</link>
-            <guid isPermaLink="false">
-                jasny-bootstrap3.0.1-p7            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 01 Nov 2013 15:31:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
