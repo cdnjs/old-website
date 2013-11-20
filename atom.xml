@@ -10,8 +10,35 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Mon, 18 Nov 2013 23:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2013 15:22:55 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[d3 updated to version 3.3.10]]></title>
+            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.3.10/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.3.10/d3.min.js</a>]]></description>
+            <link>http://mbostock.github.com/d3/</link>
+            <guid isPermaLink="false">
+                d33.3.10            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 20 Nov 2013 13:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[topcoat-icons(0.1.0) was added]]></title>
+            <description><![CDATA[Open source icons for the Topcoat project.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/topcoat-icons/0.1.0/font/icomatic.css">//cdnjs.cloudflare.com/ajax/libs/topcoat-icons/0.1.0/font/icomatic.css</a>]]></description>
+            <link>http://topcoat.io/</link>
+            <guid isPermaLink="false">
+                topcoat-icons0.1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 19 Nov 2013 04:37:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rxjs updated to version 2.2.7]]></title>
+            <description><![CDATA[Library for composing asynchronous and event-based operations in JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rxjs/2.2.7/rx.min.js">//cdnjs.cloudflare.com/ajax/libs/rxjs/2.2.7/rx.min.js</a>]]></description>
+            <link>https://github.com/Reactive-Extensions/RxJS</link>
+            <guid isPermaLink="false">
+                rxjs2.2.7            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 18 Nov 2013 23:49:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[semantic-ui updated to version 0.9.3]]></title>
             <description><![CDATA[Semantic empowers designers and developers by creating a language for sharing UI<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.9.3/javascript/semantic.min.js">//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.9.3/javascript/semantic.min.js</a>]]></description>
@@ -246,78 +273,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
                 backbone-pageable1.4.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 06 Nov 2013 15:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[store.js updated to version 1.3.14]]></title>
-            <description><![CDATA[A localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/store.js/1.3.14/store.min.js">//cdnjs.cloudflare.com/ajax/libs/store.js/1.3.14/store.min.js</a>]]></description>
-            <link>https://github.com/marcuswestin/store.js</link>
-            <guid isPermaLink="false">
-                store.js1.3.14            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 06 Nov 2013 06:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.form updated to version 3.45]]></title>
-            <description><![CDATA[A simple way to AJAX-ify any form on your page; with file upload and progress support.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.45/jquery.form.js">//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.45/jquery.form.js</a>]]></description>
-            <link>http://jquery.malsup.com/form/</link>
-            <guid isPermaLink="false">
-                jquery.form3.45            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 06 Nov 2013 06:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[handlebars.js updated to version 1.1.2]]></title>
-            <description><![CDATA[Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js">//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js</a>]]></description>
-            <link>http://www.handlebarsjs.com</link>
-            <guid isPermaLink="false">
-                handlebars.js1.1.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 06 Nov 2013 00:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[proj4js updated to version 2.0.0]]></title>
-            <description><![CDATA[Proj4js is a JavaScript library to transform point coordinates from one coordinate system to another, including datum transformations.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/proj4js/2.0.0/proj4.js">//cdnjs.cloudflare.com/ajax/libs/proj4js/2.0.0/proj4.js</a>]]></description>
-            <link>http://trac.osgeo.org/proj4js/</link>
-            <guid isPermaLink="false">
-                proj4js2.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 05 Nov 2013 20:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[speakingurl updated to version 0.5.0]]></title>
-            <description><![CDATA[Generate of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' or 'slug' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.5.0/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.5.0/speakingurl.min.js</a>]]></description>
-            <link>http://pid.github.io/speakingurl/</link>
-            <guid isPermaLink="false">
-                speakingurl0.5.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 05 Nov 2013 12:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[requirejs-handlebars(0.0.2) was added]]></title>
-            <description><![CDATA[A RequireJS/AMD loader plugin for Handlebars.js micro-templates<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/requirejs-handlebars/0.0.2/hbars.js">//cdnjs.cloudflare.com/ajax/libs/requirejs-handlebars/0.0.2/hbars.js</a>]]></description>
-            <link>http://github.com/jfparadis/requirejs-handlebars</link>
-            <guid isPermaLink="false">
-                requirejs-handlebars0.0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 05 Nov 2013 04:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[requirejs-mustache(0.0.2) was added]]></title>
-            <description><![CDATA[A RequireJS/AMD loader plugin for Mustache.js micro-templates<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/requirejs-mustache/0.0.2/stache.js">//cdnjs.cloudflare.com/ajax/libs/requirejs-mustache/0.0.2/stache.js</a>]]></description>
-            <link>http://github.com/jfparadis/requirejs-mustache</link>
-            <guid isPermaLink="false">
-                requirejs-mustache0.0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 05 Nov 2013 04:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[requirejs-tpl(0.0.2) was added]]></title>
-            <description><![CDATA[A RequireJS/AMD loader plugin for Underscore.js micro-templates<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/requirejs-tpl/0.0.2/tpl.js">//cdnjs.cloudflare.com/ajax/libs/requirejs-tpl/0.0.2/tpl.js</a>]]></description>
-            <link>http://github.com/jfparadis/requirejs-tpl</link>
-            <guid isPermaLink="false">
-                requirejs-tpl0.0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 05 Nov 2013 04:32:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
