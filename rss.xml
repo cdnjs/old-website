@@ -10,8 +10,35 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Mon, 09 Dec 2013 05:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2013 09:16:15 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[annyang updated to version 1.0.0]]></title>
+            <description><![CDATA[A javascript library for adding voice commands to your site, using speech recognition<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/annyang/1.0.0/annyang.min.js">//cdnjs.cloudflare.com/ajax/libs/annyang/1.0.0/annyang.min.js</a>]]></description>
+            <link>https://www.talater.com/annyang/</link>
+            <guid isPermaLink="false">
+                annyang1.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 11 Dec 2013 00:17:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[qooxdoo updated to version 3.5]]></title>
+            <description><![CDATA[qooxdoo is a cross-browser DOM manipulation library to enhance websites with a rich user experience.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/qooxdoo/3.5/q.min.js">//cdnjs.cloudflare.com/ajax/libs/qooxdoo/3.5/q.min.js</a>]]></description>
+            <link>http://qooxdoo.org</link>
+            <guid isPermaLink="false">
+                qooxdoo3.5            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 10 Dec 2013 15:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bespoke.js updated to version 0.3.1]]></title>
+            <description><![CDATA[DIY Presentation Micro-Framework<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bespoke.js/0.3.1/bespoke.min.js">//cdnjs.cloudflare.com/ajax/libs/bespoke.js/0.3.1/bespoke.min.js</a>]]></description>
+            <link>https://github.com/markdalgleish/bespoke.js</link>
+            <guid isPermaLink="false">
+                bespoke.js0.3.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 10 Dec 2013 01:42:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[chaplin(0.11.3) was added]]></title>
             <description><![CDATA[An Application Architecture Using Backbone.js<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chaplin/0.11.3/chaplin.min.js">//cdnjs.cloudflare.com/ajax/libs/chaplin/0.11.3/chaplin.min.js</a>]]></description>
@@ -352,24 +379,6 @@
                 foundation5.0.2            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 27 Nov 2013 14:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pusher updated to version 2.1.4]]></title>
-            <description><![CDATA[Pusher Javascript library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pusher/2.1.4/pusher.min.js">//cdnjs.cloudflare.com/ajax/libs/pusher/2.1.4/pusher.min.js</a>]]></description>
-            <link>http://pusher.com/</link>
-            <guid isPermaLink="false">
-                pusher2.1.4            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 26 Nov 2013 17:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[json3 updated to version 3.2.6]]></title>
-            <description><![CDATA[A modern JSON implementation compatible with nearly all JavaScript platforms.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/json3/3.2.6/json3.min.js">//cdnjs.cloudflare.com/ajax/libs/json3/3.2.6/json3.min.js</a>]]></description>
-            <link>http://bestiejs.github.io/json3</link>
-            <guid isPermaLink="false">
-                json33.2.6            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 25 Nov 2013 08:21:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
