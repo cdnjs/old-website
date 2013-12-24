@@ -10,8 +10,97 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 20 Dec 2013 07:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2013 01:37:44 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[es5-shim updated to version 2.2.0]]></title>
+            <description><![CDATA[Provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/es5-shim/2.2.0/es5-shim.min.js">//cdnjs.cloudflare.com/ajax/libs/es5-shim/2.2.0/es5-shim.min.js</a>]]></description>
+            <link>https://github.com/kriskowal/es5-shim</link>
+            <guid isPermaLink="false">
+                es5-shim2.2.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 23 Dec 2013 18:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[flowplayer updated to version 5.4.6]]></title>
+            <description><![CDATA[The video player for the web<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/flowplayer/5.4.6/flowplayer.min.js">//cdnjs.cloudflare.com/ajax/libs/flowplayer/5.4.6/flowplayer.min.js</a>]]></description>
+            <link>http://flowplayer.org/</link>
+            <guid isPermaLink="false">
+                flowplayer5.4.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 23 Dec 2013 14:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[moment-timezone(0.0.3) was added]]></title>
+            <description><![CDATA[Timezone plugin for Moment.js.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.0.3/moment-timezone.min.js">//cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.0.3/moment-timezone.min.js</a>]]></description>
+            <link>http://momentjs.com/timezone</link>
+            <guid isPermaLink="false">
+                moment-timezone0.0.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 23 Dec 2013 13:11:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.atmosphere updated to version 2.1.2]]></title>
+            <description><![CDATA[A browser-side jQuery plugin for the Atmosphere<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.atmosphere/2.1.2/jquery.atmosphere.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.atmosphere/2.1.2/jquery.atmosphere.min.js</a>]]></description>
+            <link>https://github.com/Atmosphere/atmosphere-javascript</link>
+            <guid isPermaLink="false">
+                jquery.atmosphere2.1.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 23 Dec 2013 09:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[atmosphere updated to version 2.1.2]]></title>
+            <description><![CDATA[A browser-side JavaScript client for the Atmosphere<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/atmosphere/2.1.2/atmosphere.min.js">//cdnjs.cloudflare.com/ajax/libs/atmosphere/2.1.2/atmosphere.min.js</a>]]></description>
+            <link>https://github.com/Atmosphere/atmosphere-javascript</link>
+            <guid isPermaLink="false">
+                atmosphere2.1.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 23 Dec 2013 09:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gist-embed updated to version 1.6]]></title>
+            <description><![CDATA[Ultra powered gist embedding for your website<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gist-embed/1.6/gist-embed.min.js">//cdnjs.cloudflare.com/ajax/libs/gist-embed/1.6/gist-embed.min.js</a>]]></description>
+            <link>http://blairvanderhoof.com/gist-embed/</link>
+            <guid isPermaLink="false">
+                gist-embed1.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 23 Dec 2013 00:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[favico.js(0.3.4) was added]]></title>
+            <description><![CDATA[Make a use of your favicon with badges, images or videos<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/favico.js/0.3.4/favico.js">//cdnjs.cloudflare.com/ajax/libs/favico.js/0.3.4/favico.js</a>]]></description>
+            <link>http://lab.ejci.net/favico.js/</link>
+            <guid isPermaLink="false">
+                favico.js0.3.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 22 Dec 2013 19:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sanitize.css(1.0.0) was added]]></title>
+            <description><![CDATA[Minimal CSS normalization library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sanitize.css/1.0.0/sanitize.css">//cdnjs.cloudflare.com/ajax/libs/sanitize.css/1.0.0/sanitize.css</a>]]></description>
+            <guid isPermaLink="false">
+                sanitize.css1.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 22 Dec 2013 10:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sizzle updated to version 1.10.15]]></title>
+            <description><![CDATA[A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sizzle/1.10.15/sizzle.min.js">//cdnjs.cloudflare.com/ajax/libs/sizzle/1.10.15/sizzle.min.js</a>]]></description>
+            <link>http://sizzlejs.com/</link>
+            <guid isPermaLink="false">
+                sizzle1.10.15            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 21 Dec 2013 17:18:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pablo(0.4.0) was added]]></title>
+            <description><![CDATA[Pablo is a small, open-source JavaScript library for SVG (the web standard for vector graphics). It can be used for vector-based art, games, visualisations and interfaces.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pablo/0.4.0/pablo.min.js">//cdnjs.cloudflare.com/ajax/libs/pablo/0.4.0/pablo.min.js</a>]]></description>
+            <link>http://pablojs.com</link>
+            <guid isPermaLink="false">
+                pablo0.4.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 21 Dec 2013 10:18:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[react updated to version 0.8.0]]></title>
             <description><![CDATA[React is a JavaScript library for building user interfaces.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/react/0.8.0/react.min.js">//cdnjs.cloudflare.com/ajax/libs/react/0.8.0/react.min.js</a>]]></description>
@@ -157,15 +246,6 @@
             <pubDate>Fri, 13 Dec 2013 03:58:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gist-embed updated to version 1.5]]></title>
-            <description><![CDATA[Ultra powered gist embedding for your website<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gist-embed/1.5/gist-embed.min.js">//cdnjs.cloudflare.com/ajax/libs/gist-embed/1.5/gist-embed.min.js</a>]]></description>
-            <link>http://blairvanderhoof.com/gist-embed/</link>
-            <guid isPermaLink="false">
-                gist-embed1.5            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 12 Dec 2013 19:42:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[polymer updated to version 0.1.1]]></title>
             <description><![CDATA[Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.1/polymer.html">//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.1/polymer.html</a>]]></description>
             <link>http://polymer-project.org/</link>
@@ -281,69 +361,6 @@
                 bespoke.js0.3.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 10 Dec 2013 01:42:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone-relational updated to version 0.8.6]]></title>
-            <description><![CDATA[Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-relational/0.8.6/backbone-relational.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-relational/0.8.6/backbone-relational.min.js</a>]]></description>
-            <link>https://github.com/PaulUithol/Backbone-relational</link>
-            <guid isPermaLink="false">
-                backbone-relational0.8.6            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 09 Dec 2013 18:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chaplin(0.11.3) was added]]></title>
-            <description><![CDATA[An Application Architecture Using Backbone.js<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chaplin/0.11.3/chaplin.min.js">//cdnjs.cloudflare.com/ajax/libs/chaplin/0.11.3/chaplin.min.js</a>]]></description>
-            <link>http://chaplinjs.org/</link>
-            <guid isPermaLink="false">
-                chaplin0.11.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 09 Dec 2013 04:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bootstrap-tour updated to version 0.7.3]]></title>
-            <description><![CDATA[Quick and easy way to build your product tours with Twitter Bootstrap Popovers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.7.3/js/bootstrap-tour.min.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.7.3/js/bootstrap-tour.min.js</a>]]></description>
-            <link>http://bootstraptour.com</link>
-            <guid isPermaLink="false">
-                bootstrap-tour0.7.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 09 Dec 2013 01:43:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hydra.js updated to version 3.6.0]]></title>
-            <description><![CDATA[Framework that gives you the tools to write your application using modules or widgets and make easy to work with them.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/hydra.js/3.6.0/hydra.min.js">//cdnjs.cloudflare.com/ajax/libs/hydra.js/3.6.0/hydra.min.js</a>]]></description>
-            <link>http://tcorral.github.com/Hydra.js/</link>
-            <guid isPermaLink="false">
-                hydra.js3.6.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 08 Dec 2013 18:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[noisy updated to version 1.2]]></title>
-            <description><![CDATA[Adds random noise to the background of a given element.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/noisy/1.2/jquery.noisy.min.js">//cdnjs.cloudflare.com/ajax/libs/noisy/1.2/jquery.noisy.min.js</a>]]></description>
-            <link>http://rappdaniel.com/noisy/</link>
-            <guid isPermaLink="false">
-                noisy1.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 07 Dec 2013 21:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[semantic-ui updated to version 0.10.0]]></title>
-            <description><![CDATA[Semantic empowers designers and developers by creating a language for sharing UI<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.10.0/javascript/semantic.min.js">//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.10.0/javascript/semantic.min.js</a>]]></description>
-            <link>http://semantic-ui.com/</link>
-            <guid isPermaLink="false">
-                semantic-ui0.10.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 06 Dec 2013 22:55:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[zepto updated to version 1.1.1]]></title>
-            <description><![CDATA[Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/zepto/1.1.1/zepto.min.js">//cdnjs.cloudflare.com/ajax/libs/zepto/1.1.1/zepto.min.js</a>]]></description>
-            <link>http://zeptojs.com</link>
-            <guid isPermaLink="false">
-                zepto1.1.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 06 Dec 2013 20:08:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
