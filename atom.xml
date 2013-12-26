@@ -10,8 +10,52 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 24 Dec 2013 01:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2013 23:13:24 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[handlebars.js updated to version 1.2.1]]></title>
+            <description><![CDATA[Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.2.1/handlebars.min.js">//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.2.1/handlebars.min.js</a>]]></description>
+            <link>http://www.handlebarsjs.com</link>
+            <guid isPermaLink="false">
+                handlebars.js1.2.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 26 Dec 2013 22:32:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[conditionizr.js updated to version 4.1.0]]></title>
+            <description><![CDATA[Detecting front-end environments and conditionally loading assets. Retina, touch, legacy IE, modern browsers, custom tests.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/conditionizr.js/4.1.0/conditionizr.min.js">//cdnjs.cloudflare.com/ajax/libs/conditionizr.js/4.1.0/conditionizr.min.js</a>]]></description>
+            <link>http://conditionizr.com</link>
+            <guid isPermaLink="false">
+                conditionizr.js4.1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 25 Dec 2013 20:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-scrollTo updated to version 1.4.7]]></title>
+            <description><![CDATA[A small, customizable plugin for scrolling elements, or the window itself.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.7/jquery.scrollTo.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.7/jquery.scrollTo.min.js</a>]]></description>
+            <link>https://github.com/flesler/jquery.scrollTo</link>
+            <guid isPermaLink="false">
+                jquery-scrollTo1.4.7            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 24 Dec 2013 22:43:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-smooth-scroll updated to version 1.4.13]]></title>
+            <description><![CDATA[Automatically make same-page links scroll smoothly<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-smooth-scroll/1.4.13/jquery.smooth-scroll.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-smooth-scroll/1.4.13/jquery.smooth-scroll.min.js</a>]]></description>
+            <guid isPermaLink="false">
+                jquery-smooth-scroll1.4.13            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 24 Dec 2013 22:35:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bootstrap-switch updated to version 2.0.0]]></title>
+            <description><![CDATA[Turn checkboxes and radio buttons in toggle switches.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/2.0.0/js/bootstrap-switch.min.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/2.0.0/js/bootstrap-switch.min.js</a>]]></description>
+            <link>http://www.bootstrap-switch.org</link>
+            <guid isPermaLink="false">
+                bootstrap-switch2.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 24 Dec 2013 11:47:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[es5-shim updated to version 2.2.0]]></title>
             <description><![CDATA[Provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/es5-shim/2.2.0/es5-shim.min.js">//cdnjs.cloudflare.com/ajax/libs/es5-shim/2.2.0/es5-shim.min.js</a>]]></description>
@@ -100,6 +144,15 @@
                 pablo0.4.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 21 Dec 2013 10:18:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[portal updated to version 1.1.0]]></title>
+            <description><![CDATA[The Portal is a server agnostic JavaScript library that not just provides a socket for browser-based applications that need two-way communication with servers, but also aims to utilize a full duplex connection for modern web application development.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/portal/1.1.0/portal.min.js">//cdnjs.cloudflare.com/ajax/libs/portal/1.1.0/portal.min.js</a>]]></description>
+            <link>http://flowersinthesand.github.io/portal/</link>
+            <guid isPermaLink="false">
+                portal1.1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 20 Dec 2013 14:49:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[react updated to version 0.8.0]]></title>
@@ -244,123 +297,6 @@
                 lodash.js2.4.1            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 13 Dec 2013 03:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[polymer updated to version 0.1.1]]></title>
-            <description><![CDATA[Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.1/polymer.html">//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.1/polymer.html</a>]]></description>
-            <link>http://polymer-project.org/</link>
-            <guid isPermaLink="false">
-                polymer0.1.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 12 Dec 2013 19:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[uikit updated to version 2.0.0]]></title>
-            <description><![CDATA[UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/uikit/2.0.0/js/uikit.min.js">//cdnjs.cloudflare.com/ajax/libs/uikit/2.0.0/js/uikit.min.js</a>]]></description>
-            <link>http://www.getuikit.com</link>
-            <guid isPermaLink="false">
-                uikit2.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 12 Dec 2013 13:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fingerprintjs updated to version v0.5.1]]></title>
-            <description><![CDATA[Fast browser fingerprint library. By default uses Murmur hashing and returns a 32bit integer number.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/fingerprintjs/v0.5.1/fingerprint.min.js">//cdnjs.cloudflare.com/ajax/libs/fingerprintjs/v0.5.1/fingerprint.min.js</a>]]></description>
-            <link>https://github.com/valve/fingerprintjs/</link>
-            <guid isPermaLink="false">
-                fingerprintjsv0.5.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 12 Dec 2013 06:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[twig.js(0.6.0) was added]]></title>
-            <description><![CDATA[JS port of the Twig templating language.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/twig.js/0.6.0/twig.min.js">//cdnjs.cloudflare.com/ajax/libs/twig.js/0.6.0/twig.min.js</a>]]></description>
-            <link>https://github.com/justjohn/twig.js</link>
-            <guid isPermaLink="false">
-                twig.js0.6.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 11 Dec 2013 19:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[leaflet updated to version 0.7.1]]></title>
-            <description><![CDATA[Leaflet is a modern open-source JavaScript library for mobile-friendly interactive maps.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.1/leaflet.js">//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.1/leaflet.js</a>]]></description>
-            <link>http://leafletjs.com/</link>
-            <guid isPermaLink="false">
-                leaflet0.7.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 11 Dec 2013 16:28:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[foundicons updated to version 3.0.0]]></title>
-            <description><![CDATA[A custom collection of 283 icons that are stored in a handy web font.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.ttf">//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.ttf</a>]]></description>
-            <link>http://zurb.com/playground/foundation-icon-fonts-3</link>
-            <guid isPermaLink="false">
-                foundicons3.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 11 Dec 2013 15:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.notification(1.0.2) was added]]></title>
-            <description><![CDATA[Webkit Notification plugin. That makes your life easear.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.notification/1.0.2/jquery.notification.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.notification/1.0.2/jquery.notification.min.js</a>]]></description>
-            <link>https://github.com/azproduction/jquery.notification</link>
-            <guid isPermaLink="false">
-                jquery.notification1.0.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 11 Dec 2013 15:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[underscore.js updated to version 1.5.2]]></title>
-            <description><![CDATA[Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go along with jQuery's tux.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js">//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js</a>]]></description>
-            <link>http://jashkenas.github.io/underscore/</link>
-            <guid isPermaLink="false">
-                underscore.js1.5.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 11 Dec 2013 11:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[annyang updated to version 1.0.0]]></title>
-            <description><![CDATA[A javascript library for adding voice commands to your site, using speech recognition<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/annyang/1.0.0/annyang.min.js">//cdnjs.cloudflare.com/ajax/libs/annyang/1.0.0/annyang.min.js</a>]]></description>
-            <link>https://www.talater.com/annyang/</link>
-            <guid isPermaLink="false">
-                annyang1.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 11 Dec 2013 00:17:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[qooxdoo updated to version 3.5]]></title>
-            <description><![CDATA[qooxdoo is a cross-browser DOM manipulation library to enhance websites with a rich user experience.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/qooxdoo/3.5/q.min.js">//cdnjs.cloudflare.com/ajax/libs/qooxdoo/3.5/q.min.js</a>]]></description>
-            <link>http://qooxdoo.org</link>
-            <guid isPermaLink="false">
-                qooxdoo3.5            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 10 Dec 2013 15:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-validate updated to version 1.11.1]]></title>
-            <description><![CDATA[Form Validation plugin for jQuery<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js</a>]]></description>
-            <link>http://jqueryvalidation.org/</link>
-            <guid isPermaLink="false">
-                jquery-validate1.11.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 10 Dec 2013 15:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[architect updated to version 0.1.0]]></title>
-            <description><![CDATA[Architect is a JavaScript library built on top of Web Workers. He will manage and polyfill them workers so you don’t have to.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/architect/0.1.0/architect.min.js">//cdnjs.cloudflare.com/ajax/libs/architect/0.1.0/architect.min.js</a>]]></description>
-            <link>http://architectjs.org</link>
-            <guid isPermaLink="false">
-                architect0.1.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 10 Dec 2013 04:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bespoke.js updated to version 0.3.1]]></title>
-            <description><![CDATA[DIY Presentation Micro-Framework<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bespoke.js/0.3.1/bespoke.min.js">//cdnjs.cloudflare.com/ajax/libs/bespoke.js/0.3.1/bespoke.min.js</a>]]></description>
-            <link>https://github.com/markdalgleish/bespoke.js</link>
-            <guid isPermaLink="false">
-                bespoke.js0.3.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 10 Dec 2013 01:42:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
