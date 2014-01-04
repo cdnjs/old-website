@@ -10,8 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 03 Jan 2014 07:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2014 09:09:22 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[hammer.js updated to version 1.0.6]]></title>
+            <description><![CDATA[A javascript library for multi-touch gestures :// You can touch this <br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/hammer.js/1.0.6/hammer.min.js">//cdnjs.cloudflare.com/ajax/libs/hammer.js/1.0.6/hammer.min.js</a>]]></description>
+            <link>http://eightmedia.github.com/hammer.js/</link>
+            <guid isPermaLink="false">
+                hammer.js1.0.6            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 03 Jan 2014 19:23:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[speakingurl updated to version 0.8.2]]></title>
             <description><![CDATA[Generate a slug with a lot of options; create of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.8.2/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.8.2/speakingurl.min.js</a>]]></description>
@@ -357,15 +366,6 @@
                 pablo0.4.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 21 Dec 2013 10:18:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[portal updated to version 1.1.0]]></title>
-            <description><![CDATA[The Portal is a server agnostic JavaScript library that not just provides a socket for browser-based applications that need two-way communication with servers, but also aims to utilize a full duplex connection for modern web application development.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/portal/1.1.0/portal.min.js">//cdnjs.cloudflare.com/ajax/libs/portal/1.1.0/portal.min.js</a>]]></description>
-            <link>http://flowersinthesand.github.io/portal/</link>
-            <guid isPermaLink="false">
-                portal1.1.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 20 Dec 2013 14:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
