@@ -10,8 +10,43 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Sat, 04 Jan 2014 09:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2014 19:00:17 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[livescript updated to version 1.2.0]]></title>
+            <description><![CDATA[LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/livescript/1.2.0/livescript.min.js">//cdnjs.cloudflare.com/ajax/libs/livescript/1.2.0/livescript.min.js</a>]]></description>
+            <link>http://livescript.net</link>
+            <guid isPermaLink="false">
+                livescript1.2.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 05 Jan 2014 18:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Han(2.2.3) was added]]></title>
+            <description><![CDATA[The CSS typography framework optimised for Hanzi<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Han/2.2.3/han.css">//cdnjs.cloudflare.com/ajax/libs/Han/2.2.3/han.css</a>]]></description>
+            <link>http://http://css.hanzi.co/</link>
+            <guid isPermaLink="false">
+                Han2.2.3            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 05 Jan 2014 18:26:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[alertify.js updated to version 0.3.11]]></title>
+            <description><![CDATA[Alertify is an unobtrusive customizable JavaScript notification system.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/alertify.js/0.3.11/alertify.min.js">//cdnjs.cloudflare.com/ajax/libs/alertify.js/0.3.11/alertify.min.js</a>]]></description>
+            <link>http://fabien-d.github.io/alertify.js/</link>
+            <guid isPermaLink="false">
+                alertify.js0.3.11            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 05 Jan 2014 15:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sanitize.css updated to version 1.0.1]]></title>
+            <description><![CDATA[Minimal CSS normalization library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sanitize.css/1.0.1/sanitize.css">//cdnjs.cloudflare.com/ajax/libs/sanitize.css/1.0.1/sanitize.css</a>]]></description>
+            <guid isPermaLink="false">
+                sanitize.css1.0.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 04 Jan 2014 15:45:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[hammer.js updated to version 1.0.6]]></title>
             <description><![CDATA[A javascript library for multi-touch gestures :// You can touch this <br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/hammer.js/1.0.6/hammer.min.js">//cdnjs.cloudflare.com/ajax/libs/hammer.js/1.0.6/hammer.min.js</a>]]></description>
@@ -127,15 +162,6 @@
                 semantic-ui0.11.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 29 Dec 2013 13:09:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[livescript updated to version 1.1.1]]></title>
-            <description><![CDATA[LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/livescript/1.1.1/livescript.min.js">//cdnjs.cloudflare.com/ajax/libs/livescript/1.1.1/livescript.min.js</a>]]></description>
-            <link>http://livescript.net</link>
-            <guid isPermaLink="false">
-                livescript1.1.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 29 Dec 2013 08:03:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ember-data.js updated to version 1.0.0-beta.4]]></title>
@@ -340,32 +366,6 @@
                 favico.js0.3.4            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 22 Dec 2013 19:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sanitize.css(1.0.0) was added]]></title>
-            <description><![CDATA[Minimal CSS normalization library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sanitize.css/1.0.0/sanitize.css">//cdnjs.cloudflare.com/ajax/libs/sanitize.css/1.0.0/sanitize.css</a>]]></description>
-            <guid isPermaLink="false">
-                sanitize.css1.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 22 Dec 2013 10:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sizzle updated to version 1.10.15]]></title>
-            <description><![CDATA[A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sizzle/1.10.15/sizzle.min.js">//cdnjs.cloudflare.com/ajax/libs/sizzle/1.10.15/sizzle.min.js</a>]]></description>
-            <link>http://sizzlejs.com/</link>
-            <guid isPermaLink="false">
-                sizzle1.10.15            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 21 Dec 2013 17:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pablo(0.4.0) was added]]></title>
-            <description><![CDATA[Pablo is a small, open-source JavaScript library for SVG (the web standard for vector graphics). It can be used for vector-based art, games, visualisations and interfaces.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pablo/0.4.0/pablo.min.js">//cdnjs.cloudflare.com/ajax/libs/pablo/0.4.0/pablo.min.js</a>]]></description>
-            <link>http://pablojs.com</link>
-            <guid isPermaLink="false">
-                pablo0.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 21 Dec 2013 10:18:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
