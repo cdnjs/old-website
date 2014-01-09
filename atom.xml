@@ -10,8 +10,44 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Wed, 08 Jan 2014 20:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2014 14:54:03 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jplayer updated to version 2.5.4]]></title>
+            <description><![CDATA[The jQuery HTML5 Audio / Video Library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jplayer/2.5.4/jquery.jplayer.min.js">//cdnjs.cloudflare.com/ajax/libs/jplayer/2.5.4/jquery.jplayer.min.js</a>]]></description>
+            <link>http://www.jplayer.org/</link>
+            <guid isPermaLink="false">
+                jplayer2.5.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 09 Jan 2014 14:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.lazyload updated to version 1.9.1]]></title>
+            <description><![CDATA[Delay loading of images in long web pages. Images outside of viewport wont be loaded before user scrolls to them.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js</a>]]></description>
+            <link>http://www.appelsiini.net/projects/lazyload</link>
+            <guid isPermaLink="false">
+                jquery.lazyload1.9.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 09 Jan 2014 11:18:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-ui-calendar(0.8.0) was added]]></title>
+            <description><![CDATA[A complete AngularJS directive for the Arshaw FullCalendar.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-ui-calendar/0.8.0/calendar.js">//cdnjs.cloudflare.com/ajax/libs/angular-ui-calendar/0.8.0/calendar.js</a>]]></description>
+            <link>http://angular-ui.github.com</link>
+            <guid isPermaLink="false">
+                angular-ui-calendar0.8.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 09 Jan 2014 08:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bacon.js updated to version 0.7.0]]></title>
+            <description><![CDATA[A small functional reactive programming lib for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.0/Bacon.min.js">//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.0/Bacon.min.js</a>]]></description>
+            <link>http://baconjs.blogspot.com</link>
+            <guid isPermaLink="false">
+                bacon.js0.7.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 09 Jan 2014 04:05:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[cascade-framework updated to version 1.5.0]]></title>
             <description><![CDATA[Cascade Framework puts back the C in CSS. It can be used for modern browsers and older browsers alike. All features of Cascade Framework support Internet Explorer from IE6 upwards or degrade gracefully. With Cascade Framework you no longer have to choose between supporting only modern browsers or downgrading your design.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/cascade-framework/1.5.0/css/build-full.min.css">//cdnjs.cloudflare.com/ajax/libs/cascade-framework/1.5.0/css/build-full.min.css</a>]]></description>
@@ -316,15 +352,6 @@
             <pubDate>Tue, 31 Dec 2013 01:18:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jplayer updated to version 2.5.3]]></title>
-            <description><![CDATA[The jQuery HTML5 Audio / Video Library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jplayer/2.5.3/jquery.jplayer.min.js">//cdnjs.cloudflare.com/ajax/libs/jplayer/2.5.3/jquery.jplayer.min.js</a>]]></description>
-            <link>http://www.jplayer.org/</link>
-            <guid isPermaLink="false">
-                jplayer2.5.3            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 30 Dec 2013 19:00:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[respond.js updated to version 1.4.2]]></title>
             <description><![CDATA[A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more).<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js">//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js</a>]]></description>
             <link>https://github.com/scottjehl/Respond</link>
@@ -421,15 +448,6 @@
                 string.js1.7.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 28 Dec 2013 14:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[conditionizr.js updated to version 4.1.0]]></title>
-            <description><![CDATA[Detecting front-end environments and conditionally loading assets. Retina, touch, legacy IE, modern browsers, custom tests.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/conditionizr.js/4.1.0/conditionizr.min.js">//cdnjs.cloudflare.com/ajax/libs/conditionizr.js/4.1.0/conditionizr.min.js</a>]]></description>
-            <link>http://conditionizr.com</link>
-            <guid isPermaLink="false">
-                conditionizr.js4.1.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 25 Dec 2013 20:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
