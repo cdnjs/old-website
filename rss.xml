@@ -10,8 +10,105 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Mon, 06 Jan 2014 16:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2014 20:48:07 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[cascade-framework updated to version 1.5.0]]></title>
+            <description><![CDATA[Cascade Framework puts back the C in CSS. It can be used for modern browsers and older browsers alike. All features of Cascade Framework support Internet Explorer from IE6 upwards or degrade gracefully. With Cascade Framework you no longer have to choose between supporting only modern browsers or downgrading your design.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/cascade-framework/1.5.0/css/build-full.min.css">//cdnjs.cloudflare.com/ajax/libs/cascade-framework/1.5.0/css/build-full.min.css</a>]]></description>
+            <link>http://cascade-framework.com/</link>
+            <guid isPermaLink="false">
+                cascade-framework1.5.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 08 Jan 2014 14:23:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rimg updated to version 1.5.0]]></title>
+            <description><![CDATA[A responsive image solution for browsers that support mediaqueries (and IE8 support). Pure javascript and no server-side code..<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rimg/1.5.0/rimg.min.js">//cdnjs.cloudflare.com/ajax/libs/rimg/1.5.0/rimg.min.js</a>]]></description>
+            <link>http://joeyvandijk.github.io/rimg</link>
+            <guid isPermaLink="false">
+                rimg1.5.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 08 Jan 2014 14:18:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[wuzzle updated to version 1.0.0]]></title>
+            <description><![CDATA[Responsive, minimal and customizable grid system<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/wuzzle/1.0.0/wuzzle.css">//cdnjs.cloudflare.com/ajax/libs/wuzzle/1.0.0/wuzzle.css</a>]]></description>
+            <guid isPermaLink="false">
+                wuzzle1.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 08 Jan 2014 12:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sanitize.css updated to version 1.0.1]]></title>
+            <description><![CDATA[Minimal CSS normalization library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sanitize.css/1.0.1/sanitize.css">//cdnjs.cloudflare.com/ajax/libs/sanitize.css/1.0.1/sanitize.css</a>]]></description>
+            <guid isPermaLink="false">
+                sanitize.css1.0.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 08 Jan 2014 12:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[annyang updated to version 1.1.0]]></title>
+            <description><![CDATA[A javascript library for adding voice commands to your site, using speech recognition<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/annyang/1.1.0/annyang.min.js">//cdnjs.cloudflare.com/ajax/libs/annyang/1.1.0/annyang.min.js</a>]]></description>
+            <link>https://www.talater.com/annyang/</link>
+            <guid isPermaLink="false">
+                annyang1.1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 07 Jan 2014 20:45:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.lazyloadxt updated to version 0.8.10]]></title>
+            <description><![CDATA[Lazy Load XT is mobile-oriented, fast and extensible jQuery plugin for lazy loading of images, videos and other media with built-in support of jQueryMobile framework. It improves performance of website by loading visible media elements only, and elements below the fold are loaded after page scroll. The plugin has many options, supports callbacks and special lazy events, that allows to have different loading effects (e.g. fade in and spinner effects). Examples of plugin and its addons include ajax, background images, infinite scroll, horizontal scroll, iframe-based widgets (YouTube, Vimeo, Google Maps Engine Lite, Facebook recommend button, Google+ profile), html5 video, responsive images with retina support (srcset and picture polyfills), social widgets (embedded tweet, Twitter share button, Google Plus badge and share button, Facebook like and recommend buttons, Facebook post comments), load all images before print, etc. Tested in IE 6-11, Chrome 1-31, Firefox 1.5-27.0, Safari 3-7, Opera 10.6-18.0, iOS 5-7, Android 2.3-4.4, and WP8. Requires jQuery 1.7+ or Zepto 1.0+.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.lazyloadxt/0.8.10/jquery.lazyloadxt.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.lazyloadxt/0.8.10/jquery.lazyloadxt.min.js</a>]]></description>
+            <link>http://ressio.github.io/lazy-load-xt</link>
+            <guid isPermaLink="false">
+                jquery.lazyloadxt0.8.10            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 07 Jan 2014 20:28:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[portal updated to version 1.1.1]]></title>
+            <description><![CDATA[The Portal is a server agnostic JavaScript library that not just provides a socket for browser-based applications that need two-way communication with servers, but also aims to utilize a full duplex connection for modern web application development.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/portal/1.1.1/portal.min.js">//cdnjs.cloudflare.com/ajax/libs/portal/1.1.1/portal.min.js</a>]]></description>
+            <link>http://flowersinthesand.github.io/portal/</link>
+            <guid isPermaLink="false">
+                portal1.1.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 07 Jan 2014 15:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[colors updated to version 1.0]]></title>
+            <description><![CDATA[A nicer color palette for the web.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/colors/1.0/colors.min.css">//cdnjs.cloudflare.com/ajax/libs/colors/1.0/colors.min.css</a>]]></description>
+            <link>http://clrs.cc</link>
+            <guid isPermaLink="false">
+                colors1.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 07 Jan 2014 12:45:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[zepto updated to version 1.1.2]]></title>
+            <description><![CDATA[Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/zepto/1.1.2/zepto.min.js">//cdnjs.cloudflare.com/ajax/libs/zepto/1.1.2/zepto.min.js</a>]]></description>
+            <link>http://zeptojs.com</link>
+            <guid isPermaLink="false">
+                zepto1.1.2            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 07 Jan 2014 08:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ember.js updated to version 1.3.0]]></title>
+            <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember.js/1.3.0/ember.min.js">//cdnjs.cloudflare.com/ajax/libs/ember.js/1.3.0/ember.min.js</a>]]></description>
+            <link>http://emberjs.com/</link>
+            <guid isPermaLink="false">
+                ember.js1.3.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 07 Jan 2014 04:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[zurb-ink(1.0.4) was added]]></title>
+            <description><![CDATA[Quickly create responsive HTML emails that work on any device & client. Even Outlook.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/zurb-ink/1.0.4/ink.min.css">//cdnjs.cloudflare.com/ajax/libs/zurb-ink/1.0.4/ink.min.css</a>]]></description>
+            <link>http://zurb.com/ink</link>
+            <guid isPermaLink="false">
+                zurb-ink1.0.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 06 Jan 2014 19:52:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[webuploader updated to version 0.1.0]]></title>
             <description><![CDATA[It's a new file uploader solution, with two runtimes(html5 & flash).<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/webuploader/0.1.0/webuploader.js">//cdnjs.cloudflare.com/ajax/libs/webuploader/0.1.0/webuploader.js</a>]]></description>
@@ -20,15 +117,6 @@
                 webuploader0.1.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 06 Jan 2014 15:50:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.lazyloadxt(0.8.9) was added]]></title>
-            <description><![CDATA[Lazy Load XT is mobile-oriented, fast and extensible jQuery plugin for lazy loading of images, videos and other media with built-in support of jQueryMobile framework. It improves performance of website by loading visible media elements only, and elements below the fold are loaded after page scroll. The plugin has many options, supports callbacks and special lazy events, that allows to have different loading effects (e.g. fade in and spinner effects). Examples of plugin and its addons include ajax, background images, infinite scroll, horizontal scroll, iframe-based widgets (YouTube, Vimeo, Google Maps Engine Lite, Facebook recommend button, Google+ profile), html5 video, responsive images with retina support (srcset and picture polyfills), social widgets (embedded tweet, Twitter share button, Google Plus badge and share button, Facebook like and recommend buttons, Facebook post comments), load all images before print, etc. Tested in IE 6-11, Chrome 1-31, Firefox 1.5-27.0, Safari 3-7, Opera 10.6-18.0, iOS 5-7, Android 2.3-4.4, and WP8. Requires jQuery 1.7+ or Zepto 1.0+.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.lazyloadxt/0.8.9/jquery.lazyloadxt.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.lazyloadxt/0.8.9/jquery.lazyloadxt.min.js</a>]]></description>
-            <link>http://ressio.github.io/lazy-load-xt</link>
-            <guid isPermaLink="false">
-                jquery.lazyloadxt0.8.9            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 06 Jan 2014 15:10:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[holder updated to version 2.2.0]]></title>
@@ -101,14 +189,6 @@
                 backbone.obscura0.1.5            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 04 Jan 2014 18:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sanitize.css updated to version 1.0.1]]></title>
-            <description><![CDATA[Minimal CSS normalization library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sanitize.css/1.0.1/sanitize.css">//cdnjs.cloudflare.com/ajax/libs/sanitize.css/1.0.1/sanitize.css</a>]]></description>
-            <guid isPermaLink="false">
-                sanitize.css1.0.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 04 Jan 2014 15:45:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[hammer.js updated to version 1.0.6]]></title>
@@ -343,14 +423,6 @@
             <pubDate>Sat, 28 Dec 2013 14:24:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[wuzzle(1.0.0) was added]]></title>
-            <description><![CDATA[Responsive, minimal and customizable grid system<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/wuzzle/1.0.0/wuzzle.css">//cdnjs.cloudflare.com/ajax/libs/wuzzle/1.0.0/wuzzle.css</a>]]></description>
-            <guid isPermaLink="false">
-                wuzzle1.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 28 Dec 2013 14:11:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[conditionizr.js updated to version 4.1.0]]></title>
             <description><![CDATA[Detecting front-end environments and conditionally loading assets. Retina, touch, legacy IE, modern browsers, custom tests.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/conditionizr.js/4.1.0/conditionizr.min.js">//cdnjs.cloudflare.com/ajax/libs/conditionizr.js/4.1.0/conditionizr.min.js</a>]]></description>
             <link>http://conditionizr.com</link>
@@ -358,59 +430,6 @@
                 conditionizr.js4.1.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 25 Dec 2013 20:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-scrollTo updated to version 1.4.7]]></title>
-            <description><![CDATA[A small, customizable plugin for scrolling elements, or the window itself.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.7/jquery.scrollTo.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.7/jquery.scrollTo.min.js</a>]]></description>
-            <link>https://github.com/flesler/jquery.scrollTo</link>
-            <guid isPermaLink="false">
-                jquery-scrollTo1.4.7            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 24 Dec 2013 22:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-smooth-scroll updated to version 1.4.13]]></title>
-            <description><![CDATA[Automatically make same-page links scroll smoothly<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-smooth-scroll/1.4.13/jquery.smooth-scroll.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-smooth-scroll/1.4.13/jquery.smooth-scroll.min.js</a>]]></description>
-            <guid isPermaLink="false">
-                jquery-smooth-scroll1.4.13            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 24 Dec 2013 22:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[angular-bindonce(0.2.2) was added]]></title>
-            <description><![CDATA[Zero watchers binding directives for AngularJS<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-bindonce/0.2.2/angular-bindonce.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-bindonce/0.2.2/angular-bindonce.min.js</a>]]></description>
-            <link>https://github.com/Pasvaz/bindonce</link>
-            <guid isPermaLink="false">
-                angular-bindonce0.2.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 24 Dec 2013 13:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bootstrap-switch updated to version 2.0.0]]></title>
-            <description><![CDATA[Turn checkboxes and radio buttons in toggle switches.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/2.0.0/js/bootstrap-switch.min.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/2.0.0/js/bootstrap-switch.min.js</a>]]></description>
-            <link>http://www.bootstrap-switch.org</link>
-            <guid isPermaLink="false">
-                bootstrap-switch2.0.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 24 Dec 2013 11:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iCheck(1.0.1) was added]]></title>
-            <description><![CDATA[Highly customizable checkboxes and radio buttons (jQuery and Zepto). Features: identical inputs across different browsers and devices (both desktop and mobile), touch devices support (iOS, Android, BlackBerry, Windows Phone, Amazon Kindle), keyboard accessible inputs (Tab, Spacebar, Arrow up/down and other shortcuts), screenreader accessible inputs — (ARIA attributes for VoiceOver and others), customization freedom (use any HTML and CSS to style inputs or try 6 Retina-ready skins), lightweight size (1 kb gzipped). Provides 32 options to customize checkboxes and radio buttons, 11 callbacks to handle changes, 9 methods to make changes programmatically. Saves changes to original inputs, works carefully with any selectors.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.1/icheck.min.js">//cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.1/icheck.min.js</a>]]></description>
-            <link>http://fronteed.com/iCheck/</link>
-            <guid isPermaLink="false">
-                iCheck1.0.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 24 Dec 2013 01:55:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[es5-shim updated to version 2.2.0]]></title>
-            <description><![CDATA[Provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/es5-shim/2.2.0/es5-shim.min.js">//cdnjs.cloudflare.com/ajax/libs/es5-shim/2.2.0/es5-shim.min.js</a>]]></description>
-            <link>https://github.com/kriskowal/es5-shim</link>
-            <guid isPermaLink="false">
-                es5-shim2.2.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 23 Dec 2013 18:56:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

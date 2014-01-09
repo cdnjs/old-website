@@ -50,7 +50,6 @@ var request2 = http.get("http://s3.amazonaws.com/cdnjs-artifacts/rss", function(
 var makeLibraryPages = function(packages, indexTemplate) {
   var packageTemplate = fs.readFileSync('package.template.html', 'utf8');
   _.each(packages, function(package) {
-    console.log(package);
     if(!fs.existsSync('libraries/' + package.name)) {
       fs.mkdirSync('libraries/' + package.name);
     }
@@ -58,5 +57,6 @@ var makeLibraryPages = function(packages, indexTemplate) {
     var packagePage = _.template(indexTemplate, {page: packageFile, package: package});
 
     fs.writeFileSync('libraries/' + package.name + '/index.html', packagePage, 'utf8');
-  })
+  });
+  console.log('Success!');
 };
