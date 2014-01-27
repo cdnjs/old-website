@@ -10,8 +10,26 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Fri, 24 Jan 2014 17:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2014 04:00:21 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[speakingurl updated to version 0.8.4]]></title>
+            <description><![CDATA[Generate a slug with a lot of options; create of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' from a string.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.8.4/speakingurl.min.js">//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.8.4/speakingurl.min.js</a>]]></description>
+            <link>http://pid.github.io/speakingurl/</link>
+            <guid isPermaLink="false">
+                speakingurl0.8.4            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Jan 2014 23:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone.marionette updated to version 1.5.1-bundled]]></title>
+            <description><![CDATA[Make your Backbone.js apps dance with a composite application architecture!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.5.1-bundled/backbone.marionette.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.5.1-bundled/backbone.marionette.min.js</a>]]></description>
+            <link>http://github.com/marionettejs/backbone.marionette</link>
+            <guid isPermaLink="false">
+                backbone.marionette1.5.1-bundled            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 25 Jan 2014 16:40:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[leaflet updated to version 0.7.2]]></title>
             <description><![CDATA[Leaflet is a modern open-source JavaScript library for mobile-friendly interactive maps.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.js">//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.js</a>]]></description>
@@ -22,6 +40,15 @@
             <pubDate>Fri, 24 Jan 2014 10:50:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[jade updated to version 1.1.5]]></title>
+            <description><![CDATA[Jade template engine<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jade/1.1.5/jade.min.js">//cdnjs.cloudflare.com/ajax/libs/jade/1.1.5/jade.min.js</a>]]></description>
+            <link>http://jade-lang.com/</link>
+            <guid isPermaLink="false">
+                jade1.1.5            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 24 Jan 2014 08:56:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[spin.js updated to version 1.3.3]]></title>
             <description><![CDATA[An animated CSS3 loading spinner with VML fallback for IE.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/spin.js/1.3.3/spin.min.js">//cdnjs.cloudflare.com/ajax/libs/spin.js/1.3.3/spin.min.js</a>]]></description>
             <link>http://fgnass.github.com/spin.js/</link>
@@ -29,6 +56,15 @@
                 spin.js1.3.3            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 24 Jan 2014 04:33:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[codemirror updated to version 3.21.0]]></title>
+            <description><![CDATA[In-browser code editing made bearable<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/codemirror/3.21.0/codemirror.min.js">//cdnjs.cloudflare.com/ajax/libs/codemirror/3.21.0/codemirror.min.js</a>]]></description>
+            <link>http://codemirror.net</link>
+            <guid isPermaLink="false">
+                codemirror3.21.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 24 Jan 2014 02:45:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[zeroclipboard updated to version 1.3.1]]></title>
@@ -93,6 +129,15 @@
             <pubDate>Fri, 24 Jan 2014 02:37:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[hogan.js updated to version 3.0.0]]></title>
+            <description><![CDATA[A mustache compiler.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/hogan.js/3.0.0/hogan.js">//cdnjs.cloudflare.com/ajax/libs/hogan.js/3.0.0/hogan.js</a>]]></description>
+            <link>http://twitter.github.com/hogan.js/</link>
+            <guid isPermaLink="false">
+                hogan.js3.0.0            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 23 Jan 2014 23:46:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[angular.js updated to version 1.2.9]]></title>
             <description><![CDATA[AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.9/angular.min.js">//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.9/angular.min.js</a>]]></description>
             <link>http://angularjs.org</link>
@@ -138,6 +183,15 @@
             <pubDate>Thu, 23 Jan 2014 07:49:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[d3 updated to version 3.4.1]]></title>
+            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js</a>]]></description>
+            <link>http://mbostock.github.com/d3/</link>
+            <guid isPermaLink="false">
+                d33.4.1            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 23 Jan 2014 02:49:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[bootstrap-social(4.0.6) was added]]></title>
             <description><![CDATA[Social Sign-In Buttons for Bootstrap<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.0.6/bootstrap-social.min.css">//cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.0.6/bootstrap-social.min.css</a>]]></description>
             <link>http://lipis.github.io/bootstrap-social/</link>
@@ -172,6 +226,15 @@
                 jquery.simpleWeather2.4.0            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 22 Jan 2014 19:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sizzle updated to version 1.10.17]]></title>
+            <description><![CDATA[A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sizzle/1.10.17/sizzle.min.js">//cdnjs.cloudflare.com/ajax/libs/sizzle/1.10.17/sizzle.min.js</a>]]></description>
+            <link>http://sizzlejs.com/</link>
+            <guid isPermaLink="false">
+                sizzle1.10.17            </guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 22 Jan 2014 17:05:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[highcharts updated to version 3.0.9]]></title>
@@ -424,15 +487,6 @@
             <pubDate>Wed, 15 Jan 2014 20:31:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sizzle updated to version 1.10.16]]></title>
-            <description><![CDATA[A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sizzle/1.10.16/sizzle.min.js">//cdnjs.cloudflare.com/ajax/libs/sizzle/1.10.16/sizzle.min.js</a>]]></description>
-            <link>http://sizzlejs.com/</link>
-            <guid isPermaLink="false">
-                sizzle1.10.16            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 15 Jan 2014 05:42:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ember.js updated to version 1.3.1]]></title>
             <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember.js/1.3.1/ember.min.js">//cdnjs.cloudflare.com/ajax/libs/ember.js/1.3.1/ember.min.js</a>]]></description>
             <link>http://emberjs.com/</link>
@@ -458,87 +512,6 @@
                 dropzone3.8.2            </guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 13 Jan 2014 12:39:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[less.js updated to version 1.6.1]]></title>
-            <description><![CDATA[LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. LESS runs on both the client-side (IE 6+, Webkit, Firefox) and server-side, with Node.js.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/less.js/1.6.1/less.min.js">//cdnjs.cloudflare.com/ajax/libs/less.js/1.6.1/less.min.js</a>]]></description>
-            <link>http://lesscss.org/</link>
-            <guid isPermaLink="false">
-                less.js1.6.1            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 13 Jan 2014 03:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[flot updated to version 0.8.2]]></title>
-            <description><![CDATA[Attractive Javascript plotting for jQuery<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/flot/0.8.2/jquery.flot.min.js">//cdnjs.cloudflare.com/ajax/libs/flot/0.8.2/jquery.flot.min.js</a>]]></description>
-            <link>http://flotcharts.org/</link>
-            <guid isPermaLink="false">
-                flot0.8.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 13 Jan 2014 03:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[d3 updated to version 3.4.0]]></title>
-            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.0/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.4.0/d3.min.js</a>]]></description>
-            <link>http://mbostock.github.com/d3/</link>
-            <guid isPermaLink="false">
-                d33.4.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 13 Jan 2014 02:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blueimp-file-upload(9.5.2) was added]]></title>
-            <description><![CDATA[File Upload widget with multiple file selection, drag&amp;drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/blueimp-file-upload/9.5.2/jquery.fileupload.js">//cdnjs.cloudflare.com/ajax/libs/blueimp-file-upload/9.5.2/jquery.fileupload.js</a>]]></description>
-            <link>https://github.com/blueimp/jQuery-File-Upload</link>
-            <guid isPermaLink="false">
-                blueimp-file-upload9.5.2            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 12 Jan 2014 20:13:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-form-validator updated to version 2.1.38]]></title>
-            <description><![CDATA[This plugin makes it easy to validate user input while keeping your HTML markup clean from javascript code. Even though this plugin has a wide range of validation functions it's designed to require as little bandwidth as possible. This is achieved by grouping together validation functions in "modules", making it possible for the programmer to load only those functions that's needed to validate a particular form.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.38/jquery.form-validator.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.38/jquery.form-validator.min.js</a>]]></description>
-            <link>http://formvalidator.net</link>
-            <guid isPermaLink="false">
-                jquery-form-validator2.1.38            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 12 Jan 2014 11:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ember-data.js updated to version 1.0.0-beta.5]]></title>
-            <description><![CDATA[A data persistence library for Ember.js.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember-data.js/1.0.0-beta.5/ember-data.min.js">//cdnjs.cloudflare.com/ajax/libs/ember-data.js/1.0.0-beta.5/ember-data.min.js</a>]]></description>
-            <link>https://github.com/emberjs/data</link>
-            <guid isPermaLink="false">
-                ember-data.js1.0.0-beta.5            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 12 Jan 2014 03:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[semantic-ui updated to version 0.12.0]]></title>
-            <description><![CDATA[Semantic empowers designers and developers by creating a language for sharing UI<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.12.0/javascript/semantic.min.js">//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.12.0/javascript/semantic.min.js</a>]]></description>
-            <link>http://semantic-ui.com/</link>
-            <guid isPermaLink="false">
-                semantic-ui0.12.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 11 Jan 2014 22:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pusher updated to version 2.1.6]]></title>
-            <description><![CDATA[Pusher Javascript library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pusher/2.1.6/pusher.min.js">//cdnjs.cloudflare.com/ajax/libs/pusher/2.1.6/pusher.min.js</a>]]></description>
-            <link>http://pusher.com/</link>
-            <guid isPermaLink="false">
-                pusher2.1.6            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 11 Jan 2014 20:57:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bacon.js updated to version 0.7.0]]></title>
-            <description><![CDATA[A small functional reactive programming lib for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.0/Bacon.min.js">//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.0/Bacon.min.js</a>]]></description>
-            <link>http://baconjs.blogspot.com</link>
-            <guid isPermaLink="false">
-                bacon.js0.7.0            </guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 10 Jan 2014 23:25:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
