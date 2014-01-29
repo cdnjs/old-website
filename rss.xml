@@ -10,8 +10,24 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Tue, 28 Jan 2014 18:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2014 12:20:20 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jquery-mobile updated to version 1.4.0]]></title>
+            <description><![CDATA[A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.0/jquery.mobile.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.0/jquery.mobile.min.js</a>]]></description>
+            <link>http://jquerymobile.com/</link>
+            <guid isPermaLink="false">jquery-mobile1.4.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2014 11:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-contextmenu(1.6.5) was added]]></title>
+            <description><![CDATA[The contextMenu jQuery plugin was designed for web applications in need of menus on a possibly large amount of objects<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-contextmenu/1.6.5/jquery.contextMenu.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-contextmenu/1.6.5/jquery.contextMenu.min.js</a>]]></description>
+            <link>http://medialize.github.io/jQuery-contextMenu/</link>
+            <guid isPermaLink="false">jquery-contextmenu1.6.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2014 01:32:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[normalize updated to version 3.0.0]]></title>
             <description><![CDATA[Normalize.css makes browsers render all elements consistently and in line with modern standards.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.0/normalize.min.css">//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.0/normalize.min.css</a>]]></description>
