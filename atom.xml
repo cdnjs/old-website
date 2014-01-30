@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Thu, 30 Jan 2014 17:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2014 19:14:24 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[twitter-bootstrap updated to version 3.1.0]]></title>
@@ -474,6 +474,14 @@
             <guid isPermaLink="false">sanitize.css1.0.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 19 Jan 2014 22:31:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[paypaljsbuttons(1.0.2) was added]]></title>
+            <description><![CDATA[JavaScript integration for PayPal's payment buttons<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/paypaljsbuttons/1.0.2/paypal-button-minicart.min.js">//cdnjs.cloudflare.com/ajax/libs/paypaljsbuttons/1.0.2/paypal-button-minicart.min.js</a>]]></description>
+            <link>http://paypal.github.io/JavaScriptButtons</link>
+            <guid isPermaLink="false">paypaljsbuttons1.0.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 19 Jan 2014 07:22:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[gsap updated to version 1.11.4]]></title>
