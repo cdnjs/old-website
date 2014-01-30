@@ -10,8 +10,24 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Thu, 30 Jan 2014 01:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2014 17:51:35 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[twitter-bootstrap updated to version 3.1.0]]></title>
+            <description><![CDATA[Javascript plugins for the Twitter Bootstrap toolkit<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.0/js/bootstrap.min.js">//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.0/js/bootstrap.min.js</a>]]></description>
+            <link>http://getbootstrap.com/</link>
+            <guid isPermaLink="false">twitter-bootstrap3.1.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 30 Jan 2014 17:39:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[holder updated to version 2.3.0]]></title>
+            <description><![CDATA[Holder uses the canvas element and the data URI scheme to render image placeholders entirely in browser.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/holder/2.3.0/holder.js">//cdnjs.cloudflare.com/ajax/libs/holder/2.3.0/holder.js</a>]]></description>
+            <link>http://imsky.github.io/holder/</link>
+            <guid isPermaLink="false">holder2.3.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 30 Jan 2014 16:33:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[luminateExtend updated to version 1.6.0]]></title>
             <description><![CDATA[A JavaScript library for use with the Luminate Online product suite and API.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/luminateExtend/1.6.0/luminateExtend.js">//cdnjs.cloudflare.com/ajax/libs/luminateExtend/1.6.0/luminateExtend.js</a>]]></description>
@@ -75,6 +91,14 @@
             <guid isPermaLink="false">jquery-mobile1.4.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 29 Jan 2014 11:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jasmine updated to version 2.0.0]]></title>
+            <description><![CDATA[DOM-less simple JavaScript testing framework<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jasmine/2.0.0/jasmine.js">//cdnjs.cloudflare.com/ajax/libs/jasmine/2.0.0/jasmine.js</a>]]></description>
+            <link>http://jasmine.github.io/</link>
+            <guid isPermaLink="false">jasmine2.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2014 09:21:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery-contextmenu(1.6.5) was added]]></title>
@@ -171,6 +195,14 @@
             <guid isPermaLink="false">bootstrap-tour0.8.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 26 Jan 2014 09:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ember-data.js updated to version 1.0.0-beta.6]]></title>
+            <description><![CDATA[A data persistence library for Ember.js.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember-data.js/1.0.0-beta.6/ember-data.min.js">//cdnjs.cloudflare.com/ajax/libs/ember-data.js/1.0.0-beta.6/ember-data.min.js</a>]]></description>
+            <link>https://github.com/emberjs/data</link>
+            <guid isPermaLink="false">ember-data.js1.0.0-beta.6</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Jan 2014 02:06:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery.nanoscroller updated to version 0.7.6]]></title>
@@ -520,22 +552,6 @@
             <guid isPermaLink="false">foundation5.0.3</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 16 Jan 2014 22:34:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-browser(0.0.5) was added]]></title>
-            <description><![CDATA[A jQuery plugin for browser detection.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-browser/0.0.5/jquery.browser.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-browser/0.0.5/jquery.browser.min.js</a>]]></description>
-            <link>https://github.com/gabceb/jquery-browser-plugin</link>
-            <guid isPermaLink="false">jquery-browser0.0.5</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 16 Jan 2014 05:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[qunit updated to version 1.13.0]]></title>
-            <description><![CDATA[An easy-to-use JavaScript Unit Testing framework.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/qunit/1.13.0/qunit.min.js">//cdnjs.cloudflare.com/ajax/libs/qunit/1.13.0/qunit.min.js</a>]]></description>
-            <link>http://qunitjs.com/</link>
-            <guid isPermaLink="false">qunit1.13.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 16 Jan 2014 05:21:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
