@@ -10,8 +10,64 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>NodeJS RSS Module</generator>
-        <lastBuildDate>Wed, 29 Jan 2014 12:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2014 01:20:04 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[luminateExtend updated to version 1.6.0]]></title>
+            <description><![CDATA[A JavaScript library for use with the Luminate Online product suite and API.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/luminateExtend/1.6.0/luminateExtend.js">//cdnjs.cloudflare.com/ajax/libs/luminateExtend/1.6.0/luminateExtend.js</a>]]></description>
+            <link>https://github.com/noahcooper/luminateExtend</link>
+            <guid isPermaLink="false">luminateExtend1.6.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2014 23:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[restangular updated to version 1.3.1]]></title>
+            <description><![CDATA[Restfull Resources service for AngularJS apps<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/restangular/1.3.1/restangular.min.js">//cdnjs.cloudflare.com/ajax/libs/restangular/1.3.1/restangular.min.js</a>]]></description>
+            <link>https://github.com/mgonto/restangular</link>
+            <guid isPermaLink="false">restangular1.3.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2014 22:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[polymer updated to version 0.1.4]]></title>
+            <description><![CDATA[Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.4/polymer.js">//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.4/polymer.js</a>]]></description>
+            <link>http://polymer-project.org/</link>
+            <guid isPermaLink="false">polymer0.1.4</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2014 22:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backbone-pageable updated to version 1.4.5]]></title>
+            <description><![CDATA[A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.4.5/backbone-pageable.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.4.5/backbone-pageable.min.js</a>]]></description>
+            <link>https://github.com/backbone-paginator/backbone-pageable</link>
+            <guid isPermaLink="false">backbone-pageable1.4.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2014 18:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jsoneditor updated to version 2.3.6]]></title>
+            <description><![CDATA[JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in formatted plain text.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsoneditor/2.3.6/jsoneditor-min.js">//cdnjs.cloudflare.com/ajax/libs/jsoneditor/2.3.6/jsoneditor-min.js</a>]]></description>
+            <link>http://jsoneditoronline.org</link>
+            <guid isPermaLink="false">jsoneditor2.3.6</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2014 14:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[social-likes updated to version 2.0.13]]></title>
+            <description><![CDATA[Beautiful like buttons with counters for popular social networks.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.13/social-likes.min.js">//cdnjs.cloudflare.com/ajax/libs/social-likes/2.0.13/social-likes.min.js</a>]]></description>
+            <link>http://sapegin.github.io/social-likes/</link>
+            <guid isPermaLink="false">social-likes2.0.13</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2014 13:22:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ckeditor updated to version 4.3.2]]></title>
+            <description><![CDATA[Ckeditor is the best web text editor for everyone.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ckeditor/4.3.2/ckeditor.js">//cdnjs.cloudflare.com/ajax/libs/ckeditor/4.3.2/ckeditor.js</a>]]></description>
+            <link>http://ckeditor.com/</link>
+            <guid isPermaLink="false">ckeditor4.3.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2014 12:36:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jquery-mobile updated to version 1.4.0]]></title>
             <description><![CDATA[A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.0/jquery.mobile.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.0/jquery.mobile.min.js</a>]]></description>
@@ -91,14 +147,6 @@
             <guid isPermaLink="false">placeholders3.0.2</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 27 Jan 2014 21:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[polymer updated to version 0.1.4]]></title>
-            <description><![CDATA[Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.4/polymer.html">//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.4/polymer.html</a>]]></description>
-            <link>http://polymer-project.org/</link>
-            <guid isPermaLink="false">polymer0.1.4</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 27 Jan 2014 20:16:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[speakingurl updated to version 0.8.4]]></title>
@@ -488,38 +536,6 @@
             <guid isPermaLink="false">qunit1.13.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 16 Jan 2014 05:21:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[string.js updated to version 1.8.0]]></title>
-            <description><![CDATA[string.js contains methods that aren't included in the vanilla JavaScript string such as escaping HTML, decoding HTML entities, stripping tags, etc.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/string.js/1.8.0/string.min.js">//cdnjs.cloudflare.com/ajax/libs/string.js/1.8.0/string.min.js</a>]]></description>
-            <link>http://stringjs.com</link>
-            <guid isPermaLink="false">string.js1.8.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 15 Jan 2014 22:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[signature_pad updated to version 1.3.2]]></title>
-            <description><![CDATA[Library for drawing smooth signatures.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/signature_pad/1.3.2/signature_pad.min.js">//cdnjs.cloudflare.com/ajax/libs/signature_pad/1.3.2/signature_pad.min.js</a>]]></description>
-            <link>https://github.com/szimek/signature_pad</link>
-            <guid isPermaLink="false">signature_pad1.3.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 15 Jan 2014 22:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-scrolldepth updated to version 0.4]]></title>
-            <description><![CDATA[A jQuery plugin to track page scroll depth<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-scrolldepth/0.4/jquery.scrolldepth.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-scrolldepth/0.4/jquery.scrolldepth.min.js</a>]]></description>
-            <link>http://robflaherty.github.io/jquery-scrolldepth/</link>
-            <guid isPermaLink="false">jquery-scrolldepth0.4</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 15 Jan 2014 22:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-scrollTo updated to version 1.4.9]]></title>
-            <description><![CDATA[A small, customizable plugin for scrolling elements, or the window itself.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.9/jquery.scrollTo.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.9/jquery.scrollTo.min.js</a>]]></description>
-            <link>https://github.com/flesler/jquery.scrollTo</link>
-            <guid isPermaLink="false">jquery-scrollTo1.4.9</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 15 Jan 2014 20:31:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
