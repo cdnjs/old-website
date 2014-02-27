@@ -21,7 +21,7 @@ var packages = JSON.parse(fs.readFileSync('packages.json', 'utf8')).packages;
 app.get('/', function(req, res){
 	var results;
 
-	//res.setHeader("Expires", new Date(Date.now() + 5 * 60 * 1000).toUTCString());
+	res.setHeader("Expires", new Date(Date.now() + 360 * 60 * 1000).toUTCString());
 	console.log(req.query);
 	var fields = (req.query.fields && req.query.fields.split(',')) || [];
 	if(req.query.search) {
