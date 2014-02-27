@@ -1,7 +1,6 @@
 var fs = require('fs');
-
-
 var express = require('express');
+var _ = require('lodash');
 var app = express();
 
 var allowCrossDomain = function(req, res, next) {
@@ -15,10 +14,39 @@ var allowCrossDomain = function(req, res, next) {
 app.use(express.bodyParser());
 app.use(allowCrossDomain);
 
+
+var packages = JSON.parse(fs.readFileSync('packages.json', 'utf8')).packages;
+
+
 app.get('/', function(req, res){
-res.setHeader("Expires", new Date(Date.now() + 5 * 60 * 1000).toUTCString());
-  res.send('hello world');
+	var results;
+
+	//res.setHeader("Expires", new Date(Date.now() + 5 * 60 * 1000).toUTCString());
+	console.log(req.query);
+	var fields = (req.query.fields && req.query.fields.split(',')) || [];
+	if(req.query.search) {
+		var search = req.query.search;
+		results = _.filter(packages, function (package) {
+			console.log(package.name.toLowerCase(), search.toLowerCase())
+			return package.name.toLowerCase().indexOf(search.toLowerCase()) === -1 ? false : true;
+		});
+	}
+	results = _.map(results, function (package) {
+		var data = {
+			name: package.name,
+			latest: 'http://cdnjs.cloudflare.com/ajax/libs/' + package.name + '/' + package.version + '/' + package.filename
+		};
+
+		_.each(fields, function(field){
+			data[field] = package[field] || null;
+		});
+		return data;
+	});
+  res.jsonp({ 
+  	results: results,
+  	total: results.length
+  });
 });
-var port = process.env.PORT || 5000;
+var port = process.env.PORT || 5050;
 
 app.listen(port);
