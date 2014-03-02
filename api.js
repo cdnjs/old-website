@@ -30,6 +30,8 @@ app.get('/libraries', function(req, res){
 			console.log(package.name.toLowerCase(), search.toLowerCase())
 			return package.name.toLowerCase().indexOf(search.toLowerCase()) === -1 ? false : true;
 		});
+	} else {
+		results = _.filter(packages, function() {return package});
 	}
 	results = _.map(results, function (package) {
 		var data = {
