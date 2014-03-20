@@ -6,12 +6,13 @@ echo Getting latest website changes...
 git pull
 
 echo npm install for good mesure
-npm install
+/usr/local/bin/npm install
 
 echo Re-generating website...
-node build.js
+/usr/local/bin/node build.js
 
 echo Uploading website...
 git add .
 git commit -am "Updated packages."
 git push
+
