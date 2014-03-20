@@ -1,3 +1,23 @@
+var Hipchat = require('node-hipchat');
+
+var HC = new Hipchat(process.env.HIPCHAT);
+var hipchat = {
+  message: function(color, message) {
+    if (process.env.HIPCHAT) {
+      var params = {
+        room: 165440,
+        from: 'Website Build',
+        message: message,
+        color: color,
+        notify: 0
+      };
+      HC.postMessage(params, function(data) {});
+    } else {
+      console.log('No Hipchat API Key');
+    }
+  }
+};
+hipchat.message('Gray', 'Building website');
 var superagent = require('superagent');
 var _ = require('underscore');
 var fs = require('fs');
@@ -60,4 +80,5 @@ var makeLibraryPages = function(packages, indexTemplate) {
     fs.writeFileSync('libraries/' + package.name + '/index.html', packagePage, 'utf8');
   });
   console.log('Success!');
+  hipchat.message('green', 'Website built succesfully, deploying now');
 };
