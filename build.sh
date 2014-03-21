@@ -1,7 +1,7 @@
 #!/bin/sh
 # Exit if any errors
 set -e
-
+cd /root/website
 echo Getting latest website changes...
 git pull
 
