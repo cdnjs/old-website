@@ -10,10 +10,66 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Mar 2014 03:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2014 03:42:25 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[mithril updated to version 0.1.1]]></title>
+            <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js</a>]]></description>
+            <link>http://lhorie.github.io/mithril</link>
+            <guid isPermaLink="false">mithril0.1.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 22 Mar 2014 03:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[react updated to version 0.10.0]]></title>
+            <description><![CDATA[React is a JavaScript library for building user interfaces.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/react/0.10.0/react.min.js">//cdnjs.cloudflare.com/ajax/libs/react/0.10.0/react.min.js</a>]]></description>
+            <link>http://facebook.github.io/react</link>
+            <guid isPermaLink="false">react0.10.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 21 Mar 2014 22:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bootstrap-social updated to version 4.2.1]]></title>
+            <description><![CDATA[Social Buttons for Bootstrap<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.2.1/bootstrap-social.min.css">//cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.2.1/bootstrap-social.min.css</a>]]></description>
+            <link>http://lipis.github.io/bootstrap-social/</link>
+            <guid isPermaLink="false">bootstrap-social4.2.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 21 Mar 2014 22:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[p5.js updated to version 0.2.0]]></title>
+            <description><![CDATA[p5.js is a JavaScript client-side library for creating graphic and interactive experiences, using canvas and HTML5, based on the core principles of Processing.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.0/p5.min.js">//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.0/p5.min.js</a>]]></description>
+            <link>http://p5js.org</link>
+            <guid isPermaLink="false">p5.js0.2.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 21 Mar 2014 02:18:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[zeroclipboard updated to version 1.3.3]]></title>
+            <description><![CDATA[The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/1.3.3/ZeroClipboard.min.js">//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/1.3.3/ZeroClipboard.min.js</a>]]></description>
+            <link>http://zeroclipboard.org/</link>
+            <guid isPermaLink="false">zeroclipboard1.3.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 21 Mar 2014 00:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jstree updated to version 3.0.0-beta10]]></title>
+            <description><![CDATA[jQuery tree plugin<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jstree/3.0.0-beta10/jstree.min.js">//cdnjs.cloudflare.com/ajax/libs/jstree/3.0.0-beta10/jstree.min.js</a>]]></description>
+            <link>http://jstree.com</link>
+            <guid isPermaLink="false">jstree3.0.0-beta10</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Mar 2014 19:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[xls updated to version 0.6.10]]></title>
+            <description><![CDATA[Javascript XLS (Excel 97-2004) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xls/0.6.10/xls.js">//cdnjs.cloudflare.com/ajax/libs/xls/0.6.10/xls.js</a>]]></description>
+            <link>https://github.com/SheetJS/js-xls</link>
+            <guid isPermaLink="false">xls0.6.10</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Mar 2014 06:34:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[xlsx updated to version 0.5.11]]></title>
             <description><![CDATA[Javascript XLSX / XLSM / XLSB (Excel 2007+) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.11/xlsx.js">//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.11/xlsx.js</a>]]></description>
@@ -53,14 +109,6 @@
             <guid isPermaLink="false">rxjs2.2.17</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 18 Mar 2014 23:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[zeroclipboard updated to version 1.3.3]]></title>
-            <description><![CDATA[The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/1.3.3/ZeroClipboard.min.js">//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/1.3.3/ZeroClipboard.min.js</a>]]></description>
-            <link>http://zeroclipboard.org/</link>
-            <guid isPermaLink="false">zeroclipboard1.3.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 18 Mar 2014 21:44:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[cytoscape updated to version 2.2.1]]></title>
@@ -379,7 +427,7 @@
             <pubDate>Sat, 08 Mar 2014 15:06:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[responsive-nav.js updated to version 1.0.32]]></title>
+            <title><![CDATA[responsive-nav.js(1.0.32) was added]]></title>
             <description><![CDATA[Responsive navigation plugin without library dependencies and with fast touch screen support<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/responsive-nav.js/1.0.32/responsive-nav.min.js">//cdnjs.cloudflare.com/ajax/libs/responsive-nav.js/1.0.32/responsive-nav.min.js</a>]]></description>
             <link>http://responsive-nav.com/</link>
             <guid isPermaLink="false">responsive-nav.js1.0.32</guid>
@@ -387,12 +435,12 @@
             <pubDate>Sat, 08 Mar 2014 15:05:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ink updated to version 2.3.1]]></title>
+            <title><![CDATA[ink(2.3.1) was added]]></title>
             <description><![CDATA[An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ink/2.3.1/js/ink-all.min.js">//cdnjs.cloudflare.com/ajax/libs/ink/2.3.1/js/ink-all.min.js</a>]]></description>
             <link>http://ink.sapo.pt/</link>
             <guid isPermaLink="false">ink2.3.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2014 15:03:53 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2014 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery-infinitescroll updated to version 2.0b2.120519]]></title>
@@ -401,93 +449,6 @@
             <guid isPermaLink="false">jquery-infinitescroll2.0b2.120519</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 08 Mar 2014 14:45:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[require.js updated to version 2.1.11]]></title>
-            <description><![CDATA[RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.11/require.min.js">//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.11/require.min.js</a>]]></description>
-            <link>http://requirejs.org/</link>
-            <guid isPermaLink="false">require.js2.1.11</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2014 03:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sugar updated to version 1.4.1]]></title>
-            <description><![CDATA[Sugar is a Javascript library that extends native objects with helpful methods. It is designed to be intuitive, unobtrusive, and let you do more with less code.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sugar/1.4.1/sugar.min.js">//cdnjs.cloudflare.com/ajax/libs/sugar/1.4.1/sugar.min.js</a>]]></description>
-            <link>http://sugarjs.com/</link>
-            <guid isPermaLink="false">sugar1.4.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 07 Mar 2014 15:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[vis updated to version 0.7.0]]></title>
-            <description><![CDATA[A dynamic, browser-based visualization library.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/vis/0.7.0/vis.min.js">//cdnjs.cloudflare.com/ajax/libs/vis/0.7.0/vis.min.js</a>]]></description>
-            <link>http://visjs.org/</link>
-            <guid isPermaLink="false">vis0.7.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 07 Mar 2014 15:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[json5(0.3.0) was added]]></title>
-            <description><![CDATA[Modern JSON for the ES5 era<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/json5/0.3.0/json5.min.js">//cdnjs.cloudflare.com/ajax/libs/json5/0.3.0/json5.min.js</a>]]></description>
-            <link>http://json5.org</link>
-            <guid isPermaLink="false">json50.3.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2014 22:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chai(1.9.0) was added]]></title>
-            <description><![CDATA[BDD/TDD assertion library for node.js and the browser. Test framework agnostic.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chai/1.9.0/chai.js">//cdnjs.cloudflare.com/ajax/libs/chai/1.9.0/chai.js</a>]]></description>
-            <link>http://chaijs.com</link>
-            <guid isPermaLink="false">chai1.9.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2014 19:56:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[vue updated to version 0.9.3]]></title>
-            <description><![CDATA[Simple, Fast & Composable MVVM for building interative interfaces<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/vue/0.9.3/vue.min.js">//cdnjs.cloudflare.com/ajax/libs/vue/0.9.3/vue.min.js</a>]]></description>
-            <link>http://vuejs.org</link>
-            <guid isPermaLink="false">vue0.9.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2014 19:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sprintf updated to version 0.0.7]]></title>
-            <description><![CDATA[JavaScript sprintf implementation<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sprintf/0.0.7/sprintf.min.js">//cdnjs.cloudflare.com/ajax/libs/sprintf/0.0.7/sprintf.min.js</a>]]></description>
-            <guid isPermaLink="false">sprintf0.0.7</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2014 19:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.lazyloadxt updated to version 1.0.2]]></title>
-            <description><![CDATA[Lazy Load XT is mobile-oriented, fast and extensible jQuery plugin for lazy loading of images, videos and other media with built-in support of jQueryMobile framework. It improves performance of website by loading visible media elements only, and elements below the fold are loaded after page scroll. The plugin has many options, supports callbacks and special lazy events, that allows to have different loading effects (e.g. fade in and spinner effects). Examples of plugin and its addons include ajax, background images, infinite scroll, horizontal scroll, iframe-based widgets (YouTube, Vimeo, Google Maps Engine Lite, Facebook recommend button, Google+ profile), html5 video, responsive images with retina support (srcset and picture polyfills), social widgets (embedded tweet, Twitter share button, Google Plus badge and share button, Facebook like and recommend buttons, Facebook post comments), load all images before print, etc. Tested in IE 6-11, Chrome 1-31, Firefox 1.5-27.0, Safari 3-7, Opera 10.6-18.0, iOS 5-7, Android 2.3-4.4, and WP8. Requires jQuery 1.7+ or Zepto 1.0+.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.lazyloadxt/1.0.2/jquery.lazyloadxt.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.lazyloadxt/1.0.2/jquery.lazyloadxt.min.js</a>]]></description>
-            <link>http://ressio.github.io/lazy-load-xt</link>
-            <guid isPermaLink="false">jquery.lazyloadxt1.0.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2014 19:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-customSelect(0.4.1) was added]]></title>
-            <description><![CDATA[Lightweight, unobtrusive, custom style select boxes with jQuery<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-customSelect/0.4.1/jquery.customSelect.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-customSelect/0.4.1/jquery.customSelect.min.js</a>]]></description>
-            <link>http://www.adamcoulombe.info/lab/jquery/select-box</link>
-            <guid isPermaLink="false">jquery-customSelect0.4.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2014 18:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone.marionette updated to version 1.6.4-bundled]]></title>
-            <description><![CDATA[Make your Backbone.js apps dance with a composite application architecture!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.6.4-bundled/backbone.marionette.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.6.4-bundled/backbone.marionette.min.js</a>]]></description>
-            <link>http://github.com/marionettejs/backbone.marionette</link>
-            <guid isPermaLink="false">backbone.marionette1.6.4-bundled</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2014 11:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[handlebars.js updated to version 2.0.0-alpha.2]]></title>
-            <description><![CDATA[Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0-alpha.2/handlebars.min.js">//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0-alpha.2/handlebars.min.js</a>]]></description>
-            <link>http://www.handlebarsjs.com</link>
-            <guid isPermaLink="false">handlebars.js2.0.0-alpha.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2014 07:31:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
