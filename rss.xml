@@ -10,10 +10,26 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Mar 2014 03:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2014 21:49:57 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[codemirror updated to version 4.0.3]]></title>
+            <description><![CDATA[In-browser code editing made bearable<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/codemirror.min.js">//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/codemirror.min.js</a>]]></description>
+            <link>http://codemirror.net</link>
+            <guid isPermaLink="false">codemirror4.0.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 23 Mar 2014 07:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-timeago updated to version 1.4.0]]></title>
+            <description><![CDATA[Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. '4 minutes ago' or 'about 1 day ago') from ISO 8601 formatted dates and times embedded in your HTML (à la microformats).<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-timeago/1.4.0/jquery.timeago.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-timeago/1.4.0/jquery.timeago.min.js</a>]]></description>
+            <link>http://timeago.yarp.com/</link>
+            <guid isPermaLink="false">jquery-timeago1.4.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 22 Mar 2014 11:20:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mithril updated to version 0.1.1]]></title>
             <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js</a>]]></description>
@@ -69,6 +85,14 @@
             <guid isPermaLink="false">xls0.6.10</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 20 Mar 2014 06:34:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tinymce updated to version 4.0.20]]></title>
+            <description><![CDATA[TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/tinymce/4.0.20/tinymce.min.js">//cdnjs.cloudflare.com/ajax/libs/tinymce/4.0.20/tinymce.min.js</a>]]></description>
+            <link>http://www.tinymce.com</link>
+            <guid isPermaLink="false">tinymce4.0.20</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Mar 2014 05:50:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[xlsx updated to version 0.5.11]]></title>
@@ -354,101 +378,6 @@
             <guid isPermaLink="false">js-yaml3.0.2</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 10 Mar 2014 09:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-form-validator updated to version 2.1.47]]></title>
-            <description><![CDATA[This plugin makes it easy to validate user input while keeping your HTML markup clean from javascript code. Even though this plugin has a wide range of validation functions it's designed to require as little bandwidth as possible. This is achieved by grouping together validation functions in "modules", making it possible for the programmer to load only those functions that's needed to validate a particular form.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.47/jquery.form-validator.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.47/jquery.form-validator.min.js</a>]]></description>
-            <link>http://formvalidator.net</link>
-            <guid isPermaLink="false">jquery-form-validator2.1.47</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 09 Mar 2014 11:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bootstrap-markdown updated to version 2.2.1]]></title>
-            <description><![CDATA[A bootstrap plugin for markdown editing<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-markdown/2.2.1/js/bootstrap-markdown.min.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-markdown/2.2.1/js/bootstrap-markdown.min.js</a>]]></description>
-            <link>https://github.com/toopay/bootstrap-markdown</link>
-            <guid isPermaLink="false">bootstrap-markdown2.2.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 09 Mar 2014 09:20:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[messenger updated to version 1.4.0]]></title>
-            <description><![CDATA[Client-side growl-like notifications with actions and auto-retry.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/messenger/1.4.0/js/messenger.min.js">//cdnjs.cloudflare.com/ajax/libs/messenger/1.4.0/js/messenger.min.js</a>]]></description>
-            <link>http://github.hubspot.com/messenger</link>
-            <guid isPermaLink="false">messenger1.4.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 09 Mar 2014 00:56:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[skrollr updated to version 0.6.22]]></title>
-            <description><![CDATA[Stand-alone parallax scrolling JavaScript library for mobile (Android, iOS, etc.) and desktop<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.22/skrollr.min.js">//cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.22/skrollr.min.js</a>]]></description>
-            <link>https://github.com/Prinzhorn/skrollr/</link>
-            <guid isPermaLink="false">skrollr0.6.22</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 09 Mar 2014 00:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[min.js updated to version 0.2.3]]></title>
-            <description><![CDATA[A super tiny JavaScript library to execute simple DOM querying and hooking event listeners. Aims to return the raw DOM node for you to manipulate directly, using HTML5 (et al) tech like element.classList or element.innerHTML, etc.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/min.js/0.2.3/$.min.js">//cdnjs.cloudflare.com/ajax/libs/min.js/0.2.3/$.min.js</a>]]></description>
-            <guid isPermaLink="false">min.js0.2.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2014 15:16:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[less.js updated to version 1.7.0]]></title>
-            <description><![CDATA[Less is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins and functions.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/less.js/1.7.0/less.min.js">//cdnjs.cloudflare.com/ajax/libs/less.js/1.7.0/less.min.js</a>]]></description>
-            <link>http://lesscss.org/</link>
-            <guid isPermaLink="false">less.js1.7.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2014 15:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery updated to version 2.0.3]]></title>
-            <description><![CDATA[jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js</a>]]></description>
-            <link>http://jquery.com/</link>
-            <guid isPermaLink="false">jquery2.0.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2014 15:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[intercom.js updated to version 0.1.4]]></title>
-            <description><![CDATA[A client-side cross-window message broadcast library built on top of the HTML5 localStorage API.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/intercom.js/0.1.4/intercom.min.js">//cdnjs.cloudflare.com/ajax/libs/intercom.js/0.1.4/intercom.min.js</a>]]></description>
-            <link>https://github.com/diy/intercom.js</link>
-            <guid isPermaLink="false">intercom.js0.1.4</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2014 15:07:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[uikit updated to version 2.4.0]]></title>
-            <description><![CDATA[UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/uikit/2.4.0/js/uikit.min.js">//cdnjs.cloudflare.com/ajax/libs/uikit/2.4.0/js/uikit.min.js</a>]]></description>
-            <link>http://www.getuikit.com</link>
-            <guid isPermaLink="false">uikit2.4.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2014 15:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[responsive-nav.js(1.0.32) was added]]></title>
-            <description><![CDATA[Responsive navigation plugin without library dependencies and with fast touch screen support<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/responsive-nav.js/1.0.32/responsive-nav.min.js">//cdnjs.cloudflare.com/ajax/libs/responsive-nav.js/1.0.32/responsive-nav.min.js</a>]]></description>
-            <link>http://responsive-nav.com/</link>
-            <guid isPermaLink="false">responsive-nav.js1.0.32</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2014 15:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ink(2.3.1) was added]]></title>
-            <description><![CDATA[An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ink/2.3.1/js/ink-all.min.js">//cdnjs.cloudflare.com/ajax/libs/ink/2.3.1/js/ink-all.min.js</a>]]></description>
-            <link>http://ink.sapo.pt/</link>
-            <guid isPermaLink="false">ink2.3.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2014 15:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-infinitescroll updated to version 2.0b2.120519]]></title>
-            <description><![CDATA[This plugin aims to progressively enhance your page, providing a more rich browsing experience when scrolling big amount of data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.0b2.120519/jquery.infinitescroll.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.0b2.120519/jquery.infinitescroll.min.js</a>]]></description>
-            <link>http://www.infinite-scroll.com/infinite-scroll-jquery-plugin/</link>
-            <guid isPermaLink="false">jquery-infinitescroll2.0b2.120519</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2014 14:45:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
