@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Mar 2014 06:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2014 23:35:36 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[spin.js updated to version 2.0.0]]></title>
+            <description><![CDATA[An animated CSS3 loading spinner with VML fallback for IE.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/spin.js/2.0.0/spin.min.js">//cdnjs.cloudflare.com/ajax/libs/spin.js/2.0.0/spin.min.js</a>]]></description>
+            <link>http://fgnass.github.com/spin.js/</link>
+            <guid isPermaLink="false">spin.js2.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 24 Mar 2014 15:51:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[codemirror updated to version 4.0.3]]></title>
             <description><![CDATA[In-browser code editing made bearable<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/codemirror.min.js">//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/codemirror.min.js</a>]]></description>
@@ -362,46 +370,6 @@
             <guid isPermaLink="false">jquery-idletimer1.0.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 11 Mar 2014 12:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[visibility.js updated to version 1.2.1]]></title>
-            <description><![CDATA[A wrapper for the Page Visibility API<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/visibility.js/1.2.1/visibility.min.js">//cdnjs.cloudflare.com/ajax/libs/visibility.js/1.2.1/visibility.min.js</a>]]></description>
-            <link>https://github.com/ai/visibilityjs</link>
-            <guid isPermaLink="false">visibility.js1.2.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 10 Mar 2014 20:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pizza updated to version 0.2.1]]></title>
-            <description><![CDATA[Pizza is a responsive Pie chart based on the Snap SVG framework from Adobe. It focuses on easy integration via HTML markup and CSS instead of JavaScript objects, although you can pass JavaScript objects to Pizza as well.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pizza/0.2.1/js/pizza.min.js">//cdnjs.cloudflare.com/ajax/libs/pizza/0.2.1/js/pizza.min.js</a>]]></description>
-            <link>http://zurb.com/playground/pizza-pie-charts</link>
-            <guid isPermaLink="false">pizza0.2.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 10 Mar 2014 17:47:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Han updated to version 2.3.0]]></title>
-            <description><![CDATA[The CSS typography framework optimised for Hanzi<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Han/2.3.0/han.min.css">//cdnjs.cloudflare.com/ajax/libs/Han/2.3.0/han.min.css</a>]]></description>
-            <link>http://css.hanzi.co/</link>
-            <guid isPermaLink="false">Han2.3.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 10 Mar 2014 16:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.pjax updated to version 1.8.0]]></title>
-            <description><![CDATA[pjax is a jQuery plugin that uses ajax and pushState to deliver a fast browsing experience with real permalinks, page titles, and a working back button.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.pjax/1.8.0/jquery.pjax.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.pjax/1.8.0/jquery.pjax.min.js</a>]]></description>
-            <link>https://github.com/defunkt/jquery-pjax</link>
-            <guid isPermaLink="false">jquery.pjax1.8.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 10 Mar 2014 11:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[js-yaml(3.0.2) was added]]></title>
-            <description><![CDATA[YAML 1.2 parser and serializer<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.0.2/js-yaml.min.js">//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.0.2/js-yaml.min.js</a>]]></description>
-            <link>https://github.com/nodeca/js-yaml</link>
-            <guid isPermaLink="false">js-yaml3.0.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 10 Mar 2014 09:55:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
