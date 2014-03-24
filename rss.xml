@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Mar 2014 06:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2014 06:48:11 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">codemirror4.0.3</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 23 Mar 2014 07:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[typeahead.js updated to version 0.10.2]]></title>
+            <description><![CDATA[a fast and fully-featured autocomplete library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.2/typeahead.bundle.min.js">//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.2/typeahead.bundle.min.js</a>]]></description>
+            <link>http://twitter.github.com/typeahead.js/</link>
+            <guid isPermaLink="false">typeahead.js0.10.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 22 Mar 2014 11:26:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery-timeago updated to version 1.4.0]]></title>
@@ -93,6 +101,22 @@
             <guid isPermaLink="false">tinymce4.0.20</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 20 Mar 2014 05:50:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[seajs updated to version 2.2.1]]></title>
+            <description><![CDATA[A Module Loader for the Web<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/seajs/2.2.1/sea.js">//cdnjs.cloudflare.com/ajax/libs/seajs/2.2.1/sea.js</a>]]></description>
+            <link>http://seajs.org/</link>
+            <guid isPermaLink="false">seajs2.2.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Mar 2014 03:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[d3 updated to version 3.4.3]]></title>
+            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.3/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.4.3/d3.min.js</a>]]></description>
+            <link>http://mbostock.github.com/d3/</link>
+            <guid isPermaLink="false">d33.4.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Mar 2014 03:25:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[xlsx updated to version 0.5.11]]></title>
