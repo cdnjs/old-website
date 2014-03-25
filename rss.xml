@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Mar 2014 00:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2014 04:07:01 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[jsforce(1.1.2) was added]]></title>
+            <description><![CDATA[Salesforce API Library for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsforce/1.1.2/jsforce.min.js">//cdnjs.cloudflare.com/ajax/libs/jsforce/1.1.2/jsforce.min.js</a>]]></description>
+            <link>http://jsforce.github.io</link>
+            <guid isPermaLink="false">jsforce1.1.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 25 Mar 2014 02:31:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[backbone-react-component updated to version 0.6.1]]></title>
             <description><![CDATA[Backbone.React.Component is a wrapper for React.Component and brings all the power of Facebook's React to Backbone.js<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-react-component/0.6.1/backbone-react-component.js">//cdnjs.cloudflare.com/ajax/libs/backbone-react-component/0.6.1/backbone-react-component.js</a>]]></description>
