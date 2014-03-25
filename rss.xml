@@ -10,10 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Mar 2014 23:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2014 00:20:39 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[backbone-react-component updated to version 0.6.1]]></title>
+            <description><![CDATA[Backbone.React.Component is a wrapper for React.Component and brings all the power of Facebook's React to Backbone.js<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-react-component/0.6.1/backbone-react-component.js">//cdnjs.cloudflare.com/ajax/libs/backbone-react-component/0.6.1/backbone-react-component.js</a>]]></description>
+            <guid isPermaLink="false">backbone-react-component0.6.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 25 Mar 2014 00:10:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[spin.js updated to version 2.0.0]]></title>
             <description><![CDATA[An animated CSS3 loading spinner with VML fallback for IE.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/spin.js/2.0.0/spin.min.js">//cdnjs.cloudflare.com/ajax/libs/spin.js/2.0.0/spin.min.js</a>]]></description>
@@ -189,13 +196,6 @@
             <guid isPermaLink="false">polymer0.2.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 15 Mar 2014 16:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone-react-component updated to version 0.6.0]]></title>
-            <description><![CDATA[Backbone.React.Component is a wrapper for React.Component and brings all the power of Facebook's React to Backbone.js<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-react-component/0.6.0/backbone-react-component.js">//cdnjs.cloudflare.com/ajax/libs/backbone-react-component/0.6.0/backbone-react-component.js</a>]]></description>
-            <guid isPermaLink="false">backbone-react-component0.6.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 15 Mar 2014 01:18:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[phaser updated to version 2.0.0]]></title>
