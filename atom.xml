@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Mar 2014 21:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2014 01:02:27 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[processing.js updated to version 1.4.7]]></title>
+            <description><![CDATA[A port of the Processing visualization language to JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/processing.js/1.4.7/processing.min.js">//cdnjs.cloudflare.com/ajax/libs/processing.js/1.4.7/processing.min.js</a>]]></description>
+            <link>http://processingjs.org</link>
+            <guid isPermaLink="false">processing.js1.4.7</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 25 Mar 2014 21:43:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bacon.js updated to version 0.7.9]]></title>
             <description><![CDATA[A small functional reactive programming lib for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.9/bacon.min.js">//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.9/bacon.min.js</a>]]></description>
@@ -322,14 +330,6 @@
             <guid isPermaLink="false">fastclick1.0.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 12 Mar 2014 14:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.serializeJSON(1.2.0) was added]]></title>
-            <description><![CDATA[jQuery plugin that serializes a form into a JavaScript Object with the same format as the default Ruby on Rails request params hash<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.serializeJSON/1.2.0/jquery.serializeJSON.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.serializeJSON/1.2.0/jquery.serializeJSON.min.js</a>]]></description>
-            <link>https://github.com/marioizquierdo/jquery.serializeJSON</link>
-            <guid isPermaLink="false">jquery.serializeJSON1.2.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 11 Mar 2014 23:54:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
