@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2014 11:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2014 11:52:36 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -175,6 +175,22 @@
             <pubDate>Tue, 25 Mar 2014 20:05:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[phaser updated to version 2.0.1]]></title>
+            <description><![CDATA[Phaser is a fast, free and fun open source game framework for making desktop and mobile browser HTML5 games. It uses Pixi.js internally for fast 2D Canvas and WebGL rendering.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.1/phaser.min.js">//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.1/phaser.min.js</a>]]></description>
+            <link>http://phaser.io/</link>
+            <guid isPermaLink="false">phaser2.0.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 25 Mar 2014 06:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[crypto-js(3.1.2) was added]]></title>
+            <description><![CDATA[CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. They are fast, and they have a consistent and simple interface.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/md5.js">//cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/md5.js</a>]]></description>
+            <link>http://code.google.com/p/crypto-js</link>
+            <guid isPermaLink="false">crypto-js3.1.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 25 Mar 2014 03:23:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[backbone-react-component updated to version 0.6.1]]></title>
             <description><![CDATA[Backbone.React.Component is a wrapper for React.Component and brings all the power of Facebook's React to Backbone.js<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-react-component/0.6.1/backbone-react-component.js">//cdnjs.cloudflare.com/ajax/libs/backbone-react-component/0.6.1/backbone-react-component.js</a>]]></description>
             <guid isPermaLink="false">backbone-react-component0.6.1</guid>
@@ -252,14 +268,6 @@
             <guid isPermaLink="false">modernizr2.7.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 21 Mar 2014 08:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tweet updated to version 2.1]]></title>
-            <description><![CDATA[put twitter on your website with tweet, an unobtrusive javascript plugin for jquery<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/tweet/2.1/jquery.tweet.js">//cdnjs.cloudflare.com/ajax/libs/tweet/2.1/jquery.tweet.js</a>]]></description>
-            <link>http://tweet.seaofclouds.com</link>
-            <guid isPermaLink="false">tweet2.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 21 Mar 2014 08:43:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[yui updated to version 3.15.0]]></title>
@@ -364,14 +372,6 @@
             <guid isPermaLink="false">polymer0.2.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 15 Mar 2014 16:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[phaser updated to version 2.0.0]]></title>
-            <description><![CDATA[Phaser is a fast, free and fun open source game framework for making desktop and mobile browser HTML5 games. It uses Pixi.js internally for fast 2D Canvas and WebGL rendering.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.0/phaser.min.js">//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.0/phaser.min.js</a>]]></description>
-            <link>http://phaser.io/</link>
-            <guid isPermaLink="false">phaser2.0.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Mar 2014 16:52:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[crossroads updated to version 0.12.0]]></title>
