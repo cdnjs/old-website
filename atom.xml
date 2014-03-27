@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2014 13:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2014 14:03:29 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -181,6 +181,14 @@
             <guid isPermaLink="false">uikit2.5.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 26 Mar 2014 04:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[doony updated to version 1.5]]></title>
+            <description><![CDATA[UI improvements for Jenkins<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/doony/1.5/js/doony.min.js">//cdnjs.cloudflare.com/ajax/libs/doony/1.5/js/doony.min.js</a>]]></description>
+            <link>http://doony.org</link>
+            <guid isPermaLink="false">doony1.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 26 Mar 2014 02:53:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[processing.js updated to version 1.4.7]]></title>
