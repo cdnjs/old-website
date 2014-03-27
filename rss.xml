@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2014 13:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2014 13:50:53 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[p5.js updated to version 0.2.2]]></title>
+            <description><![CDATA[p5.js is a JavaScript client-side library for creating graphic and interactive experiences, using canvas and HTML5, based on the core principles of Processing.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.2/p5.min.js">//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.2/p5.min.js</a>]]></description>
+            <link>http://p5js.org</link>
+            <guid isPermaLink="false">p5.js0.2.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 13:45:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[normalize updated to version 3.0.1]]></title>
             <description><![CDATA[Normalize.css makes browsers render all elements consistently and in line with modern standards.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css">//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css</a>]]></description>
@@ -29,14 +37,6 @@
             <guid isPermaLink="false">d33.4.4</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 27 Mar 2014 12:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[p5.js updated to version 0.2.1]]></title>
-            <description><![CDATA[p5.js is a JavaScript client-side library for creating graphic and interactive experiences, using canvas and HTML5, based on the core principles of Processing.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.1/p5.min.js">//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.1/p5.min.js</a>]]></description>
-            <link>http://p5js.org</link>
-            <guid isPermaLink="false">p5.js0.2.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2014 11:30:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[mithril updated to version 0.1.1]]></title>
