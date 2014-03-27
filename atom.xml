@@ -10,17 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2014 12:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2014 12:29:09 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
         <item>
-            <title><![CDATA[mithril updated to version 0.1.1]]></title>
-            <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js</a>]]></description>
-            <link>http://lhorie.github.io/mithril</link>
-            <guid isPermaLink="false">mithril0.1.1</guid>
+            <title><![CDATA[d3 updated to version 3.4.4]]></title>
+            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.4/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.4.4/d3.min.js</a>]]></description>
+            <link>http://mbostock.github.com/d3/</link>
+            <guid isPermaLink="false">d33.4.4</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2014 11:38:46 GMT</pubDate>
+            <pubDate>Thu, 27 Mar 2014 12:16:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[p5.js updated to version 0.2.1]]></title>
@@ -29,6 +29,14 @@
             <guid isPermaLink="false">p5.js0.2.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 27 Mar 2014 11:30:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mithril updated to version 0.1.1]]></title>
+            <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js</a>]]></description>
+            <link>http://lhorie.github.io/mithril</link>
+            <guid isPermaLink="false">mithril0.1.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 11:07:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[vis updated to version 0.7.1]]></title>
@@ -212,14 +220,6 @@
             <guid isPermaLink="false">codemirror4.0.3</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 23 Mar 2014 07:53:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[d3 updated to version 3.4.3]]></title>
-            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.3/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.4.3/d3.min.js</a>]]></description>
-            <link>http://mbostock.github.com/d3/</link>
-            <guid isPermaLink="false">d33.4.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 23 Mar 2014 04:38:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[typeahead.js updated to version 0.10.2]]></title>
