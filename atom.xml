@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2014 11:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2014 12:12:09 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -214,6 +214,14 @@
             <pubDate>Sun, 23 Mar 2014 07:53:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[d3 updated to version 3.4.3]]></title>
+            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.3/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.4.3/d3.min.js</a>]]></description>
+            <link>http://mbostock.github.com/d3/</link>
+            <guid isPermaLink="false">d33.4.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 23 Mar 2014 04:38:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[typeahead.js updated to version 0.10.2]]></title>
             <description><![CDATA[a fast and fully-featured autocomplete library<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.2/typeahead.bundle.min.js">//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.2/typeahead.bundle.min.js</a>]]></description>
             <link>http://twitter.github.com/typeahead.js/</link>
@@ -254,12 +262,12 @@
             <pubDate>Fri, 21 Mar 2014 22:06:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[highcharts updated to version 3.0.9]]></title>
-            <description><![CDATA[Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. Highcharts is NOT free for commercial use.  See the license here: http://highcharts.com/license<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/highcharts/3.0.9/highcharts.js">//cdnjs.cloudflare.com/ajax/libs/highcharts/3.0.9/highcharts.js</a>]]></description>
-            <link>http://highcharts.com/</link>
-            <guid isPermaLink="false">highcharts3.0.9</guid>
+            <title><![CDATA[list.js updated to version 1.1.1]]></title>
+            <description><![CDATA[The perfect library for adding search, sort, filters & flexibility to tables, lists, or anything<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/list.js/1.1.1/list.min.js">//cdnjs.cloudflare.com/ajax/libs/list.js/1.1.1/list.min.js</a>]]></description>
+            <link>http://listjs.com</link>
+            <guid isPermaLink="false">list.js1.1.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 21 Mar 2014 08:46:51 GMT</pubDate>
+            <pubDate>Fri, 21 Mar 2014 13:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[modernizr updated to version 2.7.1]]></title>
@@ -316,14 +324,6 @@
             <guid isPermaLink="false">seajs2.2.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 20 Mar 2014 03:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[d3 updated to version 3.4.3]]></title>
-            <description><![CDATA[A small, free JavaScript library for manipulating documents based on data.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.3/d3.min.js">//cdnjs.cloudflare.com/ajax/libs/d3/3.4.3/d3.min.js</a>]]></description>
-            <link>http://mbostock.github.com/d3/</link>
-            <guid isPermaLink="false">d33.4.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 20 Mar 2014 03:25:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[floatthead updated to version 1.2.3]]></title>
