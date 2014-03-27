@@ -10,17 +10,105 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2014 06:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2014 07:16:14 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
         <item>
-            <title><![CDATA[kartograph-js updated to version 0.7.1]]></title>
-            <description><![CDATA[JavaScript library for SVG mapping<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.7.1/kartograph.min.js">//cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.7.1/kartograph.min.js</a>]]></description>
-            <link>http://kartograph.org</link>
-            <guid isPermaLink="false">kartograph-js0.7.1</guid>
+            <title><![CDATA[seedrandom updated to version 2.3.3]]></title>
+            <description><![CDATA[Seeded random number generator for Javascript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/seedrandom/2.3.3/seedrandom.min.js">//cdnjs.cloudflare.com/ajax/libs/seedrandom/2.3.3/seedrandom.min.js</a>]]></description>
+            <link>https://github.com/davidbau/seedrandom</link>
+            <guid isPermaLink="false">seedrandom2.3.3</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2014 06:21:05 GMT</pubDate>
+            <pubDate>Thu, 27 Mar 2014 07:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mithril updated to version 0.1.1]]></title>
+            <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js</a>]]></description>
+            <link>http://lhorie.github.io/mithril</link>
+            <guid isPermaLink="false">mithril0.1.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 07:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kartograph-js updated to version 0.8.5]]></title>
+            <description><![CDATA[JavaScript library for SVG mapping<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.8.5/kartograph.min.js">//cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.8.5/kartograph.min.js</a>]]></description>
+            <link>http://kartograph.org</link>
+            <guid isPermaLink="false">kartograph-js0.8.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 07:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[xlsx updated to version 0.5.13]]></title>
+            <description><![CDATA[Javascript XLSX / XLSM / XLSB (Excel 2007+) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.13/xlsx.js">//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.13/xlsx.js</a>]]></description>
+            <link>https://github.com/SheetJS/js-xlsx</link>
+            <guid isPermaLink="false">xlsx0.5.13</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 06:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[xls updated to version 0.6.14]]></title>
+            <description><![CDATA[Javascript XLS (Excel 97-2004) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xls/0.6.14/xls.js">//cdnjs.cloudflare.com/ajax/libs/xls/0.6.14/xls.js</a>]]></description>
+            <link>https://github.com/SheetJS/js-xls</link>
+            <guid isPermaLink="false">xls0.6.14</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 06:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[vue updated to version 0.10.3]]></title>
+            <description><![CDATA[Simple, Fast & Composable MVVM for building interative interfaces<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/vue/0.10.3/vue.min.js">//cdnjs.cloudflare.com/ajax/libs/vue/0.10.3/vue.min.js</a>]]></description>
+            <link>http://vuejs.org</link>
+            <guid isPermaLink="false">vue0.10.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 06:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jsforce(1.1.1) was added]]></title>
+            <description><![CDATA[Salesforce API Library for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsforce/1.1.1/undefined">//cdnjs.cloudflare.com/ajax/libs/jsforce/1.1.1/undefined</a>]]></description>
+            <link>http://github.com/jsforce/jsforce</link>
+            <guid isPermaLink="false">jsforce1.1.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 06:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jsforce(1.1.0) was added]]></title>
+            <description><![CDATA[Salesforce API Library for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsforce/1.1.0/undefined">//cdnjs.cloudflare.com/ajax/libs/jsforce/1.1.0/undefined</a>]]></description>
+            <link>http://github.com/jsforce/jsforce</link>
+            <guid isPermaLink="false">jsforce1.1.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 06:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jsforce(1.0.2) was added]]></title>
+            <description><![CDATA[Salesforce API Library for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsforce/1.0.2/undefined">//cdnjs.cloudflare.com/ajax/libs/jsforce/1.0.2/undefined</a>]]></description>
+            <link>http://github.com/jsforce/jsforce</link>
+            <guid isPermaLink="false">jsforce1.0.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 06:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jsforce(1.0.1) was added]]></title>
+            <description><![CDATA[Salesforce API Library for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsforce/1.0.1/undefined">//cdnjs.cloudflare.com/ajax/libs/jsforce/1.0.1/undefined</a>]]></description>
+            <link>http://github.com/jsforce/jsforce</link>
+            <guid isPermaLink="false">jsforce1.0.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 06:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jsforce(1.0.0) was added]]></title>
+            <description><![CDATA[Salesforce API Library for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsforce/1.0.0/undefined">//cdnjs.cloudflare.com/ajax/libs/jsforce/1.0.0/undefined</a>]]></description>
+            <link>http://github.com/jsforce/jsforce</link>
+            <guid isPermaLink="false">jsforce1.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 06:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jsforce updated to version 1.1.2]]></title>
+            <description><![CDATA[Salesforce API Library for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsforce/1.1.2/jsforce.min.js">//cdnjs.cloudflare.com/ajax/libs/jsforce/1.1.2/jsforce.min.js</a>]]></description>
+            <link>http://jsforce.github.io</link>
+            <guid isPermaLink="false">jsforce1.1.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 06:51:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ng-tags-input updated to version 2.0.0]]></title>
@@ -45,14 +133,6 @@
             <guid isPermaLink="false">bacon.js0.7.9</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 25 Mar 2014 20:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jsforce(1.1.2) was added]]></title>
-            <description><![CDATA[Salesforce API Library for JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsforce/1.1.2/jsforce.min.js">//cdnjs.cloudflare.com/ajax/libs/jsforce/1.1.2/jsforce.min.js</a>]]></description>
-            <link>http://jsforce.github.io</link>
-            <guid isPermaLink="false">jsforce1.1.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 25 Mar 2014 02:31:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[backbone-react-component updated to version 0.6.1]]></title>
@@ -92,14 +172,6 @@
             <guid isPermaLink="false">jquery-timeago1.4.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 22 Mar 2014 11:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mithril updated to version 0.1.1]]></title>
-            <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.1/mithril.min.js</a>]]></description>
-            <link>http://lhorie.github.io/mithril</link>
-            <guid isPermaLink="false">mithril0.1.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 22 Mar 2014 03:30:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[react updated to version 0.10.0]]></title>
@@ -142,14 +214,6 @@
             <pubDate>Thu, 20 Mar 2014 19:00:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[xls updated to version 0.6.10]]></title>
-            <description><![CDATA[Javascript XLS (Excel 97-2004) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xls/0.6.10/xls.js">//cdnjs.cloudflare.com/ajax/libs/xls/0.6.10/xls.js</a>]]></description>
-            <link>https://github.com/SheetJS/js-xls</link>
-            <guid isPermaLink="false">xls0.6.10</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 20 Mar 2014 06:34:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[tinymce updated to version 4.0.20]]></title>
             <description><![CDATA[TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/tinymce/4.0.20/tinymce.min.js">//cdnjs.cloudflare.com/ajax/libs/tinymce/4.0.20/tinymce.min.js</a>]]></description>
             <link>http://www.tinymce.com</link>
@@ -172,14 +236,6 @@
             <guid isPermaLink="false">d33.4.3</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 20 Mar 2014 03:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xlsx updated to version 0.5.11]]></title>
-            <description><![CDATA[Javascript XLSX / XLSM / XLSB (Excel 2007+) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.11/xlsx.js">//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.11/xlsx.js</a>]]></description>
-            <link>https://github.com/SheetJS/js-xlsx</link>
-            <guid isPermaLink="false">xlsx0.5.11</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 20 Mar 2014 02:31:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[floatthead updated to version 1.2.3]]></title>
