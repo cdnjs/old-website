@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2014 05:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2014 06:23:54 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[kartograph-js updated to version 0.7.1]]></title>
+            <description><![CDATA[JavaScript library for SVG mapping<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.7.1/kartograph.min.js">//cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.7.1/kartograph.min.js</a>]]></description>
+            <link>http://kartograph.org</link>
+            <guid isPermaLink="false">kartograph-js0.7.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 06:21:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ng-tags-input updated to version 2.0.0]]></title>
             <description><![CDATA[Tags input directive for AngularJS<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ng-tags-input/2.0.0/ng-tags-input.min.js">//cdnjs.cloudflare.com/ajax/libs/ng-tags-input/2.0.0/ng-tags-input.min.js</a>]]></description>
