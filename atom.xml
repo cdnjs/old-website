@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2014 11:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2014 11:44:34 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -212,6 +212,14 @@
             <guid isPermaLink="false">jquery-timeago1.4.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 22 Mar 2014 11:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ng-dialog(0.1.5) was added]]></title>
+            <description><![CDATA[Modals and popups provider for Angular.js applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ng-dialog/0.1.5/ng-dialog.min.js">//cdnjs.cloudflare.com/ajax/libs/ng-dialog/0.1.5/ng-dialog.min.js</a>]]></description>
+            <link>http://likeastore.github.io/ngDialog/</link>
+            <guid isPermaLink="false">ng-dialog0.1.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 21 Mar 2014 22:37:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[react updated to version 0.10.0]]></title>
