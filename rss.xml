@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2014 11:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2014 11:42:02 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -20,7 +20,15 @@
             <link>http://lhorie.github.io/mithril</link>
             <guid isPermaLink="false">mithril0.1.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2014 11:06:11 GMT</pubDate>
+            <pubDate>Thu, 27 Mar 2014 11:38:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[p5.js updated to version 0.2.1]]></title>
+            <description><![CDATA[p5.js is a JavaScript client-side library for creating graphic and interactive experiences, using canvas and HTML5, based on the core principles of Processing.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.1/p5.min.js">//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.1/p5.min.js</a>]]></description>
+            <link>http://p5js.org</link>
+            <guid isPermaLink="false">p5.js0.2.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 11:30:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[vis updated to version 0.7.1]]></title>
@@ -127,12 +135,28 @@
             <pubDate>Thu, 27 Mar 2014 04:22:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[bucky(0.2.6) was added]]></title>
+            <description><![CDATA[Open-source tool to measure the performance of your web app directly from your users' browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bucky/0.2.6/bucky.min.js">//cdnjs.cloudflare.com/ajax/libs/bucky/0.2.6/bucky.min.js</a>]]></description>
+            <link>http://github.hubspot.com/bucky/</link>
+            <guid isPermaLink="false">bucky0.2.6</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 26 Mar 2014 11:25:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[jquery updated to version 2.1.0]]></title>
             <description><![CDATA[jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js</a>]]></description>
             <link>http://jquery.com/</link>
             <guid isPermaLink="false">jquery2.1.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 26 Mar 2014 08:32:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[uikit updated to version 2.5.0]]></title>
+            <description><![CDATA[UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/uikit/2.5.0/js/uikit.min.js">//cdnjs.cloudflare.com/ajax/libs/uikit/2.5.0/js/uikit.min.js</a>]]></description>
+            <link>http://www.getuikit.com</link>
+            <guid isPermaLink="false">uikit2.5.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 26 Mar 2014 04:07:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[processing.js updated to version 1.4.7]]></title>
@@ -244,14 +268,6 @@
             <guid isPermaLink="false">webfont1.3.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 21 Mar 2014 08:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[p5.js updated to version 0.2.0]]></title>
-            <description><![CDATA[p5.js is a JavaScript client-side library for creating graphic and interactive experiences, using canvas and HTML5, based on the core principles of Processing.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.0/p5.min.js">//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.0/p5.min.js</a>]]></description>
-            <link>http://p5js.org</link>
-            <guid isPermaLink="false">p5.js0.2.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 21 Mar 2014 02:18:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[zeroclipboard updated to version 1.3.3]]></title>
@@ -434,14 +450,6 @@
             <guid isPermaLink="false">css3pie2.0beta1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 13 Mar 2014 13:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[arbor updated to version 0.91.0]]></title>
-            <description><![CDATA[a graph visualization library using web workers and jQuery<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/arbor/0.91.0/arbor.min.js">//cdnjs.cloudflare.com/ajax/libs/arbor/0.91.0/arbor.min.js</a>]]></description>
-            <link>http://arborjs.org</link>
-            <guid isPermaLink="false">arbor0.91.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 13 Mar 2014 11:25:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
