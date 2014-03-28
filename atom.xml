@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Mar 2014 15:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2014 15:33:51 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[gorillascript updated to version 0.9.10]]></title>
+            <description><![CDATA[A compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gorillascript/0.9.10/gorillascript.min.js">//cdnjs.cloudflare.com/ajax/libs/gorillascript/0.9.10/gorillascript.min.js</a>]]></description>
+            <link>http://ckknight.github.io/gorillascript</link>
+            <guid isPermaLink="false">gorillascript0.9.10</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 28 Mar 2014 15:22:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[waypoints updated to version 2.0.4]]></title>
             <description><![CDATA[Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.4/waypoints.min.js">//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.4/waypoints.min.js</a>]]></description>
