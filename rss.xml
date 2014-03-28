@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Mar 2014 14:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2014 15:10:17 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[waypoints updated to version 2.0.4]]></title>
+            <description><![CDATA[Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.4/waypoints.min.js">//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.4/waypoints.min.js</a>]]></description>
+            <link>http://imakewebthings.github.com/jquery-waypoints</link>
+            <guid isPermaLink="false">waypoints2.0.4</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 28 Mar 2014 12:50:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[underscore.js updated to version 1.6.0]]></title>
             <description><![CDATA[Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go along with jQuery's tux.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js">//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js</a>]]></description>
@@ -452,14 +460,6 @@
             <guid isPermaLink="false">polymer0.2.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 15 Mar 2014 16:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[crossroads updated to version 0.12.0]]></title>
-            <description><![CDATA[Flexible router which can be used in multiple environments<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/crossroads/0.12.0/crossroads.min.js">//cdnjs.cloudflare.com/ajax/libs/crossroads/0.12.0/crossroads.min.js</a>]]></description>
-            <link>http://millermedeiros.github.com/crossroads.js/</link>
-            <guid isPermaLink="false">crossroads0.12.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Mar 2014 14:24:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
