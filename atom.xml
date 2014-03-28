@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Mar 2014 18:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2014 21:34:26 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[backbone.validation updated to version 0.8.2]]></title>
+            <description><![CDATA[A validation plugin for Backbone.js that validates both your model as well as form input.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.validation/0.8.2/backbone-validation-min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.validation/0.8.2/backbone-validation-min.js</a>]]></description>
+            <link>http://thedersen.com/projects/backbone-validation</link>
+            <guid isPermaLink="false">backbone.validation0.8.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 28 Mar 2014 19:16:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[flexslider updated to version 2.2.2]]></title>
             <description><![CDATA[An awesome, fully responsive jQuery slider plugin.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/flexslider/2.2.2/jquery.flexslider-min.js">//cdnjs.cloudflare.com/ajax/libs/flexslider/2.2.2/jquery.flexslider-min.js</a>]]></description>
