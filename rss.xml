@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Mar 2014 07:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2014 07:40:09 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -53,6 +53,14 @@
             <guid isPermaLink="false">fluidbox1.2.5</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 27 Mar 2014 16:13:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bacon.js updated to version 0.7.10]]></title>
+            <description><![CDATA[A small functional reactive programming lib for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.10/bacon.min.js">//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.10/bacon.min.js</a>]]></description>
+            <link>http://baconjs.blogspot.com</link>
+            <guid isPermaLink="false">bacon.js0.7.10</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 14:41:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[p5.js updated to version 0.2.2]]></title>
@@ -221,14 +229,6 @@
             <guid isPermaLink="false">processing.js1.4.7</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 25 Mar 2014 21:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bacon.js updated to version 0.7.9]]></title>
-            <description><![CDATA[A small functional reactive programming lib for JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.9/bacon.min.js">//cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.9/bacon.min.js</a>]]></description>
-            <link>http://baconjs.blogspot.com</link>
-            <guid isPermaLink="false">bacon.js0.7.9</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 25 Mar 2014 20:05:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[phaser updated to version 2.0.1]]></title>
