@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Mar 2014 10:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2014 13:13:48 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -467,13 +467,6 @@
             <guid isPermaLink="false">hasher1.2.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 14 Mar 2014 13:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bootstrap-datetimepicker updated to version 3.0.0]]></title>
-            <description><![CDATA[undefined<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/3.0.0/js/bootstrap-datetimepicker.min.js">//cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/3.0.0/js/bootstrap-datetimepicker.min.js</a>]]></description>
-            <guid isPermaLink="false">bootstrap-datetimepicker3.0.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Mar 2014 10:58:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
