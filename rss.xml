@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Mar 2014 18:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2014 18:46:19 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[flexslider updated to version 2.2.2]]></title>
+            <description><![CDATA[An awesome, fully responsive jQuery slider plugin.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/flexslider/2.2.2/jquery.flexslider-min.js">//cdnjs.cloudflare.com/ajax/libs/flexslider/2.2.2/jquery.flexslider-min.js</a>]]></description>
+            <link>http://www.woothemes.com/flexslider/</link>
+            <guid isPermaLink="false">flexslider2.2.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 28 Mar 2014 18:31:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[scrollReveal.js(0.1.2) was added]]></title>
             <description><![CDATA[Declarative on-scroll reveal animations<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/0.1.2/scrollReveal.min.js">//cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/0.1.2/scrollReveal.min.js</a>]]></description>
