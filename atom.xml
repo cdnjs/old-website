@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Mar 2014 13:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2014 14:22:41 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -460,13 +460,6 @@
             <guid isPermaLink="false">crossroads0.12.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 14 Mar 2014 14:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hasher updated to version 1.2.0]]></title>
-            <description><![CDATA[Hasher is a set of JavaScript functions to control browser history for rich-media websites and applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/hasher/1.2.0/hasher.min.js">//cdnjs.cloudflare.com/ajax/libs/hasher/1.2.0/hasher.min.js</a>]]></description>
-            <guid isPermaLink="false">hasher1.2.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Mar 2014 13:44:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
