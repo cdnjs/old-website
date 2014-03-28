@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Mar 2014 09:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2014 09:40:57 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -37,6 +37,14 @@
             <guid isPermaLink="false">gsap1.11.6</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 27 Mar 2014 20:35:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[timelinejs updated to version 2.30.0]]></title>
+            <description><![CDATA[TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/timelinejs/2.30.0/js/storyjs-embed.js">//cdnjs.cloudflare.com/ajax/libs/timelinejs/2.30.0/js/storyjs-embed.js</a>]]></description>
+            <link>http://timeline.verite.co/</link>
+            <guid isPermaLink="false">timelinejs2.30.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2014 20:23:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[xlsx updated to version 0.5.13-a]]></title>
@@ -189,6 +197,22 @@
             <guid isPermaLink="false">ng-tags-input2.0.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 27 Mar 2014 04:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-i18n updated to version 1.2.15]]></title>
+            <description><![CDATA[Locales for AngularJS<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-i18n/1.2.15/angular-locale_en-us.js">//cdnjs.cloudflare.com/ajax/libs/angular-i18n/1.2.15/angular-locale_en-us.js</a>]]></description>
+            <link>http://angularjs.org</link>
+            <guid isPermaLink="false">angular-i18n1.2.15</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 26 Mar 2014 16:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular.js updated to version 1.2.15]]></title>
+            <description><![CDATA[AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.15/angular.min.js">//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.15/angular.min.js</a>]]></description>
+            <link>http://angularjs.org</link>
+            <guid isPermaLink="false">angular.js1.2.15</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 26 Mar 2014 15:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[bucky(0.2.6) was added]]></title>
