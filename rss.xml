@@ -10,10 +10,26 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Mar 2014 17:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2014 17:34:10 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[load.js updated to version 1316434407]]></title>
+            <description><![CDATA[Lazy loading of javascript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/load.js/1316434407/load-min.js">//cdnjs.cloudflare.com/ajax/libs/load.js/1316434407/load-min.js</a>]]></description>
+            <link>https://github.com/chriso/load.js</link>
+            <guid isPermaLink="false">load.js1316434407</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 28 Mar 2014 17:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[wow updated to version 0.1.6]]></title>
+            <description><![CDATA[Reveal CSS animation as you scroll down a page<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/wow/0.1.6/wow.min.js">//cdnjs.cloudflare.com/ajax/libs/wow/0.1.6/wow.min.js</a>]]></description>
+            <link>http://mynameismatthieu.com/WOW/</link>
+            <guid isPermaLink="false">wow0.1.6</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 28 Mar 2014 17:11:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gorillascript updated to version 0.9.10]]></title>
             <description><![CDATA[A compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gorillascript/0.9.10/gorillascript.min.js">//cdnjs.cloudflare.com/ajax/libs/gorillascript/0.9.10/gorillascript.min.js</a>]]></description>
@@ -436,6 +452,14 @@
             <guid isPermaLink="false">floatthead1.2.3</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 20 Mar 2014 02:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-strap updated to version 2.0.0-rc.4]]></title>
+            <description><![CDATA[AngularStrap - Twitter Bootstrap directives for AngularJS.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-strap/2.0.0-rc.4/angular-strap.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-strap/2.0.0-rc.4/angular-strap.min.js</a>]]></description>
+            <link>http://mgcrea.github.com/angular-strap</link>
+            <guid isPermaLink="false">angular-strap2.0.0-rc.4</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Mar 2014 00:31:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[odometer.js(0.4.6) was added]]></title>
