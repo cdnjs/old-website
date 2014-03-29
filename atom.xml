@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Mar 2014 02:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2014 03:34:30 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[xls updated to version 0.6.15]]></title>
+            <description><![CDATA[Javascript XLS (Excel 97-2004) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xls/0.6.15/xls.js">//cdnjs.cloudflare.com/ajax/libs/xls/0.6.15/xls.js</a>]]></description>
+            <link>https://github.com/SheetJS/js-xls</link>
+            <guid isPermaLink="false">xls0.6.15</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 29 Mar 2014 03:30:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[xlsx updated to version 0.5.14]]></title>
             <description><![CDATA[Javascript XLSX / XLSM / XLSB (Excel 2007+) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.14/xlsx.js">//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.14/xlsx.js</a>]]></description>
@@ -156,14 +164,6 @@
             <guid isPermaLink="false">timelinejs2.30.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 27 Mar 2014 20:23:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xls updated to version 0.6.14-a]]></title>
-            <description><![CDATA[Javascript XLS (Excel 97-2004) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xls/0.6.14-a/xls.js">//cdnjs.cloudflare.com/ajax/libs/xls/0.6.14-a/xls.js</a>]]></description>
-            <link>https://github.com/SheetJS/js-xls</link>
-            <guid isPermaLink="false">xls0.6.14-a</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2014 19:00:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[fluidbox updated to version 1.2.5]]></title>
