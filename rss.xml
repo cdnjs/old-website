@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Mar 2014 22:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2014 02:19:32 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[xlsx updated to version 0.5.14]]></title>
+            <description><![CDATA[Javascript XLSX / XLSM / XLSB (Excel 2007+) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.14/xlsx.js">//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.14/xlsx.js</a>]]></description>
+            <link>https://github.com/SheetJS/js-xlsx</link>
+            <guid isPermaLink="false">xlsx0.5.14</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 29 Mar 2014 02:15:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jquery updated to version 2.1.0]]></title>
             <description><![CDATA[jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js</a>]]></description>
@@ -148,14 +156,6 @@
             <guid isPermaLink="false">timelinejs2.30.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 27 Mar 2014 20:23:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xlsx updated to version 0.5.13-a]]></title>
-            <description><![CDATA[Javascript XLSX / XLSM / XLSB (Excel 2007+) parser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.13-a/xlsx.js">//cdnjs.cloudflare.com/ajax/libs/xlsx/0.5.13-a/xlsx.js</a>]]></description>
-            <link>https://github.com/SheetJS/js-xlsx</link>
-            <guid isPermaLink="false">xlsx0.5.13-a</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2014 19:00:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[xls updated to version 0.6.14-a]]></title>
