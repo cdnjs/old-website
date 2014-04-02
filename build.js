@@ -80,5 +80,5 @@ var makeLibraryPages = function(packages, indexTemplate) {
     fs.writeFileSync('libraries/' + package.name + '/index.html', packagePage, 'utf8');
   });
   console.log('Success!');
-  hipchat.message('green', 'Website built succesfully, deploying now');
+  hipchat.message('green', 'Website built successfully, deploying now');
 };
