@@ -26,11 +26,9 @@ var htmlMinifier = require('html-minifier');
 var uglifyJs = require('uglify-js');
 console.log('Get packages.json')
 var packagesurl = 'https://s3.amazonaws.com/cdnjs-artifacts/packages.json?' + new Date().getTime();
-console.log(packagesurl);
 superagent.get(packagesurl, function(res, textStatus, xhr){
   console.log('Got packages.json')
   var packages = res.body.packages;
-  console.log(packages);
   var indexTemplate = fs.readFileSync('index.template', 'utf8');
   var homeTemplate = fs.readFileSync('home.template.html', 'utf8');
   var homePage = _.template(homeTemplate, {packages: packages});
