@@ -16,6 +16,43 @@ function selectText(element) {
         selection.addRange(range);
     }
 }
+
+function getFavoritesCookie() {
+  var favorites = $.cookie('favorites');
+  return favorites && favorites.split(',') || [];
+}
+
+function putClassOnFavorites(favorites) {
+  _.each(favorites, function(favId) {
+    favId = '#' + favId;
+    var element = $(favId).clone(true);
+    element.addClass('favorite');
+    $(favId).remove();
+    $('#example tbody').prepend(element);
+  });
+}
+
+$('#example tr').on('click', function(e) {
+  var favorites = getFavoritesCookie();
+  var rowId = e.currentTarget.id;
+
+  if(!_.contains(favorites, rowId)) {
+    favorites.push(rowId);
+  } else if(_.isArray(favorites) && favorites.length > 0) {
+    favorites = _.without(favorites, rowId);
+  }
+
+  // Update the list of libraries with favorites at the top
+  $('#example tr').removeClass('favorite');
+  putClassOnFavorites(favorites);
+
+  // Save the cookie
+  $.cookie('favorites', favorites.join(','));
+});
+
+// Put favorite libraries at the top of the list
+putClassOnFavorites(getFavoritesCookie());
+
 $('p.library-url').on('mouseenter', function (event) {
   selectText($(event.currentTarget)[0]);
 });
