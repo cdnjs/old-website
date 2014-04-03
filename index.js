@@ -37,7 +37,9 @@ $('#example .change-favorite').on('click', function(e) {
   var rowId = $(e.currentTarget).parents('tr')[0].id;
   if(!_.contains(favorites, rowId)) {
     favorites.push(rowId);
+    _gaq.push(['_trackEvent', 'favorite', 'added', rowId]);
   } else if(_.isArray(favorites) && favorites.length > 0) {
+    _gaq.push(['_trackEvent', 'favorite', 'removed', rowId]);
     favorites = _.without(favorites, rowId);
   }
 
