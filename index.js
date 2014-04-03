@@ -19,7 +19,7 @@ function selectText(element) {
 
 function getFavoritesCookie() {
   var favorites = $.cookie('favorites');
-  return favorites && favorites.split(',') || [];
+  return favorites && favorites.split(',') || ['json2', 'handlebarsjs', 'jqueryui', 'fancybox', 'bootstrap-datepicker', 'html5shiv', 'momentjs', 'angular-ui-bootstrap', 'underscorejs', 'modernizr', 'foundation', 'lodashjs', 'd3', 'angularjs', 'font-awesome', 'twitter-bootstrap', 'jquery'];
 }
 
 function putClassOnFavorites(favorites) {
@@ -32,10 +32,9 @@ function putClassOnFavorites(favorites) {
   });
 }
 
-$('#example tr').on('click', function(e) {
+$('#example .change-favorite').on('click', function(e) {
   var favorites = getFavoritesCookie();
-  var rowId = e.currentTarget.id;
-
+  var rowId = $(e.currentTarget).parents('tr')[0].id;
   if(!_.contains(favorites, rowId)) {
     favorites.push(rowId);
   } else if(_.isArray(favorites) && favorites.length > 0) {
@@ -47,7 +46,7 @@ $('#example tr').on('click', function(e) {
   putClassOnFavorites(favorites);
 
   // Save the cookie
-  $.cookie('favorites', favorites.join(','));
+  $.cookie('favorites', favorites.join(','), {expires: 365});
 });
 
 // Put favorite libraries at the top of the list

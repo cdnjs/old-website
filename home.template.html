@@ -56,7 +56,8 @@
                 <div class="span12">
                     <div class="">
                         <div class="packages-table-container">
-                        <p>Click on the library name below to see all versions and files(js/css/swf/img)</p> 
+                        <p>Click on the library name below to see all versions and files(js/css/swf/img)<br />
+                        Click on the +/- symbols to change your favorites(yellow)</p> 
                             <table style="margin-top: 10px;" cellpadding="0" cellspacing="0" border="0" class="table table-striped" id="example">
                                 <thead>
                                     <tr>
@@ -66,7 +67,7 @@
                                 </thead>
                                 <tbody>
                                     <% _.each(packages, function(package){ if(typeof package.name !== 'undefined') { %>
-                                        <tr itemscope itemtype="http://schema.org/SoftwareApplication" data-library-name="<%= package.name && package.name.toLowerCase() %>" data-library-keywords="<%= package.keywords && package.keywords.join(" ") %>" id="<%= package.name.replace('.', '') %>" class="odd gradeX">
+                                        <tr itemscope itemtype="http://schema.org/SoftwareApplication" data-library-name="<%= package.name && package.name.toLowerCase() %>" data-library-keywords="<%= package.keywords && package.keywords.join(" ") %>" id="<%= package.name.replace('.', '') %>" class="odd gradeX normal">
                                             <td style="white-space: nowrap;">
                                                 <a itemprop="name" href="libraries/<%= package.name %>"><%= package.name %></a>
                                                 <meta itemprop="url" content="<%= package.homepage %>" />
@@ -79,7 +80,7 @@
                                             <td style="padding: 0; width: 100%;">
                                                 <div style="position: relative; padding: 8px;">
                                                     <p itemprop="downloadUrl" class="library-url" style="padding: 0; margin: 0">//cdnjs.cloudflare.com/ajax/libs/<%= package.name %>/<%= package.version %>/<%= package.filename %></p>
-                                                  
+                                                    <span class="change-favorite" style="cursor: pointer; position: absolute; right: 10px; top: 5px; "></span>
                                                 </div>
                                             </td>
                                         </tr>
@@ -93,3 +94,20 @@
             <div style="clear: both;"></div>
         </div>
         <div class="clear"></div>
+        <style>
+tr.normal:hover .change-favorite:before {
+  content: "+" !important;
+
+}
+tr.favorite:hover .change-favorite:before {
+  content: "-" !important;
+}
+
+tr.favorite td {
+    background-color: #fcf8e3 !important;
+}
+
+</style>
+
+
+                                                    
