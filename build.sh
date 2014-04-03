@@ -15,4 +15,4 @@ echo Uploading website...
 git add .
 git commit -am "Updated packages."
 git push
-git push heroku master
+git push heroku gh-pages:master
