@@ -1,4 +1,13 @@
 var Hipchat = require('node-hipchat');
+var argv = require('minimist')(process.argv.slice(2));
+var superagent = require('superagent');
+var _ = require('underscore');
+var fs = require('fs');
+var http = require('http');
+var htmlMinifier = require('html-minifier');
+var uglifyJs = require('uglify-js');
+
+console.log('Run `node build.js --dev --nolibs` for a fast dev build');
 
 var HC = new Hipchat(process.env.HIPCHAT);
 var hipchat = {
@@ -18,55 +27,57 @@ var hipchat = {
   }
 };
 hipchat.message('Gray', 'Building website');
-var superagent = require('superagent');
-var _ = require('underscore');
-var fs = require('fs');
-var http = require('http');
-var htmlMinifier = require('html-minifier');
-var uglifyJs = require('uglify-js');
-console.log('Get packages.json')
-var packagesurl = 'https://s3.amazonaws.com/cdnjs-artifacts/packages.json?' + new Date().getTime();
-superagent.get(packagesurl, function(res, textStatus, xhr){
-  console.log('Got packages.json')
-  var packages = res.body.packages;
-  var indexTemplate = fs.readFileSync('index.template', 'utf8');
+
+function generateIndexPage(indexTemplate, packages) {
   var homeTemplate = fs.readFileSync('home.template.html', 'utf8');
   var homePage = _.template(homeTemplate, {packages: packages});
   var indexPage = _.template(indexTemplate, {page: homePage});
   var htmlCompressionOptions = {
-  	removeComments: true,
-  	collapseBooleanAttributes: true,
-  	collapseWhitespace: true,
+    removeComments: true,
+    collapseBooleanAttributes: true,
+    collapseWhitespace: true,
   };
 
   indexPage = htmlMinifier.minify(indexPage, htmlCompressionOptions);
   indexPage = indexPage.replace('&nbsp;', ' ');
 
   fs.writeFileSync('index.html', indexPage, 'utf8');
-  fs.writeFileSync('packages.json', JSON.stringify(res.body, null, 4), 'utf8');
-  fs.writeFileSync('packages.min.json', JSON.stringify(res.body), 'utf8');
+}
 
+function generateIndexPageJS() {
   var result = uglifyJs.minify(['cdnjs.handlebars.js', 'index.js']);
   fs.writeFileSync('min.js', result.code, 'utf8');
+}
+
+function generateSite(packages) {
+  var indexTemplate = fs.readFileSync('index.template', 'utf8');
+  generateIndexPage(indexTemplate, packages);
+  generateIndexPageJS();
   makeLibraryPages(packages, indexTemplate);
-});
+}
 
-// I was rushing below r0fl
-var file = fs.createWriteStream("rss.xml");
-var request = http.get("http://s3.amazonaws.com/cdnjs-artifacts/rss", function(response) {
-  response.pipe(file);
-});
+if(argv.dev) {
+  console.log('Generating dev build of website...');
+  var packagesJson = fs.readFileSync('packages.json', 'utf8');
+  var packages = JSON.parse(packagesJson).packages;
+  generateSite(packages);
+} else {
+  console.log('Get packages.json');
+  var packagesurl = 'https://s3.amazonaws.com/cdnjs-artifacts/packages.json?' + new Date().getTime();
 
+  superagent.get(packagesurl, function(res, textStatus, xhr){
+    console.log('Got packages.json');
 
+    generateSite(res.body.packages);
 
-var file2 = fs.createWriteStream("atom.xml");
-var request2 = http.get("http://s3.amazonaws.com/cdnjs-artifacts/rss", function(response) {
-  response.pipe(file2);
-});
+    fs.writeFileSync('packages.json', JSON.stringify(res.body, null, 4), 'utf8');
+    fs.writeFileSync('packages.min.json', JSON.stringify(res.body), 'utf8');
+  });
+}
 
+function makeLibraryPages(packages, indexTemplate) {
+  if(argv.nolibs) return console.log('not compiling libs due to command line params...');
 
-
-var makeLibraryPages = function(packages, indexTemplate) {
   var packageTemplate = fs.readFileSync('package.template.html', 'utf8');
   _.each(packages, function(package) {
     if(!fs.existsSync('libraries/' + package.name)) {
@@ -79,4 +90,19 @@ var makeLibraryPages = function(packages, indexTemplate) {
   });
   console.log('Success!');
   hipchat.message('green', 'Website built successfully, deploying now');
-};
+}
+
+if(!argv.dev) {
+  // I was rushing below r0fl
+  var file = fs.createWriteStream("rss.xml");
+  var request = http.get("http://s3.amazonaws.com/cdnjs-artifacts/rss", function(response) {
+    response.pipe(file);
+  });
+
+  var file2 = fs.createWriteStream("atom.xml");
+  var request2 = http.get("http://s3.amazonaws.com/cdnjs-artifacts/rss", function(response) {
+    response.pipe(file2);
+  });
+} else {
+  console.log('not generating rss & xml due to command line params...');
+}
