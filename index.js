@@ -32,7 +32,7 @@ function putClassOnFavorites(favorites) {
   });
 }
 
-$('#example .change-favorite').on('click', function(e) {
+$('#example .change-favorite').on('click', function updateFavorites(e) {
   var favorites = getFavoritesCookie();
   var rowId = $(e.currentTarget).parents('tr')[0].id;
   if(!_.contains(favorites, rowId)) {
@@ -51,26 +51,36 @@ $('#example .change-favorite').on('click', function(e) {
   $.cookie('favorites', favorites.join(','), {expires: 365});
 });
 
-// Put favorite libraries at the top of the list
-putClassOnFavorites(getFavoritesCookie());
-
-$('p.library-url').on('mouseenter', function (event) {
+$('p.library-url').on('mouseenter', function selectOnHover(event) {
   selectText($(event.currentTarget)[0]);
 });
 
+// TODO: generate this as part of the template
+rowSelector = '#example > tbody > tr';
+libraryNameCache = _.pluck($(rowSelector), 'id');
 
-  $('.search').focus();
-  $('.search').on('keyup', function (ev) {
-    var val = $(ev.currentTarget).val();
+function filterLibraries(searchVal) {
+  if(searchVal.length > 0 ){
+    for(var i = 0; i < libraryNameCache.length; i++) {
+      var libraryName = libraryNameCache[i];
+      var elem = $('#' + libraryName);
 
-    console.log(val);
-    if(val.length > 0 ){
-      $('[data-library-name]').hide();
-      $('[data-library-name*="'+val+'"]').show();
-      $('[data-library-keywords*="'+val+'"]').show();
-    } else {
-
-      $('[data-library-name]').show();
+      searchVal.indexOf(libraryName) !== -1 ? elem.show() : elem.hide();
     }
-  });
+  } else {
+    $(rowSelector).show();
+  }
+}
+
+function searchHandler(ev) {
+  var val = $(ev.currentTarget).val();
+  filterLibraries(val);
+}
+
+$('#search-box').on('keyup', searchHandler);
+
+// Put favorite libraries at the top of the list
+putClassOnFavorites(getFavoritesCookie());
+$('#search-box').focus();
+
 })(jQuery);

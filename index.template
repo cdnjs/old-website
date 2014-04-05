@@ -17,7 +17,7 @@
           margin-left: 10px;
       }
   </style>
-  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="<%= package.name ? '/css/styles.css' : 'css/styles.css' %>">
 </head>
 <body>
     <div class="container">
@@ -52,7 +52,7 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0/handlebars.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
-    <script src="/min.js"></script>
+    <script src="<%= package.name ? '/min.js' : 'min.js' %>"></script>
     <script>
         $(function() {
             var hash = window.location.hash;
@@ -66,8 +66,6 @@
     </script>
     <script src="//static.getclicky.com/js"></script>
     <script type="text/javascript">try{clicky.init(66376315);}catch(err){}</script>
- 
-
 
     <script type="text/javascript">
 
@@ -83,12 +81,6 @@
 
     </script>
 
-
  <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66376315ns.gif" /></p></noscript>
-<!--[if !(lt IE 8)]><!-->
-   <script type="text/javascript">
-     (function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src=document.location.protocol+"//d1agz031tafz8n.cloudfront.net/thedaywefightback.js/widget.min.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
-   </script>
-<!--<![endif]-->
 </body>
 </html>
