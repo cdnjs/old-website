@@ -61,11 +61,13 @@ libraryNameCache = _.pluck($(rowSelector), 'id');
 
 function filterLibraries(searchVal) {
   if(searchVal.length > 0 ){
+    cleanSearchVal = searchVal.replace(/\./g, '').toLowerCase();
+
     for(var i = 0; i < libraryNameCache.length; i++) {
       var libraryName = libraryNameCache[i];
       var elem = $('#' + libraryName);
 
-      libraryName.indexOf(searchVal) !== -1 ? elem.show() : elem.hide();
+      libraryName.toLowerCase().indexOf(cleanSearchVal) !== -1 ? elem.show() : elem.hide();
     }
   } else {
     $(rowSelector).show();
