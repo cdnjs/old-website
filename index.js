@@ -65,7 +65,7 @@ function filterLibraries(searchVal) {
       var libraryName = libraryNameCache[i];
       var elem = $('#' + libraryName);
 
-      searchVal.indexOf(libraryName) !== -1 ? elem.show() : elem.hide();
+      libraryName.indexOf(searchVal) !== -1 ? elem.show() : elem.hide();
     }
   } else {
     $(rowSelector).show();
