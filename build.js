@@ -7,7 +7,13 @@ var http = require('http');
 var htmlMinifier = require('html-minifier');
 var uglifyJs = require('uglify-js');
 
-console.log('Run `node build.js --dev --nolibs` for a fast dev build');
+if(argv.h || argv.help) {
+  console.log('Usage:');
+  console.log('--dev: Don\'t download package.json from S3');
+  console.log('--nomin: Don\'t minify JS');
+  console.log('--nolibs: Don\'t generate library pages');
+  process.exit(0);
+}
 
 var HC = new Hipchat(process.env.HIPCHAT);
 var hipchat = {
@@ -45,8 +51,12 @@ function generateIndexPage(indexTemplate, packages) {
 }
 
 function generateIndexPageJS() {
-  var result = uglifyJs.minify(['cdnjs.handlebars.js', 'index.js']);
-  fs.writeFileSync('min.js', result.code, 'utf8');
+  if(argv.nomin) {
+    fs.createReadStream('index.js').pipe(fs.createWriteStream('min.js'));
+  } else {
+    var result = uglifyJs.minify(['index.js']);
+    fs.writeFileSync('min.js', result.code, 'utf8');
+  }
 }
 
 function generateSite(packages) {
