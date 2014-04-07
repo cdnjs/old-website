@@ -17,7 +17,7 @@ function selectText(element) {
     }
 }
 
-function getFavoritesCookie() {
+function getFavorites() {
   var favorites = $.cookie('favorites');
   return favorites && favorites.split(',') || ['json2', 'handlebarsjs', 'jqueryui', 'fancybox', 'bootstrap-datepicker', 'html5shiv', 'momentjs', 'angular-ui-bootstrap', 'underscorejs', 'modernizr', 'foundation', 'lodashjs', 'd3', 'angularjs', 'font-awesome', 'twitter-bootstrap', 'jquery'];
 }
@@ -34,7 +34,7 @@ function putClassOnFavorites(favorites) {
 }
 
 $('#example .change-favorite').on('click', function updateFavorites(e) {
-  var favorites = getFavoritesCookie();
+  var favorites = getFavorites();
   var rowId = $(e.currentTarget).parents('tr')[0].id;
   if(!_.contains(favorites, rowId)) {
     favorites.push(rowId);
@@ -119,6 +119,7 @@ function filterLibraries(searchVal) {
 
   if(searchVal.length > 0 ){
     var libraryRanking = [];
+    var favorites = getFavorites();
 
     cleanSearchVal = searchVal.replace(/\./g, '').toLowerCase();
 
@@ -127,17 +128,21 @@ function filterLibraries(searchVal) {
       var elem = $('#' + libraryName);
       var levDistVal = levDist(libraryName, searchVal);
       var subStringMatch = libraryName.toLowerCase().indexOf(cleanSearchVal) !== -1;
+      var favorite = _.contains(favorites, libraryName);
 
       if(subStringMatch || levDistVal < 2) {
         libraryRanking.push({
           name: libraryName,
-          levDist: levDistVal
+          levDist: levDistVal,
+          favorite: favorite
         });
       }
     }
 
     libraryRanking = _.sortBy(libraryRanking, function(libraryMetaData) {
-      return libraryMetaData.levDist;
+      // Push favorites to the top
+      var modifier = libraryMetaData.favorite ? -1000 : 0;
+      return modifier + libraryMetaData.levDist;
     });
 
     $(matchedRowSelector).empty();
@@ -164,7 +169,7 @@ function searchHandler(ev) {
 $('#search-box').on('keyup', _.debounce(searchHandler, 300));
 
 // Put favorite libraries at the top of the list
-putClassOnFavorites(getFavoritesCookie());
+putClassOnFavorites(getFavorites());
 $('#search-box').focus();
 
 })(jQuery);
