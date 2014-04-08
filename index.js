@@ -131,8 +131,15 @@ $('#example .change-favorite').on('click', function(e) {
   }
 
   var favRow = $('#' + rowId);
+    var clonedElement = favRow.clone(true);
   favRow.toggleClass('favorite');
-  $(favRow).parents('tbody').prepend(favRow);
+  if(favRow.hasClass('favorite')) {
+    favRow.remove();
+    $('#example tbody').prepend(clonedElement);
+  } else }
+    favRow.remove();
+    $('#example tbody').append(clonedElement);
+  }
   //$('#example tr').removeClass('favorite');
   //putClassOnFavorites(favorites);
 });
