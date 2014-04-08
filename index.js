@@ -131,12 +131,13 @@ $('#example .change-favorite').on('click', function(e) {
   }
 
   var favRow = $('#' + rowId);
-    var clonedElement = favRow.clone(true);
-  favRow.toggleClass('favorite');
+  var clonedElement = favRow.clone(true);
   if(favRow.hasClass('favorite')) {
+  clonedElement.addClass('favorite');
     favRow.remove();
     $('#example tbody').prepend(clonedElement);
   } else }
+    clonedElement.removeClass('favorite');
     favRow.remove();
     $('#example tbody').append(clonedElement);
   }
