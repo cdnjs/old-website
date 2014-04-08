@@ -17,7 +17,7 @@
           margin-left: 10px;
       }
   </style>
-  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="<%= package.name ? '/css/styles.css' : 'css/styles.css' %>">
 </head>
 <body>
     <div class="container">
@@ -56,6 +56,8 @@
     <script src="/kaka.js"></script>
     <script src="/min.js"></script>
     
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
+    <script src="<%= package.name ? '/min.js' : 'min.js' %>"></script>
     <script>
         $(function() {
             var hash = window.location.hash;
@@ -69,8 +71,6 @@
     </script>
     <script src="//static.getclicky.com/js"></script>
     <script type="text/javascript">try{clicky.init(66376315);}catch(err){}</script>
- 
-
 
     <script type="text/javascript">
 
@@ -85,7 +85,6 @@
       })();
 
     </script>
-
 
  <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66376315ns.gif" /></p></noscript>
 
