@@ -1,4 +1,9 @@
 (function($){
+
+
+
+
+
 function selectText(element) {
     var doc = document;
     var text = element;
@@ -17,11 +22,73 @@ function selectText(element) {
     }
 }
 
-function getFavoritesCookie() {
-  var favorites = $.cookie('favorites');
-  return favorites && favorites.split(',') || ['json2', 'handlebarsjs', 'jqueryui', 'fancybox', 'bootstrap-datepicker', 'html5shiv', 'momentjs', 'angular-ui-bootstrap', 'underscorejs', 'modernizr', 'foundation', 'lodashjs', 'd3', 'angularjs', 'font-awesome', 'twitter-bootstrap', 'jquery'];
-}
 
+
+// UserApp Integration
+
+UserApp.initialize({ appId: "5343d12871774" });
+var currentUser = null; // This will contain the logged in user
+
+    // Check if there is a session cookie
+    var token = Kaka.get("ua_session_token");
+    if (token) {
+      // Yes, there is
+      UserApp.setToken(token);
+
+      // Get the logged in user
+      getCurrentUser(function(user) {
+        if (user) {
+          currentUser = user;
+          onUserLoaded();
+        }
+      });
+    } 
+
+    // When the user has loaded
+    function onUserLoaded() {
+      $("#name").text(currentUser.login);
+      getFavorites(putClassOnFavorites);
+      $('body').addClass('authenticated');
+      $('.login-box').hide();
+      $('.logged-in').show();
+    }
+
+    // Get the logged in user
+    function getCurrentUser(callback) {
+      UserApp.User.get({ user_id: "self" }, function(error, user) {
+        if (error) {
+          callback && callback(null);
+        } else {
+          callback && callback(user[0]);
+        }
+      });
+    }
+
+      // Get this user's articles from the back-end
+
+
+    // Logout function
+    window.logout = function () {
+      Kaka.remove("ua_session_token");
+      UserApp.User.logout(function() {
+        window.location.href = "login.html";
+      });
+    }
+
+
+
+// TODO - This is some pretty ugly code by Thomas </honesty>
+
+var favorites = [];
+
+function getFavorites(callback) {
+  $.get("http://cdnjs-server.herokuapp.com/favorites?token=" + token, function(data) {
+    if (data) {
+      favorites = data;
+      callback(data);
+    }
+  }, "json");
+}
 function putClassOnFavorites(favorites) {
   _.each(favorites, function(favId) {
     favId = '#' + favId;
@@ -33,26 +100,38 @@ function putClassOnFavorites(favorites) {
 }
 
 $('#example .change-favorite').on('click', function(e) {
-  var favorites = getFavoritesCookie();
   var rowId = $(e.currentTarget).parents('tr')[0].id;
   if(!_.contains(favorites, rowId)) {
     favorites.push(rowId);
     _gaq.push(['_trackEvent', 'favorite', 'added', rowId]);
+
+    $.ajax({
+      url: 'http://cdnjs-server.herokuapp.com/favorites?token=' + token,
+      success: function () {
+        console.log(arguments)
+      },
+      type: 'POST',
+      data: {library: rowId}
+    })
   } else if(_.isArray(favorites) && favorites.length > 0) {
     _gaq.push(['_trackEvent', 'favorite', 'removed', rowId]);
     favorites = _.without(favorites, rowId);
+
+    $.ajax({
+      url: 'http://cdnjs-server.herokuapp.com/favorites?token=' + token,
+      success: function () {
+        console.log(arguments)
+      },
+      type: 'DELETE',
+      data: {library: rowId}
+    })
   }
 
-  // Update the list of libraries with favorites at the top
   $('#example tr').removeClass('favorite');
   putClassOnFavorites(favorites);
-
-  // Save the cookie
-  $.cookie('favorites', favorites.join(','), {expires: 365});
 });
 
 // Put favorite libraries at the top of the list
-putClassOnFavorites(getFavoritesCookie());
 
 $('p.library-url').on('mouseenter', function (event) {
   selectText($(event.currentTarget)[0]);

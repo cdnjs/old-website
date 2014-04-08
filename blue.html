@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Welcome to MyApp</title>
+
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap-theme.min.css">
+
+  <!-- Custom styles -->
+  <link rel="stylesheet" href="https://app.userapp.io/css/demo/tutorial.css">
+
+  <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+  <script src="https://app.userapp.io/js/userapp.client.js"></script>
+  <script src="kaka.js"></script>
+  <script src="common.js"></script>
+  <script>
+    var currentUser = null; // This will contain the logged in user
+
+    // Check if there is a session cookie
+    var token = Kaka.get("ua_session_token");
+    if (token) {
+      // Yes, there is
+      UserApp.setToken(token);
+
+      // Get the logged in user
+      getCurrentUser(function(user) {
+        if (user) {
+          currentUser = user;
+          onUserLoaded();
+        } else {
+          window.location.href = "login.html";
+        }
+      });
+    } else {
+      // No, redirect the user to the login.html page
+      window.location.href = "login.html";
+    }
+
+    // When the user has loaded
+    function onUserLoaded() {
+      // Print his name
+      document.getElementById("name").innerHTML = currentUser.first_name;
+
+          // Load articles from back-end
+          getArticles();
+    }
+
+    // Get the logged in user
+    function getCurrentUser(callback) {
+      UserApp.User.get({ user_id: "self" }, function(error, user) {
+        if (error) {
+          callback && callback(null);
+        } else {
+          callback && callback(user[0]);
+        }
+      });
+    }
+
+      // Get this user's articles from the back-end
+      function getArticles() {
+        $.get("http://cdnjs-server.herokuapp.com/favorites?token=" + token, function(data) {
+          if (data) {
+            $("#articles").html("");
+
+            for (var i = 0; i < data.length; ++i) {
+              $("#articles").append($("<li></li>").text(data[i]));
+            }
+          }
+        }, "json");
+        
+        $.ajax({
+          url: 'http://cdnjs-server.herokuapp.com/favorites?token=' + token,
+          success: function () {
+            console.log(arguments)
+          },
+          method: 'POST',
+          data: {library: 'jqueryaaaa'}
+        })
+      }
+
+    // Logout function
+    function logout() {
+      Kaka.remove("ua_session_token");
+      UserApp.User.logout(function() {
+        window.location.href = "login.html";
+      });
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1 class="form-heading">Welcome to MyApp, <span id="name"></span>!</h1>
+    <a href="javascript:logout()">Log out</a>
+  </div> 
+  <div class="container" style="margin-top: 50px;">
+    <ul id="articles">
+        Loading articles...  
+      </ul>
+  </div>
+</body>
+</html>
