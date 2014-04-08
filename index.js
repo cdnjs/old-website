@@ -144,13 +144,13 @@
         var favRow = $('#' + rowId);
         var clonedElement = favRow.clone(true);
         if (favRow.hasClass('favorite')) {
-          clonedElement.addClass('favorite');
-          favRow.remove();
-          $('#example tbody').prepend(clonedElement);
-        } else {
           clonedElement.removeClass('favorite');
           favRow.remove();
           $('#example tbody').append(clonedElement);
+        } else {
+          clonedElement.addClass('favorite');
+          favRow.remove();
+          $('#example tbody').prepend(clonedElement);
 
         }
       }
