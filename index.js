@@ -153,7 +153,6 @@
           $('#example tbody').prepend(clonedElement);
 
         }
-      }
       //$('#example tr').removeClass('favorite');
       //putClassOnFavorites(favorites);
     });
@@ -218,7 +217,10 @@
   }
 
   // TODO: generate this as part of the template
-  rowSelector = '#example > tbody > tr'; matchedRowSelector = '#example tr.search-result'; libraryNameCache = _.pluck($(rowSelector), 'id'); $rowCache = null;
+  rowSelector = '#example > tbody > tr'; 
+  matchedRowSelector = '#example tr.search-result'; 
+  libraryNameCache = _.pluck($(rowSelector), 'id'); 
+  $rowCache = null;
 
   function filterLibraries(searchVal) {
     $rowCache = $rowCache || $(rowSelector);
