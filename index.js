@@ -202,7 +202,7 @@ function filterLibraries(searchVal) {
 
   if(searchVal.length > 0 ){
     var libraryRanking = [];
-    var favorites = getFavorites();
+    //var favorites = getFavorites();
 
     cleanSearchVal = searchVal.replace(/\./g, '').toLowerCase();
 
@@ -252,7 +252,7 @@ function searchHandler(ev) {
 $('#search-box').on('keyup', _.debounce(searchHandler, 300));
 
 // Put favorite libraries at the top of the list
-putClassOnFavorites(getFavorites());
+//putClassOnFavorites(getFavorites());
 $('#search-box').focus();
 
 })(jQuery);
