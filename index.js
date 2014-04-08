@@ -38,6 +38,7 @@ var currentUser = null; // This will contain the logged in user
       // Get the logged in user
       getCurrentUser(function(user) {
         if (user) {
+          console.log(user);
           currentUser = user;
           onUserLoaded();
         }
