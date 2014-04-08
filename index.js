@@ -130,8 +130,11 @@ $('#example .change-favorite').on('click', function(e) {
     })
   }
 
-  $('#example tr').removeClass('favorite');
-  putClassOnFavorites(favorites);
+  var favRow = $('#' + rowId);
+  favRow.toggleClass('favorite');
+  $(favRow).parents('tbody').prepend(favRow);
+  //$('#example tr').removeClass('favorite');
+  //putClassOnFavorites(favorites);
 });
 
 
