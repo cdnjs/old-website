@@ -142,15 +142,12 @@
         }
 
         var favRow = $('#' + rowId);
-        var clonedElement = favRow.clone(true);
         if (favRow.hasClass('favorite')) {
-          clonedElement.removeClass('favorite');
-          favRow.remove();
-          $('#example tbody').append(clonedElement);
+          favRow.removeClass('favorite');
+          $(favRow).appendTo('#example tbody');
         } else {
-          clonedElement.addClass('favorite');
-          favRow.remove();
-          $('#example tbody').prepend(clonedElement);
+          favRow.addClass('favorite');
+          $(favRow).prependTo('#example tbody');
 
         }
       //$('#example tr').removeClass('favorite');
