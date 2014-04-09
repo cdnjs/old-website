@@ -142,10 +142,12 @@
         }
 
         var favRow = $('#' + rowId);
+        console.log(favRow);
         if (favRow.hasClass('favorite')) {
-          favRow.removeClass('favorite');
           $(favRow).appendTo('#example tbody');
+          favRow.removeClass('favorite');
         } else {
+          window.a =favRow;
           favRow.addClass('favorite');
           $(favRow).prependTo('#example tbody');
 
@@ -217,11 +219,11 @@
   rowSelector = '#example > tbody > tr'; 
   matchedRowSelector = '#example tr.search-result'; 
   libraryNameCache = _.pluck($(rowSelector), 'id'); 
-  $rowCache = null;
+  //$rowCache = null;
 
   function filterLibraries(searchVal) {
-    $rowCache = $rowCache || $(rowSelector);
-
+    //$rowCache = $rowCache || $(rowSelector);
+    $(rowSelector).removeClass('search-result');
     if (searchVal.length > 0) {
       var libraryRanking = [];
       //var favorites = getFavorites();
@@ -234,8 +236,14 @@
         var levDistVal = levDist(libraryName, searchVal);
         var subStringMatch = libraryName.toLowerCase().indexOf(cleanSearchVal) !== -1;
         var favorite = _.contains(favorites, libraryName);
-
+        if(libraryName === 'jquery') {
+          console.log(levDistVal);
+        }
         if (subStringMatch || levDistVal < 2) {
+
+        if(libraryName === 'jquery') {
+          console.log('made it');
+        }
           libraryRanking.push({
             name: libraryName,
             levDist: levDistVal,
@@ -250,21 +258,26 @@
         return modifier + libraryMetaData.levDist;
       });
 
-      $(matchedRowSelector).empty();
-      $rowCache.hide();
-
-      for (var j = 0; j < libraryRanking.length; j++) {
-        var libraryMetaData = libraryRanking[j];
-        var element = _.findWhere($rowCache, {
+     // $(matchedRowSelector).empty();
+      //$rowCache.hide();
+      $(rowSelector).hide();
+      // reverse loop prepend to top
+      for (var j = libraryRanking.length; j > 0; j--) {
+        var libraryMetaData = libraryRanking[j-1];
+        var element = _.findWhere($(rowSelector), {
           id: libraryMetaData.name
         });
-        var $clonedElement = $(element).clone(true).show();
-        $clonedElement.addClass('search-result');
-        $('#example tbody').append($clonedElement);
+        $(element).addClass('search-result');
+        $(element).prependTo('#example > tbody');
       }
+      $(matchedRowSelector).show();
+
     } else {
-      $(matchedRowSelector).empty();
-      $rowCache.show();
+      //$(matchedRowSelector).empty();
+      //$rowCache.show();
+      $(rowSelector).show();
+      putClassOnFavorites(favorites);
+
     }
   }
 
