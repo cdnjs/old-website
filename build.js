@@ -99,7 +99,6 @@ function makeLibraryPages(packages, indexTemplate) {
     fs.writeFileSync('libraries/' + package.name + '/index.html', packagePage, 'utf8');
   });
   console.log('Success!');
-  hipchat.message('green', 'Website built successfully, deploying now');
 }
 
 if(!argv.dev) {
