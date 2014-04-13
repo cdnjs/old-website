@@ -10,10 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Apr 2014 16:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2014 09:26:33 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[Base64 updated to version 0.2.1]]></title>
+            <description><![CDATA[Base64 encoding and decoding<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Base64/0.2.1/base64.min.js">//cdnjs.cloudflare.com/ajax/libs/Base64/0.2.1/base64.min.js</a>]]></description>
+            <guid isPermaLink="false">Base640.2.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 13 Apr 2014 06:30:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[moment.js updated to version 2.6.0]]></title>
             <description><![CDATA[A lightweight (4.3k) javascript date library for parsing, manipulating, and formatting dates.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.6.0/moment.min.js">//cdnjs.cloudflare.com/ajax/libs/moment.js/2.6.0/moment.min.js</a>]]></description>
@@ -62,6 +69,14 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">p5.js0.2.6</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 11 Apr 2014 14:30:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ekko-lightbox(3.0.3a) was added]]></title>
+            <description><![CDATA[A lightbox gallery plugin for Bootstrap 3 based on the modal plugin.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.0.3a/ekko-lightbox.min.js">//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.0.3a/ekko-lightbox.min.js</a>]]></description>
+            <link>http://ashleydw.github.io/lightbox/</link>
+            <guid isPermaLink="false">ekko-lightbox3.0.3a</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 11 Apr 2014 14:03:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[phaser updated to version 2.0.3]]></title>
@@ -478,13 +493,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <pubDate>Tue, 01 Apr 2014 18:14:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Base64 updated to version 0.2.0]]></title>
-            <description><![CDATA[Base64 encoding and decoding<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Base64/0.2.0/base64.min.js">//cdnjs.cloudflare.com/ajax/libs/Base64/0.2.0/base64.min.js</a>]]></description>
-            <guid isPermaLink="false">Base640.2.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 01 Apr 2014 11:30:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ouibounce(0.0.4) was added]]></title>
             <description><![CDATA[Show some HTML before visitors leave your site.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.4/ouibounce.js">//cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.4/ouibounce.js</a>]]></description>
             <link>https://github.com/carlsednaoui/ouibounce</link>
@@ -531,46 +539,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">reveal.js2.6.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 30 Mar 2014 10:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[select2 updated to version 3.4.6]]></title>
-            <description><![CDATA[Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. Look and feel of Select2 is based on the excellent Chosen library.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/select2/3.4.6/select2.min.js">//cdnjs.cloudflare.com/ajax/libs/select2/3.4.6/select2.min.js</a>]]></description>
-            <link>http://ivaynberg.github.com/select2/</link>
-            <guid isPermaLink="false">select23.4.6</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 30 Mar 2014 06:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ember.js updated to version 1.5.0]]></title>
-            <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember.js/1.5.0/ember.min.js">//cdnjs.cloudflare.com/ajax/libs/ember.js/1.5.0/ember.min.js</a>]]></description>
-            <link>http://emberjs.com/</link>
-            <guid isPermaLink="false">ember.js1.5.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 30 Mar 2014 05:16:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.socialshareprivacy updated to version 1.6]]></title>
-            <description><![CDATA[2 Klicks fuer mehr Datenschutz<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.socialshareprivacy/1.6/jquery.socialshareprivacy.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.socialshareprivacy/1.6/jquery.socialshareprivacy.min.js</a>]]></description>
-            <link>http://www.heise.de/extras/socialshareprivacy/</link>
-            <guid isPermaLink="false">jquery.socialshareprivacy1.6</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 29 Mar 2014 21:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone.validation updated to version 0.9.1]]></title>
-            <description><![CDATA[A validation plugin for Backbone.js that validates both your model as well as form input.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.validation/0.9.1/backbone-validation-min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.validation/0.9.1/backbone-validation-min.js</a>]]></description>
-            <link>http://thedersen.com/projects/backbone-validation</link>
-            <guid isPermaLink="false">backbone.validation0.9.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 29 Mar 2014 17:45:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[angular-retina updated to version 0.3.1]]></title>
-            <description><![CDATA[Replace AngularJS directive 'ng-src' by a version which supports Retina displays<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-retina/0.3.1/angular-retina.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-retina/0.3.1/angular-retina.min.js</a>]]></description>
-            <link>https://github.com/jrief/angular-retina</link>
-            <guid isPermaLink="false">angular-retina0.3.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 29 Mar 2014 17:45:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
