@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Apr 2014 09:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2014 09:49:13 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[mithril updated to version 0.1.4]]></title>
+            <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.4/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.4/mithril.min.js</a>]]></description>
+            <link>http://lhorie.github.io/mithril</link>
+            <guid isPermaLink="false">mithril0.1.4</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 13 Apr 2014 09:45:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sortable updated to version 0.6.0]]></title>
             <description><![CDATA[The simplest, most elegant way to sort a table.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sortable/0.6.0/js/sortable.min.js">//cdnjs.cloudflare.com/ajax/libs/sortable/0.6.0/js/sortable.min.js</a>]]></description>
@@ -36,14 +44,6 @@
             <guid isPermaLink="false">moment.js2.6.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 12 Apr 2014 16:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mithril updated to version 0.1.5]]></title>
-            <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.5/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.5/mithril.min.js</a>]]></description>
-            <link>http://lhorie.github.io/mithril</link>
-            <guid isPermaLink="false">mithril0.1.5</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 12 Apr 2014 02:21:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[timelinejs updated to version 2.30.1]]></title>
