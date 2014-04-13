@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Apr 2014 09:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2014 19:56:45 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[ember-resource.js updated to version 2.0.0]]></title>
+            <description><![CDATA[A simple library to connect your Ember.js application to JSON backends.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember-resource.js/2.0.0/ember-resource.min.js">//cdnjs.cloudflare.com/ajax/libs/ember-resource.js/2.0.0/ember-resource.min.js</a>]]></description>
+            <link>https://github.com/zendesk/ember-resource</link>
+            <guid isPermaLink="false">ember-resource.js2.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 13 Apr 2014 19:52:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mithril updated to version 0.1.4]]></title>
             <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.4/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.4/mithril.min.js</a>]]></description>
@@ -539,14 +547,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">basis.js1.2.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 31 Mar 2014 02:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[reveal.js updated to version 2.6.1]]></title>
-            <description><![CDATA[A framework for easily creating beautiful presentations using HTML<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/reveal.js/2.6.1/js/reveal.min.js">//cdnjs.cloudflare.com/ajax/libs/reveal.js/2.6.1/js/reveal.min.js</a>]]></description>
-            <link>http://lab.hakim.se/reveal-js/</link>
-            <guid isPermaLink="false">reveal.js2.6.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 30 Mar 2014 10:03:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
