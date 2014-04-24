@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Apr 2014 03:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2014 19:38:13 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[mathjs updated to version 0.21.0]]></title>
+            <description><![CDATA[Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with numbers, big numbers, complex numbers, units, and matrices.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mathjs/0.21.0/math.min.js">//cdnjs.cloudflare.com/ajax/libs/mathjs/0.21.0/math.min.js</a>]]></description>
+            <link>http://mathjs.org</link>
+            <guid isPermaLink="false">mathjs0.21.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 24 Apr 2014 19:30:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jquery.tablesorter updated to version 2.16.0]]></title>
             <description><![CDATA[tablesorter is a jQuery plugin for turning a standard HTML table with THEAD and TBODY tags into a sortable table without page refreshes. tablesorter can successfully parse and sort many types of data including linked data in a cell.
@@ -199,14 +207,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">jplayer2.5.4</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 22 Apr 2014 07:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mathjs updated to version 0.20.0]]></title>
-            <description><![CDATA[Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with numbers, big numbers, complex numbers, units, and matrices.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mathjs/0.20.0/math.min.js">//cdnjs.cloudflare.com/ajax/libs/mathjs/0.20.0/math.min.js</a>]]></description>
-            <link>http://mathjs.org</link>
-            <guid isPermaLink="false">mathjs0.20.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 22 Apr 2014 06:31:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[parallax updated to version 1.1.1]]></title>
@@ -990,38 +990,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">gremlins.js0.1.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 11 Apr 2014 01:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yui updated to version 3.16.0]]></title>
-            <description><![CDATA[The YUI Library is a set of utilities and controls, written with JavaScript and CSS, for building richly interactive web applications using techniques such as DOM scripting, DHTML and AJAX.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/yui/3.16.0/yui-min.js">//cdnjs.cloudflare.com/ajax/libs/yui/3.16.0/yui-min.js</a>]]></description>
-            <link>http://yuilibrary.com/</link>
-            <guid isPermaLink="false">yui3.16.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 10 Apr 2014 19:11:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[URI.js updated to version 1.11.2]]></title>
-            <description><![CDATA[URI.js is a javascript library for working with URLs. It offers a "jQuery-style" API (Fluent Interface, Method Chaining) to read and write all regular components and a number of convenience methods like .directory() and .authority(). URI.js offers simple, yet powerful ways of working with query string, has a number of URI-normalization functions and converts relative/absolute paths.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/URI.js/1.11.2/URI.min.js">//cdnjs.cloudflare.com/ajax/libs/URI.js/1.11.2/URI.min.js</a>]]></description>
-            <link>http://medialize.github.com/URI.js/</link>
-            <guid isPermaLink="false">URI.js1.11.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 10 Apr 2014 14:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ink updated to version 3.0.0]]></title>
-            <description><![CDATA[An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ink/3.0.0/js/ink-all.min.js">//cdnjs.cloudflare.com/ajax/libs/ink/3.0.0/js/ink-all.min.js</a>]]></description>
-            <link>http://ink.sapo.pt/</link>
-            <guid isPermaLink="false">ink3.0.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 10 Apr 2014 10:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bluebird updated to version 1.2.2]]></title>
-            <description><![CDATA[Bluebird is a fully featured Promise library with focus on innovative features and performance.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bluebird/1.2.2/bluebird.js">//cdnjs.cloudflare.com/ajax/libs/bluebird/1.2.2/bluebird.js</a>]]></description>
-            <link>https://github.com/petkaantonov/bluebird</link>
-            <guid isPermaLink="false">bluebird1.2.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 10 Apr 2014 09:07:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
