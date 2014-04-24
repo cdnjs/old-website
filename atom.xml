@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Apr 2014 19:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2014 20:06:20 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[jszip updated to version 2.2.1]]></title>
+            <description><![CDATA[Create, read and edit .zip files with Javascript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jszip/2.2.1/jszip.js">//cdnjs.cloudflare.com/ajax/libs/jszip/2.2.1/jszip.js</a>]]></description>
+            <link>http://stuk.github.io/jszip/</link>
+            <guid isPermaLink="false">jszip2.2.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 24 Apr 2014 20:00:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mathjs updated to version 0.21.0]]></title>
             <description><![CDATA[Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with numbers, big numbers, complex numbers, units, and matrices.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mathjs/0.21.0/math.min.js">//cdnjs.cloudflare.com/ajax/libs/mathjs/0.21.0/math.min.js</a>]]></description>
@@ -223,14 +231,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">shred0.8.10</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 22 Apr 2014 05:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jszip updated to version 2.2.0]]></title>
-            <description><![CDATA[Create, read and edit .zip files with Javascript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jszip/2.2.0/jszip.js">//cdnjs.cloudflare.com/ajax/libs/jszip/2.2.0/jszip.js</a>]]></description>
-            <link>http://stuk.github.io/jszip/</link>
-            <guid isPermaLink="false">jszip2.2.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 22 Apr 2014 04:46:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[moment-timezone updated to version 0.0.6]]></title>
