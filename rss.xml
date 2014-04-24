@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Apr 2014 00:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2014 00:51:52 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -133,6 +133,14 @@
             <guid isPermaLink="false">jquery-mousewheel3.1.11</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 22 Apr 2014 18:32:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snowstorm updated to version 20131208]]></title>
+            <description><![CDATA[A JavaScript Snow Effect for HTML<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Snowstorm/20131208/snowstorm-min.js">//cdnjs.cloudflare.com/ajax/libs/Snowstorm/20131208/snowstorm-min.js</a>]]></description>
+            <link>http://www.schillmania.com/projects/snowstorm/</link>
+            <guid isPermaLink="false">Snowstorm20131208</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 22 Apr 2014 13:11:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[codemirror updated to version 4.1.0]]></title>
