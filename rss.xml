@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Apr 2014 20:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2014 02:50:15 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[floatthead updated to version 1.2.7]]></title>
+            <description><![CDATA[locking table headers without special css<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/floatthead/1.2.7/jquery.floatThead.min.js">//cdnjs.cloudflare.com/ajax/libs/floatthead/1.2.7/jquery.floatThead.min.js</a>]]></description>
+            <link>https://github.com/mkoryak/floatThead</link>
+            <guid isPermaLink="false">floatthead1.2.7</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 25 Apr 2014 02:45:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jszip updated to version 2.2.1]]></title>
             <description><![CDATA[Create, read and edit .zip files with Javascript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jszip/2.2.1/jszip.js">//cdnjs.cloudflare.com/ajax/libs/jszip/2.2.1/jszip.js</a>]]></description>
@@ -858,14 +866,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <pubDate>Mon, 14 Apr 2014 18:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[floatthead updated to version 1.2.6]]></title>
-            <description><![CDATA[locking table headers without special css<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/floatthead/1.2.6/jquery.floatThead.min.js">//cdnjs.cloudflare.com/ajax/libs/floatthead/1.2.6/jquery.floatThead.min.js</a>]]></description>
-            <link>https://github.com/mkoryak/floatThead</link>
-            <guid isPermaLink="false">floatthead1.2.6</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 18:00:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[tinymce updated to version 4.0.21]]></title>
             <description><![CDATA[TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/tinymce/4.0.21/tinymce.min.js">//cdnjs.cloudflare.com/ajax/libs/tinymce/4.0.21/tinymce.min.js</a>]]></description>
             <link>http://www.tinymce.com</link>
@@ -982,14 +982,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">ratchet2.0.2</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 11 Apr 2014 05:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[gremlins.js(0.1.0) was added]]></title>
-            <description><![CDATA[A monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gremlins.js/0.1.0/gremlins.min.js">//cdnjs.cloudflare.com/ajax/libs/gremlins.js/0.1.0/gremlins.min.js</a>]]></description>
-            <link>https://github.com/marmelab/gremlins.js</link>
-            <guid isPermaLink="false">gremlins.js0.1.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 11 Apr 2014 01:08:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
