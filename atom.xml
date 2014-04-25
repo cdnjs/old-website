@@ -10,10 +10,26 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Apr 2014 02:50:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2014 19:20:06 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[restangular updated to version 1.4.0]]></title>
+            <description><![CDATA[Restfull Resources service for AngularJS apps<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/restangular/1.4.0/restangular.min.js">//cdnjs.cloudflare.com/ajax/libs/restangular/1.4.0/restangular.min.js</a>]]></description>
+            <link>https://github.com/mgonto/restangular</link>
+            <guid isPermaLink="false">restangular1.4.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 25 Apr 2014 19:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-wizard updated to version 0.4.0]]></title>
+            <description><![CDATA[Easy to use Wizard library for AngularJS<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-wizard/0.4.0/angular-wizard.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-wizard/0.4.0/angular-wizard.min.js</a>]]></description>
+            <link>https://github.com/mgonto/angular-wizard</link>
+            <guid isPermaLink="false">angular-wizard0.4.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 25 Apr 2014 19:15:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[floatthead updated to version 1.2.7]]></title>
             <description><![CDATA[locking table headers without special css<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/floatthead/1.2.7/jquery.floatThead.min.js">//cdnjs.cloudflare.com/ajax/libs/floatthead/1.2.7/jquery.floatThead.min.js</a>]]></description>
@@ -935,53 +951,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">timelinejs2.30.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 11 Apr 2014 20:34:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jsxgraph updated to version 0.99.1]]></title>
-            <description><![CDATA[JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.1/jsxgraphcore.js">//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.1/jsxgraphcore.js</a>]]></description>
-            <link>http://jsxgraph.org/</link>
-            <guid isPermaLink="false">jsxgraph0.99.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 11 Apr 2014 17:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[crel updated to version 1.1.2]]></title>
-            <description><![CDATA[A small, simple, and fast DOM creation utility<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/crel/1.1.2/crel.min.js">//cdnjs.cloudflare.com/ajax/libs/crel/1.1.2/crel.min.js</a>]]></description>
-            <guid isPermaLink="false">crel1.1.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 11 Apr 2014 15:15:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ekko-lightbox(3.0.3a) was added]]></title>
-            <description><![CDATA[A lightbox gallery plugin for Bootstrap 3 based on the modal plugin.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.0.3a/ekko-lightbox.min.js">//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.0.3a/ekko-lightbox.min.js</a>]]></description>
-            <link>http://ashleydw.github.io/lightbox/</link>
-            <guid isPermaLink="false">ekko-lightbox3.0.3a</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 11 Apr 2014 14:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[phaser updated to version 2.0.3]]></title>
-            <description><![CDATA[Phaser is a fast, free and fun open source game framework for making desktop and mobile browser HTML5 games. It uses Pixi.js internally for fast 2D Canvas and WebGL rendering.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.3/phaser.min.js">//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.3/phaser.min.js</a>]]></description>
-            <link>http://phaser.io/</link>
-            <guid isPermaLink="false">phaser2.0.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 11 Apr 2014 13:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone-pageable updated to version 1.4.6]]></title>
-            <description><![CDATA[A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.4.6/backbone-pageable.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone-pageable/1.4.6/backbone-pageable.min.js</a>]]></description>
-            <link>https://github.com/backbone-paginator/backbone-pageable</link>
-            <guid isPermaLink="false">backbone-pageable1.4.6</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 11 Apr 2014 13:21:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ratchet updated to version 2.0.2]]></title>
-            <description><![CDATA[Prototype iPhone apps with simple HTML, CSS, and JS components.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ratchet/2.0.2/js/ratchet.min.js">//cdnjs.cloudflare.com/ajax/libs/ratchet/2.0.2/js/ratchet.min.js</a>]]></description>
-            <link>https://github.com/twbs/ratchet</link>
-            <guid isPermaLink="false">ratchet2.0.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 11 Apr 2014 05:18:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
