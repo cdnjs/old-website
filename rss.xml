@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Apr 2014 04:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Apr 2014 22:49:49 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -936,29 +936,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">ng-tags-input2.0.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 14 Apr 2014 02:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ember-resource.js updated to version 2.0.0]]></title>
-            <description><![CDATA[A simple library to connect your Ember.js application to JSON backends.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ember-resource.js/2.0.0/ember-resource.min.js">//cdnjs.cloudflare.com/ajax/libs/ember-resource.js/2.0.0/ember-resource.min.js</a>]]></description>
-            <link>https://github.com/zendesk/ember-resource</link>
-            <guid isPermaLink="false">ember-resource.js2.0.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 13 Apr 2014 19:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sortable updated to version 0.6.0]]></title>
-            <description><![CDATA[The simplest, most elegant way to sort a table.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/sortable/0.6.0/js/sortable.min.js">//cdnjs.cloudflare.com/ajax/libs/sortable/0.6.0/js/sortable.min.js</a>]]></description>
-            <link>http://github.hubspot.com/sortable/</link>
-            <guid isPermaLink="false">sortable0.6.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 13 Apr 2014 09:28:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Base64 updated to version 0.2.1]]></title>
-            <description><![CDATA[Base64 encoding and decoding<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Base64/0.2.1/base64.min.js">//cdnjs.cloudflare.com/ajax/libs/Base64/0.2.1/base64.min.js</a>]]></description>
-            <guid isPermaLink="false">Base640.2.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 13 Apr 2014 06:30:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
