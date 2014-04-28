@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Apr 2014 01:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2014 11:51:25 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -37,6 +37,22 @@
             <guid isPermaLink="false">angular-ui-router0.2.10</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 28 Apr 2014 01:30:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[benchmark updated to version 1.0.0]]></title>
+            <description><![CDATA[A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/benchmark/1.0.0/benchmark.js">//cdnjs.cloudflare.com/ajax/libs/benchmark/1.0.0/benchmark.js</a>]]></description>
+            <link>http://benchmarkjs.com/</link>
+            <guid isPermaLink="false">benchmark1.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 27 Apr 2014 22:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.pjax updated to version 1.8.0]]></title>
+            <description><![CDATA[pjax is a jQuery plugin that uses ajax and pushState to deliver a fast browsing experience with real permalinks, page titles, and a working back button.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.pjax/1.8.0/jquery.pjax.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.pjax/1.8.0/jquery.pjax.min.js</a>]]></description>
+            <link>http://pjax.heroku.com</link>
+            <guid isPermaLink="false">jquery.pjax1.8.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 27 Apr 2014 17:01:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jcarousel updated to version 0.3.1]]></title>
@@ -69,6 +85,14 @@
             <guid isPermaLink="false">angular-wizard0.4.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 25 Apr 2014 19:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ng-grid updated to version 2.0.10]]></title>
+            <description><![CDATA[Angular Data Grid written in AngularJS and jQuery by the AngularUI Team<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ng-grid/2.0.10/ng-grid.min.js">//cdnjs.cloudflare.com/ajax/libs/ng-grid/2.0.10/ng-grid.min.js</a>]]></description>
+            <link>http://angular-ui.github.io/ng-grid/</link>
+            <guid isPermaLink="false">ng-grid2.0.10</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 25 Apr 2014 17:30:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[floatthead updated to version 1.2.7]]></title>
@@ -167,14 +191,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">string.js1.8.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 23 Apr 2014 21:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ng-grid updated to version 2.0.9]]></title>
-            <description><![CDATA[Angular Data Grid written in AngularJS and jQuery by the AngularUI Team<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ng-grid/2.0.9/ng-grid.min.js">//cdnjs.cloudflare.com/ajax/libs/ng-grid/2.0.9/ng-grid.min.js</a>]]></description>
-            <link>http://angular-ui.github.io/ng-grid/</link>
-            <guid isPermaLink="false">ng-grid2.0.9</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 23 Apr 2014 15:07:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ember.js updated to version 1.5.1]]></title>
@@ -944,22 +960,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">ng-dialog0.1.6</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 14 Apr 2014 17:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rxjs updated to version 2.2.20]]></title>
-            <description><![CDATA[Library for composing asynchronous and event-based operations in JavaScript<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/rxjs/2.2.20/rx.min.js">//cdnjs.cloudflare.com/ajax/libs/rxjs/2.2.20/rx.min.js</a>]]></description>
-            <link>https://github.com/Reactive-Extensions/RxJS</link>
-            <guid isPermaLink="false">rxjs2.2.20</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ng-tags-input updated to version 2.0.1]]></title>
-            <description><![CDATA[Tags input directive for AngularJS<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ng-tags-input/2.0.1/ng-tags-input.min.js">//cdnjs.cloudflare.com/ajax/libs/ng-tags-input/2.0.1/ng-tags-input.min.js</a>]]></description>
-            <link>http://mbenford.github.io/ngTagsInput</link>
-            <guid isPermaLink="false">ng-tags-input2.0.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 02:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
