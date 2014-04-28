@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Apr 2014 22:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2014 01:20:42 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -47,6 +47,14 @@
             <pubDate>Fri, 25 Apr 2014 19:15:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[angular-ui-router updated to version 0.2.10]]></title>
+            <description><![CDATA[State-based routing for AngularJS<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.10/angular-ui-router.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.10/angular-ui-router.min.js</a>]]></description>
+            <link>http://angular-ui.github.com/</link>
+            <guid isPermaLink="false">angular-ui-router0.2.10</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 25 Apr 2014 16:15:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[floatthead updated to version 1.2.7]]></title>
             <description><![CDATA[locking table headers without special css<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/floatthead/1.2.7/jquery.floatThead.min.js">//cdnjs.cloudflare.com/ajax/libs/floatthead/1.2.7/jquery.floatThead.min.js</a>]]></description>
             <link>https://github.com/mkoryak/floatThead</link>
@@ -77,6 +85,14 @@
             <guid isPermaLink="false">reveal.js2.6.2</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 24 Apr 2014 16:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[polymer updated to version 0.2.3]]></title>
+            <description><![CDATA[Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/polymer/0.2.3/polymer.js">//cdnjs.cloudflare.com/ajax/libs/polymer/0.2.3/polymer.js</a>]]></description>
+            <link>http://polymer-project.org/</link>
+            <guid isPermaLink="false">polymer0.2.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 24 Apr 2014 09:12:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jquery.tablesorter updated to version 2.16.0]]></title>
@@ -513,14 +529,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <description><![CDATA[A small, fast, framework-agnostic event manager<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/bean/1.0.6/bean.min.js">//cdnjs.cloudflare.com/ajax/libs/bean/1.0.6/bean.min.js</a>]]></description>
             <link>https://github.com/fat/bean</link>
             <guid isPermaLink="false">bean1.0.6</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 21 Apr 2014 12:44:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[angular-ui-router updated to version 0.2.10]]></title>
-            <description><![CDATA[State-based routing for AngularJS<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.10/angular-ui-router.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.10/angular-ui-router.min.js</a>]]></description>
-            <link>http://angular-ui.github.com/</link>
-            <guid isPermaLink="false">angular-ui-router0.2.10</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 21 Apr 2014 12:44:05 GMT</pubDate>
         </item>
