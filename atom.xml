@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Apr 2014 11:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2014 22:54:24 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[jquery-cookie updated to version 1.4.1]]></title>
+            <description><![CDATA[A simple, lightweight jQuery plugin for reading, writing and deleting cookies.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js</a>]]></description>
+            <link>https://github.com/carhartl/jquery-cookie</link>
+            <guid isPermaLink="false">jquery-cookie1.4.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Mon, 28 Apr 2014 17:27:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mithril updated to version 0.1.4]]></title>
             <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.4/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.4/mithril.min.js</a>]]></description>
@@ -897,69 +905,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">piwik2.1.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 15 Apr 2014 10:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[angular-route-segment(1.2.3) was added]]></title>
-            <description><![CDATA[An extension for AngularJS $route service which supports tree-like nested views and routes hierarchy, and advanced loading flow handling.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-route-segment/1.2.3/angular-route-segment.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-route-segment/1.2.3/angular-route-segment.min.js</a>]]></description>
-            <link>http://angular-route-segment.com/</link>
-            <guid isPermaLink="false">angular-route-segment1.2.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 19:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mocha updated to version 1.18.2]]></title>
-            <description><![CDATA[simple, flexible, fun test framework<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mocha/1.18.2/mocha.js">//cdnjs.cloudflare.com/ajax/libs/mocha/1.18.2/mocha.js</a>]]></description>
-            <guid isPermaLink="false">mocha1.18.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 18:46:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[respond.js updated to version 1.4.2]]></title>
-            <description><![CDATA[A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more). Please note: cdnjs does not serve the respond-proxy.html file.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js">//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js</a>]]></description>
-            <link>https://github.com/scottjehl/Respond</link>
-            <guid isPermaLink="false">respond.js1.4.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 18:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[backbone.marionette updated to version 1.8.0]]></title>
-            <description><![CDATA[Make your Backbone.js apps dance with a composite application architecture!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.8.0/backbone.marionette.min.js">//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.8.0/backbone.marionette.min.js</a>]]></description>
-            <link>http://github.com/marionettejs/backbone.marionette</link>
-            <guid isPermaLink="false">backbone.marionette1.8.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 18:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pickadate.js updated to version 3.5.0]]></title>
-            <description><![CDATA[The mobile-friendly, responsive, and lightweight jQuery date & time input picker.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/pickadate.js/3.5.0/picker.js">//cdnjs.cloudflare.com/ajax/libs/pickadate.js/3.5.0/picker.js</a>]]></description>
-            <link>http://amsul.github.io/pickadate.js</link>
-            <guid isPermaLink="false">pickadate.js3.5.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 18:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-mobile updated to version 1.4.1]]></title>
-            <description><![CDATA[A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.1/jquery.mobile.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.1/jquery.mobile.min.js</a>]]></description>
-            <link>http://jquerymobile.com/</link>
-            <guid isPermaLink="false">jquery-mobile1.4.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 18:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tinymce updated to version 4.0.21]]></title>
-            <description><![CDATA[TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/tinymce/4.0.21/tinymce.min.js">//cdnjs.cloudflare.com/ajax/libs/tinymce/4.0.21/tinymce.min.js</a>]]></description>
-            <link>http://www.tinymce.com</link>
-            <guid isPermaLink="false">tinymce4.0.21</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 17:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ng-dialog updated to version 0.1.6]]></title>
-            <description><![CDATA[Modals and popups provider for Angular.js applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ng-dialog/0.1.6/ng-dialog.min.js">//cdnjs.cloudflare.com/ajax/libs/ng-dialog/0.1.6/ng-dialog.min.js</a>]]></description>
-            <link>http://likeastore.github.io/ngDialog/</link>
-            <guid isPermaLink="false">ng-dialog0.1.6</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2014 17:30:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
