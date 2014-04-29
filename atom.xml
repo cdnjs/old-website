@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Apr 2014 03:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2014 13:56:51 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[zeroclipboard updated to version 2.0.0-beta.5]]></title>
+            <description><![CDATA[The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/2.0.0-beta.5/ZeroClipboard.min.js">//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/2.0.0-beta.5/ZeroClipboard.min.js</a>]]></description>
+            <link>http://zeroclipboard.org/</link>
+            <guid isPermaLink="false">zeroclipboard2.0.0-beta.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 29 Apr 2014 13:45:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Base64 updated to version 0.3.0]]></title>
             <description><![CDATA[Base64 encoding and decoding<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Base64/0.3.0/base64.min.js">//cdnjs.cloudflare.com/ajax/libs/Base64/0.3.0/base64.min.js</a>]]></description>
@@ -230,14 +238,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">loglevel0.6.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 23 Apr 2014 03:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[zeroclipboard updated to version 2.0.0-beta.4]]></title>
-            <description><![CDATA[The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/2.0.0-beta.4/ZeroClipboard.min.js">//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/2.0.0-beta.4/ZeroClipboard.min.js</a>]]></description>
-            <link>http://zeroclipboard.org/</link>
-            <guid isPermaLink="false">zeroclipboard2.0.0-beta.4</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 23 Apr 2014 03:25:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[script.js updated to version 2.5.3]]></title>
@@ -904,14 +904,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">xls0.6.17</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 16 Apr 2014 06:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[piwik updated to version 2.1.0]]></title>
-            <description><![CDATA[Piwik is a free web analytics tool that provides you with detailed reports on your website's visitors, your marketing campaigns and much more. Piwik is an open source alternative to Google Analytics, available in 45 languages, and has been downloaded more than 1 million times!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/piwik/2.1.0/piwik.js">//cdnjs.cloudflare.com/ajax/libs/piwik/2.1.0/piwik.js</a>]]></description>
-            <link>http://piwik.org/</link>
-            <guid isPermaLink="false">piwik2.1.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 15 Apr 2014 10:15:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
