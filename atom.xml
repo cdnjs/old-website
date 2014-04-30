@@ -10,10 +10,178 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Apr 2014 15:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2014 23:20:07 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[numeral(1.3.3) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.3.3/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.3.3/undefined</a>]]></description>
+            <link>http://numeraljs.com</link>
+            <guid isPermaLink="false">numeral1.3.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.3.2) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.3.2/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.3.2/undefined</a>]]></description>
+            <link>http://numeraljs.com</link>
+            <guid isPermaLink="false">numeral1.3.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.3.1) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.3.1/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.3.1/undefined</a>]]></description>
+            <link>http://numeraljs.com</link>
+            <guid isPermaLink="false">numeral1.3.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.2.5) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.2.5/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.2.5/undefined</a>]]></description>
+            <link>http://numeraljs.com</link>
+            <guid isPermaLink="false">numeral1.2.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.2.3) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.2.3/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.2.3/undefined</a>]]></description>
+            <link>http://numeraljs.com</link>
+            <guid isPermaLink="false">numeral1.2.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.2.2) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.2.2/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.2.2/undefined</a>]]></description>
+            <link>http://numeraljs.com</link>
+            <guid isPermaLink="false">numeral1.2.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.2.1) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.2.1/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.2.1/undefined</a>]]></description>
+            <link>http://adamwdraper.github.com/Numeral-js/</link>
+            <guid isPermaLink="false">numeral1.2.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.1.0) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.1.0/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.1.0/undefined</a>]]></description>
+            <link>http://adamwdraper.github.com/Numeral-js/</link>
+            <guid isPermaLink="false">numeral1.1.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.0.4) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.0.4/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.0.4/undefined</a>]]></description>
+            <link>http://adamwdraper.github.com/Numeral-js/</link>
+            <guid isPermaLink="false">numeral1.0.4</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.0.3) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.0.3/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.0.3/undefined</a>]]></description>
+            <link>http://adamwdraper.github.com/Numeral-js/</link>
+            <guid isPermaLink="false">numeral1.0.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.0.2) was added]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.0.2/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.0.2/undefined</a>]]></description>
+            <link>http://adamwdraper.github.com/Numeral-js/</link>
+            <guid isPermaLink="false">numeral1.0.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numeral(1.0.1) was added]]></title>
+            <description><![CDATA[Formatand manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numeral/1.0.1/undefined">//cdnjs.cloudflare.com/ajax/libs/numeral/1.0.1/undefined</a>]]></description>
+            <link>http://adamwdraper.github.com/Numeral-js/</link>
+            <guid isPermaLink="false">numeral1.0.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[loglevel(0.1.0) was added]]></title>
+            <description><![CDATA[Minimal lightweight logging for JavaScript, adding reliable log level methods to any available console.log methods<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/loglevel/0.1.0/undefined">//cdnjs.cloudflare.com/ajax/libs/loglevel/0.1.0/undefined</a>]]></description>
+            <link>https://github.com/pimterry/loglevel</link>
+            <guid isPermaLink="false">loglevel0.1.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[idb-wrapper(0.3.0) was added]]></title>
+            <description><![CDATA[A cross-browser wrapper for IndexedDB<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.3.0/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.3.0/undefined</a>]]></description>
+            <link>https://github.com/jensarps/IDBWrapper</link>
+            <guid isPermaLink="false">idb-wrapper0.3.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[idb-wrapper(0.2.1) was added]]></title>
+            <description><![CDATA[A cross-browser wrapper for IndexedDB<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.2.1/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.2.1/undefined</a>]]></description>
+            <link>https://github.com/jensarps/IDBWrapper</link>
+            <guid isPermaLink="false">idb-wrapper0.2.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[idb-wrapper(0.1.4) was added]]></title>
+            <description><![CDATA[This is a wrapper for indexedDB.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.4/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.4/undefined</a>]]></description>
+            <link>https://github.com/jensarps/IDBWrapper</link>
+            <guid isPermaLink="false">idb-wrapper0.1.4</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[idb-wrapper(0.1.3) was added]]></title>
+            <description><![CDATA[This is a wrapper for indexedDB.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.3/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.3/undefined</a>]]></description>
+            <link>https://github.com/jensarps/IDBWrapper</link>
+            <guid isPermaLink="false">idb-wrapper0.1.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[idb-wrapper(0.1.2) was added]]></title>
+            <description><![CDATA[This is a wrapper for indexedDB.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.2/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.2/undefined</a>]]></description>
+            <link>https://github.com/jensarps/IDBWrapper</link>
+            <guid isPermaLink="false">idb-wrapper0.1.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[idb-wrapper(0.1.1) was added]]></title>
+            <description><![CDATA[This is a wrapper for indexedDB.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.1/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.1/undefined</a>]]></description>
+            <link>https://github.com/jensarps/IDBWrapper</link>
+            <guid isPermaLink="false">idb-wrapper0.1.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[idb-wrapper(0.1.0) was added]]></title>
+            <description><![CDATA[This is a wrapper for indexedDB.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.0/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.0/undefined</a>]]></description>
+            <link>https://github.com/jensarps/IDBWrapper</link>
+            <guid isPermaLink="false">idb-wrapper0.1.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-autosize(1.17.2) was added]]></title>
+            <description><![CDATA[Automatically adjust textarea height based on user input.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-autosize/1.17.2/undefined">//cdnjs.cloudflare.com/ajax/libs/jquery-autosize/1.17.2/undefined</a>]]></description>
+            <link>http://www.jacklmoore.com/autosize</link>
+            <guid isPermaLink="false">jquery-autosize1.17.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 23:15:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[phaser updated to version 2.0.4]]></title>
             <description><![CDATA[Phaser is a fast, free and fun open source game framework for making desktop and mobile browser HTML5 games. It uses Pixi.js internally for fast 2D Canvas and WebGL rendering.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.4/phaser.min.js">//cdnjs.cloudflare.com/ajax/libs/phaser/2.0.4/phaser.min.js</a>]]></description>
@@ -911,14 +1079,6 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">marked0.3.2</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 16 Apr 2014 23:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[html5media updated to version 1.1.8]]></title>
-            <description><![CDATA[HTML5 video and audio tags in all major browsers<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.js">//cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.js</a>]]></description>
-            <link>http://html5media.info/</link>
-            <guid isPermaLink="false">html5media1.1.8</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 16 Apr 2014 16:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
