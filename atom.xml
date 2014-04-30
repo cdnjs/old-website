@@ -10,82 +10,10 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Apr 2014 01:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2014 01:49:19 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
-        <item>
-            <title><![CDATA[loglevel(0.1.0) was added]]></title>
-            <description><![CDATA[Minimal lightweight logging for JavaScript, adding reliable log level methods to any available console.log methods<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/loglevel/0.1.0/undefined">//cdnjs.cloudflare.com/ajax/libs/loglevel/0.1.0/undefined</a>]]></description>
-            <link>https://github.com/pimterry/loglevel</link>
-            <guid isPermaLink="false">loglevel0.1.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 30 Apr 2014 01:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[idb-wrapper(0.3.0) was added]]></title>
-            <description><![CDATA[A cross-browser wrapper for IndexedDB<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.3.0/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.3.0/undefined</a>]]></description>
-            <link>https://github.com/jensarps/IDBWrapper</link>
-            <guid isPermaLink="false">idb-wrapper0.3.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 30 Apr 2014 01:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[idb-wrapper(0.2.1) was added]]></title>
-            <description><![CDATA[A cross-browser wrapper for IndexedDB<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.2.1/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.2.1/undefined</a>]]></description>
-            <link>https://github.com/jensarps/IDBWrapper</link>
-            <guid isPermaLink="false">idb-wrapper0.2.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 30 Apr 2014 01:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[idb-wrapper(0.1.4) was added]]></title>
-            <description><![CDATA[This is a wrapper for indexedDB.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.4/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.4/undefined</a>]]></description>
-            <link>https://github.com/jensarps/IDBWrapper</link>
-            <guid isPermaLink="false">idb-wrapper0.1.4</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 30 Apr 2014 01:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[idb-wrapper(0.1.3) was added]]></title>
-            <description><![CDATA[This is a wrapper for indexedDB.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.3/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.3/undefined</a>]]></description>
-            <link>https://github.com/jensarps/IDBWrapper</link>
-            <guid isPermaLink="false">idb-wrapper0.1.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 30 Apr 2014 01:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[idb-wrapper(0.1.2) was added]]></title>
-            <description><![CDATA[This is a wrapper for indexedDB.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.2/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.2/undefined</a>]]></description>
-            <link>https://github.com/jensarps/IDBWrapper</link>
-            <guid isPermaLink="false">idb-wrapper0.1.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 30 Apr 2014 01:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[idb-wrapper(0.1.1) was added]]></title>
-            <description><![CDATA[This is a wrapper for indexedDB.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.1/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.1/undefined</a>]]></description>
-            <link>https://github.com/jensarps/IDBWrapper</link>
-            <guid isPermaLink="false">idb-wrapper0.1.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 30 Apr 2014 01:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[idb-wrapper(0.1.0) was added]]></title>
-            <description><![CDATA[This is a wrapper for indexedDB.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.0/undefined">//cdnjs.cloudflare.com/ajax/libs/idb-wrapper/0.1.0/undefined</a>]]></description>
-            <link>https://github.com/jensarps/IDBWrapper</link>
-            <guid isPermaLink="false">idb-wrapper0.1.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 30 Apr 2014 01:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-autosize(1.17.2) was added]]></title>
-            <description><![CDATA[Automatically adjust textarea height based on user input.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-autosize/1.17.2/undefined">//cdnjs.cloudflare.com/ajax/libs/jquery-autosize/1.17.2/undefined</a>]]></description>
-            <link>http://www.jacklmoore.com/autosize</link>
-            <guid isPermaLink="false">jquery-autosize1.17.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 30 Apr 2014 01:30:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cookies.js updated to version 0.4.0]]></title>
             <description><![CDATA[Cookies.js is a small client-side javascript library that makes managing cookies easy.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Cookies.js/0.4.0/cookies.min.js">//cdnjs.cloudflare.com/ajax/libs/Cookies.js/0.4.0/cookies.min.js</a>]]></description>
