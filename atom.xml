@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 May 2014 08:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2014 09:08:42 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -31,6 +31,14 @@
             <pubDate>Thu, 01 May 2014 04:24:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[gillie(0.2.1) was added]]></title>
+            <description><![CDATA[MVC JavaScript MicroFramework<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/gillie/0.2.1/gillie.min.js">//cdnjs.cloudflare.com/ajax/libs/gillie/0.2.1/gillie.min.js</a>]]></description>
+            <link>http://pablovallejo.github.io/gillie</link>
+            <guid isPermaLink="false">gillie0.2.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 01 May 2014 03:04:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[p5.js updated to version 0.2.9]]></title>
             <description><![CDATA[p5.js is a JavaScript client-side library for creating graphic and interactive experiences, using canvas and HTML5, based on the core principles of Processing.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.9/p5.min.js">//cdnjs.cloudflare.com/ajax/libs/p5.js/0.2.9/p5.min.js</a>]]></description>
             <link>http://p5js.org</link>
@@ -45,6 +53,14 @@
             <guid isPermaLink="false">xlsx0.6.1-a</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 01 May 2014 00:30:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[weather-icons(0.0.1) was added]]></title>
+            <description><![CDATA[Weather Icons<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/weather-icons/0.0.1/css/weather-icons.min.css">//cdnjs.cloudflare.com/ajax/libs/weather-icons/0.0.1/css/weather-icons.min.css</a>]]></description>
+            <link>http://erikflowers.github.io/weather-icons/</link>
+            <guid isPermaLink="false">weather-icons0.0.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2014 09:36:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[phaser updated to version 2.0.4]]></title>
@@ -102,6 +118,14 @@
             <pubDate>Tue, 29 Apr 2014 13:45:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[semantic-ui updated to version 0.16.1]]></title>
+            <description><![CDATA[Semantic empowers designers and developers by creating a language for sharing UI<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.16.1/javascript/semantic.min.js">//cdnjs.cloudflare.com/ajax/libs/semantic-ui/0.16.1/javascript/semantic.min.js</a>]]></description>
+            <link>http://semantic-ui.com/</link>
+            <guid isPermaLink="false">semantic-ui0.16.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Tue, 29 Apr 2014 09:52:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Base64 updated to version 0.3.0]]></title>
             <description><![CDATA[Base64 encoding and decoding<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Base64/0.3.0/base64.min.js">//cdnjs.cloudflare.com/ajax/libs/Base64/0.3.0/base64.min.js</a>]]></description>
             <guid isPermaLink="false">Base640.3.0</guid>
@@ -149,12 +173,28 @@
             <pubDate>Sun, 27 Apr 2014 22:37:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[angular-image-spinner(0.1.5) was added]]></title>
+            <description><![CDATA[Angular directive for showing image spinner in the container with image<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/angular-image-spinner/0.1.5/angular-image-spinner.min.js">//cdnjs.cloudflare.com/ajax/libs/angular-image-spinner/0.1.5/angular-image-spinner.min.js</a>]]></description>
+            <link>https://github.com/oivoodoo/angular-image-spinner</link>
+            <guid isPermaLink="false">angular-image-spinner0.1.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 27 Apr 2014 10:50:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[jcarousel updated to version 0.3.1]]></title>
             <description><![CDATA[jCarousel is a jQuery plugin for controlling a list of items in horizontal or vertical order. It provides a full-featured and flexible toolset for navigating any HTML based content in a carousel-like fashion.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jcarousel/0.3.1/jquery.jcarousel.min.js">//cdnjs.cloudflare.com/ajax/libs/jcarousel/0.3.1/jquery.jcarousel.min.js</a>]]></description>
             <link>http://sorgalla.com/jcarousel/</link>
             <guid isPermaLink="false">jcarousel0.3.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 26 Apr 2014 12:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[summernote updated to version 0.5.1]]></title>
+            <description><![CDATA[Meet the world's best WYSIWYG editor on bootstrap. Summernote support both bootstrap 3.0.x and 2.x.x.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/summernote/0.5.1/summernote.min.js">//cdnjs.cloudflare.com/ajax/libs/summernote/0.5.1/summernote.min.js</a>]]></description>
+            <link>http://hackerwins.github.io/summernote/</link>
+            <guid isPermaLink="false">summernote0.5.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 26 Apr 2014 07:31:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[vue updated to version 0.10.4]]></title>
@@ -664,6 +704,14 @@ This forked version adds lots of new enhancements including: alphanumeric sortin
             <guid isPermaLink="false">bootstrap-rtl3.1.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 20 Apr 2014 23:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[selectize.js updated to version 0.9.0]]></title>
+            <description><![CDATA[A jQuery-based select UI control with autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/selectize.js/0.9.0/js/selectize.min.js">//cdnjs.cloudflare.com/ajax/libs/selectize.js/0.9.0/js/selectize.min.js</a>]]></description>
+            <link>http://brianreavis.github.io/selectize.js/</link>
+            <guid isPermaLink="false">selectize.js0.9.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 20 Apr 2014 17:21:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jasny-bootstrap updated to version 3.1.2]]></title>
