@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 May 2014 06:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2014 07:17:54 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2013 Cdnjs. All rights reserved]]></copyright>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">vega1.3.4</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 01 May 2014 06:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[modernizr updated to version 2.8.0]]></title>
+            <description><![CDATA[Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user's browser.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.0/modernizr.min.js">//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.0/modernizr.min.js</a>]]></description>
+            <link>http://www.modernizr.com/</link>
+            <guid isPermaLink="false">modernizr2.8.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 01 May 2014 04:24:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[p5.js updated to version 0.2.9]]></title>
@@ -139,14 +147,6 @@
             <guid isPermaLink="false">benchmark1.0.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 27 Apr 2014 22:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[modernizr updated to version 2.7.2]]></title>
-            <description><![CDATA[Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user's browser.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.2/modernizr.min.js">//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.2/modernizr.min.js</a>]]></description>
-            <link>http://www.modernizr.com/</link>
-            <guid isPermaLink="false">modernizr2.7.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 26 Apr 2014 16:10:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jcarousel updated to version 0.3.1]]></title>
