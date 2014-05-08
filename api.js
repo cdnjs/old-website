@@ -44,10 +44,25 @@ app.get('/libraries', function(req, res){
 		});
 		return data;
 	});
-  res.jsonp({ 
+  res.jsonp({
   	results: results,
   	total: results.length
   });
+});
+app.get('/libraries/:library', function(req, res){
+  var results;
+
+  res.setHeader("Expires", new Date(Date.now() + 360 * 60 * 1000).toUTCString());
+  console.log(req.query);
+  results = _.filter(packages, function(package) {
+    if(package.name===req.params.libary){
+      return package
+    } else {
+      return false;
+    }
+  });
+
+  res.jsonp(results[0]);
 });
 var port = process.env.PORT || 5050;
 
