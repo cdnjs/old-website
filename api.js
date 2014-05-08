@@ -61,8 +61,10 @@ app.get('/libraries/:library', function(req, res){
       return false;
     }
   });
-
+  console.log(results);
+  if(results.length > 0 ) {
   res.jsonp(results[0]);
+} else { res.jsonp({})}
 });
 var port = process.env.PORT || 5050;
 
