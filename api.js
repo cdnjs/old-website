@@ -3,6 +3,7 @@ var express = require('express');
 var _ = require('lodash');
 var app = express();
 
+var bodyParser = require('body-parser');
 var allowCrossDomain = function(req, res, next) {
     res.header('Access-Control-Allow-Credentials', true);
     res.header('Access-Control-Allow-Origin', '*')
@@ -10,8 +11,7 @@ var allowCrossDomain = function(req, res, next) {
     res.header('Access-Control-Allow-Headers', 'X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version');
 	next();
 }
-
-app.use(express.bodyParser());
+app.use(bodyParser());
 app.use(allowCrossDomain);
 
 
@@ -54,8 +54,7 @@ app.get('/libraries/:library', function(req, res){
 
   res.setHeader("Expires", new Date(Date.now() + 360 * 60 * 1000).toUTCString());
   results = _.filter(packages, function(package) {
-  console.log(req.params.libary,package.name);
-    if(package.name===req.params.libary){
+    if(package.name===req.params.library){
       return package
     } else {
       return false;
