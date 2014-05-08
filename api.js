@@ -53,8 +53,8 @@ app.get('/libraries/:library', function(req, res){
   var results;
 
   res.setHeader("Expires", new Date(Date.now() + 360 * 60 * 1000).toUTCString());
-  console.log(req.query);
   results = _.filter(packages, function(package) {
+  console.log(req.params.libary,package.name);
     if(package.name===req.params.libary){
       return package
     } else {
