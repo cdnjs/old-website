@@ -3,6 +3,7 @@ var express = require('express');
 var _ = require('lodash');
 var app = express();
 
+var compress = require('compression');
 var bodyParser = require('body-parser');
 var allowCrossDomain = function(req, res, next) {
     res.header('Access-Control-Allow-Credentials', true);
@@ -13,7 +14,7 @@ var allowCrossDomain = function(req, res, next) {
 }
 app.use(bodyParser());
 app.use(allowCrossDomain);
-
+app.use(compress())
 
 var packages = JSON.parse(fs.readFileSync('packages.json', 'utf8')).packages;
 
