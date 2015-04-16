@@ -8,7 +8,7 @@
     "url": "git://github.com/cdnjs/cdnjs.git"
   },
   "engines": {
-    "node": "~0.6.11"
+    "node": "~0.11.0"
   },
   "dependencies": {
     "body-parser": "^1.0.2",
